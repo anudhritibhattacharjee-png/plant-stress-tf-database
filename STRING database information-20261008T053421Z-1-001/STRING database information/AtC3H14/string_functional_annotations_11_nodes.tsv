@@ -1,0 +1,667 @@
+#node	identifier	category	term ID	term description
+F14M4.8	3702.F4IK69	GO Process	GO:0001101	Response to acid chemical
+F14M4.8	3702.F4IK69	GO Process	GO:0006412	Translation
+F14M4.8	3702.F4IK69	GO Process	GO:0006414	Translational elongation
+F14M4.8	3702.F4IK69	GO Process	GO:0006950	Response to stress
+F14M4.8	3702.F4IK69	GO Process	GO:0006996	Organelle organization
+F14M4.8	3702.F4IK69	GO Process	GO:0008152	Metabolic process
+F14M4.8	3702.F4IK69	GO Process	GO:0009058	Biosynthetic process
+F14M4.8	3702.F4IK69	GO Process	GO:0009059	Macromolecule biosynthetic process
+F14M4.8	3702.F4IK69	GO Process	GO:0009413	Response to flooding
+F14M4.8	3702.F4IK69	GO Process	GO:0009415	Response to water
+F14M4.8	3702.F4IK69	GO Process	GO:0009628	Response to abiotic stimulus
+F14M4.8	3702.F4IK69	GO Process	GO:0009987	Cellular process
+F14M4.8	3702.F4IK69	GO Process	GO:0010467	Gene expression
+F14M4.8	3702.F4IK69	GO Process	GO:0016043	Cellular component organization
+F14M4.8	3702.F4IK69	GO Process	GO:0016567	Protein ubiquitination
+F14M4.8	3702.F4IK69	GO Process	GO:0019538	Protein metabolic process
+F14M4.8	3702.F4IK69	GO Process	GO:0022411	Cellular component disassembly
+F14M4.8	3702.F4IK69	GO Process	GO:0032446	Protein modification by small protein conjugation
+F14M4.8	3702.F4IK69	GO Process	GO:0032790	Ribosome disassembly
+F14M4.8	3702.F4IK69	GO Process	GO:0036211	Protein modification process
+F14M4.8	3702.F4IK69	GO Process	GO:0042221	Response to chemical
+F14M4.8	3702.F4IK69	GO Process	GO:0043170	Macromolecule metabolic process
+F14M4.8	3702.F4IK69	GO Process	GO:0043412	Macromolecule modification
+F14M4.8	3702.F4IK69	GO Process	GO:0043687	Post-translational protein modification
+F14M4.8	3702.F4IK69	GO Process	GO:0044238	Primary metabolic process
+F14M4.8	3702.F4IK69	GO Process	GO:0050896	Response to stimulus
+F14M4.8	3702.F4IK69	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+F14M4.8	3702.F4IK69	GO Process	GO:0071840	Cellular component organization or biogenesis
+F14M4.8	3702.F4IK69	GO Process	GO:0072344	Rescue of stalled ribosome
+F14M4.8	3702.F4IK69	GO Process	GO:1901700	Response to oxygen-containing compound
+F14M4.8	3702.F4IK69	GO Process	GO:1903008	Organelle disassembly
+F14M4.8	3702.F4IK69	GO Function	GO:0003824	Catalytic activity
+F14M4.8	3702.F4IK69	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+F14M4.8	3702.F4IK69	GO Function	GO:0005488	Binding
+F14M4.8	3702.F4IK69	GO Function	GO:0005515	Protein binding
+F14M4.8	3702.F4IK69	GO Function	GO:0008270	Zinc ion binding
+F14M4.8	3702.F4IK69	GO Function	GO:0016740	Transferase activity
+F14M4.8	3702.F4IK69	GO Function	GO:0016746	Acyltransferase activity
+F14M4.8	3702.F4IK69	GO Function	GO:0016755	Aminoacyltransferase activity
+F14M4.8	3702.F4IK69	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+F14M4.8	3702.F4IK69	GO Function	GO:0036094	Small molecule binding
+F14M4.8	3702.F4IK69	GO Function	GO:0043021	Ribonucleoprotein complex binding
+F14M4.8	3702.F4IK69	GO Function	GO:0043022	Ribosome binding
+F14M4.8	3702.F4IK69	GO Function	GO:0043167	Ion binding
+F14M4.8	3702.F4IK69	GO Function	GO:0043169	Cation binding
+F14M4.8	3702.F4IK69	GO Function	GO:0044877	Protein-containing complex binding
+F14M4.8	3702.F4IK69	GO Function	GO:0046872	Metal ion binding
+F14M4.8	3702.F4IK69	GO Function	GO:0046914	Transition metal ion binding
+F14M4.8	3702.F4IK69	GO Function	GO:0061630	Ubiquitin protein ligase activity
+F14M4.8	3702.F4IK69	GO Function	GO:0061659	Ubiquitin-like protein ligase activity
+F14M4.8	3702.F4IK69	GO Function	GO:0140096	Catalytic activity, acting on a protein
+F14M4.8	3702.F4IK69	GO Component	GO:0005622	Intracellular anatomical structure
+F14M4.8	3702.F4IK69	GO Component	GO:0005634	Nucleus
+F14M4.8	3702.F4IK69	GO Component	GO:0005737	Cytoplasm
+F14M4.8	3702.F4IK69	GO Component	GO:0043226	Organelle
+F14M4.8	3702.F4IK69	GO Component	GO:0043227	Membrane-bounded organelle
+F14M4.8	3702.F4IK69	GO Component	GO:0043229	Intracellular organelle
+F14M4.8	3702.F4IK69	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+F14M4.8	3702.F4IK69	GO Component	GO:0110165	Cellular anatomical structure
+F14M4.8	3702.F4IK69	STRING clusters	CL:25557	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+F14M4.8	3702.F4IK69	STRING clusters	CL:25866	Mixed, incl. Serine/Arginine-Rich Protein Kinases, and Rescue of stalled ribosome
+F14M4.8	3702.F4IK69	STRING clusters	CL:25903	ZNF598/HEL2, PAH domain, and Domain of unknown function (DUF4535)
+F14M4.8	3702.F4IK69	Reactome	MAP-392499	Metabolism of proteins
+F14M4.8	3702.F4IK69	Reactome	MAP-72766	Translation
+F14M4.8	3702.F4IK69	Reactome	MAP-9948299	Ribosome-associated quality control
+F14M4.8	3702.F4IK69	Reactome	MAP-9954716	ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA
+F14M4.8	3702.F4IK69	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+F14M4.8	3702.F4IK69	COMPARTMENTS	GOCC:0005634	Nucleus
+F14M4.8	3702.F4IK69	COMPARTMENTS	GOCC:0043226	Organelle
+F14M4.8	3702.F4IK69	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+F14M4.8	3702.F4IK69	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+F14M4.8	3702.F4IK69	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+F14M4.8	3702.F4IK69	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F14M4.8	3702.F4IK69	UniProt Keywords	KW-0479	Metal-binding
+F14M4.8	3702.F4IK69	UniProt Keywords	KW-0862	Zinc
+F14M4.8	3702.F4IK69	UniProt Keywords	KW-0863	Zinc-finger
+F14M4.8	3702.F4IK69	InterPro	IPR001841	Zinc finger, RING-type
+F14M4.8	3702.F4IK69	InterPro	IPR013087	Zinc finger C2H2-type
+F14M4.8	3702.F4IK69	InterPro	IPR041888	ZN598/HEL22, RING finger
+F14M4.8	3702.F4IK69	InterPro	IPR044288	ZNF598/HEL2
+F14M4.8	3702.F4IK69	InterPro	IPR056437	ZNF598/HEL2, C2H2 zinc finger
+F14M4.8	3702.F4IK69	InterPro	IPR057634	ZNF598/HEL2, PAH domain
+F14M4.8	3702.F4IK69	SMART	SM00184	Ring finger
+F14M4.8	3702.F4IK69	SMART	SM00355	Zinc finger
+F4N21.6	3702.Q9C9N3	GO Process	GO:0001558	Regulation of cell growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0006355	Regulation of DNA-templated transcription
+F4N21.6	3702.Q9C9N3	GO Process	GO:0009889	Regulation of biosynthetic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0009891	Positive regulation of biosynthetic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0009893	Positive regulation of metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0010468	Regulation of gene expression
+F4N21.6	3702.Q9C9N3	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0010721	Negative regulation of cell development
+F4N21.6	3702.Q9C9N3	GO Process	GO:0010771	Negative regulation of cell morphogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0019222	Regulation of metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:0022604	Regulation of cell morphogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:0030308	Negative regulation of cell growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0040008	Regulation of growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0044087	Regulation of cellular component biogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:0045595	Regulation of cell differentiation
+F4N21.6	3702.Q9C9N3	GO Process	GO:0045596	Negative regulation of cell differentiation
+F4N21.6	3702.Q9C9N3	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+F4N21.6	3702.Q9C9N3	GO Process	GO:0045926	Negative regulation of growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0048518	Positive regulation of biological process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0048519	Negative regulation of biological process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0048522	Positive regulation of cellular process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0048523	Negative regulation of cellular process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0048638	Regulation of developmental growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0048640	Negative regulation of developmental growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0050789	Regulation of biological process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0050793	Regulation of developmental process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0050794	Regulation of cellular process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0051093	Negative regulation of developmental process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0051128	Regulation of cellular component organization
+F4N21.6	3702.Q9C9N3	GO Process	GO:0051252	Regulation of RNA metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0051510	Regulation of unidimensional cell growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0051511	Negative regulation of unidimensional cell growth
+F4N21.6	3702.Q9C9N3	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:0060284	Regulation of cell development
+F4N21.6	3702.Q9C9N3	GO Process	GO:0065007	Biological regulation
+F4N21.6	3702.Q9C9N3	GO Process	GO:0080090	Regulation of primary metabolic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:1901347	Negative regulation of secondary cell wall biogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+F4N21.6	3702.Q9C9N3	GO Process	GO:1903338	Regulation of cell wall organization or biogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:1903339	Negative regulation of cell wall organization or biogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:2000652	Regulation of secondary cell wall biogenesis
+F4N21.6	3702.Q9C9N3	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+F4N21.6	3702.Q9C9N3	GO Function	GO:0003676	Nucleic acid binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0003677	DNA binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0003723	RNA binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0003729	mRNA binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0005488	Binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0005515	Protein binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0008270	Zinc ion binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0036094	Small molecule binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0043167	Ion binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0043169	Cation binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0046872	Metal ion binding
+F4N21.6	3702.Q9C9N3	GO Function	GO:0046914	Transition metal ion binding
+F4N21.6	3702.Q9C9N3	STRING clusters	CL:25557	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+F4N21.6	3702.Q9C9N3	STRING clusters	CL:25558	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+F4N21.6	3702.Q9C9N3	STRING clusters	CL:25764	Zinc finger, CCCH-type, and SUZ domain
+F4N21.6	3702.Q9C9N3	STRING clusters	CL:25766	Zinc finger, CCCH-type
+F4N21.6	3702.Q9C9N3	STRING clusters	CL:25769	Zinc finger, CCCH-type
+F4N21.6	3702.Q9C9N3	Reactome	MAP-450531	Regulation of mRNA stability by proteins that bind AU-rich elements
+F4N21.6	3702.Q9C9N3	Reactome	MAP-8953854	Metabolism of RNA
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0005634	Nucleus
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0033061	DNA recombinase mediator complex
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0033065	Rad51C-XRCC3 complex
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0043226	Organelle
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+F4N21.6	3702.Q9C9N3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0175	Coiled coil
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0238	DNA-binding
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0479	Metal-binding
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0677	Repeat
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0804	Transcription
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0805	Transcription regulation
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0862	Zinc
+F4N21.6	3702.Q9C9N3	UniProt Keywords	KW-0863	Zinc-finger
+F4N21.6	3702.Q9C9N3	InterPro	IPR000571	Zinc finger, CCCH-type
+F4N21.6	3702.Q9C9N3	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+F4N21.6	3702.Q9C9N3	InterPro	IPR045877	RNA-binding protein ZFP36-like
+F4N21.6	3702.Q9C9N3	SMART	SM00356	Zinc finger
+F5G3.6	3702.Q9SJ41	GO Function	GO:0003676	Nucleic acid binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0003677	DNA binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0003723	RNA binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0003824	Catalytic activity
+F5G3.6	3702.Q9SJ41	GO Function	GO:0004518	Nuclease activity
+F5G3.6	3702.Q9SJ41	GO Function	GO:0005488	Binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0008270	Zinc ion binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0016787	Hydrolase activity
+F5G3.6	3702.Q9SJ41	GO Function	GO:0036094	Small molecule binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0043167	Ion binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0043169	Cation binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0046872	Metal ion binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0046914	Transition metal ion binding
+F5G3.6	3702.Q9SJ41	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+F5G3.6	3702.Q9SJ41	GO Component	GO:0005622	Intracellular anatomical structure
+F5G3.6	3702.Q9SJ41	GO Component	GO:0005737	Cytoplasm
+F5G3.6	3702.Q9SJ41	GO Component	GO:0110165	Cellular anatomical structure
+F5G3.6	3702.Q9SJ41	Reactome	MAP-156827	L13a-mediated translational silencing of Ceruloplasmin expression
+F5G3.6	3702.Q9SJ41	Reactome	MAP-1799339	SRP-dependent cotranslational protein targeting to membrane
+F5G3.6	3702.Q9SJ41	Reactome	MAP-392499	Metabolism of proteins
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72613	Eukaryotic Translation Initiation
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72649	Translation initiation complex formation
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72689	Formation of a pool of free 40S subunits
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72695	Formation of the ternary complex, and subsequently, the 43S complex
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72702	Ribosomal scanning and start codon recognition
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72706	GTP hydrolysis and joining of the 60S ribosomal subunit
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72737	Cap-dependent Translation Initiation
+F5G3.6	3702.Q9SJ41	Reactome	MAP-72766	Translation
+F5G3.6	3702.Q9SJ41	Reactome	MAP-8953854	Metabolism of RNA
+F5G3.6	3702.Q9SJ41	Reactome	MAP-927802	Nonsense-Mediated Decay (NMD)
+F5G3.6	3702.Q9SJ41	Reactome	MAP-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+F5G3.6	3702.Q9SJ41	Reactome	MAP-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+F5G3.6	3702.Q9SJ41	Reactome	MAP-9948299	Ribosome-associated quality control
+F5G3.6	3702.Q9SJ41	Reactome	MAP-9954714	PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA
+F5G3.6	3702.Q9SJ41	Reactome	MAP-9954716	ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA
+F5G3.6	3702.Q9SJ41	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+F5G3.6	3702.Q9SJ41	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+F5G3.6	3702.Q9SJ41	COMPARTMENTS	GOCC:0043226	Organelle
+F5G3.6	3702.Q9SJ41	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+F5G3.6	3702.Q9SJ41	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F5G3.6	3702.Q9SJ41	UniProt Keywords	KW-0238	DNA-binding
+F5G3.6	3702.Q9SJ41	UniProt Keywords	KW-0378	Hydrolase
+F5G3.6	3702.Q9SJ41	UniProt Keywords	KW-0479	Metal-binding
+F5G3.6	3702.Q9SJ41	UniProt Keywords	KW-0540	Nuclease
+F5G3.6	3702.Q9SJ41	UniProt Keywords	KW-0694	RNA-binding
+F5G3.6	3702.Q9SJ41	UniProt Keywords	KW-0862	Zinc
+F5G3.6	3702.Q9SJ41	UniProt Keywords	KW-0863	Zinc-finger
+F5G3.6	3702.Q9SJ41	Pfam	PF12872	OST-HTH/LOTUS domain
+F5G3.6	3702.Q9SJ41	InterPro	IPR000504	RNA recognition motif domain
+F5G3.6	3702.Q9SJ41	InterPro	IPR000571	Zinc finger, CCCH-type
+F5G3.6	3702.Q9SJ41	InterPro	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+F5G3.6	3702.Q9SJ41	InterPro	IPR025605	OST-HTH/LOTUS domain
+F5G3.6	3702.Q9SJ41	InterPro	IPR034365	AtC3H46-like, RNA recognition motif
+F5G3.6	3702.Q9SJ41	InterPro	IPR035979	RNA-binding domain superfamily
+F5G3.6	3702.Q9SJ41	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+F5G3.6	3702.Q9SJ41	InterPro	IPR056276	AtC3H46-like, PABC-like domain
+F5G3.6	3702.Q9SJ41	SMART	SM00360	RNA recognition motif
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0006355	Regulation of DNA-templated transcription
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0009889	Regulation of biosynthetic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0009891	Positive regulation of biosynthetic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0009893	Positive regulation of metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0010468	Regulation of gene expression
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0019222	Regulation of metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0048518	Positive regulation of biological process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0048522	Positive regulation of cellular process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0050789	Regulation of biological process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0050794	Regulation of cellular process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0051252	Regulation of RNA metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0065007	Biological regulation
+F5O4.7	3702.Q9ZUM0	GO Process	GO:0080090	Regulation of primary metabolic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+F5O4.7	3702.Q9ZUM0	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0003676	Nucleic acid binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0003677	DNA binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0003723	RNA binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0003729	mRNA binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0005488	Binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0005515	Protein binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0008270	Zinc ion binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0036094	Small molecule binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0043167	Ion binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0043169	Cation binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0046872	Metal ion binding
+F5O4.7	3702.Q9ZUM0	GO Function	GO:0046914	Transition metal ion binding
+F5O4.7	3702.Q9ZUM0	GO Component	GO:0005622	Intracellular anatomical structure
+F5O4.7	3702.Q9ZUM0	GO Component	GO:0005634	Nucleus
+F5O4.7	3702.Q9ZUM0	GO Component	GO:0043226	Organelle
+F5O4.7	3702.Q9ZUM0	GO Component	GO:0043227	Membrane-bounded organelle
+F5O4.7	3702.Q9ZUM0	GO Component	GO:0043229	Intracellular organelle
+F5O4.7	3702.Q9ZUM0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+F5O4.7	3702.Q9ZUM0	GO Component	GO:0110165	Cellular anatomical structure
+F5O4.7	3702.Q9ZUM0	STRING clusters	CL:25557	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+F5O4.7	3702.Q9ZUM0	STRING clusters	CL:25558	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+F5O4.7	3702.Q9ZUM0	STRING clusters	CL:25764	Zinc finger, CCCH-type, and SUZ domain
+F5O4.7	3702.Q9ZUM0	STRING clusters	CL:25766	Zinc finger, CCCH-type
+F5O4.7	3702.Q9ZUM0	STRING clusters	CL:25769	Zinc finger, CCCH-type
+F5O4.7	3702.Q9ZUM0	STRING clusters	CL:25804	Mixed, incl. WD repeat-containing protein 86-like, and Germination
+F5O4.7	3702.Q9ZUM0	Reactome	MAP-72203	Processing of Capped Intron-Containing Pre-mRNA
+F5O4.7	3702.Q9ZUM0	Reactome	MAP-73856	RNA Polymerase II Transcription Termination
+F5O4.7	3702.Q9ZUM0	Reactome	MAP-73857	RNA Polymerase II Transcription
+F5O4.7	3702.Q9ZUM0	Reactome	MAP-74160	Gene expression (Transcription)
+F5O4.7	3702.Q9ZUM0	Reactome	MAP-8953854	Metabolism of RNA
+F5O4.7	3702.Q9ZUM0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+F5O4.7	3702.Q9ZUM0	COMPARTMENTS	GOCC:0005634	Nucleus
+F5O4.7	3702.Q9ZUM0	COMPARTMENTS	GOCC:0043226	Organelle
+F5O4.7	3702.Q9ZUM0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+F5O4.7	3702.Q9ZUM0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+F5O4.7	3702.Q9ZUM0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+F5O4.7	3702.Q9ZUM0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F5O4.7	3702.Q9ZUM0	UniProt Keywords	KW-0238	DNA-binding
+F5O4.7	3702.Q9ZUM0	UniProt Keywords	KW-0479	Metal-binding
+F5O4.7	3702.Q9ZUM0	UniProt Keywords	KW-0677	Repeat
+F5O4.7	3702.Q9ZUM0	UniProt Keywords	KW-0862	Zinc
+F5O4.7	3702.Q9ZUM0	UniProt Keywords	KW-0863	Zinc-finger
+F5O4.7	3702.Q9ZUM0	InterPro	IPR000571	Zinc finger, CCCH-type
+F5O4.7	3702.Q9ZUM0	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+F5O4.7	3702.Q9ZUM0	InterPro	IPR041686	Zinc-finger CCCH domain
+F5O4.7	3702.Q9ZUM0	SMART	SM00356	Zinc finger
+F8J2_150	3702.Q9LF94	GO Function	GO:0003676	Nucleic acid binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0003677	DNA binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0003723	RNA binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0005488	Binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0008270	Zinc ion binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0036094	Small molecule binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0043167	Ion binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0043169	Cation binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0046872	Metal ion binding
+F8J2_150	3702.Q9LF94	GO Function	GO:0046914	Transition metal ion binding
+F8J2_150	3702.Q9LF94	Reactome	MAP-156827	L13a-mediated translational silencing of Ceruloplasmin expression
+F8J2_150	3702.Q9LF94	Reactome	MAP-1799339	SRP-dependent cotranslational protein targeting to membrane
+F8J2_150	3702.Q9LF94	Reactome	MAP-392499	Metabolism of proteins
+F8J2_150	3702.Q9LF94	Reactome	MAP-72613	Eukaryotic Translation Initiation
+F8J2_150	3702.Q9LF94	Reactome	MAP-72649	Translation initiation complex formation
+F8J2_150	3702.Q9LF94	Reactome	MAP-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S
+F8J2_150	3702.Q9LF94	Reactome	MAP-72689	Formation of a pool of free 40S subunits
+F8J2_150	3702.Q9LF94	Reactome	MAP-72695	Formation of the ternary complex, and subsequently, the 43S complex
+F8J2_150	3702.Q9LF94	Reactome	MAP-72702	Ribosomal scanning and start codon recognition
+F8J2_150	3702.Q9LF94	Reactome	MAP-72706	GTP hydrolysis and joining of the 60S ribosomal subunit
+F8J2_150	3702.Q9LF94	Reactome	MAP-72737	Cap-dependent Translation Initiation
+F8J2_150	3702.Q9LF94	Reactome	MAP-72766	Translation
+F8J2_150	3702.Q9LF94	Reactome	MAP-8953854	Metabolism of RNA
+F8J2_150	3702.Q9LF94	Reactome	MAP-927802	Nonsense-Mediated Decay (NMD)
+F8J2_150	3702.Q9LF94	Reactome	MAP-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+F8J2_150	3702.Q9LF94	Reactome	MAP-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+F8J2_150	3702.Q9LF94	Reactome	MAP-9948299	Ribosome-associated quality control
+F8J2_150	3702.Q9LF94	Reactome	MAP-9954714	PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA
+F8J2_150	3702.Q9LF94	Reactome	MAP-9954716	ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA
+F8J2_150	3702.Q9LF94	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+F8J2_150	3702.Q9LF94	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+F8J2_150	3702.Q9LF94	COMPARTMENTS	GOCC:0043226	Organelle
+F8J2_150	3702.Q9LF94	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+F8J2_150	3702.Q9LF94	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F8J2_150	3702.Q9LF94	UniProt Keywords	KW-0479	Metal-binding
+F8J2_150	3702.Q9LF94	UniProt Keywords	KW-0694	RNA-binding
+F8J2_150	3702.Q9LF94	UniProt Keywords	KW-0862	Zinc
+F8J2_150	3702.Q9LF94	UniProt Keywords	KW-0863	Zinc-finger
+F8J2_150	3702.Q9LF94	Pfam	PF12872	OST-HTH/LOTUS domain
+F8J2_150	3702.Q9LF94	InterPro	IPR000504	RNA recognition motif domain
+F8J2_150	3702.Q9LF94	InterPro	IPR000571	Zinc finger, CCCH-type
+F8J2_150	3702.Q9LF94	InterPro	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+F8J2_150	3702.Q9LF94	InterPro	IPR025605	OST-HTH/LOTUS domain
+F8J2_150	3702.Q9LF94	InterPro	IPR035979	RNA-binding domain superfamily
+F8J2_150	3702.Q9LF94	InterPro	IPR056276	AtC3H46-like, PABC-like domain
+F8J2_150	3702.Q9LF94	SMART	SM00360	RNA recognition motif
+MYB46	3702.Q9LXV2	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MYB46	3702.Q9LXV2	GO Process	GO:0006950	Response to stress
+MYB46	3702.Q9LXV2	GO Process	GO:0006952	Defense response
+MYB46	3702.Q9LXV2	GO Process	GO:0009605	Response to external stimulus
+MYB46	3702.Q9LXV2	GO Process	GO:0009607	Response to biotic stimulus
+MYB46	3702.Q9LXV2	GO Process	GO:0009620	Response to fungus
+MYB46	3702.Q9LXV2	GO Process	GO:0009832	Plant-type cell wall biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0009834	Plant-type secondary cell wall biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0009889	Regulation of biosynthetic process
+MYB46	3702.Q9LXV2	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MYB46	3702.Q9LXV2	GO Process	GO:0009893	Positive regulation of metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0009987	Cellular process
+MYB46	3702.Q9LXV2	GO Process	GO:0010468	Regulation of gene expression
+MYB46	3702.Q9LXV2	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MYB46	3702.Q9LXV2	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MYB46	3702.Q9LXV2	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0019222	Regulation of metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0042546	Cell wall biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0043207	Response to external biotic stimulus
+MYB46	3702.Q9LXV2	GO Process	GO:0044085	Cellular component biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0044087	Regulation of cellular component biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0044089	Positive regulation of cellular component biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+MYB46	3702.Q9LXV2	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MYB46	3702.Q9LXV2	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0048518	Positive regulation of biological process
+MYB46	3702.Q9LXV2	GO Process	GO:0048522	Positive regulation of cellular process
+MYB46	3702.Q9LXV2	GO Process	GO:0050789	Regulation of biological process
+MYB46	3702.Q9LXV2	GO Process	GO:0050794	Regulation of cellular process
+MYB46	3702.Q9LXV2	GO Process	GO:0050832	Defense response to fungus
+MYB46	3702.Q9LXV2	GO Process	GO:0050896	Response to stimulus
+MYB46	3702.Q9LXV2	GO Process	GO:0051252	Regulation of RNA metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0051707	Response to other organism
+MYB46	3702.Q9LXV2	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:0065007	Biological regulation
+MYB46	3702.Q9LXV2	GO Process	GO:0071554	Cell wall organization or biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0071669	Plant-type cell wall organization or biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0071840	Cellular component organization or biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:0080090	Regulation of primary metabolic process
+MYB46	3702.Q9LXV2	GO Process	GO:1901348	Positive regulation of secondary cell wall biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MYB46	3702.Q9LXV2	GO Process	GO:1903338	Regulation of cell wall organization or biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:1903340	Positive regulation of cell wall organization or biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:2000652	Regulation of secondary cell wall biogenesis
+MYB46	3702.Q9LXV2	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MYB46	3702.Q9LXV2	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MYB46	3702.Q9LXV2	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MYB46	3702.Q9LXV2	GO Function	GO:0003676	Nucleic acid binding
+MYB46	3702.Q9LXV2	GO Function	GO:0003677	DNA binding
+MYB46	3702.Q9LXV2	GO Function	GO:0003690	Double-stranded DNA binding
+MYB46	3702.Q9LXV2	GO Function	GO:0003700	DNA-binding transcription factor activity
+MYB46	3702.Q9LXV2	GO Function	GO:0005488	Binding
+MYB46	3702.Q9LXV2	GO Function	GO:0043565	Sequence-specific DNA binding
+MYB46	3702.Q9LXV2	GO Function	GO:0140110	Transcription regulator activity
+MYB46	3702.Q9LXV2	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MYB46	3702.Q9LXV2	GO Component	GO:0005622	Intracellular anatomical structure
+MYB46	3702.Q9LXV2	GO Component	GO:0005634	Nucleus
+MYB46	3702.Q9LXV2	GO Component	GO:0043226	Organelle
+MYB46	3702.Q9LXV2	GO Component	GO:0043227	Membrane-bounded organelle
+MYB46	3702.Q9LXV2	GO Component	GO:0043229	Intracellular organelle
+MYB46	3702.Q9LXV2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MYB46	3702.Q9LXV2	GO Component	GO:0110165	Cellular anatomical structure
+MYB46	3702.Q9LXV2	STRING clusters	CL:28623	Mixed, incl. Xylan biosynthetic process, and Regulation of secondary cell wall biogenesis
+MYB46	3702.Q9LXV2	STRING clusters	CL:28624	Xylan biosynthetic process, and Regulation of secondary cell wall biogenesis
+MYB46	3702.Q9LXV2	STRING clusters	CL:28691	Regulation of secondary cell wall biogenesis, and Fruit dehiscence
+MYB46	3702.Q9LXV2	STRING clusters	CL:28695	Mixed, incl. Regulation of secondary cell wall biogenesis, and Fruit dehiscence
+MYB46	3702.Q9LXV2	STRING clusters	CL:28697	Regulation of secondary cell wall biogenesis, and Protoxylem development
+MYB46	3702.Q9LXV2	STRING clusters	CL:28699	Mixed, incl. Plant secondary wall-associated transcription factors, and Xylem vessel member cell differentiation
+MYB46	3702.Q9LXV2	STRING clusters	CL:28701	Protoxylem development, and Plant secondary wall-associated transcription factors
+MYB46	3702.Q9LXV2	Reactome	MAP-73857	RNA Polymerase II Transcription
+MYB46	3702.Q9LXV2	Reactome	MAP-74160	Gene expression (Transcription)
+MYB46	3702.Q9LXV2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MYB46	3702.Q9LXV2	COMPARTMENTS	GOCC:0005634	Nucleus
+MYB46	3702.Q9LXV2	COMPARTMENTS	GOCC:0043226	Organelle
+MYB46	3702.Q9LXV2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MYB46	3702.Q9LXV2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MYB46	3702.Q9LXV2	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MYB46	3702.Q9LXV2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MYB46	3702.Q9LXV2	UniProt Keywords	KW-0010	Activator
+MYB46	3702.Q9LXV2	UniProt Keywords	KW-0238	DNA-binding
+MYB46	3702.Q9LXV2	UniProt Keywords	KW-0539	Nucleus
+MYB46	3702.Q9LXV2	UniProt Keywords	KW-0677	Repeat
+MYB46	3702.Q9LXV2	UniProt Keywords	KW-0804	Transcription
+MYB46	3702.Q9LXV2	UniProt Keywords	KW-0805	Transcription regulation
+MYB46	3702.Q9LXV2	InterPro	IPR001005	SANT/Myb domain
+MYB46	3702.Q9LXV2	InterPro	IPR009057	Homedomain-like superfamily
+MYB46	3702.Q9LXV2	InterPro	IPR017930	Myb domain
+MYB46	3702.Q9LXV2	InterPro	IPR051953	Plant secondary wall-associated transcription factors
+MYB46	3702.Q9LXV2	SMART	SM00717	SANT  SWI3, ADA2, N-CoR and TFIIIB DNA-binding domains
+Q8S8K5_ARATH	3702.Q8S8K5	STRING clusters	CL:25557	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+Q8S8K5_ARATH	3702.Q8S8K5	STRING clusters	CL:25866	Mixed, incl. Serine/Arginine-Rich Protein Kinases, and Rescue of stalled ribosome
+Q8S8K5_ARATH	3702.Q8S8K5	STRING clusters	CL:25903	ZNF598/HEL2, PAH domain, and Domain of unknown function (DUF4535)
+Q8S8K5_ARATH	3702.Q8S8K5	UniProt Keywords	KW-0732	Signal
+Q8S8K5_ARATH	3702.Q8S8K5	Pfam	PF15054	Domain of unknown function (DUF4535)
+Q8S8K5_ARATH	3702.Q8S8K5	InterPro	IPR027854	Short transmembrane mitochondrial protein 1
+TZF5	3702.Q9FKW2	GO Process	GO:0006355	Regulation of DNA-templated transcription
+TZF5	3702.Q9FKW2	GO Process	GO:0009889	Regulation of biosynthetic process
+TZF5	3702.Q9FKW2	GO Process	GO:0010468	Regulation of gene expression
+TZF5	3702.Q9FKW2	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+TZF5	3702.Q9FKW2	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+TZF5	3702.Q9FKW2	GO Process	GO:0019222	Regulation of metabolic process
+TZF5	3702.Q9FKW2	GO Process	GO:0050789	Regulation of biological process
+TZF5	3702.Q9FKW2	GO Process	GO:0050794	Regulation of cellular process
+TZF5	3702.Q9FKW2	GO Process	GO:0051252	Regulation of RNA metabolic process
+TZF5	3702.Q9FKW2	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+TZF5	3702.Q9FKW2	GO Process	GO:0065007	Biological regulation
+TZF5	3702.Q9FKW2	GO Process	GO:0080090	Regulation of primary metabolic process
+TZF5	3702.Q9FKW2	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+TZF5	3702.Q9FKW2	GO Function	GO:0003676	Nucleic acid binding
+TZF5	3702.Q9FKW2	GO Function	GO:0003677	DNA binding
+TZF5	3702.Q9FKW2	GO Function	GO:0003700	DNA-binding transcription factor activity
+TZF5	3702.Q9FKW2	GO Function	GO:0005488	Binding
+TZF5	3702.Q9FKW2	GO Function	GO:0005515	Protein binding
+TZF5	3702.Q9FKW2	GO Function	GO:0008270	Zinc ion binding
+TZF5	3702.Q9FKW2	GO Function	GO:0036094	Small molecule binding
+TZF5	3702.Q9FKW2	GO Function	GO:0043167	Ion binding
+TZF5	3702.Q9FKW2	GO Function	GO:0043169	Cation binding
+TZF5	3702.Q9FKW2	GO Function	GO:0046872	Metal ion binding
+TZF5	3702.Q9FKW2	GO Function	GO:0046914	Transition metal ion binding
+TZF5	3702.Q9FKW2	GO Function	GO:0140110	Transcription regulator activity
+TZF5	3702.Q9FKW2	GO Component	GO:0000932	P-body
+TZF5	3702.Q9FKW2	GO Component	GO:0005622	Intracellular anatomical structure
+TZF5	3702.Q9FKW2	GO Component	GO:0005737	Cytoplasm
+TZF5	3702.Q9FKW2	GO Component	GO:0010494	Cytoplasmic stress granule
+TZF5	3702.Q9FKW2	GO Component	GO:0035770	Ribonucleoprotein granule
+TZF5	3702.Q9FKW2	GO Component	GO:0036464	Cytoplasmic ribonucleoprotein granule
+TZF5	3702.Q9FKW2	GO Component	GO:0043226	Organelle
+TZF5	3702.Q9FKW2	GO Component	GO:0043228	Membraneless organelle
+TZF5	3702.Q9FKW2	GO Component	GO:0043229	Intracellular organelle
+TZF5	3702.Q9FKW2	GO Component	GO:0043232	Intracellular membraneless organelle
+TZF5	3702.Q9FKW2	GO Component	GO:0099080	Supramolecular complex
+TZF5	3702.Q9FKW2	GO Component	GO:0110165	Cellular anatomical structure
+TZF5	3702.Q9FKW2	STRING clusters	CL:28798	Mixed, incl. Transcription factors Myb-like, and Basic helix-loop-helix (bHLH) transcription factors ALC-like, plant
+TZF5	3702.Q9FKW2	STRING clusters	CL:28799	Mixed, incl. Transcription factors Myb-like, and Plant secondary wall-associated transcription factors
+TZF5	3702.Q9FKW2	STRING clusters	CL:28832	Mixed, incl. FCS-Like Zinc finger 8/MARD1, and Phloem protein 2-like/Lectin
+TZF5	3702.Q9FKW2	Reactome	MAP-1280218	Adaptive Immune System
+TZF5	3702.Q9FKW2	Reactome	MAP-168256	Immune System
+TZF5	3702.Q9FKW2	Reactome	MAP-983168	Antigen processing: Ubiquitination & Proteasome degradation
+TZF5	3702.Q9FKW2	Reactome	MAP-983169	Class I MHC mediated antigen processing & presentation
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0000932	P-body
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0005737	Cytoplasm
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0010494	Cytoplasmic stress granule
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0035770	Ribonucleoprotein granule
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0036464	Cytoplasmic ribonucleoprotein granule
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0043226	Organelle
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0099080	Supramolecular complex
+TZF5	3702.Q9FKW2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+TZF5	3702.Q9FKW2	UniProt Keywords	KW-0238	DNA-binding
+TZF5	3702.Q9FKW2	UniProt Keywords	KW-0479	Metal-binding
+TZF5	3702.Q9FKW2	UniProt Keywords	KW-0677	Repeat
+TZF5	3702.Q9FKW2	UniProt Keywords	KW-0862	Zinc
+TZF5	3702.Q9FKW2	UniProt Keywords	KW-0863	Zinc-finger
+TZF5	3702.Q9FKW2	UniProt Keywords	KW-0963	Cytoplasm
+TZF5	3702.Q9FKW2	InterPro	IPR000571	Zinc finger, CCCH-type
+TZF5	3702.Q9FKW2	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+TZF5	3702.Q9FKW2	InterPro	IPR045234	RING finger protein Unkempt-like
+TZF5	3702.Q9FKW2	InterPro	IPR057444	AtC3H23-like, CCCH zinc finger domain
+TZF5	3702.Q9FKW2	SMART	SM00356	Zinc finger
+TZF6	3702.O65036	GO Process	GO:0003006	Developmental process involved in reproduction
+TZF6	3702.O65036	GO Process	GO:0006355	Regulation of DNA-templated transcription
+TZF6	3702.O65036	GO Process	GO:0007275	Multicellular organism development
+TZF6	3702.O65036	GO Process	GO:0009790	Embryo development
+TZF6	3702.O65036	GO Process	GO:0009791	Post-embryonic development
+TZF6	3702.O65036	GO Process	GO:0009793	Embryo development ending in seed dormancy
+TZF6	3702.O65036	GO Process	GO:0009889	Regulation of biosynthetic process
+TZF6	3702.O65036	GO Process	GO:0009987	Cellular process
+TZF6	3702.O65036	GO Process	GO:0010154	Fruit development
+TZF6	3702.O65036	GO Process	GO:0010468	Regulation of gene expression
+TZF6	3702.O65036	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+TZF6	3702.O65036	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+TZF6	3702.O65036	GO Process	GO:0019222	Regulation of metabolic process
+TZF6	3702.O65036	GO Process	GO:0022414	Reproductive process
+TZF6	3702.O65036	GO Process	GO:0030154	Cell differentiation
+TZF6	3702.O65036	GO Process	GO:0032501	Multicellular organismal process
+TZF6	3702.O65036	GO Process	GO:0032502	Developmental process
+TZF6	3702.O65036	GO Process	GO:0048316	Seed development
+TZF6	3702.O65036	GO Process	GO:0048608	Reproductive structure development
+TZF6	3702.O65036	GO Process	GO:0048731	System development
+TZF6	3702.O65036	GO Process	GO:0048856	Anatomical structure development
+TZF6	3702.O65036	GO Process	GO:0048869	Cellular developmental process
+TZF6	3702.O65036	GO Process	GO:0050789	Regulation of biological process
+TZF6	3702.O65036	GO Process	GO:0050794	Regulation of cellular process
+TZF6	3702.O65036	GO Process	GO:0051252	Regulation of RNA metabolic process
+TZF6	3702.O65036	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+TZF6	3702.O65036	GO Process	GO:0061458	Reproductive system development
+TZF6	3702.O65036	GO Process	GO:0065007	Biological regulation
+TZF6	3702.O65036	GO Process	GO:0080090	Regulation of primary metabolic process
+TZF6	3702.O65036	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+TZF6	3702.O65036	GO Function	GO:0003676	Nucleic acid binding
+TZF6	3702.O65036	GO Function	GO:0003677	DNA binding
+TZF6	3702.O65036	GO Function	GO:0003700	DNA-binding transcription factor activity
+TZF6	3702.O65036	GO Function	GO:0005488	Binding
+TZF6	3702.O65036	GO Function	GO:0005515	Protein binding
+TZF6	3702.O65036	GO Function	GO:0008270	Zinc ion binding
+TZF6	3702.O65036	GO Function	GO:0036094	Small molecule binding
+TZF6	3702.O65036	GO Function	GO:0043167	Ion binding
+TZF6	3702.O65036	GO Function	GO:0043169	Cation binding
+TZF6	3702.O65036	GO Function	GO:0046872	Metal ion binding
+TZF6	3702.O65036	GO Function	GO:0046914	Transition metal ion binding
+TZF6	3702.O65036	GO Function	GO:0140110	Transcription regulator activity
+TZF6	3702.O65036	GO Component	GO:0005622	Intracellular anatomical structure
+TZF6	3702.O65036	GO Component	GO:0005634	Nucleus
+TZF6	3702.O65036	GO Component	GO:0043226	Organelle
+TZF6	3702.O65036	GO Component	GO:0043227	Membrane-bounded organelle
+TZF6	3702.O65036	GO Component	GO:0043229	Intracellular organelle
+TZF6	3702.O65036	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TZF6	3702.O65036	GO Component	GO:0110165	Cellular anatomical structure
+TZF6	3702.O65036	STRING clusters	CL:25557	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+TZF6	3702.O65036	STRING clusters	CL:25558	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+TZF6	3702.O65036	STRING clusters	CL:25764	Zinc finger, CCCH-type, and SUZ domain
+TZF6	3702.O65036	STRING clusters	CL:25766	Zinc finger, CCCH-type
+TZF6	3702.O65036	STRING clusters	CL:25769	Zinc finger, CCCH-type
+TZF6	3702.O65036	Reactome	MAP-1280218	Adaptive Immune System
+TZF6	3702.O65036	Reactome	MAP-168256	Immune System
+TZF6	3702.O65036	Reactome	MAP-983168	Antigen processing: Ubiquitination & Proteasome degradation
+TZF6	3702.O65036	Reactome	MAP-983169	Class I MHC mediated antigen processing & presentation
+TZF6	3702.O65036	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+TZF6	3702.O65036	UniProt Keywords	KW-0221	Differentiation
+TZF6	3702.O65036	UniProt Keywords	KW-0238	DNA-binding
+TZF6	3702.O65036	UniProt Keywords	KW-0479	Metal-binding
+TZF6	3702.O65036	UniProt Keywords	KW-0539	Nucleus
+TZF6	3702.O65036	UniProt Keywords	KW-0804	Transcription
+TZF6	3702.O65036	UniProt Keywords	KW-0805	Transcription regulation
+TZF6	3702.O65036	UniProt Keywords	KW-0862	Zinc
+TZF6	3702.O65036	UniProt Keywords	KW-0863	Zinc-finger
+TZF6	3702.O65036	InterPro	IPR000571	Zinc finger, CCCH-type
+TZF6	3702.O65036	InterPro	IPR045234	RING finger protein Unkempt-like
+TZF6	3702.O65036	InterPro	IPR057444	AtC3H23-like, CCCH zinc finger domain
+TZF6	3702.O65036	SMART	SM00356	Zinc finger
+ZFWD3	3702.Q9FKR9	GO Function	GO:0003676	Nucleic acid binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0003677	DNA binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0005488	Binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0005515	Protein binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0008270	Zinc ion binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0036094	Small molecule binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0043167	Ion binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0043169	Cation binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0046872	Metal ion binding
+ZFWD3	3702.Q9FKR9	GO Function	GO:0046914	Transition metal ion binding
+ZFWD3	3702.Q9FKR9	GO Component	GO:0005622	Intracellular anatomical structure
+ZFWD3	3702.Q9FKR9	GO Component	GO:0005634	Nucleus
+ZFWD3	3702.Q9FKR9	GO Component	GO:0043226	Organelle
+ZFWD3	3702.Q9FKR9	GO Component	GO:0043227	Membrane-bounded organelle
+ZFWD3	3702.Q9FKR9	GO Component	GO:0043229	Intracellular organelle
+ZFWD3	3702.Q9FKR9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ZFWD3	3702.Q9FKR9	GO Component	GO:0110165	Cellular anatomical structure
+ZFWD3	3702.Q9FKR9	STRING clusters	CL:25557	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+ZFWD3	3702.Q9FKR9	STRING clusters	CL:25558	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+ZFWD3	3702.Q9FKR9	STRING clusters	CL:25764	Zinc finger, CCCH-type, and SUZ domain
+ZFWD3	3702.Q9FKR9	STRING clusters	CL:25766	Zinc finger, CCCH-type
+ZFWD3	3702.Q9FKR9	STRING clusters	CL:25769	Zinc finger, CCCH-type
+ZFWD3	3702.Q9FKR9	STRING clusters	CL:25804	Mixed, incl. WD repeat-containing protein 86-like, and Germination
+ZFWD3	3702.Q9FKR9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ZFWD3	3702.Q9FKR9	COMPARTMENTS	GOCC:0005634	Nucleus
+ZFWD3	3702.Q9FKR9	COMPARTMENTS	GOCC:0043226	Organelle
+ZFWD3	3702.Q9FKR9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ZFWD3	3702.Q9FKR9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ZFWD3	3702.Q9FKR9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ZFWD3	3702.Q9FKR9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ZFWD3	3702.Q9FKR9	UniProt Keywords	KW-0238	DNA-binding
+ZFWD3	3702.Q9FKR9	UniProt Keywords	KW-0479	Metal-binding
+ZFWD3	3702.Q9FKR9	UniProt Keywords	KW-0677	Repeat
+ZFWD3	3702.Q9FKR9	UniProt Keywords	KW-0853	WD repeat
+ZFWD3	3702.Q9FKR9	UniProt Keywords	KW-0862	Zinc
+ZFWD3	3702.Q9FKR9	UniProt Keywords	KW-0863	Zinc-finger
+ZFWD3	3702.Q9FKR9	InterPro	IPR000571	Zinc finger, CCCH-type
+ZFWD3	3702.Q9FKR9	InterPro	IPR001680	WD40 repeat
+ZFWD3	3702.Q9FKR9	InterPro	IPR015943	WD40/YVTN repeat-like-containing domain superfamily
+ZFWD3	3702.Q9FKR9	InterPro	IPR019775	WD40 repeat, conserved site
+ZFWD3	3702.Q9FKR9	InterPro	IPR020472	PAC1/LIS1-like, WD-40 repeat
+ZFWD3	3702.Q9FKR9	InterPro	IPR036322	WD40-repeat-containing domain superfamily
+ZFWD3	3702.Q9FKR9	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+ZFWD3	3702.Q9FKR9	InterPro	IPR044715	WD repeat-containing protein 86-like
+ZFWD3	3702.Q9FKR9	SMART	SM00320	WD40 repeats
+ZFWD3	3702.Q9FKR9	SMART	SM00356	Zinc finger
+ZFWD4	3702.Q9FE91	GO Function	GO:0003676	Nucleic acid binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0003677	DNA binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0005488	Binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0008270	Zinc ion binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0036094	Small molecule binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0043167	Ion binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0043169	Cation binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0046872	Metal ion binding
+ZFWD4	3702.Q9FE91	GO Function	GO:0046914	Transition metal ion binding
+ZFWD4	3702.Q9FE91	STRING clusters	CL:25557	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+ZFWD4	3702.Q9FE91	STRING clusters	CL:25558	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and Zinc finger, CCCH-type
+ZFWD4	3702.Q9FE91	STRING clusters	CL:25764	Zinc finger, CCCH-type, and SUZ domain
+ZFWD4	3702.Q9FE91	STRING clusters	CL:25766	Zinc finger, CCCH-type
+ZFWD4	3702.Q9FE91	STRING clusters	CL:25769	Zinc finger, CCCH-type
+ZFWD4	3702.Q9FE91	STRING clusters	CL:25770	Zinc finger, CCCH-type
+ZFWD4	3702.Q9FE91	STRING clusters	CL:25772	Zinc finger C-x8-C-x5-C-x3-H type (and similar), and WD repeat-containing protein 86-like
+ZFWD4	3702.Q9FE91	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ZFWD4	3702.Q9FE91	COMPARTMENTS	GOCC:0005634	Nucleus
+ZFWD4	3702.Q9FE91	COMPARTMENTS	GOCC:0043226	Organelle
+ZFWD4	3702.Q9FE91	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ZFWD4	3702.Q9FE91	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ZFWD4	3702.Q9FE91	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ZFWD4	3702.Q9FE91	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ZFWD4	3702.Q9FE91	UniProt Keywords	KW-0238	DNA-binding
+ZFWD4	3702.Q9FE91	UniProt Keywords	KW-0479	Metal-binding
+ZFWD4	3702.Q9FE91	UniProt Keywords	KW-0677	Repeat
+ZFWD4	3702.Q9FE91	UniProt Keywords	KW-0853	WD repeat
+ZFWD4	3702.Q9FE91	UniProt Keywords	KW-0862	Zinc
+ZFWD4	3702.Q9FE91	UniProt Keywords	KW-0863	Zinc-finger
+ZFWD4	3702.Q9FE91	InterPro	IPR000571	Zinc finger, CCCH-type
+ZFWD4	3702.Q9FE91	InterPro	IPR001680	WD40 repeat
+ZFWD4	3702.Q9FE91	InterPro	IPR015943	WD40/YVTN repeat-like-containing domain superfamily
+ZFWD4	3702.Q9FE91	InterPro	IPR019775	WD40 repeat, conserved site
+ZFWD4	3702.Q9FE91	InterPro	IPR020472	PAC1/LIS1-like, WD-40 repeat
+ZFWD4	3702.Q9FE91	InterPro	IPR036322	WD40-repeat-containing domain superfamily
+ZFWD4	3702.Q9FE91	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+ZFWD4	3702.Q9FE91	InterPro	IPR044715	WD repeat-containing protein 86-like
+ZFWD4	3702.Q9FE91	SMART	SM00320	WD40 repeats
+ZFWD4	3702.Q9FE91	SMART	SM00356	Zinc finger

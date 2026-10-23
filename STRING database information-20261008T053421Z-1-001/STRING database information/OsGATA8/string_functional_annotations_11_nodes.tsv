@@ -1,0 +1,943 @@
+#node	identifier	category	term ID	term description
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0006325	Chromatin organization
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0006334	Nucleosome assembly
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0006338	Chromatin remodeling
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0009987	Cellular process
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0016043	Cellular component organization
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0022607	Cellular component assembly
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0034728	Nucleosome organization
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0043933	Protein-containing complex organization
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0044085	Cellular component biogenesis
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0065003	Protein-containing complex assembly
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0065004	protein-DNA complex assembly
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0071824	protein-DNA complex organization
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0003676	Nucleic acid binding
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0003677	DNA binding
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0005198	Structural molecule activity
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0005488	Binding
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0005515	Protein binding
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0030527	Structural constituent of chromatin
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0046982	Protein heterodimerization activity
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Function	GO:0046983	Protein dimerization activity
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0000785	Chromatin
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0000786	Nucleosome
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0005634	Nucleus
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0005694	Chromosome
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0032991	Protein-containing complex
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0032993	protein-DNA complex
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0043226	Organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0043227	Membrane-bounded organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0043228	Membraneless organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0043229	Intracellular organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8941	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8942	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8944	Mixed, incl. Nucleosome, and PcG protein complex
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8946	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8948	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8951	Mixed, incl. Nucleosome, and PcG protein complex
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8954	Mixed, incl. PcG protein complex, and Nucleosome core
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8956	Mixed, incl. PcG protein complex, and Nucleosome core
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8994	Mixed, incl. Histone H3, and Histone H4
+A0A0P0WNF9	39947.A0A0P0WNF9	STRING clusters	CL:8996	Mixed, incl. Histone H4, and Kinetochore assembly
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-1500931	Cell-Cell communication
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-162582	Signal Transduction
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-1640170	Cell Cycle
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-194315	Signaling by Rho GTPases
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-195258	RHO GTPase Effectors
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-212165	Epigenetic regulation of gene expression
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-2262752	Cellular responses to stress
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-2299718	Condensation of Prophase Chromosomes
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-2559580	Oxidative Stress Induced Senescence
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-2559583	Cellular Senescence
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-2990846	SUMOylation
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-3108232	SUMO E3 ligases SUMOylate target proteins
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-3214815	HDACs deacetylate histones
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-3214841	PKMTs methylate histone lysines
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-3214842	HDMs demethylate histones
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-3214847	HATs acetylate histones
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-3214858	RMTs methylate histone arginines
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-3247509	Chromatin modifying enzymes
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-392499	Metabolism of proteins
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-427359	SIRT1 negatively regulates rRNA expression
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-446728	Cell junction organization
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-4551638	SUMOylation of chromatin organization proteins
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-4839726	Chromatin organization
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-5250941	Negative epigenetic regulation of rRNA expression
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-5625740	RHO GTPases activate PKNs
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-5625886	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-5693532	DNA Double-Strand Break Repair
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-5693565	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-5693606	DNA Double Strand Break Response
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-597592	Post-translational protein modification
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-68616	Assembly of the ORC complex at the origin of replication
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-68867	Assembly of the pre-replicative complex
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-68875	Mitotic Prophase
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-68886	M Phase
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-69002	DNA Replication Pre-Initiation
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-69278	Cell Cycle, Mitotic
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-69306	DNA Replication
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-73772	RNA Polymerase I Promoter Escape
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-73854	RNA Polymerase I Promoter Clearance
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-73864	RNA Polymerase I Transcription
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-73894	DNA Repair
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-74160	Gene expression (Transcription)
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-8939211	ESR-mediated signaling
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-8953897	Cellular responses to stimuli
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-9006931	Signaling by Nuclear Receptors
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-9018519	Estrogen-dependent gene expression
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-9716542	Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+A0A0P0WNF9	39947.A0A0P0WNF9	Reactome	MAP-9842860	Regulation of endogenous retroelements
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0000785	Chromatin
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0005694	Chromosome
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0043226	Organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+A0A0P0WNF9	39947.A0A0P0WNF9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0WNF9	39947.A0A0P0WNF9	UniProt Keywords	KW-0158	Chromosome
+A0A0P0WNF9	39947.A0A0P0WNF9	UniProt Keywords	KW-0238	DNA-binding
+A0A0P0WNF9	39947.A0A0P0WNF9	UniProt Keywords	KW-0539	Nucleus
+A0A0P0WNF9	39947.A0A0P0WNF9	UniProt Keywords	KW-0544	Nucleosome core
+A0A0P0WNF9	39947.A0A0P0WNF9	InterPro	IPR001951	Histone H4
+A0A0P0WNF9	39947.A0A0P0WNF9	InterPro	IPR009072	Histone-fold
+A0A0P0WNF9	39947.A0A0P0WNF9	SMART	SM00417	Histone H4
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0010468	Regulation of gene expression
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0019222	Regulation of metabolic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0050789	Regulation of biological process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0050794	Regulation of cellular process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0065007	Biological regulation
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0000976	Transcription cis-regulatory region binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0003676	Nucleic acid binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0003677	DNA binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0003690	Double-stranded DNA binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0005488	Binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0005515	Protein binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0008270	Zinc ion binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0036094	Small molecule binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0042802	Identical protein binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0042803	Protein homodimerization activity
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0043167	Ion binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0043169	Cation binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0043565	Sequence-specific DNA binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0046872	Metal ion binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0046914	Transition metal ion binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0046983	Protein dimerization activity
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:0140110	Transcription regulator activity
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Component	GO:0005634	Nucleus
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Component	GO:0043226	Organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Component	GO:0043227	Membrane-bounded organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Component	GO:0043229	Intracellular organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0WWD7	39947.A0A0P0WWD7	STRING clusters	CL:21849	Mixed, incl. GAGA binding protein-like family, and FLC EXPRESSOR/FLX-like
+A0A0P0WWD7	39947.A0A0P0WWD7	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A0P0WWD7	39947.A0A0P0WWD7	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A0P0WWD7	39947.A0A0P0WWD7	COMPARTMENTS	GOCC:0043226	Organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A0P0WWD7	39947.A0A0P0WWD7	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0WWD7	39947.A0A0P0WWD7	Pfam	PF04770	ZF-HD protein dimerisation region
+A0A0P0WWD7	39947.A0A0P0WWD7	InterPro	IPR006456	ZF-HD homeobox protein, Cys/His-rich dimerisation domain
+GCN5	39947.Q338B9	GO Process	GO:0003006	Developmental process involved in reproduction
+GCN5	39947.Q338B9	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0006325	Chromatin organization
+GCN5	39947.Q338B9	GO Process	GO:0006338	Chromatin remodeling
+GCN5	39947.Q338B9	GO Process	GO:0006351	DNA-templated transcription
+GCN5	39947.Q338B9	GO Process	GO:0006354	DNA-templated transcription elongation
+GCN5	39947.Q338B9	GO Process	GO:0006355	Regulation of DNA-templated transcription
+GCN5	39947.Q338B9	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+GCN5	39947.Q338B9	GO Process	GO:0006366	Transcription by RNA polymerase II
+GCN5	39947.Q338B9	GO Process	GO:0006368	Transcription elongation by RNA polymerase II
+GCN5	39947.Q338B9	GO Process	GO:0007275	Multicellular organism development
+GCN5	39947.Q338B9	GO Process	GO:0008152	Metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0009058	Biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0009059	Macromolecule biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0009314	Response to radiation
+GCN5	39947.Q338B9	GO Process	GO:0009416	Response to light stimulus
+GCN5	39947.Q338B9	GO Process	GO:0009628	Response to abiotic stimulus
+GCN5	39947.Q338B9	GO Process	GO:0009653	Anatomical structure morphogenesis
+GCN5	39947.Q338B9	GO Process	GO:0009791	Post-embryonic development
+GCN5	39947.Q338B9	GO Process	GO:0009889	Regulation of biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0009891	Positive regulation of biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0009893	Positive regulation of metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0009908	Flower development
+GCN5	39947.Q338B9	GO Process	GO:0009987	Cellular process
+GCN5	39947.Q338B9	GO Process	GO:0010015	Root morphogenesis
+GCN5	39947.Q338B9	GO Process	GO:0010321	Regulation of vegetative phase change
+GCN5	39947.Q338B9	GO Process	GO:0010467	Gene expression
+GCN5	39947.Q338B9	GO Process	GO:0010468	Regulation of gene expression
+GCN5	39947.Q338B9	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0016043	Cellular component organization
+GCN5	39947.Q338B9	GO Process	GO:0016070	RNA metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0019216	Regulation of lipid metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0019222	Regulation of metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0022414	Reproductive process
+GCN5	39947.Q338B9	GO Process	GO:0022622	Root system development
+GCN5	39947.Q338B9	GO Process	GO:0032501	Multicellular organismal process
+GCN5	39947.Q338B9	GO Process	GO:0032502	Developmental process
+GCN5	39947.Q338B9	GO Process	GO:0032774	RNA biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0043170	Macromolecule metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0044238	Primary metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0045834	Positive regulation of lipid metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+GCN5	39947.Q338B9	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+GCN5	39947.Q338B9	GO Process	GO:0046889	Positive regulation of lipid biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0046890	Regulation of lipid biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:0048364	Root development
+GCN5	39947.Q338B9	GO Process	GO:0048367	Shoot system development
+GCN5	39947.Q338B9	GO Process	GO:0048518	Positive regulation of biological process
+GCN5	39947.Q338B9	GO Process	GO:0048522	Positive regulation of cellular process
+GCN5	39947.Q338B9	GO Process	GO:0048580	Regulation of post-embryonic development
+GCN5	39947.Q338B9	GO Process	GO:0048608	Reproductive structure development
+GCN5	39947.Q338B9	GO Process	GO:0048731	System development
+GCN5	39947.Q338B9	GO Process	GO:0048856	Anatomical structure development
+GCN5	39947.Q338B9	GO Process	GO:0050789	Regulation of biological process
+GCN5	39947.Q338B9	GO Process	GO:0050793	Regulation of developmental process
+GCN5	39947.Q338B9	GO Process	GO:0050794	Regulation of cellular process
+GCN5	39947.Q338B9	GO Process	GO:0050896	Response to stimulus
+GCN5	39947.Q338B9	GO Process	GO:0051239	Regulation of multicellular organismal process
+GCN5	39947.Q338B9	GO Process	GO:0051252	Regulation of RNA metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0061458	Reproductive system development
+GCN5	39947.Q338B9	GO Process	GO:0065007	Biological regulation
+GCN5	39947.Q338B9	GO Process	GO:0071840	Cellular component organization or biogenesis
+GCN5	39947.Q338B9	GO Process	GO:0080090	Regulation of primary metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0090304	Nucleic acid metabolic process
+GCN5	39947.Q338B9	GO Process	GO:0090567	Reproductive shoot system development
+GCN5	39947.Q338B9	GO Process	GO:0099402	Plant organ development
+GCN5	39947.Q338B9	GO Process	GO:0140673	Transcription elongation-coupled chromatin remodeling
+GCN5	39947.Q338B9	GO Process	GO:0141187	Nucleic acid biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:1904276	Regulation of wax biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:1904278	Positive regulation of wax biosynthetic process
+GCN5	39947.Q338B9	GO Process	GO:1905392	Plant organ morphogenesis
+GCN5	39947.Q338B9	GO Process	GO:2000026	Regulation of multicellular organismal development
+GCN5	39947.Q338B9	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+GCN5	39947.Q338B9	GO Function	GO:0003676	Nucleic acid binding
+GCN5	39947.Q338B9	GO Function	GO:0003677	DNA binding
+GCN5	39947.Q338B9	GO Function	GO:0003824	Catalytic activity
+GCN5	39947.Q338B9	GO Function	GO:0004402	Histone acetyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0005488	Binding
+GCN5	39947.Q338B9	GO Function	GO:0005515	Protein binding
+GCN5	39947.Q338B9	GO Function	GO:0008080	N-acetyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0010484	Histone H3 acetyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0010485	Histone H4 acetyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0016407	Acetyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0016410	N-acyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0016740	Transferase activity
+GCN5	39947.Q338B9	GO Function	GO:0016746	Acyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0016747	Acyltransferase activity, transferring groups other than amino-acyl groups
+GCN5	39947.Q338B9	GO Function	GO:0034212	Protein N-acetyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0061733	Protein-lysine-acetyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0140096	Catalytic activity, acting on a protein
+GCN5	39947.Q338B9	GO Function	GO:0140186	Protein N-acyltransferase activity
+GCN5	39947.Q338B9	GO Function	GO:0140993	Histone modifying activity
+GCN5	39947.Q338B9	GO Component	GO:0000123	Histone acetyltransferase complex
+GCN5	39947.Q338B9	GO Component	GO:0000785	Chromatin
+GCN5	39947.Q338B9	GO Component	GO:0005622	Intracellular anatomical structure
+GCN5	39947.Q338B9	GO Component	GO:0005634	Nucleus
+GCN5	39947.Q338B9	GO Component	GO:0005694	Chromosome
+GCN5	39947.Q338B9	GO Component	GO:0031248	Protein acetyltransferase complex
+GCN5	39947.Q338B9	GO Component	GO:0032991	Protein-containing complex
+GCN5	39947.Q338B9	GO Component	GO:0043226	Organelle
+GCN5	39947.Q338B9	GO Component	GO:0043227	Membrane-bounded organelle
+GCN5	39947.Q338B9	GO Component	GO:0043228	Membraneless organelle
+GCN5	39947.Q338B9	GO Component	GO:0043229	Intracellular organelle
+GCN5	39947.Q338B9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+GCN5	39947.Q338B9	GO Component	GO:0043232	Intracellular membraneless organelle
+GCN5	39947.Q338B9	GO Component	GO:0110165	Cellular anatomical structure
+GCN5	39947.Q338B9	GO Component	GO:0140535	Intracellular protein-containing complex
+GCN5	39947.Q338B9	GO Component	GO:1902493	Acetyltransferase complex
+GCN5	39947.Q338B9	GO Component	GO:1902494	Catalytic complex
+GCN5	39947.Q338B9	GO Component	GO:1990234	Transferase complex
+GCN5	39947.Q338B9	STRING clusters	CL:10755	Mixed, incl. PAC1/LIS1-like, WD-40 repeat, and Cul4-RING E3 ubiquitin ligase complex
+GCN5	39947.Q338B9	STRING clusters	CL:10756	Mixed, incl. Cul4-RING E3 ubiquitin ligase complex, and Universal stress protein A family
+GCN5	39947.Q338B9	STRING clusters	CL:10758	Mixed, incl. Universal stress protein A family, and SAGA-type complex
+GCN5	39947.Q338B9	STRING clusters	CL:10761	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+GCN5	39947.Q338B9	STRING clusters	CL:10764	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+GCN5	39947.Q338B9	STRING clusters	CL:10766	Mixed, incl. Protein MIZU-KUSSEI 1-like, plant, and SAGA-type complex
+GCN5	39947.Q338B9	STRING clusters	CL:10769	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+GCN5	39947.Q338B9	STRING clusters	CL:10774	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+GCN5	39947.Q338B9	STRING clusters	CL:10777	Mixed, incl. DUBm complex, and Histone H3 acetyltransferase activity
+GCN5	39947.Q338B9	KEGG	map03250	Viral life cycle - HIV-1
+GCN5	39947.Q338B9	Reactome	MAP-162582	Signal Transduction
+GCN5	39947.Q338B9	Reactome	MAP-212436	Generic Transcription Pathway
+GCN5	39947.Q338B9	Reactome	MAP-392499	Metabolism of proteins
+GCN5	39947.Q338B9	Reactome	MAP-5688426	Deubiquitination
+GCN5	39947.Q338B9	Reactome	MAP-597592	Post-translational protein modification
+GCN5	39947.Q338B9	Reactome	MAP-73857	RNA Polymerase II Transcription
+GCN5	39947.Q338B9	Reactome	MAP-74160	Gene expression (Transcription)
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0000123	Histone acetyltransferase complex
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0000785	Chromatin
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0005634	Nucleus
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0005654	Nucleoplasm
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0005694	Chromosome
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0031981	Nuclear lumen
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0043226	Organelle
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0043233	Organelle lumen
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+GCN5	39947.Q338B9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+GCN5	39947.Q338B9	UniProt Keywords	KW-0010	Activator
+GCN5	39947.Q338B9	UniProt Keywords	KW-0012	Acyltransferase
+GCN5	39947.Q338B9	UniProt Keywords	KW-0103	Bromodomain
+GCN5	39947.Q338B9	UniProt Keywords	KW-0156	Chromatin regulator
+GCN5	39947.Q338B9	UniProt Keywords	KW-0539	Nucleus
+GCN5	39947.Q338B9	UniProt Keywords	KW-0804	Transcription
+GCN5	39947.Q338B9	UniProt Keywords	KW-0805	Transcription regulation
+GCN5	39947.Q338B9	UniProt Keywords	KW-0808	Transferase
+GCN5	39947.Q338B9	Pfam	PF00583	Acetyltransferase (GNAT) family
+GCN5	39947.Q338B9	InterPro	IPR000182	GNAT domain
+GCN5	39947.Q338B9	InterPro	IPR001487	Bromodomain
+GCN5	39947.Q338B9	InterPro	IPR016181	Acyl-CoA N-acyltransferase
+GCN5	39947.Q338B9	InterPro	IPR018359	Bromodomain, conserved site
+GCN5	39947.Q338B9	InterPro	IPR036427	Bromodomain-like superfamily
+GCN5	39947.Q338B9	InterPro	IPR037800	Histone acetyltransferase GCN5
+GCN5	39947.Q338B9	SMART	SM00297	Bromo domain
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0006355	Regulation of DNA-templated transcription
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0009719	Response to endogenous stimulus
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0009723	Response to ethylene
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0009725	Response to hormone
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0009889	Regulation of biosynthetic process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0010468	Regulation of gene expression
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0019222	Regulation of metabolic process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0042221	Response to chemical
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0050789	Regulation of biological process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0050794	Regulation of cellular process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0050896	Response to stimulus
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0051252	Regulation of RNA metabolic process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0065007	Biological regulation
+P0493C11.7	39947.Q5VSA8	GO Process	GO:0080090	Regulation of primary metabolic process
+P0493C11.7	39947.Q5VSA8	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+P0493C11.7	39947.Q5VSA8	GO Function	GO:0003676	Nucleic acid binding
+P0493C11.7	39947.Q5VSA8	GO Function	GO:0003677	DNA binding
+P0493C11.7	39947.Q5VSA8	GO Function	GO:0003700	DNA-binding transcription factor activity
+P0493C11.7	39947.Q5VSA8	GO Function	GO:0005488	Binding
+P0493C11.7	39947.Q5VSA8	GO Function	GO:0043565	Sequence-specific DNA binding
+P0493C11.7	39947.Q5VSA8	GO Function	GO:0140110	Transcription regulator activity
+P0493C11.7	39947.Q5VSA8	GO Component	GO:0005622	Intracellular anatomical structure
+P0493C11.7	39947.Q5VSA8	GO Component	GO:0005634	Nucleus
+P0493C11.7	39947.Q5VSA8	GO Component	GO:0043226	Organelle
+P0493C11.7	39947.Q5VSA8	GO Component	GO:0043227	Membrane-bounded organelle
+P0493C11.7	39947.Q5VSA8	GO Component	GO:0043229	Intracellular organelle
+P0493C11.7	39947.Q5VSA8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+P0493C11.7	39947.Q5VSA8	GO Component	GO:0110165	Cellular anatomical structure
+P0493C11.7	39947.Q5VSA8	STRING clusters	CL:21849	Mixed, incl. GAGA binding protein-like family, and FLC EXPRESSOR/FLX-like
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0005634	Nucleus
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0005730	Nucleolus
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0031981	Nuclear lumen
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0043226	Organelle
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0043233	Organelle lumen
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+P0493C11.7	39947.Q5VSA8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+P0493C11.7	39947.Q5VSA8	UniProt Keywords	KW-0175	Coiled coil
+P0493C11.7	39947.Q5VSA8	UniProt Keywords	KW-0238	DNA-binding
+P0493C11.7	39947.Q5VSA8	UniProt Keywords	KW-0539	Nucleus
+P0493C11.7	39947.Q5VSA8	UniProt Keywords	KW-0804	Transcription
+P0493C11.7	39947.Q5VSA8	UniProt Keywords	KW-0805	Transcription regulation
+P0493C11.7	39947.Q5VSA8	InterPro	IPR010409	GAGA-binding transcriptional activator
+P0493C11.7	39947.Q5VSA8	SMART	SM01226	GAGA binding protein-like family
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0006325	Chromatin organization
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0006338	Chromatin remodeling
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0006355	Regulation of DNA-templated transcription
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0008152	Metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0009889	Regulation of biosynthetic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0009890	Negative regulation of biosynthetic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0009892	Negative regulation of metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0009987	Cellular process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0010468	Regulation of gene expression
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0010629	Negative regulation of gene expression
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0016043	Cellular component organization
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0019222	Regulation of metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0032259	Methylation
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0040029	Epigenetic regulation of gene expression
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0045814	Negative regulation of gene expression, epigenetic
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0048519	Negative regulation of biological process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0048523	Negative regulation of cellular process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0050789	Regulation of biological process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0050794	Regulation of cellular process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0065007	Biological regulation
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:0080090	Regulation of primary metabolic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0003676	Nucleic acid binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0003677	DNA binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0003700	DNA-binding transcription factor activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0003824	Catalytic activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0005488	Binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0008168	Methyltransferase activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0008270	Zinc ion binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0008276	Protein methyltransferase activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0016740	Transferase activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0016741	Transferase activity, transferring one-carbon groups
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0036094	Small molecule binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0042054	Histone methyltransferase activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0043167	Ion binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0043169	Cation binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0043565	Sequence-specific DNA binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0046872	Metal ion binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0046914	Transition metal ion binding
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0140096	Catalytic activity, acting on a protein
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0140110	Transcription regulator activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0140938	Histone H3 methyltransferase activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Function	GO:0140993	Histone modifying activity
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0005622	Intracellular anatomical structure
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0005634	Nucleus
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0005694	Chromosome
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0043226	Organelle
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0043227	Membrane-bounded organelle
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0043228	Membraneless organelle
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0043229	Intracellular organelle
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0043232	Intracellular membraneless organelle
+Q0DY89_ORYSJ	39947.Q0DY89	GO Component	GO:0110165	Cellular anatomical structure
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9511	Mixed, incl. PKMTs methylate histone lysines, and Formation of WDR5-containing histone-modifying complexes
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9513	Mixed, incl. PKMTs methylate histone lysines, and Formation of WDR5-containing histone-modifying complexes
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9517	Mixed, incl. PKMTs methylate histone lysines, and Formation of WDR5-containing histone-modifying complexes
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9520	Mixed, incl. PKMTs methylate histone lysines, and Formation of WDR5-containing histone-modifying complexes
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9523	PKMTs methylate histone lysines, and Formation of WDR5-containing histone-modifying complexes
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9526	PKMTs methylate histone lysines, and Formation of WDR5-containing histone-modifying complexes
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9529	Mixed, incl. PKMTs methylate histone lysines, and Set1C/COMPASS complex
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9531	Mixed, incl. PKMTs methylate histone lysines, and Set1C/COMPASS complex
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9534	Mixed, incl. Set1C/COMPASS complex, and Histone H3 reader activity
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9537	Mixed, incl. Set1C/COMPASS complex, and Zinc finger, PHD-finger
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9540	Mixed, incl. Histone H3K4 methyltransferase activity, and Histone H3K4me3 reader activity
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9542	Mixed, incl. Histone H3K4 methyltransferase activity, and Histone H3K4me3 reader activity
+Q0DY89_ORYSJ	39947.Q0DY89	STRING clusters	CL:9543	Mixed, incl. Cysteine-rich motif following a subset of SET domains, and Histone H3K4me3 reader activity
+Q0DY89_ORYSJ	39947.Q0DY89	KEGG	map00310	Lysine degradation
+Q0DY89_ORYSJ	39947.Q0DY89	KEGG	map01100	Metabolic pathways
+Q0DY89_ORYSJ	39947.Q0DY89	Reactome	MAP-212436	Generic Transcription Pathway
+Q0DY89_ORYSJ	39947.Q0DY89	Reactome	MAP-73857	RNA Polymerase II Transcription
+Q0DY89_ORYSJ	39947.Q0DY89	Reactome	MAP-74160	Gene expression (Transcription)
+Q0DY89_ORYSJ	39947.Q0DY89	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q0DY89_ORYSJ	39947.Q0DY89	COMPARTMENTS	GOCC:0005634	Nucleus
+Q0DY89_ORYSJ	39947.Q0DY89	COMPARTMENTS	GOCC:0043226	Organelle
+Q0DY89_ORYSJ	39947.Q0DY89	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q0DY89_ORYSJ	39947.Q0DY89	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q0DY89_ORYSJ	39947.Q0DY89	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q0DY89_ORYSJ	39947.Q0DY89	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q0DY89_ORYSJ	39947.Q0DY89	UniProt Keywords	KW-0158	Chromosome
+Q0DY89_ORYSJ	39947.Q0DY89	UniProt Keywords	KW-0479	Metal-binding
+Q0DY89_ORYSJ	39947.Q0DY89	UniProt Keywords	KW-0489	Methyltransferase
+Q0DY89_ORYSJ	39947.Q0DY89	UniProt Keywords	KW-0808	Transferase
+Q0DY89_ORYSJ	39947.Q0DY89	UniProt Keywords	KW-0862	Zinc
+Q0DY89_ORYSJ	39947.Q0DY89	UniProt Keywords	KW-0863	Zinc-finger
+Q0DY89_ORYSJ	39947.Q0DY89	UniProt Keywords	KW-0949	S-adenosyl-L-methionine
+Q0DY89_ORYSJ	39947.Q0DY89	Pfam	PF05033	Pre-SET motif
+Q0DY89_ORYSJ	39947.Q0DY89	InterPro	IPR001214	SET domain
+Q0DY89_ORYSJ	39947.Q0DY89	InterPro	IPR003616	Post-SET domain
+Q0DY89_ORYSJ	39947.Q0DY89	InterPro	IPR007728	Pre-SET domain
+Q0DY89_ORYSJ	39947.Q0DY89	InterPro	IPR013087	Zinc finger C2H2-type
+Q0DY89_ORYSJ	39947.Q0DY89	InterPro	IPR040689	SUVR5, C2H2-type Zinc finger, 3 repeats
+Q0DY89_ORYSJ	39947.Q0DY89	InterPro	IPR046341	SET domain superfamily
+Q0DY89_ORYSJ	39947.Q0DY89	SMART	SM00317	SET (Su(var)3-9, Enhancer-of-zeste, Trithorax) domain
+Q0DY89_ORYSJ	39947.Q0DY89	SMART	SM00355	Zinc finger
+Q0DY89_ORYSJ	39947.Q0DY89	SMART	SM00508	Cysteine-rich motif following a subset of SET domains
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0006325	Chromatin organization
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0006338	Chromatin remodeling
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0006355	Regulation of DNA-templated transcription
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0008152	Metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0009889	Regulation of biosynthetic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0009890	Negative regulation of biosynthetic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0009892	Negative regulation of metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0009987	Cellular process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0010468	Regulation of gene expression
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0010629	Negative regulation of gene expression
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0016043	Cellular component organization
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0019222	Regulation of metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0032259	Methylation
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0040029	Epigenetic regulation of gene expression
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0045814	Negative regulation of gene expression, epigenetic
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0048519	Negative regulation of biological process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0048523	Negative regulation of cellular process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0050789	Regulation of biological process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0050794	Regulation of cellular process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0065007	Biological regulation
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:0080090	Regulation of primary metabolic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0003676	Nucleic acid binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0003677	DNA binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0003700	DNA-binding transcription factor activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0003824	Catalytic activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0005488	Binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0008168	Methyltransferase activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0008270	Zinc ion binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0008276	Protein methyltransferase activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0016740	Transferase activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0016741	Transferase activity, transferring one-carbon groups
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0036094	Small molecule binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0042054	Histone methyltransferase activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0043167	Ion binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0043169	Cation binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0043565	Sequence-specific DNA binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0046872	Metal ion binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0046914	Transition metal ion binding
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0140096	Catalytic activity, acting on a protein
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0140110	Transcription regulator activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0140938	Histone H3 methyltransferase activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Function	GO:0140993	Histone modifying activity
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0005622	Intracellular anatomical structure
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0005634	Nucleus
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0005694	Chromosome
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0043226	Organelle
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0043227	Membrane-bounded organelle
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0043228	Membraneless organelle
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0043229	Intracellular organelle
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0043232	Intracellular membraneless organelle
+Q0DY90_ORYSJ	39947.Q0DY90	GO Component	GO:0110165	Cellular anatomical structure
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8941	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8942	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8944	Mixed, incl. Nucleosome, and PcG protein complex
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8946	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8948	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8951	Mixed, incl. Nucleosome, and PcG protein complex
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8954	Mixed, incl. PcG protein complex, and Nucleosome core
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8956	Mixed, incl. PcG protein complex, and Nucleosome core
+Q0DY90_ORYSJ	39947.Q0DY90	STRING clusters	CL:8961	Chromatin silencing complex, and ESC/E(Z) complex
+Q0DY90_ORYSJ	39947.Q0DY90	KEGG	map00310	Lysine degradation
+Q0DY90_ORYSJ	39947.Q0DY90	KEGG	map01100	Metabolic pathways
+Q0DY90_ORYSJ	39947.Q0DY90	Reactome	MAP-212436	Generic Transcription Pathway
+Q0DY90_ORYSJ	39947.Q0DY90	Reactome	MAP-73857	RNA Polymerase II Transcription
+Q0DY90_ORYSJ	39947.Q0DY90	Reactome	MAP-74160	Gene expression (Transcription)
+Q0DY90_ORYSJ	39947.Q0DY90	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q0DY90_ORYSJ	39947.Q0DY90	COMPARTMENTS	GOCC:0005634	Nucleus
+Q0DY90_ORYSJ	39947.Q0DY90	COMPARTMENTS	GOCC:0043226	Organelle
+Q0DY90_ORYSJ	39947.Q0DY90	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q0DY90_ORYSJ	39947.Q0DY90	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q0DY90_ORYSJ	39947.Q0DY90	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q0DY90_ORYSJ	39947.Q0DY90	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0006325	Chromatin organization
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0006334	Nucleosome assembly
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0006338	Chromatin remodeling
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0009987	Cellular process
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0016043	Cellular component organization
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0022607	Cellular component assembly
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0034728	Nucleosome organization
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0043933	Protein-containing complex organization
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0044085	Cellular component biogenesis
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0065003	Protein-containing complex assembly
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0065004	protein-DNA complex assembly
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0071824	protein-DNA complex organization
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0003676	Nucleic acid binding
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0003677	DNA binding
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0005198	Structural molecule activity
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0005488	Binding
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0005515	Protein binding
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0030527	Structural constituent of chromatin
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0046982	Protein heterodimerization activity
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Function	GO:0046983	Protein dimerization activity
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0000785	Chromatin
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0000786	Nucleosome
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0005622	Intracellular anatomical structure
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0005634	Nucleus
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0005694	Chromosome
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0032991	Protein-containing complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0032993	protein-DNA complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0043226	Organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0043227	Membrane-bounded organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0043228	Membraneless organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0043229	Intracellular organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0043232	Intracellular membraneless organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	GO Component	GO:0110165	Cellular anatomical structure
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8941	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8942	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8944	Mixed, incl. Nucleosome, and PcG protein complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8946	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8948	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8951	Mixed, incl. Nucleosome, and PcG protein complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8954	Mixed, incl. PcG protein complex, and Nucleosome core
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8956	Mixed, incl. PcG protein complex, and Nucleosome core
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:8994	Mixed, incl. Histone H3, and Histone H4
+Q7XUC9_ORYSJ	39947.Q7XUC9	STRING clusters	CL:9009	Histone H3, and Histone H4
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-1500931	Cell-Cell communication
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-162582	Signal Transduction
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-1640170	Cell Cycle
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-194315	Signaling by Rho GTPases
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-195258	RHO GTPase Effectors
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-212165	Epigenetic regulation of gene expression
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-2262752	Cellular responses to stress
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-2299718	Condensation of Prophase Chromosomes
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-2559580	Oxidative Stress Induced Senescence
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-2559583	Cellular Senescence
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-2990846	SUMOylation
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-3108232	SUMO E3 ligases SUMOylate target proteins
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-3214815	HDACs deacetylate histones
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-3214841	PKMTs methylate histone lysines
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-3214842	HDMs demethylate histones
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-3214847	HATs acetylate histones
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-3214858	RMTs methylate histone arginines
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-3247509	Chromatin modifying enzymes
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-392499	Metabolism of proteins
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-427359	SIRT1 negatively regulates rRNA expression
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-446728	Cell junction organization
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-4551638	SUMOylation of chromatin organization proteins
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-4839726	Chromatin organization
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-5250941	Negative epigenetic regulation of rRNA expression
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-5625740	RHO GTPases activate PKNs
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-5625886	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-5693532	DNA Double-Strand Break Repair
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-5693565	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-5693606	DNA Double Strand Break Response
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-597592	Post-translational protein modification
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-68616	Assembly of the ORC complex at the origin of replication
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-68867	Assembly of the pre-replicative complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-68875	Mitotic Prophase
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-68886	M Phase
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-69002	DNA Replication Pre-Initiation
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-69278	Cell Cycle, Mitotic
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-69306	DNA Replication
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-73772	RNA Polymerase I Promoter Escape
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-73854	RNA Polymerase I Promoter Clearance
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-73864	RNA Polymerase I Transcription
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-73894	DNA Repair
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-74160	Gene expression (Transcription)
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-8939211	ESR-mediated signaling
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-8953897	Cellular responses to stimuli
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-9006931	Signaling by Nuclear Receptors
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-9018519	Estrogen-dependent gene expression
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-9716542	Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+Q7XUC9_ORYSJ	39947.Q7XUC9	Reactome	MAP-9842860	Regulation of endogenous retroelements
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0000785	Chromatin
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0005694	Chromosome
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0043226	Organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+Q7XUC9_ORYSJ	39947.Q7XUC9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q7XUC9_ORYSJ	39947.Q7XUC9	UniProt Keywords	KW-0158	Chromosome
+Q7XUC9_ORYSJ	39947.Q7XUC9	UniProt Keywords	KW-0238	DNA-binding
+Q7XUC9_ORYSJ	39947.Q7XUC9	UniProt Keywords	KW-0539	Nucleus
+Q7XUC9_ORYSJ	39947.Q7XUC9	UniProt Keywords	KW-0544	Nucleosome core
+Q7XUC9_ORYSJ	39947.Q7XUC9	InterPro	IPR001951	Histone H4
+Q7XUC9_ORYSJ	39947.Q7XUC9	InterPro	IPR009072	Histone-fold
+Q7XUC9_ORYSJ	39947.Q7XUC9	InterPro	IPR019809	Histone H4, conserved site
+Q7XUC9_ORYSJ	39947.Q7XUC9	InterPro	IPR035425	CENP-T/Histone H4, histone fold
+Q7XUC9_ORYSJ	39947.Q7XUC9	SMART	SM00417	Histone H4
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0006325	Chromatin organization
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0009889	Regulation of biosynthetic process
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0009987	Cellular process
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0010468	Regulation of gene expression
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0016043	Cellular component organization
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0019222	Regulation of metabolic process
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0050789	Regulation of biological process
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0050794	Regulation of cellular process
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0065007	Biological regulation
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Function	GO:0005488	Binding
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Function	GO:0005515	Protein binding
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Function	GO:0046982	Protein heterodimerization activity
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Function	GO:0046983	Protein dimerization activity
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0000785	Chromatin
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0005622	Intracellular anatomical structure
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0005634	Nucleus
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0005694	Chromosome
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0032991	Protein-containing complex
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0043226	Organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0043227	Membrane-bounded organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0043228	Membraneless organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0043229	Intracellular organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0043232	Intracellular membraneless organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:0110165	Cellular anatomical structure
+Q84SZ4_ORYSJ	39947.Q84SZ4	GO Component	GO:1902494	Catalytic complex
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10755	Mixed, incl. PAC1/LIS1-like, WD-40 repeat, and Cul4-RING E3 ubiquitin ligase complex
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10756	Mixed, incl. Cul4-RING E3 ubiquitin ligase complex, and Universal stress protein A family
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10758	Mixed, incl. Universal stress protein A family, and SAGA-type complex
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10761	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10764	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10766	Mixed, incl. Protein MIZU-KUSSEI 1-like, plant, and SAGA-type complex
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10769	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10774	Mixed, incl. SAGA-type complex, and Protein MIZU-KUSSEI 1-like, plant
+Q84SZ4_ORYSJ	39947.Q84SZ4	STRING clusters	CL:10791	Mixed, incl. RNA polymerase I preinitiation complex assembly, and Protein N-terminal-methionine acetyltransferase activity
+Q84SZ4_ORYSJ	39947.Q84SZ4	KEGG	map03250	Viral life cycle - HIV-1
+Q84SZ4_ORYSJ	39947.Q84SZ4	Reactome	MAP-162582	Signal Transduction
+Q84SZ4_ORYSJ	39947.Q84SZ4	Reactome	MAP-212436	Generic Transcription Pathway
+Q84SZ4_ORYSJ	39947.Q84SZ4	Reactome	MAP-392499	Metabolism of proteins
+Q84SZ4_ORYSJ	39947.Q84SZ4	Reactome	MAP-5688426	Deubiquitination
+Q84SZ4_ORYSJ	39947.Q84SZ4	Reactome	MAP-597592	Post-translational protein modification
+Q84SZ4_ORYSJ	39947.Q84SZ4	Reactome	MAP-73857	RNA Polymerase II Transcription
+Q84SZ4_ORYSJ	39947.Q84SZ4	Reactome	MAP-74160	Gene expression (Transcription)
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0000785	Chromatin
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0005694	Chromosome
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0043226	Organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+Q84SZ4_ORYSJ	39947.Q84SZ4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q84SZ4_ORYSJ	39947.Q84SZ4	UniProt Keywords	KW-0175	Coiled coil
+Q84SZ4_ORYSJ	39947.Q84SZ4	InterPro	IPR009072	Histone-fold
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0006355	Regulation of DNA-templated transcription
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0009889	Regulation of biosynthetic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0010468	Regulation of gene expression
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0019222	Regulation of metabolic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0050789	Regulation of biological process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0050794	Regulation of cellular process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0065007	Biological regulation
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:0080090	Regulation of primary metabolic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Function	GO:0005488	Binding
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Component	GO:0005622	Intracellular anatomical structure
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Component	GO:0005634	Nucleus
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Component	GO:0043226	Organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Component	GO:0043227	Membrane-bounded organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Component	GO:0043229	Intracellular organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	GO Component	GO:0110165	Cellular anatomical structure
+Q8LQW5_ORYSJ	39947.Q8LQW5	Reactome	MAP-109582	Hemostasis
+Q8LQW5_ORYSJ	39947.Q8LQW5	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+Q8LQW5_ORYSJ	39947.Q8LQW5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q8LQW5_ORYSJ	39947.Q8LQW5	COMPARTMENTS	GOCC:0005634	Nucleus
+Q8LQW5_ORYSJ	39947.Q8LQW5	COMPARTMENTS	GOCC:0043226	Organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q8LQW5_ORYSJ	39947.Q8LQW5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q8LQW5_ORYSJ	39947.Q8LQW5	UniProt Keywords	KW-0479	Metal-binding
+Q8LQW5_ORYSJ	39947.Q8LQW5	UniProt Keywords	KW-0804	Transcription
+Q8LQW5_ORYSJ	39947.Q8LQW5	UniProt Keywords	KW-0805	Transcription regulation
+Q8LQW5_ORYSJ	39947.Q8LQW5	UniProt Keywords	KW-0862	Zinc
+Q8LQW5_ORYSJ	39947.Q8LQW5	UniProt Keywords	KW-0863	Zinc-finger
+Q8LQW5_ORYSJ	39947.Q8LQW5	InterPro	IPR000679	Zinc finger, GATA-type
+Q8LQW5_ORYSJ	39947.Q8LQW5	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+Q8LQW5_ORYSJ	39947.Q8LQW5	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+SE14	39947.Q10RP4	GO Process	GO:0003006	Developmental process involved in reproduction
+SE14	39947.Q10RP4	GO Process	GO:0006325	Chromatin organization
+SE14	39947.Q10RP4	GO Process	GO:0006338	Chromatin remodeling
+SE14	39947.Q10RP4	GO Process	GO:0007275	Multicellular organism development
+SE14	39947.Q10RP4	GO Process	GO:0009791	Post-embryonic development
+SE14	39947.Q10RP4	GO Process	GO:0009889	Regulation of biosynthetic process
+SE14	39947.Q10RP4	GO Process	GO:0009890	Negative regulation of biosynthetic process
+SE14	39947.Q10RP4	GO Process	GO:0009892	Negative regulation of metabolic process
+SE14	39947.Q10RP4	GO Process	GO:0009908	Flower development
+SE14	39947.Q10RP4	GO Process	GO:0009987	Cellular process
+SE14	39947.Q10RP4	GO Process	GO:0010468	Regulation of gene expression
+SE14	39947.Q10RP4	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+SE14	39947.Q10RP4	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+SE14	39947.Q10RP4	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+SE14	39947.Q10RP4	GO Process	GO:0010629	Negative regulation of gene expression
+SE14	39947.Q10RP4	GO Process	GO:0016043	Cellular component organization
+SE14	39947.Q10RP4	GO Process	GO:0019222	Regulation of metabolic process
+SE14	39947.Q10RP4	GO Process	GO:0022414	Reproductive process
+SE14	39947.Q10RP4	GO Process	GO:0032501	Multicellular organismal process
+SE14	39947.Q10RP4	GO Process	GO:0032502	Developmental process
+SE14	39947.Q10RP4	GO Process	GO:0040029	Epigenetic regulation of gene expression
+SE14	39947.Q10RP4	GO Process	GO:0045814	Negative regulation of gene expression, epigenetic
+SE14	39947.Q10RP4	GO Process	GO:0048367	Shoot system development
+SE14	39947.Q10RP4	GO Process	GO:0048519	Negative regulation of biological process
+SE14	39947.Q10RP4	GO Process	GO:0048523	Negative regulation of cellular process
+SE14	39947.Q10RP4	GO Process	GO:0048579	Negative regulation of long-day photoperiodism, flowering
+SE14	39947.Q10RP4	GO Process	GO:0048580	Regulation of post-embryonic development
+SE14	39947.Q10RP4	GO Process	GO:0048581	Negative regulation of post-embryonic development
+SE14	39947.Q10RP4	GO Process	GO:0048583	Regulation of response to stimulus
+SE14	39947.Q10RP4	GO Process	GO:0048585	Negative regulation of response to stimulus
+SE14	39947.Q10RP4	GO Process	GO:0048586	Regulation of long-day photoperiodism, flowering
+SE14	39947.Q10RP4	GO Process	GO:0048608	Reproductive structure development
+SE14	39947.Q10RP4	GO Process	GO:0048731	System development
+SE14	39947.Q10RP4	GO Process	GO:0048856	Anatomical structure development
+SE14	39947.Q10RP4	GO Process	GO:0050789	Regulation of biological process
+SE14	39947.Q10RP4	GO Process	GO:0050793	Regulation of developmental process
+SE14	39947.Q10RP4	GO Process	GO:0050794	Regulation of cellular process
+SE14	39947.Q10RP4	GO Process	GO:0051093	Negative regulation of developmental process
+SE14	39947.Q10RP4	GO Process	GO:0051239	Regulation of multicellular organismal process
+SE14	39947.Q10RP4	GO Process	GO:0051241	Negative regulation of multicellular organismal process
+SE14	39947.Q10RP4	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+SE14	39947.Q10RP4	GO Process	GO:0061458	Reproductive system development
+SE14	39947.Q10RP4	GO Process	GO:0065007	Biological regulation
+SE14	39947.Q10RP4	GO Process	GO:0071840	Cellular component organization or biogenesis
+SE14	39947.Q10RP4	GO Process	GO:0090567	Reproductive shoot system development
+SE14	39947.Q10RP4	GO Process	GO:2000026	Regulation of multicellular organismal development
+SE14	39947.Q10RP4	GO Process	GO:2000028	Regulation of photoperiodism, flowering
+SE14	39947.Q10RP4	GO Function	GO:0003824	Catalytic activity
+SE14	39947.Q10RP4	GO Function	GO:0005488	Binding
+SE14	39947.Q10RP4	GO Function	GO:0008270	Zinc ion binding
+SE14	39947.Q10RP4	GO Function	GO:0016491	Oxidoreductase activity
+SE14	39947.Q10RP4	GO Function	GO:0016705	Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+SE14	39947.Q10RP4	GO Function	GO:0016706	2-oxoglutarate-dependent dioxygenase activity
+SE14	39947.Q10RP4	GO Function	GO:0032451	Demethylase activity
+SE14	39947.Q10RP4	GO Function	GO:0032452	Histone demethylase activity
+SE14	39947.Q10RP4	GO Function	GO:0032453	Histone H3K4 demethylase activity
+SE14	39947.Q10RP4	GO Function	GO:0034647	Histone H3K4me/H3K4me2/H3K4me3 demethylase activity
+SE14	39947.Q10RP4	GO Function	GO:0036094	Small molecule binding
+SE14	39947.Q10RP4	GO Function	GO:0043167	Ion binding
+SE14	39947.Q10RP4	GO Function	GO:0043169	Cation binding
+SE14	39947.Q10RP4	GO Function	GO:0046872	Metal ion binding
+SE14	39947.Q10RP4	GO Function	GO:0046914	Transition metal ion binding
+SE14	39947.Q10RP4	GO Function	GO:0051213	Dioxygenase activity
+SE14	39947.Q10RP4	GO Function	GO:0140096	Catalytic activity, acting on a protein
+SE14	39947.Q10RP4	GO Function	GO:0140457	Protein demethylase activity
+SE14	39947.Q10RP4	GO Function	GO:0140993	Histone modifying activity
+SE14	39947.Q10RP4	GO Function	GO:0141052	Histone H3 demethylase activity
+SE14	39947.Q10RP4	GO Component	GO:0000785	Chromatin
+SE14	39947.Q10RP4	GO Component	GO:0005622	Intracellular anatomical structure
+SE14	39947.Q10RP4	GO Component	GO:0005634	Nucleus
+SE14	39947.Q10RP4	GO Component	GO:0005694	Chromosome
+SE14	39947.Q10RP4	GO Component	GO:0043226	Organelle
+SE14	39947.Q10RP4	GO Component	GO:0043227	Membrane-bounded organelle
+SE14	39947.Q10RP4	GO Component	GO:0043228	Membraneless organelle
+SE14	39947.Q10RP4	GO Component	GO:0043229	Intracellular organelle
+SE14	39947.Q10RP4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+SE14	39947.Q10RP4	GO Component	GO:0043232	Intracellular membraneless organelle
+SE14	39947.Q10RP4	GO Component	GO:0110165	Cellular anatomical structure
+SE14	39947.Q10RP4	STRING clusters	CL:8941	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+SE14	39947.Q10RP4	STRING clusters	CL:8942	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+SE14	39947.Q10RP4	STRING clusters	CL:8944	Mixed, incl. Nucleosome, and PcG protein complex
+SE14	39947.Q10RP4	STRING clusters	CL:8946	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+SE14	39947.Q10RP4	STRING clusters	CL:8948	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+SE14	39947.Q10RP4	STRING clusters	CL:8951	Mixed, incl. Nucleosome, and PcG protein complex
+SE14	39947.Q10RP4	STRING clusters	CL:8954	Mixed, incl. PcG protein complex, and Nucleosome core
+SE14	39947.Q10RP4	STRING clusters	CL:8956	Mixed, incl. PcG protein complex, and Nucleosome core
+SE14	39947.Q10RP4	STRING clusters	CL:8961	Chromatin silencing complex, and ESC/E(Z) complex
+SE14	39947.Q10RP4	STRING clusters	CL:8981	Mixed, incl. jmjN domain, and Transcription corepressor binding
+SE14	39947.Q10RP4	Reactome	MAP-212436	Generic Transcription Pathway
+SE14	39947.Q10RP4	Reactome	MAP-73857	RNA Polymerase II Transcription
+SE14	39947.Q10RP4	Reactome	MAP-74160	Gene expression (Transcription)
+SE14	39947.Q10RP4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+SE14	39947.Q10RP4	COMPARTMENTS	GOCC:0005634	Nucleus
+SE14	39947.Q10RP4	COMPARTMENTS	GOCC:0043226	Organelle
+SE14	39947.Q10RP4	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+SE14	39947.Q10RP4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+SE14	39947.Q10RP4	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+SE14	39947.Q10RP4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+SE14	39947.Q10RP4	UniProt Keywords	KW-0156	Chromatin regulator
+SE14	39947.Q10RP4	UniProt Keywords	KW-0223	Dioxygenase
+SE14	39947.Q10RP4	UniProt Keywords	KW-0287	Flowering
+SE14	39947.Q10RP4	UniProt Keywords	KW-0408	Iron
+SE14	39947.Q10RP4	UniProt Keywords	KW-0479	Metal-binding
+SE14	39947.Q10RP4	UniProt Keywords	KW-0539	Nucleus
+SE14	39947.Q10RP4	UniProt Keywords	KW-0560	Oxidoreductase
+SE14	39947.Q10RP4	UniProt Keywords	KW-0677	Repeat
+SE14	39947.Q10RP4	UniProt Keywords	KW-0804	Transcription
+SE14	39947.Q10RP4	UniProt Keywords	KW-0805	Transcription regulation
+SE14	39947.Q10RP4	UniProt Keywords	KW-0862	Zinc
+SE14	39947.Q10RP4	UniProt Keywords	KW-0863	Zinc-finger
+SE14	39947.Q10RP4	Pfam	PF02375	jmjN domain
+SE14	39947.Q10RP4	InterPro	IPR003347	JmjC domain
+SE14	39947.Q10RP4	InterPro	IPR003349	JmjN domain
+SE14	39947.Q10RP4	InterPro	IPR013087	Zinc finger C2H2-type
+SE14	39947.Q10RP4	InterPro	IPR036236	Zinc finger C2H2 superfamily
+SE14	39947.Q10RP4	SMART	SM00355	Zinc finger
+SE14	39947.Q10RP4	SMART	SM00558	A domain family that is part of the cupin metalloenzyme superfamily.
+ZHD10	39947.Q6Z528	GO Process	GO:0006355	Regulation of DNA-templated transcription
+ZHD10	39947.Q6Z528	GO Process	GO:0009889	Regulation of biosynthetic process
+ZHD10	39947.Q6Z528	GO Process	GO:0010468	Regulation of gene expression
+ZHD10	39947.Q6Z528	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ZHD10	39947.Q6Z528	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ZHD10	39947.Q6Z528	GO Process	GO:0019222	Regulation of metabolic process
+ZHD10	39947.Q6Z528	GO Process	GO:0050789	Regulation of biological process
+ZHD10	39947.Q6Z528	GO Process	GO:0050794	Regulation of cellular process
+ZHD10	39947.Q6Z528	GO Process	GO:0051252	Regulation of RNA metabolic process
+ZHD10	39947.Q6Z528	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ZHD10	39947.Q6Z528	GO Process	GO:0065007	Biological regulation
+ZHD10	39947.Q6Z528	GO Process	GO:0080090	Regulation of primary metabolic process
+ZHD10	39947.Q6Z528	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ZHD10	39947.Q6Z528	GO Function	GO:0000976	Transcription cis-regulatory region binding
+ZHD10	39947.Q6Z528	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+ZHD10	39947.Q6Z528	GO Function	GO:0003676	Nucleic acid binding
+ZHD10	39947.Q6Z528	GO Function	GO:0003677	DNA binding
+ZHD10	39947.Q6Z528	GO Function	GO:0003690	Double-stranded DNA binding
+ZHD10	39947.Q6Z528	GO Function	GO:0003700	DNA-binding transcription factor activity
+ZHD10	39947.Q6Z528	GO Function	GO:0005488	Binding
+ZHD10	39947.Q6Z528	GO Function	GO:0008270	Zinc ion binding
+ZHD10	39947.Q6Z528	GO Function	GO:0036094	Small molecule binding
+ZHD10	39947.Q6Z528	GO Function	GO:0043167	Ion binding
+ZHD10	39947.Q6Z528	GO Function	GO:0043169	Cation binding
+ZHD10	39947.Q6Z528	GO Function	GO:0043565	Sequence-specific DNA binding
+ZHD10	39947.Q6Z528	GO Function	GO:0046872	Metal ion binding
+ZHD10	39947.Q6Z528	GO Function	GO:0046914	Transition metal ion binding
+ZHD10	39947.Q6Z528	GO Function	GO:0140110	Transcription regulator activity
+ZHD10	39947.Q6Z528	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+ZHD10	39947.Q6Z528	GO Component	GO:0005622	Intracellular anatomical structure
+ZHD10	39947.Q6Z528	GO Component	GO:0005634	Nucleus
+ZHD10	39947.Q6Z528	GO Component	GO:0043226	Organelle
+ZHD10	39947.Q6Z528	GO Component	GO:0043227	Membrane-bounded organelle
+ZHD10	39947.Q6Z528	GO Component	GO:0043229	Intracellular organelle
+ZHD10	39947.Q6Z528	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ZHD10	39947.Q6Z528	GO Component	GO:0110165	Cellular anatomical structure
+ZHD10	39947.Q6Z528	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ZHD10	39947.Q6Z528	COMPARTMENTS	GOCC:0005634	Nucleus
+ZHD10	39947.Q6Z528	COMPARTMENTS	GOCC:0043226	Organelle
+ZHD10	39947.Q6Z528	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ZHD10	39947.Q6Z528	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ZHD10	39947.Q6Z528	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ZHD10	39947.Q6Z528	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0238	DNA-binding
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0371	Homeobox
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0479	Metal-binding
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0539	Nucleus
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0804	Transcription
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0805	Transcription regulation
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0862	Zinc
+ZHD10	39947.Q6Z528	UniProt Keywords	KW-0863	Zinc-finger
+ZHD10	39947.Q6Z528	Pfam	PF04770	ZF-HD protein dimerisation region
+ZHD10	39947.Q6Z528	InterPro	IPR006455	Homeodomain, ZF-HD class
+ZHD10	39947.Q6Z528	InterPro	IPR006456	ZF-HD homeobox protein, Cys/His-rich dimerisation domain
+ZHD10	39947.Q6Z528	InterPro	IPR009057	Homedomain-like superfamily

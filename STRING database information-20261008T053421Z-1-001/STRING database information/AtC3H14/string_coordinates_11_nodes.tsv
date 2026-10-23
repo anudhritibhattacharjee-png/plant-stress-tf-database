@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+F14M4.8	3702.F4IK69	0.6484631147540983	0.6669197396963125	rgb(0,178,157)	Zinc ion binding/nucleic acid binding protein.
+F4N21.6	3702.Q9C9N3	0.5147540983606558	0.5536876355748375	rgb(255,0,0)	Zinc finger CCCH domain-containing protein 14.
+F5G3.6	3702.Q9SJ41	0.559016393442623	0.8328633405639914	rgb(0,28,178)	Zinc finger CCCH domain-containing protein 18; Possesses ribonuclease activity in vitro.
+F5O4.7	3702.Q9ZUM0	0.37366803278688526	0.692299349240781	rgb(14,178,0)	Zinc finger CCCH domain-containing protein 17.
+F8J2_150	3702.Q9LF94	0.674282786885246	0.4502169197396963	rgb(187,255,101)	Zinc finger (CCCH-type) family protein / RNA recognition motif (RRM)-containing protein.
+MYB46	3702.Q9LXV2	0.506454918032787	0.14761388286334057	rgb(255,175,101)	Transcription factor MYB46; Transcription activator. Involved in the regulation of secondary wall biosynthesis in fibers and vessels. Transcription activator of the mannan synthase CSLA9 that recognizes and binds to the DNA consensus sequence 5'-[AG][GT]T[AT]GGT[GA]-3' cis- regulatory element of CSLA9 promoter. Transcription factor that acts as molecular switch in the NAC012/SND1-mediated transcriptional network regulating secondary wall biosynthesis. Is directly activated by NAC012/SND1. Functions redundantly with MYB83 in the transcriptional regulatory cascade leading to secondary wa [...] 
+Q8S8K5_ARATH	3702.Q8S8K5	0.6945696721311476	0.8250542299349242	rgb(101,199,255)	Uncharacterized protein At2g35736.
+TZF5	3702.Q9FKW2	0.29989754098360655	0.6376355748373103	rgb(150,101,255)	Zinc finger CCCH domain-containing protein 61.
+TZF6	3702.O65036	0.45204918032786884	0.786008676789588	rgb(101,255,163)	Zinc finger CCCH domain-containing protein 54; Embryo-specific transcription factor required at the globular to heart stage transition in embryo development.
+ZFWD3	3702.Q9FKR9	0.35983606557377046	0.8621475054229936	rgb(178,171,0)	Zinc finger CCCH domain-containing protein 59.
+ZFWD4	3702.Q9FE91	0.39672131147540984	0.5185466377440348	rgb(239,117,117)	Zinc finger CCCH domain-containing protein 62.

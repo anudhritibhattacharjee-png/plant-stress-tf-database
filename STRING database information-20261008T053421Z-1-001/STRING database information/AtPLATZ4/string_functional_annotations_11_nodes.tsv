@@ -1,0 +1,658 @@
+#node	identifier	category	term ID	term description
+ARIA	3702.B9DHT4	GO Process	GO:0006950	Response to stress
+ARIA	3702.B9DHT4	GO Process	GO:0006970	Response to osmotic stress
+ARIA	3702.B9DHT4	GO Process	GO:0008152	Metabolic process
+ARIA	3702.B9DHT4	GO Process	GO:0009628	Response to abiotic stimulus
+ARIA	3702.B9DHT4	GO Process	GO:0009651	Response to salt stress
+ARIA	3702.B9DHT4	GO Process	GO:0009719	Response to endogenous stimulus
+ARIA	3702.B9DHT4	GO Process	GO:0009725	Response to hormone
+ARIA	3702.B9DHT4	GO Process	GO:0009737	Response to abscisic acid
+ARIA	3702.B9DHT4	GO Process	GO:0009987	Cellular process
+ARIA	3702.B9DHT4	GO Process	GO:0010029	Regulation of seed germination
+ARIA	3702.B9DHT4	GO Process	GO:0010187	Negative regulation of seed germination
+ARIA	3702.B9DHT4	GO Process	GO:0016567	Protein ubiquitination
+ARIA	3702.B9DHT4	GO Process	GO:0019538	Protein metabolic process
+ARIA	3702.B9DHT4	GO Process	GO:0032446	Protein modification by small protein conjugation
+ARIA	3702.B9DHT4	GO Process	GO:0033993	Response to lipid
+ARIA	3702.B9DHT4	GO Process	GO:0036211	Protein modification process
+ARIA	3702.B9DHT4	GO Process	GO:0042221	Response to chemical
+ARIA	3702.B9DHT4	GO Process	GO:0043170	Macromolecule metabolic process
+ARIA	3702.B9DHT4	GO Process	GO:0043412	Macromolecule modification
+ARIA	3702.B9DHT4	GO Process	GO:0043687	Post-translational protein modification
+ARIA	3702.B9DHT4	GO Process	GO:0044238	Primary metabolic process
+ARIA	3702.B9DHT4	GO Process	GO:0048519	Negative regulation of biological process
+ARIA	3702.B9DHT4	GO Process	GO:0048580	Regulation of post-embryonic development
+ARIA	3702.B9DHT4	GO Process	GO:0048581	Negative regulation of post-embryonic development
+ARIA	3702.B9DHT4	GO Process	GO:0050789	Regulation of biological process
+ARIA	3702.B9DHT4	GO Process	GO:0050793	Regulation of developmental process
+ARIA	3702.B9DHT4	GO Process	GO:0050896	Response to stimulus
+ARIA	3702.B9DHT4	GO Process	GO:0051093	Negative regulation of developmental process
+ARIA	3702.B9DHT4	GO Process	GO:0051239	Regulation of multicellular organismal process
+ARIA	3702.B9DHT4	GO Process	GO:0051241	Negative regulation of multicellular organismal process
+ARIA	3702.B9DHT4	GO Process	GO:0065007	Biological regulation
+ARIA	3702.B9DHT4	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+ARIA	3702.B9DHT4	GO Process	GO:0097305	Response to alcohol
+ARIA	3702.B9DHT4	GO Process	GO:1900140	Regulation of seedling development
+ARIA	3702.B9DHT4	GO Process	GO:1901700	Response to oxygen-containing compound
+ARIA	3702.B9DHT4	GO Process	GO:2000026	Regulation of multicellular organismal development
+ARIA	3702.B9DHT4	GO Function	GO:0005488	Binding
+ARIA	3702.B9DHT4	GO Function	GO:0005515	Protein binding
+ARIA	3702.B9DHT4	GO Component	GO:0005622	Intracellular anatomical structure
+ARIA	3702.B9DHT4	GO Component	GO:0005634	Nucleus
+ARIA	3702.B9DHT4	GO Component	GO:0005886	Plasma membrane
+ARIA	3702.B9DHT4	GO Component	GO:0016020	Membrane
+ARIA	3702.B9DHT4	GO Component	GO:0043226	Organelle
+ARIA	3702.B9DHT4	GO Component	GO:0043227	Membrane-bounded organelle
+ARIA	3702.B9DHT4	GO Component	GO:0043229	Intracellular organelle
+ARIA	3702.B9DHT4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ARIA	3702.B9DHT4	GO Component	GO:0071944	Cell periphery
+ARIA	3702.B9DHT4	GO Component	GO:0110165	Cellular anatomical structure
+ARIA	3702.B9DHT4	STRING clusters	CL:11193	Mixed, incl. Meiosis regulator and mRNA stability factor 1, and Universal stress protein A family
+ARIA	3702.B9DHT4	STRING clusters	CL:11283	Mixed, incl. 3xHMG-box protein HMGB6/HMGB13, and Armadillo repeat protein ABAP1/ARIA
+ARIA	3702.B9DHT4	STRING clusters	CL:11286	Mixed, incl. Armadillo repeat protein ABAP1/ARIA, and J-protein Zuotin/DnaJC2
+ARIA	3702.B9DHT4	Reactome	MAP-1280218	Adaptive Immune System
+ARIA	3702.B9DHT4	Reactome	MAP-162582	Signal Transduction
+ARIA	3702.B9DHT4	Reactome	MAP-168256	Immune System
+ARIA	3702.B9DHT4	Reactome	MAP-388841	Regulation of T cell activation by CD28 family
+ARIA	3702.B9DHT4	Reactome	MAP-389948	Co-inhibition by PD-1
+ARIA	3702.B9DHT4	Reactome	MAP-5358351	Signaling by Hedgehog
+ARIA	3702.B9DHT4	Reactome	MAP-5632684	Hedgehog on state
+ARIA	3702.B9DHT4	Reactome	MAP-9706019	RHOBTB3 ATPase cycle
+ARIA	3702.B9DHT4	Reactome	MAP-9716542	Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+ARIA	3702.B9DHT4	Reactome	MAP-9909615	Regulation of PD-L1(CD274) Post-translational modification
+ARIA	3702.B9DHT4	Reactome	MAP-9909648	Regulation of PD-L1(CD274) expression
+ARIA	3702.B9DHT4	Reactome	MAP-9929491	SPOP-mediated proteasomal degradation of PD-L1(CD274)
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0005634	Nucleus
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0005886	Plasma membrane
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0016020	Membrane
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0043226	Organelle
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0071944	Cell periphery
+ARIA	3702.B9DHT4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ARIA	3702.B9DHT4	UniProt Keywords	KW-0025	Alternative splicing
+ARIA	3702.B9DHT4	UniProt Keywords	KW-0539	Nucleus
+ARIA	3702.B9DHT4	UniProt Keywords	KW-0677	Repeat
+ARIA	3702.B9DHT4	UniProt Keywords	KW-0833	Ubl conjugation pathway
+ARIA	3702.B9DHT4	InterPro	IPR000210	BTB/POZ domain
+ARIA	3702.B9DHT4	InterPro	IPR000225	Armadillo
+ARIA	3702.B9DHT4	InterPro	IPR011333	SKP1/BTB/POZ domain superfamily
+ARIA	3702.B9DHT4	InterPro	IPR011989	Armadillo-like helical
+ARIA	3702.B9DHT4	InterPro	IPR016024	Armadillo-type fold
+ARIA	3702.B9DHT4	InterPro	IPR044282	Armadillo repeat protein ABAP1/ARIA
+ARIA	3702.B9DHT4	SMART	SM00185	Armadillo/beta-catenin-like repeats
+ARIA	3702.B9DHT4	SMART	SM00225	Broad-Complex, Tramtrack and Bric a brac
+F21C20.110	3702.A0A1P8B7H4	GO Function	GO:0003824	Catalytic activity
+F21C20.110	3702.A0A1P8B7H4	GO Function	GO:0016491	Oxidoreductase activity
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0005622	Intracellular anatomical structure
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0005737	Cytoplasm
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0005739	Mitochondrion
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0005829	Cytosol
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0009507	Chloroplast
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0009536	Plastid
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0043226	Organelle
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0043227	Membrane-bounded organelle
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0043229	Intracellular organelle
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+F21C20.110	3702.A0A1P8B7H4	GO Component	GO:0110165	Cellular anatomical structure
+F21C20.110	3702.A0A1P8B7H4	STRING clusters	CL:19183	Mixed, incl. Surfactant metabolism, and Drought recovery
+F21C20.110	3702.A0A1P8B7H4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+F21C20.110	3702.A0A1P8B7H4	COMPARTMENTS	GOCC:0005737	Cytoplasm
+F21C20.110	3702.A0A1P8B7H4	COMPARTMENTS	GOCC:0043226	Organelle
+F21C20.110	3702.A0A1P8B7H4	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+F21C20.110	3702.A0A1P8B7H4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+F21C20.110	3702.A0A1P8B7H4	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+F21C20.110	3702.A0A1P8B7H4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F21C20.110	3702.A0A1P8B7H4	Pfam	PF00106	Short chain dehydrogenase
+F21C20.110	3702.A0A1P8B7H4	InterPro	IPR002347	Short-chain dehydrogenase/reductase SDR
+F21C20.110	3702.A0A1P8B7H4	InterPro	IPR036291	NAD(P)-binding domain superfamily
+F21C20.110	3702.A0A1P8B7H4	InterPro	IPR051468	Fungal Secondary Metabolite SDRs
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0000226	Microtubule cytoskeleton organization
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0001101	Response to acid chemical
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0006950	Response to stress
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0006996	Organelle organization
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0007010	Cytoskeleton organization
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0007017	Microtubule-based process
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0009414	Response to water deprivation
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0009415	Response to water
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0009628	Response to abiotic stimulus
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0009819	Drought recovery
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0009987	Cellular process
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0016043	Cellular component organization
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0040008	Regulation of growth
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0042221	Response to chemical
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0045926	Negative regulation of growth
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0048519	Negative regulation of biological process
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0050789	Regulation of biological process
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0050896	Response to stimulus
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0065007	Biological regulation
+F4C21.19	3702.Q8GUJ5	GO Process	GO:0071840	Cellular component organization or biogenesis
+F4C21.19	3702.Q8GUJ5	GO Process	GO:1901700	Response to oxygen-containing compound
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0003824	Catalytic activity
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0004672	Protein kinase activity
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0004674	Protein serine/threonine kinase activity
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0005488	Binding
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0005515	Protein binding
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0008017	Microtubule binding
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0008092	Cytoskeletal protein binding
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0015631	Tubulin binding
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0016301	Kinase activity
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0016740	Transferase activity
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+F4C21.19	3702.Q8GUJ5	GO Function	GO:0140096	Catalytic activity, acting on a protein
+F4C21.19	3702.Q8GUJ5	GO Component	GO:0005622	Intracellular anatomical structure
+F4C21.19	3702.Q8GUJ5	GO Component	GO:0005737	Cytoplasm
+F4C21.19	3702.Q8GUJ5	GO Component	GO:0110165	Cellular anatomical structure
+F4C21.19	3702.Q8GUJ5	STRING clusters	CL:19183	Mixed, incl. Surfactant metabolism, and Drought recovery
+F4C21.19	3702.Q8GUJ5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F4C21.19	3702.Q8GUJ5	UniProt Keywords	KW-0433	Leucine-rich repeat
+F4C21.19	3702.Q8GUJ5	UniProt Keywords	KW-0677	Repeat
+F4C21.19	3702.Q8GUJ5	InterPro	IPR001611	Leucine-rich repeat
+F4C21.19	3702.Q8GUJ5	InterPro	IPR003591	Leucine-rich repeat, typical subtype
+F4C21.19	3702.Q8GUJ5	InterPro	IPR025875	Leucine rich repeat 4
+F4C21.19	3702.Q8GUJ5	InterPro	IPR032675	Leucine-rich repeat domain superfamily
+F4C21.19	3702.Q8GUJ5	SMART	SM00370	Leucine-rich repeats, outliers
+F6N18.8	3702.F4IEB6	GO Function	GO:0005488	Binding
+F6N18.8	3702.F4IEB6	GO Function	GO:0005515	Protein binding
+F6N18.8	3702.F4IEB6	STRING clusters	CL:19183	Mixed, incl. Surfactant metabolism, and Drought recovery
+F6N18.8	3702.F4IEB6	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+F6N18.8	3702.F4IEB6	COMPARTMENTS	GOCC:0070195	Growth hormone receptor complex
+F6N18.8	3702.F4IEB6	Pfam	PF04640	PLATZ transcription factor
+F6N18.8	3702.F4IEB6	InterPro	IPR006734	PLATZ transcription factor
+F9H16.1	3702.Q93V70	STRING clusters	CL:24177	Mixed, incl. PRA1 family protein, and C-terminal to LisH motif.
+F9H16.1	3702.Q93V70	STRING clusters	CL:24178	Mixed, incl. PRA1 family protein, and C-terminal to LisH motif.
+F9H16.1	3702.Q93V70	STRING clusters	CL:24179	Mixed, incl. PRA1 family protein, and C-terminal to LisH motif.
+F9H16.1	3702.Q93V70	STRING clusters	CL:24277	Mixed, incl. Small GTPase superfamily, Rab, and PPPDE peptidase domain
+F9H16.1	3702.Q93V70	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+F9H16.1	3702.Q93V70	COMPARTMENTS	GOCC:0070195	Growth hormone receptor complex
+F9H16.1	3702.Q93V70	Pfam	PF04640	PLATZ transcription factor
+F9H16.1	3702.Q93V70	InterPro	IPR006734	PLATZ transcription factor
+FCA	3702.O04425	GO Process	GO:0003006	Developmental process involved in reproduction
+FCA	3702.O04425	GO Process	GO:0006325	Chromatin organization
+FCA	3702.O04425	GO Process	GO:0006338	Chromatin remodeling
+FCA	3702.O04425	GO Process	GO:0007275	Multicellular organism development
+FCA	3702.O04425	GO Process	GO:0009553	Embryo sac development
+FCA	3702.O04425	GO Process	GO:0009790	Embryo development
+FCA	3702.O04425	GO Process	GO:0009791	Post-embryonic development
+FCA	3702.O04425	GO Process	GO:0009793	Embryo development ending in seed dormancy
+FCA	3702.O04425	GO Process	GO:0009889	Regulation of biosynthetic process
+FCA	3702.O04425	GO Process	GO:0009890	Negative regulation of biosynthetic process
+FCA	3702.O04425	GO Process	GO:0009892	Negative regulation of metabolic process
+FCA	3702.O04425	GO Process	GO:0009908	Flower development
+FCA	3702.O04425	GO Process	GO:0009909	Regulation of flower development
+FCA	3702.O04425	GO Process	GO:0009987	Cellular process
+FCA	3702.O04425	GO Process	GO:0010154	Fruit development
+FCA	3702.O04425	GO Process	GO:0010468	Regulation of gene expression
+FCA	3702.O04425	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+FCA	3702.O04425	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+FCA	3702.O04425	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+FCA	3702.O04425	GO Process	GO:0010629	Negative regulation of gene expression
+FCA	3702.O04425	GO Process	GO:0016043	Cellular component organization
+FCA	3702.O04425	GO Process	GO:0019222	Regulation of metabolic process
+FCA	3702.O04425	GO Process	GO:0022414	Reproductive process
+FCA	3702.O04425	GO Process	GO:0030154	Cell differentiation
+FCA	3702.O04425	GO Process	GO:0031047	Regulatory ncRNA-mediated gene silencing
+FCA	3702.O04425	GO Process	GO:0031048	Regulatory ncRNA-mediated heterochromatin formation
+FCA	3702.O04425	GO Process	GO:0031507	Heterochromatin formation
+FCA	3702.O04425	GO Process	GO:0032501	Multicellular organismal process
+FCA	3702.O04425	GO Process	GO:0032502	Developmental process
+FCA	3702.O04425	GO Process	GO:0040029	Epigenetic regulation of gene expression
+FCA	3702.O04425	GO Process	GO:0045814	Negative regulation of gene expression, epigenetic
+FCA	3702.O04425	GO Process	GO:0048229	Gametophyte development
+FCA	3702.O04425	GO Process	GO:0048316	Seed development
+FCA	3702.O04425	GO Process	GO:0048367	Shoot system development
+FCA	3702.O04425	GO Process	GO:0048519	Negative regulation of biological process
+FCA	3702.O04425	GO Process	GO:0048523	Negative regulation of cellular process
+FCA	3702.O04425	GO Process	GO:0048580	Regulation of post-embryonic development
+FCA	3702.O04425	GO Process	GO:0048608	Reproductive structure development
+FCA	3702.O04425	GO Process	GO:0048731	System development
+FCA	3702.O04425	GO Process	GO:0048831	Regulation of shoot system development
+FCA	3702.O04425	GO Process	GO:0048856	Anatomical structure development
+FCA	3702.O04425	GO Process	GO:0048869	Cellular developmental process
+FCA	3702.O04425	GO Process	GO:0050789	Regulation of biological process
+FCA	3702.O04425	GO Process	GO:0050793	Regulation of developmental process
+FCA	3702.O04425	GO Process	GO:0050794	Regulation of cellular process
+FCA	3702.O04425	GO Process	GO:0051239	Regulation of multicellular organismal process
+FCA	3702.O04425	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+FCA	3702.O04425	GO Process	GO:0061458	Reproductive system development
+FCA	3702.O04425	GO Process	GO:0065007	Biological regulation
+FCA	3702.O04425	GO Process	GO:0071840	Cellular component organization or biogenesis
+FCA	3702.O04425	GO Process	GO:0090567	Reproductive shoot system development
+FCA	3702.O04425	GO Process	GO:2000026	Regulation of multicellular organismal development
+FCA	3702.O04425	GO Process	GO:2000241	Regulation of reproductive process
+FCA	3702.O04425	GO Function	GO:0003676	Nucleic acid binding
+FCA	3702.O04425	GO Function	GO:0003723	RNA binding
+FCA	3702.O04425	GO Function	GO:0003729	mRNA binding
+FCA	3702.O04425	GO Function	GO:0005488	Binding
+FCA	3702.O04425	GO Function	GO:0005515	Protein binding
+FCA	3702.O04425	GO Function	GO:0008289	Lipid binding
+FCA	3702.O04425	GO Function	GO:0010427	Abscisic acid binding
+FCA	3702.O04425	GO Function	GO:0019840	Isoprenoid binding
+FCA	3702.O04425	GO Function	GO:0031406	Carboxylic acid binding
+FCA	3702.O04425	GO Function	GO:0033293	Monocarboxylic acid binding
+FCA	3702.O04425	GO Function	GO:0036094	Small molecule binding
+FCA	3702.O04425	GO Function	GO:0042562	Hormone binding
+FCA	3702.O04425	GO Function	GO:0043167	Ion binding
+FCA	3702.O04425	GO Function	GO:0043168	Anion binding
+FCA	3702.O04425	GO Function	GO:0043177	Organic acid binding
+FCA	3702.O04425	GO Function	GO:0043178	Alcohol binding
+FCA	3702.O04425	GO Component	GO:0000785	Chromatin
+FCA	3702.O04425	GO Component	GO:0005622	Intracellular anatomical structure
+FCA	3702.O04425	GO Component	GO:0005634	Nucleus
+FCA	3702.O04425	GO Component	GO:0005654	Nucleoplasm
+FCA	3702.O04425	GO Component	GO:0005694	Chromosome
+FCA	3702.O04425	GO Component	GO:0005737	Cytoplasm
+FCA	3702.O04425	GO Component	GO:0016604	Nuclear body
+FCA	3702.O04425	GO Component	GO:0031974	Membrane-enclosed lumen
+FCA	3702.O04425	GO Component	GO:0031981	Nuclear lumen
+FCA	3702.O04425	GO Component	GO:0032991	Protein-containing complex
+FCA	3702.O04425	GO Component	GO:0043226	Organelle
+FCA	3702.O04425	GO Component	GO:0043227	Membrane-bounded organelle
+FCA	3702.O04425	GO Component	GO:0043228	Membraneless organelle
+FCA	3702.O04425	GO Component	GO:0043229	Intracellular organelle
+FCA	3702.O04425	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+FCA	3702.O04425	GO Component	GO:0043232	Intracellular membraneless organelle
+FCA	3702.O04425	GO Component	GO:0043233	Organelle lumen
+FCA	3702.O04425	GO Component	GO:0070013	Intracellular organelle lumen
+FCA	3702.O04425	GO Component	GO:0110165	Cellular anatomical structure
+FCA	3702.O04425	GO Component	GO:1990904	Ribonucleoprotein complex
+FCA	3702.O04425	STRING clusters	CL:27354	Mixed, incl. Flowering, and B-box-type zinc finger
+FCA	3702.O04425	STRING clusters	CL:27355	Mixed, incl. Flowering, and B-box-type zinc finger
+FCA	3702.O04425	STRING clusters	CL:27669	Mixed, incl. FLC EXPRESSOR/FLX-like, and Frigida-like
+FCA	3702.O04425	STRING clusters	CL:27690	Mixed, incl. Response to diterpene, and SPOC domain
+FCA	3702.O04425	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+FCA	3702.O04425	COMPARTMENTS	GOCC:0005634	Nucleus
+FCA	3702.O04425	COMPARTMENTS	GOCC:0043226	Organelle
+FCA	3702.O04425	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+FCA	3702.O04425	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+FCA	3702.O04425	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+FCA	3702.O04425	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+FCA	3702.O04425	UniProt Keywords	KW-0025	Alternative splicing
+FCA	3702.O04425	UniProt Keywords	KW-0217	Developmental protein
+FCA	3702.O04425	UniProt Keywords	KW-0221	Differentiation
+FCA	3702.O04425	UniProt Keywords	KW-0287	Flowering
+FCA	3702.O04425	UniProt Keywords	KW-0539	Nucleus
+FCA	3702.O04425	UniProt Keywords	KW-0677	Repeat
+FCA	3702.O04425	UniProt Keywords	KW-0694	RNA-binding
+FCA	3702.O04425	InterPro	IPR000504	RNA recognition motif domain
+FCA	3702.O04425	InterPro	IPR001202	WW domain
+FCA	3702.O04425	InterPro	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+FCA	3702.O04425	InterPro	IPR035979	RNA-binding domain superfamily
+FCA	3702.O04425	InterPro	IPR036020	WW domain superfamily
+FCA	3702.O04425	InterPro	IPR047193	FCA, RNA recognition motif 1
+FCA	3702.O04425	SMART	SM00360	RNA recognition motif
+FCA	3702.O04425	SMART	SM00456	Domain with 2 conserved Trp (W) residues
+MAN2	3702.Q7Y223	GO Process	GO:0000272	Polysaccharide catabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0005975	Carbohydrate metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0005976	Polysaccharide metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0008152	Metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0009056	Catabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0009057	Macromolecule catabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0009987	Cellular process
+MAN2	3702.Q7Y223	GO Process	GO:0010383	Cell wall polysaccharide metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0010412	Mannan metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0016052	Carbohydrate catabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0043170	Macromolecule metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0044036	Cell wall macromolecule metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0044238	Primary metabolic process
+MAN2	3702.Q7Y223	GO Process	GO:0071554	Cell wall organization or biogenesis
+MAN2	3702.Q7Y223	GO Function	GO:0003824	Catalytic activity
+MAN2	3702.Q7Y223	GO Function	GO:0004553	Hydrolase activity, hydrolyzing O-glycosyl compounds
+MAN2	3702.Q7Y223	GO Function	GO:0004567	Beta-mannosidase activity
+MAN2	3702.Q7Y223	GO Function	GO:0015923	Mannosidase activity
+MAN2	3702.Q7Y223	GO Function	GO:0016787	Hydrolase activity
+MAN2	3702.Q7Y223	GO Function	GO:0016798	Hydrolase activity, acting on glycosyl bonds
+MAN2	3702.Q7Y223	GO Function	GO:0016985	Mannan endo-1,4-beta-mannosidase activity
+MAN2	3702.Q7Y223	GO Component	GO:0005576	Extracellular region
+MAN2	3702.Q7Y223	GO Component	GO:0110165	Cellular anatomical structure
+MAN2	3702.Q7Y223	STRING clusters	CL:30692	Mixed, incl. Invertase/pectin methylesterase inhibitor domain superfamily, and Pectin lyase fold
+MAN2	3702.Q7Y223	STRING clusters	CL:30693	Mostly uncharacterized, incl. Pectin lyase fold, and Domain of unknown function DUF1216
+MAN2	3702.Q7Y223	STRING clusters	CL:30695	Mostly uncharacterized, incl. Pectin lyase fold, and Domain of unknown function DUF1216
+MAN2	3702.Q7Y223	STRING clusters	CL:30893	Mostly uncharacterized, incl. Pre-rRNA-processing protein TSR2, and Glycosyl hydrolase catalytic core
+MAN2	3702.Q7Y223	KEGG	ath00051	Fructose and mannose metabolism
+MAN2	3702.Q7Y223	KEGG	ath01100	Metabolic pathways
+MAN2	3702.Q7Y223	Reactome	MAP-212436	Generic Transcription Pathway
+MAN2	3702.Q7Y223	Reactome	MAP-73857	RNA Polymerase II Transcription
+MAN2	3702.Q7Y223	Reactome	MAP-74160	Gene expression (Transcription)
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0000138	Golgi trans cisterna
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0005737	Cytoplasm
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0005794	Golgi apparatus
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0005795	Golgi stack
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0012505	Endomembrane system
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0031984	Organelle subcompartment
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0031985	Golgi cisterna
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0043226	Organelle
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0098791	Golgi apparatus subcompartment
+MAN2	3702.Q7Y223	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MAN2	3702.Q7Y223	UniProt Keywords	KW-0325	Glycoprotein
+MAN2	3702.Q7Y223	UniProt Keywords	KW-0326	Glycosidase
+MAN2	3702.Q7Y223	UniProt Keywords	KW-0378	Hydrolase
+MAN2	3702.Q7Y223	UniProt Keywords	KW-0732	Signal
+MAN2	3702.Q7Y223	UniProt Keywords	KW-0964	Secreted
+MAN2	3702.Q7Y223	Pfam	PF11790	Glycosyl hydrolase catalytic core
+MAN2	3702.Q7Y223	InterPro	IPR001547	Glycoside hydrolase, family 5
+MAN2	3702.Q7Y223	InterPro	IPR017853	Glycoside hydrolase superfamily
+MAN2	3702.Q7Y223	InterPro	IPR045053	Mannan endo-1,4-beta-mannosidase-like
+OBE1	3702.Q9S736	GO Process	GO:0003006	Developmental process involved in reproduction
+OBE1	3702.Q9S736	GO Process	GO:0007275	Multicellular organism development
+OBE1	3702.Q9S736	GO Process	GO:0009653	Anatomical structure morphogenesis
+OBE1	3702.Q9S736	GO Process	GO:0009790	Embryo development
+OBE1	3702.Q9S736	GO Process	GO:0009791	Post-embryonic development
+OBE1	3702.Q9S736	GO Process	GO:0009793	Embryo development ending in seed dormancy
+OBE1	3702.Q9S736	GO Process	GO:0009888	Tissue development
+OBE1	3702.Q9S736	GO Process	GO:0009889	Regulation of biosynthetic process
+OBE1	3702.Q9S736	GO Process	GO:0009933	Meristem structural organization
+OBE1	3702.Q9S736	GO Process	GO:0010014	Meristem initiation
+OBE1	3702.Q9S736	GO Process	GO:0010015	Root morphogenesis
+OBE1	3702.Q9S736	GO Process	GO:0010071	Root meristem specification
+OBE1	3702.Q9S736	GO Process	GO:0010073	Meristem maintenance
+OBE1	3702.Q9S736	GO Process	GO:0010074	Maintenance of meristem identity
+OBE1	3702.Q9S736	GO Process	GO:0010078	Maintenance of root meristem identity
+OBE1	3702.Q9S736	GO Process	GO:0010154	Fruit development
+OBE1	3702.Q9S736	GO Process	GO:0010468	Regulation of gene expression
+OBE1	3702.Q9S736	GO Process	GO:0010492	Maintenance of shoot apical meristem identity
+OBE1	3702.Q9S736	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+OBE1	3702.Q9S736	GO Process	GO:0016032	Viral process
+OBE1	3702.Q9S736	GO Process	GO:0019222	Regulation of metabolic process
+OBE1	3702.Q9S736	GO Process	GO:0019827	Stem cell population maintenance
+OBE1	3702.Q9S736	GO Process	GO:0022414	Reproductive process
+OBE1	3702.Q9S736	GO Process	GO:0022622	Root system development
+OBE1	3702.Q9S736	GO Process	GO:0031347	Regulation of defense response
+OBE1	3702.Q9S736	GO Process	GO:0032501	Multicellular organismal process
+OBE1	3702.Q9S736	GO Process	GO:0032502	Developmental process
+OBE1	3702.Q9S736	GO Process	GO:0044001	Migration in host
+OBE1	3702.Q9S736	GO Process	GO:0044403	Biological process involved in symbiotic interaction
+OBE1	3702.Q9S736	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+OBE1	3702.Q9S736	GO Process	GO:0046739	Transport of virus in multicellular host
+OBE1	3702.Q9S736	GO Process	GO:0046740	Transport of virus in host, cell to cell
+OBE1	3702.Q9S736	GO Process	GO:0046794	Transport of virus
+OBE1	3702.Q9S736	GO Process	GO:0048316	Seed development
+OBE1	3702.Q9S736	GO Process	GO:0048364	Root development
+OBE1	3702.Q9S736	GO Process	GO:0048507	Meristem development
+OBE1	3702.Q9S736	GO Process	GO:0048508	Embryonic meristem development
+OBE1	3702.Q9S736	GO Process	GO:0048532	Anatomical structure arrangement
+OBE1	3702.Q9S736	GO Process	GO:0048583	Regulation of response to stimulus
+OBE1	3702.Q9S736	GO Process	GO:0048608	Reproductive structure development
+OBE1	3702.Q9S736	GO Process	GO:0048731	System development
+OBE1	3702.Q9S736	GO Process	GO:0048856	Anatomical structure development
+OBE1	3702.Q9S736	GO Process	GO:0050789	Regulation of biological process
+OBE1	3702.Q9S736	GO Process	GO:0050794	Regulation of cellular process
+OBE1	3702.Q9S736	GO Process	GO:0051701	Biological process involved in interaction with host
+OBE1	3702.Q9S736	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+OBE1	3702.Q9S736	GO Process	GO:0061458	Reproductive system development
+OBE1	3702.Q9S736	GO Process	GO:0065007	Biological regulation
+OBE1	3702.Q9S736	GO Process	GO:0080022	Primary root development
+OBE1	3702.Q9S736	GO Process	GO:0080134	Regulation of response to stress
+OBE1	3702.Q9S736	GO Process	GO:0090421	Embryonic meristem initiation
+OBE1	3702.Q9S736	GO Process	GO:0098727	Maintenance of cell number
+OBE1	3702.Q9S736	GO Process	GO:0099402	Plant organ development
+OBE1	3702.Q9S736	GO Process	GO:1905392	Plant organ morphogenesis
+OBE1	3702.Q9S736	GO Function	GO:0005488	Binding
+OBE1	3702.Q9S736	GO Function	GO:0005515	Protein binding
+OBE1	3702.Q9S736	GO Function	GO:0008270	Zinc ion binding
+OBE1	3702.Q9S736	GO Function	GO:0036094	Small molecule binding
+OBE1	3702.Q9S736	GO Function	GO:0042802	Identical protein binding
+OBE1	3702.Q9S736	GO Function	GO:0042803	Protein homodimerization activity
+OBE1	3702.Q9S736	GO Function	GO:0043167	Ion binding
+OBE1	3702.Q9S736	GO Function	GO:0043169	Cation binding
+OBE1	3702.Q9S736	GO Function	GO:0046872	Metal ion binding
+OBE1	3702.Q9S736	GO Function	GO:0046914	Transition metal ion binding
+OBE1	3702.Q9S736	GO Function	GO:0046982	Protein heterodimerization activity
+OBE1	3702.Q9S736	GO Function	GO:0046983	Protein dimerization activity
+OBE1	3702.Q9S736	GO Component	GO:0000785	Chromatin
+OBE1	3702.Q9S736	GO Component	GO:0000792	Heterochromatin
+OBE1	3702.Q9S736	GO Component	GO:0005622	Intracellular anatomical structure
+OBE1	3702.Q9S736	GO Component	GO:0005634	Nucleus
+OBE1	3702.Q9S736	GO Component	GO:0005654	Nucleoplasm
+OBE1	3702.Q9S736	GO Component	GO:0005694	Chromosome
+OBE1	3702.Q9S736	GO Component	GO:0005737	Cytoplasm
+OBE1	3702.Q9S736	GO Component	GO:0009536	Plastid
+OBE1	3702.Q9S736	GO Component	GO:0031974	Membrane-enclosed lumen
+OBE1	3702.Q9S736	GO Component	GO:0031981	Nuclear lumen
+OBE1	3702.Q9S736	GO Component	GO:0043226	Organelle
+OBE1	3702.Q9S736	GO Component	GO:0043227	Membrane-bounded organelle
+OBE1	3702.Q9S736	GO Component	GO:0043228	Membraneless organelle
+OBE1	3702.Q9S736	GO Component	GO:0043229	Intracellular organelle
+OBE1	3702.Q9S736	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+OBE1	3702.Q9S736	GO Component	GO:0043232	Intracellular membraneless organelle
+OBE1	3702.Q9S736	GO Component	GO:0043233	Organelle lumen
+OBE1	3702.Q9S736	GO Component	GO:0070013	Intracellular organelle lumen
+OBE1	3702.Q9S736	GO Component	GO:0110165	Cellular anatomical structure
+OBE1	3702.Q9S736	STRING clusters	CL:29220	Mixed, incl. Histone-like transcription factor (CBF/NF-Y) and archaeal histone, and Zinc finger, GATA-type
+OBE1	3702.Q9S736	STRING clusters	CL:29221	Mixed, incl. Zinc finger, GATA-type, and Protein OBERON
+OBE1	3702.Q9S736	STRING clusters	CL:29295	Mixed, incl. Protein OBERON, and TIFY/JAZ family
+OBE1	3702.Q9S736	STRING clusters	CL:29296	Mixed, incl. Protein OBERON, and TIFY/JAZ family
+OBE1	3702.Q9S736	STRING clusters	CL:29298	Mixed, incl. Protein OBERON, and Coactivator CBP, KIX domain superfamily
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0000785	Chromatin
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0000792	Heterochromatin
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0005634	Nucleus
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0005654	Nucleoplasm
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0005694	Chromosome
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0031981	Nuclear lumen
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0043226	Organelle
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0043233	Organelle lumen
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+OBE1	3702.Q9S736	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+OBE1	3702.Q9S736	UniProt Keywords	KW-0175	Coiled coil
+OBE1	3702.Q9S736	UniProt Keywords	KW-0217	Developmental protein
+OBE1	3702.Q9S736	UniProt Keywords	KW-0479	Metal-binding
+OBE1	3702.Q9S736	UniProt Keywords	KW-0539	Nucleus
+OBE1	3702.Q9S736	UniProt Keywords	KW-0804	Transcription
+OBE1	3702.Q9S736	UniProt Keywords	KW-0805	Transcription regulation
+OBE1	3702.Q9S736	UniProt Keywords	KW-0862	Zinc
+OBE1	3702.Q9S736	UniProt Keywords	KW-0863	Zinc-finger
+OBE1	3702.Q9S736	UniProt Keywords	KW-0945	Host-virus interaction
+OBE1	3702.Q9S736	Pfam	PF16312	Coiled-coil region of Oberon
+OBE1	3702.Q9S736	InterPro	IPR001965	Zinc finger, PHD-type
+OBE1	3702.Q9S736	InterPro	IPR004082	Protein OBERON
+OBE1	3702.Q9S736	InterPro	IPR032535	Oberon, coiled-coil region
+OBE1	3702.Q9S736	InterPro	IPR032881	Oberon-like, PHD finger domain
+OBE1	3702.Q9S736	InterPro	IPR047578	OBERON1-like, PHD finger
+OBE1	3702.Q9S736	SMART	SM00249	PHD zinc finger
+PAT12	3702.Q5M757	GO Process	GO:0006605	Protein targeting
+PAT12	3702.Q5M757	GO Process	GO:0006612	Protein targeting to membrane
+PAT12	3702.Q5M757	GO Process	GO:0009987	Cellular process
+PAT12	3702.Q5M757	GO Process	GO:0045184	Establishment of protein localization
+PAT12	3702.Q5M757	GO Process	GO:0051179	Localization
+PAT12	3702.Q5M757	GO Process	GO:0051234	Establishment of localization
+PAT12	3702.Q5M757	GO Process	GO:0051641	Cellular localization
+PAT12	3702.Q5M757	GO Process	GO:0051668	Localization within membrane
+PAT12	3702.Q5M757	GO Process	GO:0090150	Establishment of protein localization to membrane
+PAT12	3702.Q5M757	GO Function	GO:0003824	Catalytic activity
+PAT12	3702.Q5M757	GO Function	GO:0016409	Palmitoyltransferase activity
+PAT12	3702.Q5M757	GO Function	GO:0016417	S-acyltransferase activity
+PAT12	3702.Q5M757	GO Function	GO:0016740	Transferase activity
+PAT12	3702.Q5M757	GO Function	GO:0016746	Acyltransferase activity
+PAT12	3702.Q5M757	GO Function	GO:0016747	Acyltransferase activity, transferring groups other than amino-acyl groups
+PAT12	3702.Q5M757	GO Function	GO:0019706	Protein-cysteine S-palmitoyltransferase activity
+PAT12	3702.Q5M757	GO Function	GO:0019707	Protein-cysteine S-acyltransferase activity
+PAT12	3702.Q5M757	GO Function	GO:0140096	Catalytic activity, acting on a protein
+PAT12	3702.Q5M757	GO Component	GO:0005622	Intracellular anatomical structure
+PAT12	3702.Q5M757	GO Component	GO:0005737	Cytoplasm
+PAT12	3702.Q5M757	GO Component	GO:0005783	Endoplasmic reticulum
+PAT12	3702.Q5M757	GO Component	GO:0005794	Golgi apparatus
+PAT12	3702.Q5M757	GO Component	GO:0005886	Plasma membrane
+PAT12	3702.Q5M757	GO Component	GO:0012505	Endomembrane system
+PAT12	3702.Q5M757	GO Component	GO:0016020	Membrane
+PAT12	3702.Q5M757	GO Component	GO:0043226	Organelle
+PAT12	3702.Q5M757	GO Component	GO:0043227	Membrane-bounded organelle
+PAT12	3702.Q5M757	GO Component	GO:0043229	Intracellular organelle
+PAT12	3702.Q5M757	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+PAT12	3702.Q5M757	GO Component	GO:0071944	Cell periphery
+PAT12	3702.Q5M757	GO Component	GO:0110165	Cellular anatomical structure
+PAT12	3702.Q5M757	STRING clusters	CL:19183	Mixed, incl. Surfactant metabolism, and Drought recovery
+PAT12	3702.Q5M757	Reactome	MAP-392499	Metabolism of proteins
+PAT12	3702.Q5M757	Reactome	MAP-5683826	Surfactant metabolism
+PAT12	3702.Q5M757	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+PAT12	3702.Q5M757	COMPARTMENTS	GOCC:0043226	Organelle
+PAT12	3702.Q5M757	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+PAT12	3702.Q5M757	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+PAT12	3702.Q5M757	UniProt Keywords	KW-0012	Acyltransferase
+PAT12	3702.Q5M757	UniProt Keywords	KW-0449	Lipoprotein
+PAT12	3702.Q5M757	UniProt Keywords	KW-0472	Membrane
+PAT12	3702.Q5M757	UniProt Keywords	KW-0564	Palmitate
+PAT12	3702.Q5M757	UniProt Keywords	KW-0808	Transferase
+PAT12	3702.Q5M757	UniProt Keywords	KW-0812	Transmembrane
+PAT12	3702.Q5M757	UniProt Keywords	KW-1003	Cell membrane
+PAT12	3702.Q5M757	UniProt Keywords	KW-1133	Transmembrane helix
+PAT12	3702.Q5M757	Pfam	PF01529	DHHC palmitoyltransferase
+PAT12	3702.Q5M757	InterPro	IPR001594	Palmitoyltransferase, DHHC domain
+PAT12	3702.Q5M757	InterPro	IPR039859	Palmitoyltransferase PFA4/ZDHHC16/ZDHHC20/ERF2-like
+POLIA	3702.F4I6M1	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0006259	DNA metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0006260	DNA replication
+POLIA	3702.F4I6M1	GO Process	GO:0006261	DNA-templated DNA replication
+POLIA	3702.F4I6M1	GO Process	GO:0006264	Mitochondrial DNA replication
+POLIA	3702.F4I6M1	GO Process	GO:0006281	DNA repair
+POLIA	3702.F4I6M1	GO Process	GO:0006302	Double-strand break repair
+POLIA	3702.F4I6M1	GO Process	GO:0006950	Response to stress
+POLIA	3702.F4I6M1	GO Process	GO:0006974	DNA damage response
+POLIA	3702.F4I6M1	GO Process	GO:0006996	Organelle organization
+POLIA	3702.F4I6M1	GO Process	GO:0008152	Metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0009058	Biosynthetic process
+POLIA	3702.F4I6M1	GO Process	GO:0009059	Macromolecule biosynthetic process
+POLIA	3702.F4I6M1	GO Process	GO:0009657	Plastid organization
+POLIA	3702.F4I6M1	GO Process	GO:0009987	Cellular process
+POLIA	3702.F4I6M1	GO Process	GO:0016043	Cellular component organization
+POLIA	3702.F4I6M1	GO Process	GO:0032042	Mitochondrial DNA metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0033258	Plastid DNA metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0033259	Plastid DNA replication
+POLIA	3702.F4I6M1	GO Process	GO:0033554	Cellular response to stress
+POLIA	3702.F4I6M1	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+POLIA	3702.F4I6M1	GO Process	GO:0043170	Macromolecule metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0044238	Primary metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0050896	Response to stimulus
+POLIA	3702.F4I6M1	GO Process	GO:0051716	Cellular response to stimulus
+POLIA	3702.F4I6M1	GO Process	GO:0071840	Cellular component organization or biogenesis
+POLIA	3702.F4I6M1	GO Process	GO:0071897	DNA biosynthetic process
+POLIA	3702.F4I6M1	GO Process	GO:0090304	Nucleic acid metabolic process
+POLIA	3702.F4I6M1	GO Process	GO:0141187	Nucleic acid biosynthetic process
+POLIA	3702.F4I6M1	GO Function	GO:0003676	Nucleic acid binding
+POLIA	3702.F4I6M1	GO Function	GO:0003677	DNA binding
+POLIA	3702.F4I6M1	GO Function	GO:0003824	Catalytic activity
+POLIA	3702.F4I6M1	GO Function	GO:0003887	DNA-directed DNA polymerase activity
+POLIA	3702.F4I6M1	GO Function	GO:0004518	Nuclease activity
+POLIA	3702.F4I6M1	GO Function	GO:0004527	Exonuclease activity
+POLIA	3702.F4I6M1	GO Function	GO:0005488	Binding
+POLIA	3702.F4I6M1	GO Function	GO:0005515	Protein binding
+POLIA	3702.F4I6M1	GO Function	GO:0008408	3-5 exonuclease activity
+POLIA	3702.F4I6M1	GO Function	GO:0016740	Transferase activity
+POLIA	3702.F4I6M1	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+POLIA	3702.F4I6M1	GO Function	GO:0016779	Nucleotidyltransferase activity
+POLIA	3702.F4I6M1	GO Function	GO:0016787	Hydrolase activity
+POLIA	3702.F4I6M1	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+POLIA	3702.F4I6M1	GO Function	GO:0034061	DNA polymerase activity
+POLIA	3702.F4I6M1	GO Function	GO:0140097	Catalytic activity, acting on DNA
+POLIA	3702.F4I6M1	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+POLIA	3702.F4I6M1	GO Component	GO:0005622	Intracellular anatomical structure
+POLIA	3702.F4I6M1	GO Component	GO:0005737	Cytoplasm
+POLIA	3702.F4I6M1	GO Component	GO:0005739	Mitochondrion
+POLIA	3702.F4I6M1	GO Component	GO:0009507	Chloroplast
+POLIA	3702.F4I6M1	GO Component	GO:0009536	Plastid
+POLIA	3702.F4I6M1	GO Component	GO:0043226	Organelle
+POLIA	3702.F4I6M1	GO Component	GO:0043227	Membrane-bounded organelle
+POLIA	3702.F4I6M1	GO Component	GO:0043229	Intracellular organelle
+POLIA	3702.F4I6M1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+POLIA	3702.F4I6M1	GO Component	GO:0110165	Cellular anatomical structure
+POLIA	3702.F4I6M1	STRING clusters	CL:7183	Mixed, incl. Whirly transcription factor, and Plastid DNA replication
+POLIA	3702.F4I6M1	KEGG	ath03030	DNA replication
+POLIA	3702.F4I6M1	KEGG	ath03410	Base excision repair
+POLIA	3702.F4I6M1	KEGG	ath03420	Nucleotide excision repair
+POLIA	3702.F4I6M1	KEGG	ath03440	Homologous recombination
+POLIA	3702.F4I6M1	Reactome	MAP-73894	DNA Repair
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0005737	Cytoplasm
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0005739	Mitochondrion
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0009507	Chloroplast
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0009536	Plastid
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0043226	Organelle
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+POLIA	3702.F4I6M1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0150	Chloroplast
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0227	DNA damage
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0234	DNA repair
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0235	DNA replication
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0238	DNA-binding
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0239	DNA-directed DNA polymerase
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0269	Exonuclease
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0378	Hydrolase
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0496	Mitochondrion
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0540	Nuclease
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0548	Nucleotidyltransferase
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0808	Transferase
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0809	Transit peptide
+POLIA	3702.F4I6M1	UniProt Keywords	KW-0934	Plastid
+POLIA	3702.F4I6M1	InterPro	IPR001098	DNA-directed DNA polymerase, family A, palm domain
+POLIA	3702.F4I6M1	InterPro	IPR002298	DNA polymerase A
+POLIA	3702.F4I6M1	InterPro	IPR002562	3-5 exonuclease domain
+POLIA	3702.F4I6M1	InterPro	IPR012337	Ribonuclease H-like superfamily
+POLIA	3702.F4I6M1	InterPro	IPR036397	Ribonuclease H superfamily
+POLIA	3702.F4I6M1	InterPro	IPR043502	DNA/RNA polymerase superfamily
+POLIA	3702.F4I6M1	SMART	SM00474	3-5 exonuclease
+POLIA	3702.F4I6M1	SMART	SM00482	DNA polymerase A domain
+PP2C74	3702.Q9FG61	GO Process	GO:0009966	Regulation of signal transduction
+PP2C74	3702.Q9FG61	GO Process	GO:0010646	Regulation of cell communication
+PP2C74	3702.Q9FG61	GO Process	GO:0023051	Regulation of signaling
+PP2C74	3702.Q9FG61	GO Process	GO:0048583	Regulation of response to stimulus
+PP2C74	3702.Q9FG61	GO Process	GO:0050789	Regulation of biological process
+PP2C74	3702.Q9FG61	GO Process	GO:0050794	Regulation of cellular process
+PP2C74	3702.Q9FG61	GO Process	GO:0065007	Biological regulation
+PP2C74	3702.Q9FG61	GO Process	GO:1902531	Regulation of intracellular signal transduction
+PP2C74	3702.Q9FG61	GO Function	GO:0003824	Catalytic activity
+PP2C74	3702.Q9FG61	GO Function	GO:0004721	Phosphoprotein phosphatase activity
+PP2C74	3702.Q9FG61	GO Function	GO:0004722	Protein serine/threonine phosphatase activity
+PP2C74	3702.Q9FG61	GO Function	GO:0005488	Binding
+PP2C74	3702.Q9FG61	GO Function	GO:0005515	Protein binding
+PP2C74	3702.Q9FG61	GO Function	GO:0016787	Hydrolase activity
+PP2C74	3702.Q9FG61	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+PP2C74	3702.Q9FG61	GO Function	GO:0016791	Phosphatase activity
+PP2C74	3702.Q9FG61	GO Function	GO:0036094	Small molecule binding
+PP2C74	3702.Q9FG61	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+PP2C74	3702.Q9FG61	GO Function	GO:0043167	Ion binding
+PP2C74	3702.Q9FG61	GO Function	GO:0043169	Cation binding
+PP2C74	3702.Q9FG61	GO Function	GO:0046872	Metal ion binding
+PP2C74	3702.Q9FG61	GO Function	GO:0140096	Catalytic activity, acting on a protein
+PP2C74	3702.Q9FG61	GO Component	GO:0005622	Intracellular anatomical structure
+PP2C74	3702.Q9FG61	GO Component	GO:0005634	Nucleus
+PP2C74	3702.Q9FG61	GO Component	GO:0005886	Plasma membrane
+PP2C74	3702.Q9FG61	GO Component	GO:0016020	Membrane
+PP2C74	3702.Q9FG61	GO Component	GO:0043226	Organelle
+PP2C74	3702.Q9FG61	GO Component	GO:0043227	Membrane-bounded organelle
+PP2C74	3702.Q9FG61	GO Component	GO:0043229	Intracellular organelle
+PP2C74	3702.Q9FG61	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+PP2C74	3702.Q9FG61	GO Component	GO:0071944	Cell periphery
+PP2C74	3702.Q9FG61	GO Component	GO:0110165	Cellular anatomical structure
+PP2C74	3702.Q9FG61	STRING clusters	CL:19183	Mixed, incl. Surfactant metabolism, and Drought recovery
+PP2C74	3702.Q9FG61	COMPARTMENTS	GOCC:0005886	Plasma membrane
+PP2C74	3702.Q9FG61	COMPARTMENTS	GOCC:0016020	Membrane
+PP2C74	3702.Q9FG61	COMPARTMENTS	GOCC:0071944	Cell periphery
+PP2C74	3702.Q9FG61	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0378	Hydrolase
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0449	Lipoprotein
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0460	Magnesium
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0464	Manganese
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0472	Membrane
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0479	Metal-binding
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0519	Myristate
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-0904	Protein phosphatase
+PP2C74	3702.Q9FG61	UniProt Keywords	KW-1003	Cell membrane
+PP2C74	3702.Q9FG61	InterPro	IPR001932	PPM-type phosphatase-like domain
+PP2C74	3702.Q9FG61	InterPro	IPR015655	Protein phosphatase 2C
+PP2C74	3702.Q9FG61	InterPro	IPR036457	PPM-type phosphatase-like domain superfamily
+PP2C74	3702.Q9FG61	SMART	SM00331	Sigma factor PP2C-like phosphatases

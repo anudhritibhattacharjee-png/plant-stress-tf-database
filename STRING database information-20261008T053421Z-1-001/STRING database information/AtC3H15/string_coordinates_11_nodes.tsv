@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+F13M7.1	3702.Q94AD9	0.4668032786885246	0.8607929515418503	rgb(101,199,255)	Zinc finger CCCH domain-containing protein 3; Possesses RNA-binding and ribonuclease activities in vitro.
+F5G3.6	3702.Q9SJ41	0.6318647540983606	0.35330396475770925	rgb(255,175,101)	Zinc finger CCCH domain-containing protein 18; Possesses ribonuclease activity in vitro.
+F5O4.7	3702.Q9ZUM0	0.4031762295081967	0.7636563876651983	rgb(187,255,101)	Zinc finger CCCH domain-containing protein 17.
+F8J2_150	3702.Q9LF94	0.7084016393442624	0.7517621145374449	rgb(178,171,0)	Zinc finger (CCCH-type) family protein / RNA recognition motif (RRM)-containing protein.
+MLD14.9	3702.Q9LT81	0.47141393442622953	0.14911894273127752	rgb(239,117,117)	Zinc finger CCCH domain-containing protein 39.
+SZF1	3702.Q93ZS9	0.2860655737704918	0.7081497797356829	rgb(150,101,255)	Zinc finger CCCH domain-containing protein 47; Involved in salt stress response. May positively modulate plant tolerance to salt stress.
+T21B14.5	3702.Q9C7C3	0.43176229508196723	0.46233480176211456	rgb(0,28,178)	Zinc finger CCCH domain-containing protein 36.
+T22E19.17	3702.Q9C9F5	0.506454918032787	0.6030837004405287	rgb(255,0,0)	Zinc finger CCCH domain-containing protein 15.
+TZF6	3702.O65036	0.5442622950819673	0.4722466960352423	rgb(0,178,157)	Zinc finger CCCH domain-containing protein 54; Embryo-specific transcription factor required at the globular to heart stage transition in embryo development.
+ZFWD3	3702.Q9FKR9	0.3478483606557377	0.5237885462555066	rgb(14,178,0)	Zinc finger CCCH domain-containing protein 59.
+ZFWD4	3702.Q9FE91	0.5691598360655739	0.8251101321585904	rgb(101,255,163)	Zinc finger CCCH domain-containing protein 62.

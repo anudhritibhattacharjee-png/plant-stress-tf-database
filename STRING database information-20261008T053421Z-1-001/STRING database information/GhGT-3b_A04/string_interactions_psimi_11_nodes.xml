@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entrySet level="2" version="5" xmlns="net:sf:psidev:mi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="net:sf:psidev:mi http://psidev.sourceforge.net/mi/rel25/src/MIF25.xsd">
+  <entry>
+    <experimentList>
+      <experimentDescription id="7">
+        <names>
+          <shortLabel>automated_textmining</shortLabel>
+          <fullName>Unsupervised, automated mining of biomedical texts: analysis of protein-protein co-mentioning</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="15808823"/>
+            <secondaryRef db="pubmed" id="16046493"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>predictive text mining</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0087"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="6">
+        <names>
+          <shortLabel>knowledge datamining</shortLabel>
+          <fullName>Import of protein-protein association information from curated knowledge databases</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="14681412"/>
+            <secondaryRef db="pubmed" id="15608231"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>experimental knowledge based</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0046"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="5">
+        <names>
+          <shortLabel>experimental_interaction_data</shortLabel>
+          <fullName>Global analysis of protein-protein interaction data, obtained from the literature and from large-scale datasets (BIND database)</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="15608229"/>
+            <secondaryRef db="pubmed" id="15193308"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>experimental knowledge based</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0046"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="4">
+        <names>
+          <shortLabel>gene_coexpression</shortLabel>
+          <fullName>Combined analysis of available microarray data, co-expression analysis</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="9843981"/>
+            <secondaryRef db="pubmed" id="12934013"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>coexpression</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:2231"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="3">
+        <names>
+          <shortLabel>gene_cooccurence</shortLabel>
+          <fullName>Analysis of presence/absence patterns of genes in genomes: functional partners co-occur</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="10200254"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>sequence based phylogenetic profile</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0100"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="2">
+        <names>
+          <shortLabel>gene_fusion_events</shortLabel>
+          <fullName>Detection of gene fusion events: functional linkage inferred for the separate components in other genomes</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="10427000"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+            <secondaryRef db="pubmed" id="10573422"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>domain fusion</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0036"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="1">
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="10077608"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+            <secondaryRef db="pubmed" id="9787636"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>gene neighborhoods</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0057"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+      <experimentDescription id="0">
+        <names>
+          <shortLabel>combined_confidence</shortLabel>
+          <fullName>Probabilistic, benchmarked integration of all evidence types: combined confidence score of predicted functional association (range 0.0 to 1.0)</fullName>
+        </names>
+        <bibref>
+          <xref>
+            <primaryRef db="pubmed" id="15608232"/>
+            <secondaryRef db="pubmed" id="12519996"/>
+          </xref>
+        </bibref>
+        <hostOrganismList>
+          <hostOrganism ncbiTaxId="0">
+            <names>
+              <shortLabel>other/not applicable</shortLabel>
+            </names>
+          </hostOrganism>
+        </hostOrganismList>
+        <interactionDetectionMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </interactionDetectionMethod>
+        <participantIdentificationMethod>
+          <names>
+            <shortLabel>other/not applicable</shortLabel>
+          </names>
+          <xref>
+            <primaryRef db="PSI-MI" id="MI:0686"/>
+          </xref>
+        </participantIdentificationMethod>
+      </experimentDescription>
+    </experimentList>
+    <interactorList>      <interactor id="101">
+        <names>
+          <shortLabel>LOC107948595</shortLabel>
+          <fullName>Trihelix transcription factor GT-3b-like.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8NHV5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107948595" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107948595" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107948595" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8NHV5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8NHV5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8NHV5_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107948595" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="Trihelix transcription factor GT-3b-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016883206.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016883207.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016883208.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016738695" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016738695.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016738696.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016738697.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107948595" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="trihelix transcription factor GT-3b-like" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="102">
+        <names>
+          <shortLabel>LOC107917909</shortLabel>
+          <fullName>Homeobox-leucine zipper protein GLABRA 2.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8KQ16" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107917909" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107917909" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8KQ16" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8KQ16" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8KQ16_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="Homeobox-leucine zipper protein" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="Homeobox-leucine zipper protein GLABRA 2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107917909" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016847320.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016702809" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016702809.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107917909" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="homeobox-leucine zipper protein GLABRA 2" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="103">
+        <names>
+          <shortLabel>LOC107889254</shortLabel>
+          <fullName>Ethylene receptor; May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8HYT0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107889254" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107889254" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107889254" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_EC" dbAc="MI:9999" id="2.7.13.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8HYT0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8HYT0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8HYT0_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_EC" dbAc="MI:9999" id="EC 2.7.13.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="Ethylene receptor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="Ethylene receptor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107889254" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="Protein EIN4-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016813619.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016669108" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016669108.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107889254" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="104">
+        <names>
+          <shortLabel>LOC107926811</shortLabel>
+          <fullName>Ethylene receptor; May act early in the ethylene signal transduction pathway, possibly as an ethylene receptor, or as a regulator of the pathway.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8LIH0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107926811" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107926811" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107926811" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_EC" dbAc="MI:9999" id="2.7.13.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8LIH0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8LIH0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8LIH0_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_EC" dbAc="MI:9999" id="EC 2.7.13.-" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="Ethylene receptor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="Ethylene receptor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107926811" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="Protein EIN4-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016857739.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016713228" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016713228.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107926811" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="105">
+        <names>
+          <shortLabel>LOC107901526</shortLabel>
+          <fullName>GATA transcription factor; Transcriptional activator that specifically binds 5&#x27;-GATA-3&#x27; or 5&#x27;-GAT-3&#x27; motifs within gene promoters. Belongs to the type IV zinc-finger family. Class A subfamily.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8IYA3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107901526" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107901526" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107901526" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8IYA3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8IYA3" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8IYA3_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="GATA transcription factor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="GATA transcription factor 12-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107901526" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016827581.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016683070" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016683070.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107901526" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="106">
+        <names>
+          <shortLabel>LOC107904080</shortLabel>
+          <fullName>GATA transcription factor; Transcriptional activator that specifically binds 5&#x27;-GATA-3&#x27; or 5&#x27;-GAT-3&#x27; motifs within gene promoters. Belongs to the type IV zinc-finger family. Class A subfamily.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8J659" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107904080" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107904080" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107904080" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8J659" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8J659" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8J659_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="GATA transcription factor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="GATA transcription factor 8-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107904080" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016830347.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016830348.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016685836" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016685836.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016685837.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107904080" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="107">
+        <names>
+          <shortLabel>LOC107908822</shortLabel>
+          <fullName>GATA transcription factor; Transcriptional activator that specifically binds 5&#x27;-GATA-3&#x27; or 5&#x27;-GAT-3&#x27; motifs within gene promoters. Belongs to the type IV zinc-finger family. Class A subfamily.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8JMS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107908822" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107908822" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107908822" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8JMS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8JMS8" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8JMS8_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="GATA transcription factor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="GATA transcription factor 5-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107908822" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016836098.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016691587" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016691587.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107908822" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="108">
+        <names>
+          <shortLabel>LOC107906963</shortLabel>
+          <fullName>GATA transcription factor; Transcriptional activator that specifically binds 5&#x27;-GATA-3&#x27; or 5&#x27;-GAT-3&#x27; motifs within gene promoters. Belongs to the type IV zinc-finger family. Class A subfamily.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8JMT0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107906963" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107906963" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107906963" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8JMT0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8JMT0" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8JMT0_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="GATA transcription factor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="GATA transcription factor 12" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107906963" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016834125.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016689614" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016689614.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107906963" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="109">
+        <names>
+          <shortLabel>LOC107913026</shortLabel>
+          <fullName>GATA transcription factor; Transcriptional activator that specifically binds 5&#x27;-GATA-3&#x27; or 5&#x27;-GAT-3&#x27; motifs within gene promoters. Belongs to the type IV zinc-finger family. Class A subfamily.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8K3A5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107913026" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107913026" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107913026" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K3A5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K3A5" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K3A5_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="GATA transcription factor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="GATA transcription factor 5-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107913026" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016841458.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016696947" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016696947.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107913026" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="110">
+        <names>
+          <shortLabel>LOC107912017</shortLabel>
+          <fullName>GATA transcription factor; Transcriptional activator that specifically binds 5&#x27;-GATA-3&#x27; or 5&#x27;-GAT-3&#x27; motifs within gene promoters. Belongs to the type IV zinc-finger family. Class A subfamily.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8K3H2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107912017" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107912017" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107912017" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K3H2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K3H2" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K3H2_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="GATA transcription factor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="GATA transcription factor 5-like" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107912017" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016840049.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016695538" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016695538.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107912017" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+      <interactor id="111">
+        <names>
+          <shortLabel>LOC107913534</shortLabel>
+          <fullName>GATA transcription factor; Transcriptional activator that specifically binds 5&#x27;-GATA-3&#x27; or 5&#x27;-GAT-3&#x27; motifs within gene promoters. Belongs to the type IV zinc-finger family. Class A subfamily.</fullName>
+        </names>
+        <xref>
+        <primaryRef db="refseq" dbAc="MI:0481" id="A0A1U8K540" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_GENEID" dbAc="MI:9999" id="107913534" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID_SHORT" dbAc="MI:9999" id="107913534" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="107913534" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K540" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K540" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="A0A1U8K540_GOSHI" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="GATA transcription factor" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_PRODUCT" dbAc="MI:9999" id="GATA transcription factor 5-like isoform X1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="uniprotkb" dbAc="MI:0486" id="LOC107913534" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XM_016842146.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_NCBI" dbAc="MI:9999" id="XP_016697635" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="refseq" dbAc="MI:0481" id="XP_016697635.1" refType="identity" refTypeAc="MI:0356"/>
+          <secondaryRef db="KEGG_KEGGID" dbAc="MI:9999" id="ghi:107913534" refType="identity" refTypeAc="MI:0356"/>
+        </xref>
+        <interactorType>
+          <names>
+            <shortLabel>protein</shortLabel>
+            <fullName>protein</fullName>
+          </names>
+          <xref>
+            <primaryRef db="psi-mi" dbAc="MI:0488" id="MI:0326" refType="identity" refTypeAc="MI:0356"/>
+          </xref>
+        </interactorType>
+      </interactor>
+    </interactorList>    <interactionList>      <interaction id="112">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="113">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="114">
+            <interactorRef>101</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.620</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="115">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="113">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="114">
+            <interactorRef>101</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.620</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="116">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="117">
+            <interactorRef>103</interactorRef>
+          </participant>
+          <participant id="118">
+            <interactorRef>111</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.600</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="119">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="117">
+            <interactorRef>103</interactorRef>
+          </participant>
+          <participant id="118">
+            <interactorRef>111</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.600</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="120">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="121">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="122">
+            <interactorRef>104</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.600</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="123">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="121">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="122">
+            <interactorRef>104</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.600</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="124">
+        <experimentList>
+          <experimentRef>5</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="125">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="126">
+            <interactorRef>102</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.081</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="127">
+        <experimentList>
+          <experimentRef>6</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="125">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="126">
+            <interactorRef>102</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.173</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="128">
+        <experimentList>
+          <experimentRef>7</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="125">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="126">
+            <interactorRef>102</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.401</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+      <interaction id="129">
+        <experimentList>
+          <experimentRef>0</experimentRef>
+        </experimentList>
+        <participantList>
+          <participant id="125">
+            <interactorRef>111</interactorRef>
+          </participant>
+          <participant id="126">
+            <interactorRef>102</interactorRef>
+          </participant>
+        </participantList>
+        <confidenceList>
+          <confidence>
+            <unit>
+              <names>
+                <shortLabel>likelihood</shortLabel>
+                <fullName>estimated likelihood of predicted functional association being true positive</fullName>
+              </names>
+            </unit>
+            <value>0.504</value>
+          </confidence>
+        </confidenceList>
+      </interaction>
+    </interactionList>  </entry>
+</entrySet>
+
+

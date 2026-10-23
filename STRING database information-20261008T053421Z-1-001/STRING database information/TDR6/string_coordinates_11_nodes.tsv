@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	0.45112704918032787	0.2509708737864078	rgb(150,101,255)	Uncharacterized protein.
+A0A3Q7H0P9	4081.A0A3Q7H0P9	0.5092213114754098	0.8713592233009709	rgb(0,28,178)	Uncharacterized protein.
+A0A3Q7HT15	4081.A0A3Q7HT15	0.6023565573770493	0.8451456310679613	rgb(101,255,163)	Uncharacterized protein.
+A0A3Q7HVN8	4081.A0A3Q7HVN8	0.3543032786885246	0.7263106796116505	rgb(239,117,117)	RPOLA_N domain-containing protein.
+A0A3Q7IUT3	4081.A0A3Q7IUT3	0.560860655737705	0.3610679611650485	rgb(14,178,0)	MADS-box domain-containing protein.
+AG1	4081.Q40168	0.5368852459016394	0.13737864077669903	rgb(187,255,101)	Floral homeotic protein AGAMOUS; Probable transcription factor involved in regulating genes that determines stamen and carpel development in wild-type flowers.
+ALQ	4081.E9JUM2	0.6844262295081968	0.3296116504854369	rgb(178,171,0)	MADS-box transcription factor ARLEQUIN.
+FALSIFLORA	4081.A0A3Q7FS98	0.6042008196721312	0.2492233009708738	rgb(101,199,255)	Floricaula/leafy-like transcription factor; Probable transcription factor. Belongs to the FLO/LFY family.
+Q8H280_SOLLC	4081.Q8H280	0.6604508196721313	0.5131067961165049	rgb(0,178,157)	TAGL11 transcription factor.
+TDR6	4081.A0A3Q7F788	0.502766393442623	0.5340776699029127	rgb(255,0,0)	Uncharacterized protein.
+TPP3	4081.Q40128	0.3100409836065574	0.4501941747572815	rgb(255,175,101)	Flower-specific gamma-thionin-like protein/acidic protein; Belongs to the DEFL family.

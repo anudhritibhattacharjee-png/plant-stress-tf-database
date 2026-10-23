@@ -1,0 +1,4 @@
+#node	identifier	domain_summary_url	annotation	other_names_and_aliases
+DVH24_007673	3750.A0A498HM02	BHLH domain-containing protein.	https://smart.embl.de/smart/DDvec.cgi?smart=544:HLH(430|477)+	103403453,A0A498HM02,A0A498HM02_MALDO,BHLH domain-containing protein,DVH24_007673,Uncharacterized protein LOC103403453,XM_008342293.2,XP_008340515,XP_008340515.1,mdm:103403453
+DVH24_024541	3750.A0A498JIZ7	Uncharacterized protein.	http://smart.embl.de/smart/DDvec.cgi?smart=132:	103439588,A0A498JIZ7,A0A498JIZ7_MALDO,DVH24_024541,EREBP-like factor,Ethylene-responsive transcription factor ERF105,NP_001315890,Uncharacterized protein,mdm:103439588
+DVH24_030584	3750.A0A498K1B1	Dof-type domain-containing protein.	https://smart.embl.de/smart/DDvec.cgi?smart=303:Pfam_zf-Dof(36|94)+	103402173,A0A498K1B1,A0A498K1B1_MALDO,DVH24_030584,Dof zinc finger protein DOF3.5,Dof-type domain-containing protein,XM_008340910.2,XP_008339132,XP_008339132.1,mdm:103402173

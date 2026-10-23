@@ -1,0 +1,802 @@
+#node	identifier	category	term ID	term description
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0003006	Developmental process involved in reproduction
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0007275	Multicellular organism development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0009791	Post-embryonic development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0009891	Positive regulation of biosynthetic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0009893	Positive regulation of metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0009908	Flower development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0010468	Regulation of gene expression
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0019222	Regulation of metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0022414	Reproductive process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0032501	Multicellular organismal process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0032502	Developmental process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0048367	Shoot system development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0048518	Positive regulation of biological process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0048522	Positive regulation of cellular process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0048608	Reproductive structure development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0048731	System development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0048856	Anatomical structure development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0050794	Regulation of cellular process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0061458	Reproductive system development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0065007	Biological regulation
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:0090567	Reproductive shoot system development
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0000976	Transcription cis-regulatory region binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0003677	DNA binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0003690	Double-stranded DNA binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0005488	Binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0005515	Protein binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0043565	Sequence-specific DNA binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0046983	Protein dimerization activity
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:0140110	Transcription regulator activity
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Component	GO:0005634	Nucleus
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Component	GO:0043226	Organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39451	Mixed, incl. MADS MEF2-like, N-terminal, and Circadian rhythm - plant
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39452	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39454	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39455	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39591	Mixed, incl. K-box region, and Meristem initiation
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39593	K-box region, and Meristem initiation
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39595	K-box region
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39596	K-box region
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	STRING clusters	CL:39599	MADS MEF2-like, N-terminal
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	Reactome	MAP-1266738	Developmental Biology
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	Reactome	MAP-525793	Myogenesis
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	UniProt Keywords	KW-0010	Activator
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	UniProt Keywords	KW-0175	Coiled coil
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	UniProt Keywords	KW-0238	DNA-binding
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	UniProt Keywords	KW-0539	Nucleus
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	UniProt Keywords	KW-0804	Transcription
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	UniProt Keywords	KW-0805	Transcription regulation
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	Pfam	PF01486	K-box region
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	InterPro	IPR002100	Transcription factor, MADS-box
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	InterPro	IPR002487	Transcription factor, K-box
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	InterPro	IPR033896	MADS MEF2-like, N-terminal
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+A0A3Q7GYJ2	4081.A0A3Q7GYJ2	SMART	SM00432	MADS
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0007154	Cell communication
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0007165	Signal transduction
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0009719	Response to endogenous stimulus
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0009725	Response to hormone
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0009755	Hormone-mediated signaling pathway
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0009987	Cellular process
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0023052	Signaling
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0032870	Cellular response to hormone stimulus
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0033993	Response to lipid
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0042221	Response to chemical
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0050794	Regulation of cellular process
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0050896	Response to stimulus
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0051716	Cellular response to stimulus
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0065007	Biological regulation
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0071396	Cellular response to lipid
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:0071495	Cellular response to endogenous stimulus
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:1901700	Response to oxygen-containing compound
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Component	GO:0005576	Extracellular region
+A0A3Q7H0P9	4081.A0A3Q7H0P9	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7H0P9	4081.A0A3Q7H0P9	STRING clusters	CL:49029	Mixed, incl. 2OG-Fe(II) oxygenase superfamily, and Methyltransferase, alpha-helical capping domain
+A0A3Q7H0P9	4081.A0A3Q7H0P9	STRING clusters	CL:49310	Mixed, incl. Terpenoid transport, and Homeobox-leucine zipper protein, class I, plant
+A0A3Q7H0P9	4081.A0A3Q7H0P9	COMPARTMENTS	GOCC:0005576	Extracellular region
+A0A3Q7H0P9	4081.A0A3Q7H0P9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7H0P9	4081.A0A3Q7H0P9	UniProt Keywords	KW-0732	Signal
+A0A3Q7H0P9	4081.A0A3Q7H0P9	Pfam	PF02704	Gibberellin regulated protein
+A0A3Q7H0P9	4081.A0A3Q7H0P9	InterPro	IPR003854	Gibberellin regulated protein
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0010468	Regulation of gene expression
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0019222	Regulation of metabolic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0050794	Regulation of cellular process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0065007	Biological regulation
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Function	GO:0005488	Binding
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Component	GO:0005634	Nucleus
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Component	GO:0043226	Organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34901	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34904	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34905	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34906	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34907	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34909	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34911	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34912	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34914	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:34915	Mixed, incl. Lateral organ boundaries, LOB, and Putative O-fucosyltransferase, plant
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:35072	Mixed, incl. QLQ, and Cellulose biosynthesis
+A0A3Q7HT15	4081.A0A3Q7HT15	STRING clusters	CL:35074	Mixed, incl. QLQ, and Glycosyltransferase BC10-like
+A0A3Q7HT15	4081.A0A3Q7HT15	Reactome	MAP-109582	Hemostasis
+A0A3Q7HT15	4081.A0A3Q7HT15	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+A0A3Q7HT15	4081.A0A3Q7HT15	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7HT15	4081.A0A3Q7HT15	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3Q7HT15	4081.A0A3Q7HT15	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HT15	4081.A0A3Q7HT15	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7HT15	4081.A0A3Q7HT15	UniProt Keywords	KW-0010	Activator
+A0A3Q7HT15	4081.A0A3Q7HT15	UniProt Keywords	KW-0539	Nucleus
+A0A3Q7HT15	4081.A0A3Q7HT15	UniProt Keywords	KW-0804	Transcription
+A0A3Q7HT15	4081.A0A3Q7HT15	UniProt Keywords	KW-0805	Transcription regulation
+A0A3Q7HT15	4081.A0A3Q7HT15	Pfam	PF08879	WRC
+A0A3Q7HT15	4081.A0A3Q7HT15	Pfam	PF08880	QLQ
+A0A3Q7HT15	4081.A0A3Q7HT15	InterPro	IPR014977	WRC domain
+A0A3Q7HT15	4081.A0A3Q7HT15	InterPro	IPR014978	Glutamine-Leucine-Glutamine, QLQ
+A0A3Q7HT15	4081.A0A3Q7HT15	InterPro	IPR031137	Growth-regulating factor
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0006351	DNA-templated transcription
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0006396	RNA processing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0008152	Metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009890	Negative regulation of biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009892	Negative regulation of metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009893	Positive regulation of metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009894	Regulation of catabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009896	Positive regulation of catabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0009987	Cellular process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010467	Gene expression
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010468	Regulation of gene expression
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010608	Post-transcriptional regulation of gene expression
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0010629	Negative regulation of gene expression
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0016070	RNA metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0016441	Post-transcriptional gene silencing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0019222	Regulation of metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0030422	siRNA processing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0031047	Regulatory ncRNA-mediated gene silencing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0032774	RNA biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0035194	Regulatory ncRNA-mediated post-transcriptional gene silencing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0043487	Regulation of RNA stability
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0043488	Regulation of mRNA stability
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0048518	Positive regulation of biological process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0048519	Negative regulation of biological process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0048522	Positive regulation of cellular process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0048523	Negative regulation of cellular process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0050779	RNA destabilization
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0050794	Regulation of cellular process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0061013	Regulation of mRNA catabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0061014	Positive regulation of mRNA catabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0061157	mRNA destabilization
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0065007	Biological regulation
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0065008	Regulation of biological quality
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0070918	Regulatory ncRNA processing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0090304	Nucleic acid metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0090625	siRNA-mediated gene silencing by mRNA destabilization
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0140766	siRNA-mediated post-transcriptional gene silencing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:0141187	Nucleic acid biosynthetic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:1903311	Regulation of mRNA metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Process	GO:1903313	Positive regulation of mRNA metabolic process
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0003677	DNA binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0003824	Catalytic activity
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0003899	DNA-directed RNA polymerase activity
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0005488	Binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0005515	Protein binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0016740	Transferase activity
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0016779	Nucleotidyltransferase activity
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0034062	5-3 RNA polymerase activity
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0036094	Small molecule binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0043167	Ion binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0043169	Cation binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0046872	Metal ion binding
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0097747	RNA polymerase activity
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0140098	Catalytic activity, acting on RNA
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0000428	DNA-directed RNA polymerase complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0005634	Nucleus
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0005654	Nucleoplasm
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0030880	RNA polymerase complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0031981	Nuclear lumen
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0043226	Organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0043233	Organelle lumen
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0055029	Nuclear DNA-directed RNA polymerase complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0061695	Transferase complex, transferring phosphorus-containing groups
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0140513	Nuclear protein-containing complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:0140535	Intracellular protein-containing complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:1902494	Catalytic complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	GO Component	GO:1990234	Transferase complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	STRING clusters	CL:12285	Mixed, incl. RNA-mediated gene silencing, and siRNA processing
+A0A3Q7HVN8	4081.A0A3Q7HVN8	STRING clusters	CL:12287	RNA-mediated gene silencing, and Ribonuclease III activity
+A0A3Q7HVN8	4081.A0A3Q7HVN8	STRING clusters	CL:12292	RNA-mediated gene silencing, and Protein of unknown function (DUF3223)
+A0A3Q7HVN8	4081.A0A3Q7HVN8	STRING clusters	CL:12296	RNA-mediated gene silencing, and Protein of unknown function (DUF3223)
+A0A3Q7HVN8	4081.A0A3Q7HVN8	STRING clusters	CL:12300	RNA-mediated gene silencing, and Protein of unknown function (DUF3223)
+A0A3Q7HVN8	4081.A0A3Q7HVN8	STRING clusters	CL:12303	RNA-directed RNA polymerase, and This domain is named PAZ after the proteins Piwi Argonaut and Zwille. This domain is found in two families of proteins that are involved in post-transcriptional gene silencing. These are the Piwi family and the Dicer family, that includes the Carpel ...
+A0A3Q7HVN8	4081.A0A3Q7HVN8	KEGG	sly03020	RNA polymerase
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0000418	RNA polymerase IV complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0000428	DNA-directed RNA polymerase complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0055029	Nuclear DNA-directed RNA polymerase complex
+A0A3Q7HVN8	4081.A0A3Q7HVN8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7HVN8	4081.A0A3Q7HVN8	UniProt Keywords	KW-0240	DNA-directed RNA polymerase
+A0A3Q7HVN8	4081.A0A3Q7HVN8	UniProt Keywords	KW-0548	Nucleotidyltransferase
+A0A3Q7HVN8	4081.A0A3Q7HVN8	UniProt Keywords	KW-0804	Transcription
+A0A3Q7HVN8	4081.A0A3Q7HVN8	UniProt Keywords	KW-0808	Transferase
+A0A3Q7HVN8	4081.A0A3Q7HVN8	Pfam	PF05000	RNA polymerase Rpb1, domain 4
+A0A3Q7HVN8	4081.A0A3Q7HVN8	Pfam	PF11523	Protein of unknown function (DUF3223)
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR000722	RNA polymerase, alpha subunit
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR006592	RNA polymerase, N-terminal
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR007066	RNA polymerase Rpb1, domain 3
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR007083	RNA polymerase Rpb1, domain 4
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR038120	RNA polymerase Rpb1, funnel domain superfamily
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR040402	DNA-directed RNA polymerase IV/V subunit 1, C-terminal
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR040403	DNA-directed RNA polymerase IV/V subunit 1, N-terminal
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR042102	RNA polymerase Rpb1, domain 3 superfamily
+A0A3Q7HVN8	4081.A0A3Q7HVN8	InterPro	IPR045867	DNA-directed RNA polymerase, subunit beta-prime
+A0A3Q7HVN8	4081.A0A3Q7HVN8	SMART	SM00663	RNA polymerase I subunit A N-terminus
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0010468	Regulation of gene expression
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0019222	Regulation of metabolic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0050794	Regulation of cellular process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0065007	Biological regulation
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0000976	Transcription cis-regulatory region binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0003677	DNA binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0003690	Double-stranded DNA binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0005488	Binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0005515	Protein binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0043565	Sequence-specific DNA binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0046983	Protein dimerization activity
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:0140110	Transcription regulator activity
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Component	GO:0005634	Nucleus
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Component	GO:0043226	Organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7IUT3	4081.A0A3Q7IUT3	STRING clusters	CL:39778	Transcription factor, MADS-box, and ER body metal ion sequestration protein
+A0A3Q7IUT3	4081.A0A3Q7IUT3	STRING clusters	CL:39780	Transcription factor, MADS-box
+A0A3Q7IUT3	4081.A0A3Q7IUT3	STRING clusters	CL:39783	Transcription factor, MADS-box
+A0A3Q7IUT3	4081.A0A3Q7IUT3	STRING clusters	CL:39784	SRF-like, MADS-box, and Transcription factor, MADS-box
+A0A3Q7IUT3	4081.A0A3Q7IUT3	STRING clusters	CL:39788	SRF-like, MADS-box, and Transcription factor, MADS-box
+A0A3Q7IUT3	4081.A0A3Q7IUT3	STRING clusters	CL:39792	SRF-like, MADS-box, and MADS-box/MEF2 Transcription Factor
+A0A3Q7IUT3	4081.A0A3Q7IUT3	STRING clusters	CL:39810	Mixed, incl. SRF-like, MADS-box, and Pollen maturation
+A0A3Q7IUT3	4081.A0A3Q7IUT3	Reactome	MAP-1266738	Developmental Biology
+A0A3Q7IUT3	4081.A0A3Q7IUT3	Reactome	MAP-525793	Myogenesis
+A0A3Q7IUT3	4081.A0A3Q7IUT3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7IUT3	4081.A0A3Q7IUT3	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3Q7IUT3	4081.A0A3Q7IUT3	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IUT3	4081.A0A3Q7IUT3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7IUT3	4081.A0A3Q7IUT3	UniProt Keywords	KW-0175	Coiled coil
+A0A3Q7IUT3	4081.A0A3Q7IUT3	UniProt Keywords	KW-0238	DNA-binding
+A0A3Q7IUT3	4081.A0A3Q7IUT3	UniProt Keywords	KW-0539	Nucleus
+A0A3Q7IUT3	4081.A0A3Q7IUT3	UniProt Keywords	KW-0804	Transcription
+A0A3Q7IUT3	4081.A0A3Q7IUT3	UniProt Keywords	KW-0805	Transcription regulation
+A0A3Q7IUT3	4081.A0A3Q7IUT3	InterPro	IPR002100	Transcription factor, MADS-box
+A0A3Q7IUT3	4081.A0A3Q7IUT3	InterPro	IPR033897	SRF-like, MADS-box
+A0A3Q7IUT3	4081.A0A3Q7IUT3	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+A0A3Q7IUT3	4081.A0A3Q7IUT3	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+A0A3Q7IUT3	4081.A0A3Q7IUT3	SMART	SM00432	MADS
+AG1	4081.Q40168	GO Process	GO:0003006	Developmental process involved in reproduction
+AG1	4081.Q40168	GO Process	GO:0006355	Regulation of DNA-templated transcription
+AG1	4081.Q40168	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+AG1	4081.Q40168	GO Process	GO:0007275	Multicellular organism development
+AG1	4081.Q40168	GO Process	GO:0009791	Post-embryonic development
+AG1	4081.Q40168	GO Process	GO:0009889	Regulation of biosynthetic process
+AG1	4081.Q40168	GO Process	GO:0009891	Positive regulation of biosynthetic process
+AG1	4081.Q40168	GO Process	GO:0009893	Positive regulation of metabolic process
+AG1	4081.Q40168	GO Process	GO:0010468	Regulation of gene expression
+AG1	4081.Q40168	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+AG1	4081.Q40168	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+AG1	4081.Q40168	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+AG1	4081.Q40168	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+AG1	4081.Q40168	GO Process	GO:0019222	Regulation of metabolic process
+AG1	4081.Q40168	GO Process	GO:0022414	Reproductive process
+AG1	4081.Q40168	GO Process	GO:0032501	Multicellular organismal process
+AG1	4081.Q40168	GO Process	GO:0032502	Developmental process
+AG1	4081.Q40168	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+AG1	4081.Q40168	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+AG1	4081.Q40168	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+AG1	4081.Q40168	GO Process	GO:0048518	Positive regulation of biological process
+AG1	4081.Q40168	GO Process	GO:0048522	Positive regulation of cellular process
+AG1	4081.Q40168	GO Process	GO:0048608	Reproductive structure development
+AG1	4081.Q40168	GO Process	GO:0048731	System development
+AG1	4081.Q40168	GO Process	GO:0048856	Anatomical structure development
+AG1	4081.Q40168	GO Process	GO:0050789	Regulation of biological process
+AG1	4081.Q40168	GO Process	GO:0050794	Regulation of cellular process
+AG1	4081.Q40168	GO Process	GO:0051252	Regulation of RNA metabolic process
+AG1	4081.Q40168	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+AG1	4081.Q40168	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+AG1	4081.Q40168	GO Process	GO:0061458	Reproductive system development
+AG1	4081.Q40168	GO Process	GO:0065007	Biological regulation
+AG1	4081.Q40168	GO Process	GO:0080090	Regulation of primary metabolic process
+AG1	4081.Q40168	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+AG1	4081.Q40168	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+AG1	4081.Q40168	GO Function	GO:0000976	Transcription cis-regulatory region binding
+AG1	4081.Q40168	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+AG1	4081.Q40168	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+AG1	4081.Q40168	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+AG1	4081.Q40168	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+AG1	4081.Q40168	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+AG1	4081.Q40168	GO Function	GO:0003676	Nucleic acid binding
+AG1	4081.Q40168	GO Function	GO:0003677	DNA binding
+AG1	4081.Q40168	GO Function	GO:0003690	Double-stranded DNA binding
+AG1	4081.Q40168	GO Function	GO:0003700	DNA-binding transcription factor activity
+AG1	4081.Q40168	GO Function	GO:0005488	Binding
+AG1	4081.Q40168	GO Function	GO:0005515	Protein binding
+AG1	4081.Q40168	GO Function	GO:0043565	Sequence-specific DNA binding
+AG1	4081.Q40168	GO Function	GO:0046983	Protein dimerization activity
+AG1	4081.Q40168	GO Function	GO:0140110	Transcription regulator activity
+AG1	4081.Q40168	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+AG1	4081.Q40168	GO Component	GO:0005622	Intracellular anatomical structure
+AG1	4081.Q40168	GO Component	GO:0005634	Nucleus
+AG1	4081.Q40168	GO Component	GO:0043226	Organelle
+AG1	4081.Q40168	GO Component	GO:0043227	Membrane-bounded organelle
+AG1	4081.Q40168	GO Component	GO:0043229	Intracellular organelle
+AG1	4081.Q40168	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+AG1	4081.Q40168	GO Component	GO:0110165	Cellular anatomical structure
+AG1	4081.Q40168	STRING clusters	CL:13561	Mixed, incl. Autophagy, and CBS domain
+AG1	4081.Q40168	STRING clusters	CL:13563	Mixed, incl. Autophagy, and CBS domain
+AG1	4081.Q40168	STRING clusters	CL:13564	Mixed, incl. Autophagy, and Regulation of autophagy
+AG1	4081.Q40168	STRING clusters	CL:13566	Mixed, incl. Autophagy - other, and Domain in cystathionine beta-synthase and other proteins.
+AG1	4081.Q40168	STRING clusters	CL:13658	Mixed, incl. Domain in cystathionine beta-synthase and other proteins., and AMP-activated protein kinase, glycogen-binding domain
+AG1	4081.Q40168	STRING clusters	CL:13660	Mixed, incl. Domain in cystathionine beta-synthase and other proteins., and Laforin-like, dual specificity phosphatase domain
+AG1	4081.Q40168	Reactome	MAP-1266738	Developmental Biology
+AG1	4081.Q40168	Reactome	MAP-525793	Myogenesis
+AG1	4081.Q40168	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+AG1	4081.Q40168	COMPARTMENTS	GOCC:0005634	Nucleus
+AG1	4081.Q40168	COMPARTMENTS	GOCC:0043226	Organelle
+AG1	4081.Q40168	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+AG1	4081.Q40168	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+AG1	4081.Q40168	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+AG1	4081.Q40168	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+AG1	4081.Q40168	UniProt Keywords	KW-0010	Activator
+AG1	4081.Q40168	UniProt Keywords	KW-0238	DNA-binding
+AG1	4081.Q40168	UniProt Keywords	KW-0539	Nucleus
+AG1	4081.Q40168	UniProt Keywords	KW-0804	Transcription
+AG1	4081.Q40168	UniProt Keywords	KW-0805	Transcription regulation
+AG1	4081.Q40168	Pfam	PF01486	K-box region
+AG1	4081.Q40168	InterPro	IPR002100	Transcription factor, MADS-box
+AG1	4081.Q40168	InterPro	IPR002487	Transcription factor, K-box
+AG1	4081.Q40168	InterPro	IPR033896	MADS MEF2-like, N-terminal
+AG1	4081.Q40168	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+AG1	4081.Q40168	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+AG1	4081.Q40168	SMART	SM00432	MADS
+ALQ	4081.E9JUM2	GO Process	GO:0003006	Developmental process involved in reproduction
+ALQ	4081.E9JUM2	GO Process	GO:0006355	Regulation of DNA-templated transcription
+ALQ	4081.E9JUM2	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+ALQ	4081.E9JUM2	GO Process	GO:0007275	Multicellular organism development
+ALQ	4081.E9JUM2	GO Process	GO:0009791	Post-embryonic development
+ALQ	4081.E9JUM2	GO Process	GO:0009889	Regulation of biosynthetic process
+ALQ	4081.E9JUM2	GO Process	GO:0009891	Positive regulation of biosynthetic process
+ALQ	4081.E9JUM2	GO Process	GO:0009893	Positive regulation of metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0010468	Regulation of gene expression
+ALQ	4081.E9JUM2	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ALQ	4081.E9JUM2	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+ALQ	4081.E9JUM2	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0019222	Regulation of metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0022414	Reproductive process
+ALQ	4081.E9JUM2	GO Process	GO:0032501	Multicellular organismal process
+ALQ	4081.E9JUM2	GO Process	GO:0032502	Developmental process
+ALQ	4081.E9JUM2	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+ALQ	4081.E9JUM2	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+ALQ	4081.E9JUM2	GO Process	GO:0048518	Positive regulation of biological process
+ALQ	4081.E9JUM2	GO Process	GO:0048522	Positive regulation of cellular process
+ALQ	4081.E9JUM2	GO Process	GO:0048608	Reproductive structure development
+ALQ	4081.E9JUM2	GO Process	GO:0048731	System development
+ALQ	4081.E9JUM2	GO Process	GO:0048856	Anatomical structure development
+ALQ	4081.E9JUM2	GO Process	GO:0050789	Regulation of biological process
+ALQ	4081.E9JUM2	GO Process	GO:0050794	Regulation of cellular process
+ALQ	4081.E9JUM2	GO Process	GO:0051252	Regulation of RNA metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:0061458	Reproductive system development
+ALQ	4081.E9JUM2	GO Process	GO:0065007	Biological regulation
+ALQ	4081.E9JUM2	GO Process	GO:0080090	Regulation of primary metabolic process
+ALQ	4081.E9JUM2	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+ALQ	4081.E9JUM2	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ALQ	4081.E9JUM2	GO Function	GO:0000976	Transcription cis-regulatory region binding
+ALQ	4081.E9JUM2	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+ALQ	4081.E9JUM2	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ALQ	4081.E9JUM2	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+ALQ	4081.E9JUM2	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+ALQ	4081.E9JUM2	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+ALQ	4081.E9JUM2	GO Function	GO:0003676	Nucleic acid binding
+ALQ	4081.E9JUM2	GO Function	GO:0003677	DNA binding
+ALQ	4081.E9JUM2	GO Function	GO:0003690	Double-stranded DNA binding
+ALQ	4081.E9JUM2	GO Function	GO:0003700	DNA-binding transcription factor activity
+ALQ	4081.E9JUM2	GO Function	GO:0005488	Binding
+ALQ	4081.E9JUM2	GO Function	GO:0005515	Protein binding
+ALQ	4081.E9JUM2	GO Function	GO:0043565	Sequence-specific DNA binding
+ALQ	4081.E9JUM2	GO Function	GO:0046983	Protein dimerization activity
+ALQ	4081.E9JUM2	GO Function	GO:0140110	Transcription regulator activity
+ALQ	4081.E9JUM2	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+ALQ	4081.E9JUM2	GO Component	GO:0005622	Intracellular anatomical structure
+ALQ	4081.E9JUM2	GO Component	GO:0005634	Nucleus
+ALQ	4081.E9JUM2	GO Component	GO:0043226	Organelle
+ALQ	4081.E9JUM2	GO Component	GO:0043227	Membrane-bounded organelle
+ALQ	4081.E9JUM2	GO Component	GO:0043229	Intracellular organelle
+ALQ	4081.E9JUM2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ALQ	4081.E9JUM2	GO Component	GO:0110165	Cellular anatomical structure
+ALQ	4081.E9JUM2	STRING clusters	CL:39451	Mixed, incl. MADS MEF2-like, N-terminal, and Circadian rhythm - plant
+ALQ	4081.E9JUM2	STRING clusters	CL:39452	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+ALQ	4081.E9JUM2	STRING clusters	CL:39454	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+ALQ	4081.E9JUM2	STRING clusters	CL:39455	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+ALQ	4081.E9JUM2	STRING clusters	CL:39591	Mixed, incl. K-box region, and Meristem initiation
+ALQ	4081.E9JUM2	STRING clusters	CL:39593	K-box region, and Meristem initiation
+ALQ	4081.E9JUM2	STRING clusters	CL:39595	K-box region
+ALQ	4081.E9JUM2	STRING clusters	CL:39617	K-box region, and Homeobox-leucine zipper protein, class I, plant
+ALQ	4081.E9JUM2	Reactome	MAP-1266738	Developmental Biology
+ALQ	4081.E9JUM2	Reactome	MAP-525793	Myogenesis
+ALQ	4081.E9JUM2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ALQ	4081.E9JUM2	COMPARTMENTS	GOCC:0005634	Nucleus
+ALQ	4081.E9JUM2	COMPARTMENTS	GOCC:0043226	Organelle
+ALQ	4081.E9JUM2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ALQ	4081.E9JUM2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ALQ	4081.E9JUM2	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ALQ	4081.E9JUM2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ALQ	4081.E9JUM2	UniProt Keywords	KW-0010	Activator
+ALQ	4081.E9JUM2	UniProt Keywords	KW-0175	Coiled coil
+ALQ	4081.E9JUM2	UniProt Keywords	KW-0238	DNA-binding
+ALQ	4081.E9JUM2	UniProt Keywords	KW-0539	Nucleus
+ALQ	4081.E9JUM2	UniProt Keywords	KW-0804	Transcription
+ALQ	4081.E9JUM2	UniProt Keywords	KW-0805	Transcription regulation
+ALQ	4081.E9JUM2	Pfam	PF01486	K-box region
+ALQ	4081.E9JUM2	InterPro	IPR002100	Transcription factor, MADS-box
+ALQ	4081.E9JUM2	InterPro	IPR002487	Transcription factor, K-box
+ALQ	4081.E9JUM2	InterPro	IPR033896	MADS MEF2-like, N-terminal
+ALQ	4081.E9JUM2	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+ALQ	4081.E9JUM2	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+ALQ	4081.E9JUM2	SMART	SM00432	MADS
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0006355	Regulation of DNA-templated transcription
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0009889	Regulation of biosynthetic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0010468	Regulation of gene expression
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0019222	Regulation of metabolic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0050789	Regulation of biological process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0050794	Regulation of cellular process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0051252	Regulation of RNA metabolic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0065007	Biological regulation
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:0080090	Regulation of primary metabolic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+FALSIFLORA	4081.A0A3Q7FS98	GO Function	GO:0003676	Nucleic acid binding
+FALSIFLORA	4081.A0A3Q7FS98	GO Function	GO:0003677	DNA binding
+FALSIFLORA	4081.A0A3Q7FS98	GO Function	GO:0005488	Binding
+FALSIFLORA	4081.A0A3Q7FS98	GO Component	GO:0005622	Intracellular anatomical structure
+FALSIFLORA	4081.A0A3Q7FS98	GO Component	GO:0005634	Nucleus
+FALSIFLORA	4081.A0A3Q7FS98	GO Component	GO:0043226	Organelle
+FALSIFLORA	4081.A0A3Q7FS98	GO Component	GO:0043227	Membrane-bounded organelle
+FALSIFLORA	4081.A0A3Q7FS98	GO Component	GO:0043229	Intracellular organelle
+FALSIFLORA	4081.A0A3Q7FS98	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+FALSIFLORA	4081.A0A3Q7FS98	GO Component	GO:0110165	Cellular anatomical structure
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39451	Mixed, incl. MADS MEF2-like, N-terminal, and Circadian rhythm - plant
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39452	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39454	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39455	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39591	Mixed, incl. K-box region, and Meristem initiation
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39593	K-box region, and Meristem initiation
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39635	Mixed, incl. Meristem initiation, and HMG-box domain
+FALSIFLORA	4081.A0A3Q7FS98	STRING clusters	CL:39637	Mixed, incl. HMG-box domain, and Nuclear Receptor transcription pathway
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0005634	Nucleus
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0032039	Integrator complex
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0043226	Organelle
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+FALSIFLORA	4081.A0A3Q7FS98	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+FALSIFLORA	4081.A0A3Q7FS98	UniProt Keywords	KW-0010	Activator
+FALSIFLORA	4081.A0A3Q7FS98	UniProt Keywords	KW-0217	Developmental protein
+FALSIFLORA	4081.A0A3Q7FS98	UniProt Keywords	KW-0238	DNA-binding
+FALSIFLORA	4081.A0A3Q7FS98	UniProt Keywords	KW-0539	Nucleus
+FALSIFLORA	4081.A0A3Q7FS98	UniProt Keywords	KW-0804	Transcription
+FALSIFLORA	4081.A0A3Q7FS98	UniProt Keywords	KW-0805	Transcription regulation
+FALSIFLORA	4081.A0A3Q7FS98	Pfam	PF17538	DNA Binding Domain (C-terminal) Leafy/Floricaula
+FALSIFLORA	4081.A0A3Q7FS98	InterPro	IPR002910	Floricaula/leafy protein
+FALSIFLORA	4081.A0A3Q7FS98	InterPro	IPR035079	Floricaula/Leafy protein, SAM domain
+FALSIFLORA	4081.A0A3Q7FS98	InterPro	IPR035209	Floricaula/leafy, DNA-binding C-terminal domain
+FALSIFLORA	4081.A0A3Q7FS98	InterPro	IPR038276	Floricaula/leafy, C-terminal domain superfamily
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0003006	Developmental process involved in reproduction
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0006355	Regulation of DNA-templated transcription
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0007275	Multicellular organism development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0009791	Post-embryonic development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0009889	Regulation of biosynthetic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0009891	Positive regulation of biosynthetic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0009893	Positive regulation of metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0009908	Flower development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0010468	Regulation of gene expression
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0019222	Regulation of metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0022414	Reproductive process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0032501	Multicellular organismal process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0032502	Developmental process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0048367	Shoot system development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0048518	Positive regulation of biological process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0048522	Positive regulation of cellular process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0048608	Reproductive structure development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0048731	System development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0048856	Anatomical structure development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0050789	Regulation of biological process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0050794	Regulation of cellular process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0061458	Reproductive system development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0065007	Biological regulation
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0080090	Regulation of primary metabolic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:0090567	Reproductive shoot system development
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+Q8H280_SOLLC	4081.Q8H280	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0000976	Transcription cis-regulatory region binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0003676	Nucleic acid binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0003677	DNA binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0003690	Double-stranded DNA binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0003700	DNA-binding transcription factor activity
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0005488	Binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0005515	Protein binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0043565	Sequence-specific DNA binding
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0046983	Protein dimerization activity
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:0140110	Transcription regulator activity
+Q8H280_SOLLC	4081.Q8H280	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+Q8H280_SOLLC	4081.Q8H280	GO Component	GO:0005622	Intracellular anatomical structure
+Q8H280_SOLLC	4081.Q8H280	GO Component	GO:0005634	Nucleus
+Q8H280_SOLLC	4081.Q8H280	GO Component	GO:0043226	Organelle
+Q8H280_SOLLC	4081.Q8H280	GO Component	GO:0043227	Membrane-bounded organelle
+Q8H280_SOLLC	4081.Q8H280	GO Component	GO:0043229	Intracellular organelle
+Q8H280_SOLLC	4081.Q8H280	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q8H280_SOLLC	4081.Q8H280	GO Component	GO:0110165	Cellular anatomical structure
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39451	Mixed, incl. MADS MEF2-like, N-terminal, and Circadian rhythm - plant
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39452	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39454	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39455	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39591	Mixed, incl. K-box region, and Meristem initiation
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39593	K-box region, and Meristem initiation
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39595	K-box region
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39596	K-box region
+Q8H280_SOLLC	4081.Q8H280	STRING clusters	CL:39599	MADS MEF2-like, N-terminal
+Q8H280_SOLLC	4081.Q8H280	Reactome	MAP-1266738	Developmental Biology
+Q8H280_SOLLC	4081.Q8H280	Reactome	MAP-525793	Myogenesis
+Q8H280_SOLLC	4081.Q8H280	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q8H280_SOLLC	4081.Q8H280	COMPARTMENTS	GOCC:0005634	Nucleus
+Q8H280_SOLLC	4081.Q8H280	COMPARTMENTS	GOCC:0043226	Organelle
+Q8H280_SOLLC	4081.Q8H280	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q8H280_SOLLC	4081.Q8H280	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q8H280_SOLLC	4081.Q8H280	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q8H280_SOLLC	4081.Q8H280	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q8H280_SOLLC	4081.Q8H280	UniProt Keywords	KW-0010	Activator
+Q8H280_SOLLC	4081.Q8H280	UniProt Keywords	KW-0175	Coiled coil
+Q8H280_SOLLC	4081.Q8H280	UniProt Keywords	KW-0238	DNA-binding
+Q8H280_SOLLC	4081.Q8H280	UniProt Keywords	KW-0539	Nucleus
+Q8H280_SOLLC	4081.Q8H280	UniProt Keywords	KW-0804	Transcription
+Q8H280_SOLLC	4081.Q8H280	UniProt Keywords	KW-0805	Transcription regulation
+Q8H280_SOLLC	4081.Q8H280	Pfam	PF01486	K-box region
+Q8H280_SOLLC	4081.Q8H280	InterPro	IPR002100	Transcription factor, MADS-box
+Q8H280_SOLLC	4081.Q8H280	InterPro	IPR002487	Transcription factor, K-box
+Q8H280_SOLLC	4081.Q8H280	InterPro	IPR033896	MADS MEF2-like, N-terminal
+Q8H280_SOLLC	4081.Q8H280	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+Q8H280_SOLLC	4081.Q8H280	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+Q8H280_SOLLC	4081.Q8H280	SMART	SM00432	MADS
+TDR6	4081.A0A3Q7F788	GO Process	GO:0003006	Developmental process involved in reproduction
+TDR6	4081.A0A3Q7F788	GO Process	GO:0006355	Regulation of DNA-templated transcription
+TDR6	4081.A0A3Q7F788	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+TDR6	4081.A0A3Q7F788	GO Process	GO:0007275	Multicellular organism development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0009791	Post-embryonic development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0009889	Regulation of biosynthetic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0009891	Positive regulation of biosynthetic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0009893	Positive regulation of metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0009908	Flower development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0010468	Regulation of gene expression
+TDR6	4081.A0A3Q7F788	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0019222	Regulation of metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0022414	Reproductive process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0032501	Multicellular organismal process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0032502	Developmental process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+TDR6	4081.A0A3Q7F788	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+TDR6	4081.A0A3Q7F788	GO Process	GO:0048367	Shoot system development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0048518	Positive regulation of biological process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0048522	Positive regulation of cellular process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0048608	Reproductive structure development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0048731	System development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0048856	Anatomical structure development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0050789	Regulation of biological process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0050794	Regulation of cellular process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0051252	Regulation of RNA metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0061458	Reproductive system development
+TDR6	4081.A0A3Q7F788	GO Process	GO:0065007	Biological regulation
+TDR6	4081.A0A3Q7F788	GO Process	GO:0080090	Regulation of primary metabolic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:0090567	Reproductive shoot system development
+TDR6	4081.A0A3Q7F788	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+TDR6	4081.A0A3Q7F788	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+TDR6	4081.A0A3Q7F788	GO Function	GO:0000976	Transcription cis-regulatory region binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+TDR6	4081.A0A3Q7F788	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0003676	Nucleic acid binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0003677	DNA binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0003690	Double-stranded DNA binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0003700	DNA-binding transcription factor activity
+TDR6	4081.A0A3Q7F788	GO Function	GO:0005488	Binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0005515	Protein binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0043565	Sequence-specific DNA binding
+TDR6	4081.A0A3Q7F788	GO Function	GO:0046983	Protein dimerization activity
+TDR6	4081.A0A3Q7F788	GO Function	GO:0140110	Transcription regulator activity
+TDR6	4081.A0A3Q7F788	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+TDR6	4081.A0A3Q7F788	GO Component	GO:0005622	Intracellular anatomical structure
+TDR6	4081.A0A3Q7F788	GO Component	GO:0005634	Nucleus
+TDR6	4081.A0A3Q7F788	GO Component	GO:0043226	Organelle
+TDR6	4081.A0A3Q7F788	GO Component	GO:0043227	Membrane-bounded organelle
+TDR6	4081.A0A3Q7F788	GO Component	GO:0043229	Intracellular organelle
+TDR6	4081.A0A3Q7F788	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TDR6	4081.A0A3Q7F788	GO Component	GO:0110165	Cellular anatomical structure
+TDR6	4081.A0A3Q7F788	STRING clusters	CL:39778	Transcription factor, MADS-box, and ER body metal ion sequestration protein
+TDR6	4081.A0A3Q7F788	STRING clusters	CL:39780	Transcription factor, MADS-box
+TDR6	4081.A0A3Q7F788	STRING clusters	CL:39783	Transcription factor, MADS-box
+TDR6	4081.A0A3Q7F788	STRING clusters	CL:39784	SRF-like, MADS-box, and Transcription factor, MADS-box
+TDR6	4081.A0A3Q7F788	Reactome	MAP-1266738	Developmental Biology
+TDR6	4081.A0A3Q7F788	Reactome	MAP-525793	Myogenesis
+TDR6	4081.A0A3Q7F788	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+TDR6	4081.A0A3Q7F788	COMPARTMENTS	GOCC:0005634	Nucleus
+TDR6	4081.A0A3Q7F788	COMPARTMENTS	GOCC:0043226	Organelle
+TDR6	4081.A0A3Q7F788	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+TDR6	4081.A0A3Q7F788	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+TDR6	4081.A0A3Q7F788	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+TDR6	4081.A0A3Q7F788	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+TDR6	4081.A0A3Q7F788	UniProt Keywords	KW-0175	Coiled coil
+TDR6	4081.A0A3Q7F788	UniProt Keywords	KW-0238	DNA-binding
+TDR6	4081.A0A3Q7F788	UniProt Keywords	KW-0539	Nucleus
+TDR6	4081.A0A3Q7F788	UniProt Keywords	KW-0804	Transcription
+TDR6	4081.A0A3Q7F788	UniProt Keywords	KW-0805	Transcription regulation
+TDR6	4081.A0A3Q7F788	Pfam	PF01486	K-box region
+TDR6	4081.A0A3Q7F788	InterPro	IPR002100	Transcription factor, MADS-box
+TDR6	4081.A0A3Q7F788	InterPro	IPR002487	Transcription factor, K-box
+TDR6	4081.A0A3Q7F788	InterPro	IPR033896	MADS MEF2-like, N-terminal
+TDR6	4081.A0A3Q7F788	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+TDR6	4081.A0A3Q7F788	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+TDR6	4081.A0A3Q7F788	SMART	SM00432	MADS
+TPP3	4081.Q40128	GO Process	GO:0001906	Cell killing
+TPP3	4081.Q40128	GO Process	GO:0006950	Response to stress
+TPP3	4081.Q40128	GO Process	GO:0006952	Defense response
+TPP3	4081.Q40128	GO Process	GO:0009605	Response to external stimulus
+TPP3	4081.Q40128	GO Process	GO:0009607	Response to biotic stimulus
+TPP3	4081.Q40128	GO Process	GO:0009620	Response to fungus
+TPP3	4081.Q40128	GO Process	GO:0009987	Cellular process
+TPP3	4081.Q40128	GO Process	GO:0031640	Killing of cells of another organism
+TPP3	4081.Q40128	GO Process	GO:0043207	Response to external biotic stimulus
+TPP3	4081.Q40128	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+TPP3	4081.Q40128	GO Process	GO:0050832	Defense response to fungus
+TPP3	4081.Q40128	GO Process	GO:0050896	Response to stimulus
+TPP3	4081.Q40128	GO Process	GO:0051707	Response to other organism
+TPP3	4081.Q40128	GO Process	GO:0141060	Disruption of anatomical structure in another organism
+TPP3	4081.Q40128	GO Process	GO:0141061	Disruption of cell in another organism
+TPP3	4081.Q40128	GO Component	GO:0005622	Intracellular anatomical structure
+TPP3	4081.Q40128	GO Component	GO:0005737	Cytoplasm
+TPP3	4081.Q40128	GO Component	GO:0005773	Vacuole
+TPP3	4081.Q40128	GO Component	GO:0043226	Organelle
+TPP3	4081.Q40128	GO Component	GO:0043227	Membrane-bounded organelle
+TPP3	4081.Q40128	GO Component	GO:0043229	Intracellular organelle
+TPP3	4081.Q40128	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TPP3	4081.Q40128	GO Component	GO:0110165	Cellular anatomical structure
+TPP3	4081.Q40128	STRING clusters	CL:39778	Transcription factor, MADS-box, and ER body metal ion sequestration protein
+TPP3	4081.Q40128	STRING clusters	CL:39780	Transcription factor, MADS-box
+TPP3	4081.Q40128	STRING clusters	CL:39783	Transcription factor, MADS-box
+TPP3	4081.Q40128	STRING clusters	CL:39784	SRF-like, MADS-box, and Transcription factor, MADS-box
+TPP3	4081.Q40128	UniProt Keywords	KW-0732	Signal
+TPP3	4081.Q40128	UniProt Keywords	KW-0964	Secreted
+TPP3	4081.Q40128	UniProt Keywords	KW-1015	Disulfide bond
+TPP3	4081.Q40128	InterPro	IPR003614	Knottin, scorpion toxin-like
+TPP3	4081.Q40128	InterPro	IPR008176	Defensin, plant
+TPP3	4081.Q40128	InterPro	IPR036574	Knottin, scorpion toxin-like superfamily
+TPP3	4081.Q40128	SMART	SM00505	Knottins

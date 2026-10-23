@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+ANR1	3702.Q9SI38	0.5765368852459017	0.13910891089108912	rgb(14,178,0)	MADS-box transcription factor ANR1; Probable transcription factor. Required for root plasticity in response to nitrate, NO(3)(-). Promotes lateral root growth in a NRT1.1-dependent manner.
+CYP707A2	3702.O81077	0.34600409836065577	0.7004950495049506	rgb(255,175,101)	Abscisic acid 8'-hydroxylase 2; Involved in the oxidative degradation of abscisic acid, but not in the isomerization of the produced 8'-hydroxyabscisic acid (8'- OH-ABA) to (-)-phaseic acid (PA). Involved in the control of seed dormancy and germination.
+LBD37	3702.Q9FN11	0.6493852459016395	0.2389108910891089	rgb(178,171,0)	LOB domain-containing protein 37.
+LBD39	3702.Q9SZE8	0.6844262295081968	0.40643564356435646	rgb(101,255,163)	LOB domain-containing protein 39.
+MOB2A	3702.F4K495	0.3100409836065574	0.4046534653465347	rgb(150,101,255)	MOB kinase activator-like 2A.
+MOB2B	3702.F4K494	0.6309426229508197	0.8234653465346535	rgb(0,28,178)	Putative MOB kinase activator-like 2B.
+NIR1	3702.Q39161	0.46956967213114753	0.1997029702970297	rgb(101,199,255)	Ferredoxin--nitrite reductase, chloroplastic; Catalyzes the six-electron reduction of nitrite to ammonium. Belongs to the nitrite and sulfite reductase 4Fe-4S domain family.
+NLP8	3702.O22864	0.49907786885245903	0.5240594059405941	rgb(255,0,0)	Protein NLP8; Probable transcription factor.
+NPF6.3	3702.Q05085	0.6005122950819674	0.45811881188118814	rgb(187,255,101)	Protein NRT1/ PTR FAMILY 6.3; Dual affinity nitrate transporter. Involved in proton- dependent nitrate uptake and in the regulation of the nitrate transporter NRT2.1. Acts also as a nitrate sensor that trigger a specific signaling pathway stimulating lateral root growth and seed germination. The uptake activity is not required for sensor function. Displays an auxin transport facilitation inhibited by high nitrate concentration. Required to prevent auxin accumulation in preemerged lateral root primordia and young lateral roots when external nitrate concentration is low or null. May be i [...] 
+RKD5	3702.O81791	0.4769467213114754	0.8698019801980199	rgb(239,117,117)	Protein RKD5; Putative transcription factor.
+TCP20	3702.Q9LSD5	0.5304303278688525	0.3101980198019802	rgb(0,178,157)	Transcription factor TCP20; Transcription factor that binds to the site II motif (3'- TGGGCC/T-5') in the promoter of PCNA-2 and to 3'-GCCCG/A-5' elements in the promoters of cyclin CYCB1-1 and ribosomal protein genes.

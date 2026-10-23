@@ -1,0 +1,1844 @@
+#node	identifier	category	term ID	term description
+CTR1	3702.Q05609	GO Process	GO:0000160	Phosphorelay signal transduction system
+CTR1	3702.Q05609	GO Process	GO:0001666	Response to hypoxia
+CTR1	3702.Q05609	GO Process	GO:0006082	Organic acid metabolic process
+CTR1	3702.Q05609	GO Process	GO:0006629	Lipid metabolic process
+CTR1	3702.Q05609	GO Process	GO:0006720	Isoprenoid metabolic process
+CTR1	3702.Q05609	GO Process	GO:0006721	Terpenoid metabolic process
+CTR1	3702.Q05609	GO Process	GO:0006950	Response to stress
+CTR1	3702.Q05609	GO Process	GO:0007154	Cell communication
+CTR1	3702.Q05609	GO Process	GO:0007165	Signal transduction
+CTR1	3702.Q05609	GO Process	GO:0008152	Metabolic process
+CTR1	3702.Q05609	GO Process	GO:0008299	Isoprenoid biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0008610	Lipid biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0009058	Biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0009628	Response to abiotic stimulus
+CTR1	3702.Q05609	GO Process	GO:0009685	Gibberellin metabolic process
+CTR1	3702.Q05609	GO Process	GO:0009686	Gibberellin biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0009719	Response to endogenous stimulus
+CTR1	3702.Q05609	GO Process	GO:0009723	Response to ethylene
+CTR1	3702.Q05609	GO Process	GO:0009725	Response to hormone
+CTR1	3702.Q05609	GO Process	GO:0009743	Response to carbohydrate
+CTR1	3702.Q05609	GO Process	GO:0009744	Response to sucrose
+CTR1	3702.Q05609	GO Process	GO:0009746	Response to hexose
+CTR1	3702.Q05609	GO Process	GO:0009750	Response to fructose
+CTR1	3702.Q05609	GO Process	GO:0009755	Hormone-mediated signaling pathway
+CTR1	3702.Q05609	GO Process	GO:0009756	Carbohydrate mediated signaling
+CTR1	3702.Q05609	GO Process	GO:0009873	Ethylene-activated signaling pathway
+CTR1	3702.Q05609	GO Process	GO:0009966	Regulation of signal transduction
+CTR1	3702.Q05609	GO Process	GO:0009968	Negative regulation of signal transduction
+CTR1	3702.Q05609	GO Process	GO:0009987	Cellular process
+CTR1	3702.Q05609	GO Process	GO:0010104	Regulation of ethylene-activated signaling pathway
+CTR1	3702.Q05609	GO Process	GO:0010105	Negative regulation of ethylene-activated signaling pathway
+CTR1	3702.Q05609	GO Process	GO:0010182	Sugar mediated signaling pathway
+CTR1	3702.Q05609	GO Process	GO:0010646	Regulation of cell communication
+CTR1	3702.Q05609	GO Process	GO:0010648	Negative regulation of cell communication
+CTR1	3702.Q05609	GO Process	GO:0016053	Organic acid biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0016101	Diterpenoid metabolic process
+CTR1	3702.Q05609	GO Process	GO:0016102	Diterpenoid biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0016114	Terpenoid biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0019752	Carboxylic acid metabolic process
+CTR1	3702.Q05609	GO Process	GO:0023051	Regulation of signaling
+CTR1	3702.Q05609	GO Process	GO:0023052	Signaling
+CTR1	3702.Q05609	GO Process	GO:0023057	Negative regulation of signaling
+CTR1	3702.Q05609	GO Process	GO:0032870	Cellular response to hormone stimulus
+CTR1	3702.Q05609	GO Process	GO:0034284	Response to monosaccharide
+CTR1	3702.Q05609	GO Process	GO:0034285	Response to disaccharide
+CTR1	3702.Q05609	GO Process	GO:0035556	Intracellular signal transduction
+CTR1	3702.Q05609	GO Process	GO:0036293	Response to decreased oxygen levels
+CTR1	3702.Q05609	GO Process	GO:0040034	Regulation of development, heterochronic
+CTR1	3702.Q05609	GO Process	GO:0042221	Response to chemical
+CTR1	3702.Q05609	GO Process	GO:0043436	Oxoacid metabolic process
+CTR1	3702.Q05609	GO Process	GO:0044238	Primary metabolic process
+CTR1	3702.Q05609	GO Process	GO:0044281	Small molecule metabolic process
+CTR1	3702.Q05609	GO Process	GO:0044283	Small molecule biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0046394	Carboxylic acid biosynthetic process
+CTR1	3702.Q05609	GO Process	GO:0048506	Regulation of timing of meristematic phase transition
+CTR1	3702.Q05609	GO Process	GO:0048509	Regulation of meristem development
+CTR1	3702.Q05609	GO Process	GO:0048510	Regulation of timing of transition from vegetative to reproductive phase
+CTR1	3702.Q05609	GO Process	GO:0048519	Negative regulation of biological process
+CTR1	3702.Q05609	GO Process	GO:0048523	Negative regulation of cellular process
+CTR1	3702.Q05609	GO Process	GO:0048580	Regulation of post-embryonic development
+CTR1	3702.Q05609	GO Process	GO:0048583	Regulation of response to stimulus
+CTR1	3702.Q05609	GO Process	GO:0048585	Negative regulation of response to stimulus
+CTR1	3702.Q05609	GO Process	GO:0050789	Regulation of biological process
+CTR1	3702.Q05609	GO Process	GO:0050793	Regulation of developmental process
+CTR1	3702.Q05609	GO Process	GO:0050794	Regulation of cellular process
+CTR1	3702.Q05609	GO Process	GO:0050896	Response to stimulus
+CTR1	3702.Q05609	GO Process	GO:0051239	Regulation of multicellular organismal process
+CTR1	3702.Q05609	GO Process	GO:0051302	Regulation of cell division
+CTR1	3702.Q05609	GO Process	GO:0051716	Cellular response to stimulus
+CTR1	3702.Q05609	GO Process	GO:0065007	Biological regulation
+CTR1	3702.Q05609	GO Process	GO:0070297	Regulation of phosphorelay signal transduction system
+CTR1	3702.Q05609	GO Process	GO:0070298	Negative regulation of phosphorelay signal transduction system
+CTR1	3702.Q05609	GO Process	GO:0070482	Response to oxygen levels
+CTR1	3702.Q05609	GO Process	GO:0070887	Cellular response to chemical stimulus
+CTR1	3702.Q05609	GO Process	GO:0071322	Cellular response to carbohydrate stimulus
+CTR1	3702.Q05609	GO Process	GO:0071369	Cellular response to ethylene stimulus
+CTR1	3702.Q05609	GO Process	GO:0071495	Cellular response to endogenous stimulus
+CTR1	3702.Q05609	GO Process	GO:1901700	Response to oxygen-containing compound
+CTR1	3702.Q05609	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+CTR1	3702.Q05609	GO Process	GO:1902531	Regulation of intracellular signal transduction
+CTR1	3702.Q05609	GO Process	GO:1902532	Negative regulation of intracellular signal transduction
+CTR1	3702.Q05609	GO Process	GO:2000026	Regulation of multicellular organismal development
+CTR1	3702.Q05609	GO Process	GO:2000035	Regulation of stem cell division
+CTR1	3702.Q05609	GO Process	GO:2000069	Regulation of post-embryonic root development
+CTR1	3702.Q05609	GO Process	GO:2000280	Regulation of root development
+CTR1	3702.Q05609	GO Function	GO:0000166	Nucleotide binding
+CTR1	3702.Q05609	GO Function	GO:0003824	Catalytic activity
+CTR1	3702.Q05609	GO Function	GO:0004672	Protein kinase activity
+CTR1	3702.Q05609	GO Function	GO:0004674	Protein serine/threonine kinase activity
+CTR1	3702.Q05609	GO Function	GO:0004712	Protein serine/threonine/tyrosine kinase activity
+CTR1	3702.Q05609	GO Function	GO:0005488	Binding
+CTR1	3702.Q05609	GO Function	GO:0005515	Protein binding
+CTR1	3702.Q05609	GO Function	GO:0005524	ATP binding
+CTR1	3702.Q05609	GO Function	GO:0016301	Kinase activity
+CTR1	3702.Q05609	GO Function	GO:0016740	Transferase activity
+CTR1	3702.Q05609	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+CTR1	3702.Q05609	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+CTR1	3702.Q05609	GO Function	GO:0017076	Purine nucleotide binding
+CTR1	3702.Q05609	GO Function	GO:0030554	Adenyl nucleotide binding
+CTR1	3702.Q05609	GO Function	GO:0032553	Ribonucleotide binding
+CTR1	3702.Q05609	GO Function	GO:0032555	Purine ribonucleotide binding
+CTR1	3702.Q05609	GO Function	GO:0032559	Adenyl ribonucleotide binding
+CTR1	3702.Q05609	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+CTR1	3702.Q05609	GO Function	GO:0036094	Small molecule binding
+CTR1	3702.Q05609	GO Function	GO:0043167	Ion binding
+CTR1	3702.Q05609	GO Function	GO:0043168	Anion binding
+CTR1	3702.Q05609	GO Function	GO:0097367	Carbohydrate derivative binding
+CTR1	3702.Q05609	GO Function	GO:0106310	Protein serine kinase activity
+CTR1	3702.Q05609	GO Function	GO:0140096	Catalytic activity, acting on a protein
+CTR1	3702.Q05609	GO Function	GO:1901265	Nucleoside phosphate binding
+CTR1	3702.Q05609	GO Function	GO:1901363	Heterocyclic compound binding
+CTR1	3702.Q05609	GO Component	GO:0005622	Intracellular anatomical structure
+CTR1	3702.Q05609	GO Component	GO:0005737	Cytoplasm
+CTR1	3702.Q05609	GO Component	GO:0005783	Endoplasmic reticulum
+CTR1	3702.Q05609	GO Component	GO:0005789	Endoplasmic reticulum membrane
+CTR1	3702.Q05609	GO Component	GO:0012505	Endomembrane system
+CTR1	3702.Q05609	GO Component	GO:0016020	Membrane
+CTR1	3702.Q05609	GO Component	GO:0031090	Organelle membrane
+CTR1	3702.Q05609	GO Component	GO:0031984	Organelle subcompartment
+CTR1	3702.Q05609	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+CTR1	3702.Q05609	GO Component	GO:0043226	Organelle
+CTR1	3702.Q05609	GO Component	GO:0043227	Membrane-bounded organelle
+CTR1	3702.Q05609	GO Component	GO:0043229	Intracellular organelle
+CTR1	3702.Q05609	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+CTR1	3702.Q05609	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+CTR1	3702.Q05609	GO Component	GO:0110165	Cellular anatomical structure
+CTR1	3702.Q05609	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+CTR1	3702.Q05609	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+CTR1	3702.Q05609	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+CTR1	3702.Q05609	STRING clusters	CL:26867	Ethylene signaling pathway, and TMEM222/RTE1
+CTR1	3702.Q05609	STRING clusters	CL:26871	Jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway, and Ethylene insensitive 3
+CTR1	3702.Q05609	KEGG	ath04016	MAPK signaling pathway - plant
+CTR1	3702.Q05609	KEGG	ath04075	Plant hormone signal transduction
+CTR1	3702.Q05609	WikiPathways	WP2851	Ethylene signaling pathway
+CTR1	3702.Q05609	WikiPathways	WP3661	Genetic interactions between sugar and hormone signaling
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0005737	Cytoplasm
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0005789	Endoplasmic reticulum membrane
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0012505	Endomembrane system
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0016020	Membrane
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0031090	Organelle membrane
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0031984	Organelle subcompartment
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0043226	Organelle
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0098827	Endoplasmic reticulum subcompartment
+CTR1	3702.Q05609	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+CTR1	3702.Q05609	UniProt Keywords	KW-0067	ATP-binding
+CTR1	3702.Q05609	UniProt Keywords	KW-0418	Kinase
+CTR1	3702.Q05609	UniProt Keywords	KW-0547	Nucleotide-binding
+CTR1	3702.Q05609	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+CTR1	3702.Q05609	UniProt Keywords	KW-0808	Transferase
+CTR1	3702.Q05609	UniProt Keywords	KW-0936	Ethylene signaling pathway
+CTR1	3702.Q05609	InterPro	IPR000719	Protein kinase domain
+CTR1	3702.Q05609	InterPro	IPR001245	Serine-threonine/tyrosine-protein kinase, catalytic domain
+CTR1	3702.Q05609	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+CTR1	3702.Q05609	InterPro	IPR011009	Protein kinase-like domain superfamily
+CTR1	3702.Q05609	InterPro	IPR017441	Protein kinase, ATP binding site
+CTR1	3702.Q05609	InterPro	IPR051681	Serine/Threonine Kinases and Pseudokinases
+CTR1	3702.Q05609	InterPro	IPR055164	EDR1/CTR1/ARMC3-like, peptidase-like domain
+CTR1	3702.Q05609	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+EBF1	3702.Q9SKK0	GO Process	GO:0000160	Phosphorelay signal transduction system
+EBF1	3702.Q9SKK0	GO Process	GO:0006508	Proteolysis
+EBF1	3702.Q9SKK0	GO Process	GO:0006511	Ubiquitin-dependent protein catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0007154	Cell communication
+EBF1	3702.Q9SKK0	GO Process	GO:0007165	Signal transduction
+EBF1	3702.Q9SKK0	GO Process	GO:0008152	Metabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0009056	Catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0009057	Macromolecule catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0009719	Response to endogenous stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0009723	Response to ethylene
+EBF1	3702.Q9SKK0	GO Process	GO:0009725	Response to hormone
+EBF1	3702.Q9SKK0	GO Process	GO:0009755	Hormone-mediated signaling pathway
+EBF1	3702.Q9SKK0	GO Process	GO:0009873	Ethylene-activated signaling pathway
+EBF1	3702.Q9SKK0	GO Process	GO:0009966	Regulation of signal transduction
+EBF1	3702.Q9SKK0	GO Process	GO:0009968	Negative regulation of signal transduction
+EBF1	3702.Q9SKK0	GO Process	GO:0009987	Cellular process
+EBF1	3702.Q9SKK0	GO Process	GO:0010104	Regulation of ethylene-activated signaling pathway
+EBF1	3702.Q9SKK0	GO Process	GO:0010105	Negative regulation of ethylene-activated signaling pathway
+EBF1	3702.Q9SKK0	GO Process	GO:0010498	Proteasomal protein catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0010646	Regulation of cell communication
+EBF1	3702.Q9SKK0	GO Process	GO:0010648	Negative regulation of cell communication
+EBF1	3702.Q9SKK0	GO Process	GO:0016567	Protein ubiquitination
+EBF1	3702.Q9SKK0	GO Process	GO:0019538	Protein metabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0019941	Modification-dependent protein catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0023051	Regulation of signaling
+EBF1	3702.Q9SKK0	GO Process	GO:0023052	Signaling
+EBF1	3702.Q9SKK0	GO Process	GO:0023057	Negative regulation of signaling
+EBF1	3702.Q9SKK0	GO Process	GO:0030163	Protein catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0032446	Protein modification by small protein conjugation
+EBF1	3702.Q9SKK0	GO Process	GO:0032870	Cellular response to hormone stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0035556	Intracellular signal transduction
+EBF1	3702.Q9SKK0	GO Process	GO:0036211	Protein modification process
+EBF1	3702.Q9SKK0	GO Process	GO:0042221	Response to chemical
+EBF1	3702.Q9SKK0	GO Process	GO:0043161	Proteasome-mediated ubiquitin-dependent protein catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0043170	Macromolecule metabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0043412	Macromolecule modification
+EBF1	3702.Q9SKK0	GO Process	GO:0043632	Modification-dependent macromolecule catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0043687	Post-translational protein modification
+EBF1	3702.Q9SKK0	GO Process	GO:0044238	Primary metabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0048519	Negative regulation of biological process
+EBF1	3702.Q9SKK0	GO Process	GO:0048523	Negative regulation of cellular process
+EBF1	3702.Q9SKK0	GO Process	GO:0048583	Regulation of response to stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0048585	Negative regulation of response to stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0050789	Regulation of biological process
+EBF1	3702.Q9SKK0	GO Process	GO:0050794	Regulation of cellular process
+EBF1	3702.Q9SKK0	GO Process	GO:0050896	Response to stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0051603	Proteolysis involved in protein catabolic process
+EBF1	3702.Q9SKK0	GO Process	GO:0051716	Cellular response to stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0065007	Biological regulation
+EBF1	3702.Q9SKK0	GO Process	GO:0070297	Regulation of phosphorelay signal transduction system
+EBF1	3702.Q9SKK0	GO Process	GO:0070298	Negative regulation of phosphorelay signal transduction system
+EBF1	3702.Q9SKK0	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+EBF1	3702.Q9SKK0	GO Process	GO:0070887	Cellular response to chemical stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0071369	Cellular response to ethylene stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:0071495	Cellular response to endogenous stimulus
+EBF1	3702.Q9SKK0	GO Process	GO:1902531	Regulation of intracellular signal transduction
+EBF1	3702.Q9SKK0	GO Process	GO:1902532	Negative regulation of intracellular signal transduction
+EBF1	3702.Q9SKK0	GO Function	GO:0005488	Binding
+EBF1	3702.Q9SKK0	GO Function	GO:0005515	Protein binding
+EBF1	3702.Q9SKK0	GO Component	GO:0000151	Ubiquitin ligase complex
+EBF1	3702.Q9SKK0	GO Component	GO:0005622	Intracellular anatomical structure
+EBF1	3702.Q9SKK0	GO Component	GO:0005634	Nucleus
+EBF1	3702.Q9SKK0	GO Component	GO:0005737	Cytoplasm
+EBF1	3702.Q9SKK0	GO Component	GO:0019005	SCF ubiquitin ligase complex
+EBF1	3702.Q9SKK0	GO Component	GO:0031461	cullin-RING ubiquitin ligase complex
+EBF1	3702.Q9SKK0	GO Component	GO:0032991	Protein-containing complex
+EBF1	3702.Q9SKK0	GO Component	GO:0043226	Organelle
+EBF1	3702.Q9SKK0	GO Component	GO:0043227	Membrane-bounded organelle
+EBF1	3702.Q9SKK0	GO Component	GO:0043229	Intracellular organelle
+EBF1	3702.Q9SKK0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+EBF1	3702.Q9SKK0	GO Component	GO:0110165	Cellular anatomical structure
+EBF1	3702.Q9SKK0	GO Component	GO:0140535	Intracellular protein-containing complex
+EBF1	3702.Q9SKK0	GO Component	GO:1902494	Catalytic complex
+EBF1	3702.Q9SKK0	GO Component	GO:1990234	Transferase complex
+EBF1	3702.Q9SKK0	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+EBF1	3702.Q9SKK0	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+EBF1	3702.Q9SKK0	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+EBF1	3702.Q9SKK0	STRING clusters	CL:26867	Ethylene signaling pathway, and TMEM222/RTE1
+EBF1	3702.Q9SKK0	STRING clusters	CL:26871	Jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway, and Ethylene insensitive 3
+EBF1	3702.Q9SKK0	KEGG	ath04016	MAPK signaling pathway - plant
+EBF1	3702.Q9SKK0	KEGG	ath04075	Plant hormone signal transduction
+EBF1	3702.Q9SKK0	Reactome	MAP-1280218	Adaptive Immune System
+EBF1	3702.Q9SKK0	Reactome	MAP-168256	Immune System
+EBF1	3702.Q9SKK0	Reactome	MAP-392499	Metabolism of proteins
+EBF1	3702.Q9SKK0	Reactome	MAP-597592	Post-translational protein modification
+EBF1	3702.Q9SKK0	Reactome	MAP-8951664	Neddylation
+EBF1	3702.Q9SKK0	Reactome	MAP-983168	Antigen processing: Ubiquitination & Proteasome degradation
+EBF1	3702.Q9SKK0	Reactome	MAP-983169	Class I MHC mediated antigen processing & presentation
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0005634	Nucleus
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0005737	Cytoplasm
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0043226	Organelle
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+EBF1	3702.Q9SKK0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+EBF1	3702.Q9SKK0	UniProt Keywords	KW-0539	Nucleus
+EBF1	3702.Q9SKK0	UniProt Keywords	KW-0833	Ubl conjugation pathway
+EBF1	3702.Q9SKK0	UniProt Keywords	KW-0936	Ethylene signaling pathway
+EBF1	3702.Q9SKK0	InterPro	IPR001611	Leucine-rich repeat
+EBF1	3702.Q9SKK0	InterPro	IPR001810	F-box domain
+EBF1	3702.Q9SKK0	InterPro	IPR006553	Leucine-rich repeat, cysteine-containing subtype
+EBF1	3702.Q9SKK0	InterPro	IPR032675	Leucine-rich repeat domain superfamily
+EBF1	3702.Q9SKK0	InterPro	IPR036047	F-box-like domain superfamily
+EBF1	3702.Q9SKK0	SMART	SM00256	A Receptor for Ubiquitination Targets
+EBF1	3702.Q9SKK0	SMART	SM00367	Leucine-rich repeat - CC (cysteine-containing) subfamily
+EBF1	3702.Q9SKK0	SMART	SM00370	Leucine-rich repeats, outliers
+EBF2	3702.Q708Y0	GO Process	GO:0000160	Phosphorelay signal transduction system
+EBF2	3702.Q708Y0	GO Process	GO:0006508	Proteolysis
+EBF2	3702.Q708Y0	GO Process	GO:0006511	Ubiquitin-dependent protein catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0007154	Cell communication
+EBF2	3702.Q708Y0	GO Process	GO:0007165	Signal transduction
+EBF2	3702.Q708Y0	GO Process	GO:0008152	Metabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0009056	Catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0009057	Macromolecule catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0009719	Response to endogenous stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0009723	Response to ethylene
+EBF2	3702.Q708Y0	GO Process	GO:0009725	Response to hormone
+EBF2	3702.Q708Y0	GO Process	GO:0009755	Hormone-mediated signaling pathway
+EBF2	3702.Q708Y0	GO Process	GO:0009873	Ethylene-activated signaling pathway
+EBF2	3702.Q708Y0	GO Process	GO:0009966	Regulation of signal transduction
+EBF2	3702.Q708Y0	GO Process	GO:0009968	Negative regulation of signal transduction
+EBF2	3702.Q708Y0	GO Process	GO:0009987	Cellular process
+EBF2	3702.Q708Y0	GO Process	GO:0010104	Regulation of ethylene-activated signaling pathway
+EBF2	3702.Q708Y0	GO Process	GO:0010105	Negative regulation of ethylene-activated signaling pathway
+EBF2	3702.Q708Y0	GO Process	GO:0010498	Proteasomal protein catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0010646	Regulation of cell communication
+EBF2	3702.Q708Y0	GO Process	GO:0010648	Negative regulation of cell communication
+EBF2	3702.Q708Y0	GO Process	GO:0016567	Protein ubiquitination
+EBF2	3702.Q708Y0	GO Process	GO:0019538	Protein metabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0019941	Modification-dependent protein catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0023051	Regulation of signaling
+EBF2	3702.Q708Y0	GO Process	GO:0023052	Signaling
+EBF2	3702.Q708Y0	GO Process	GO:0023057	Negative regulation of signaling
+EBF2	3702.Q708Y0	GO Process	GO:0030163	Protein catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0032446	Protein modification by small protein conjugation
+EBF2	3702.Q708Y0	GO Process	GO:0032870	Cellular response to hormone stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0035556	Intracellular signal transduction
+EBF2	3702.Q708Y0	GO Process	GO:0036211	Protein modification process
+EBF2	3702.Q708Y0	GO Process	GO:0042221	Response to chemical
+EBF2	3702.Q708Y0	GO Process	GO:0043161	Proteasome-mediated ubiquitin-dependent protein catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0043170	Macromolecule metabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0043412	Macromolecule modification
+EBF2	3702.Q708Y0	GO Process	GO:0043632	Modification-dependent macromolecule catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0043687	Post-translational protein modification
+EBF2	3702.Q708Y0	GO Process	GO:0044238	Primary metabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0048519	Negative regulation of biological process
+EBF2	3702.Q708Y0	GO Process	GO:0048523	Negative regulation of cellular process
+EBF2	3702.Q708Y0	GO Process	GO:0048583	Regulation of response to stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0048585	Negative regulation of response to stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0050789	Regulation of biological process
+EBF2	3702.Q708Y0	GO Process	GO:0050794	Regulation of cellular process
+EBF2	3702.Q708Y0	GO Process	GO:0050896	Response to stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0051603	Proteolysis involved in protein catabolic process
+EBF2	3702.Q708Y0	GO Process	GO:0051716	Cellular response to stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0065007	Biological regulation
+EBF2	3702.Q708Y0	GO Process	GO:0070297	Regulation of phosphorelay signal transduction system
+EBF2	3702.Q708Y0	GO Process	GO:0070298	Negative regulation of phosphorelay signal transduction system
+EBF2	3702.Q708Y0	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+EBF2	3702.Q708Y0	GO Process	GO:0070887	Cellular response to chemical stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0071369	Cellular response to ethylene stimulus
+EBF2	3702.Q708Y0	GO Process	GO:0071495	Cellular response to endogenous stimulus
+EBF2	3702.Q708Y0	GO Process	GO:1902531	Regulation of intracellular signal transduction
+EBF2	3702.Q708Y0	GO Process	GO:1902532	Negative regulation of intracellular signal transduction
+EBF2	3702.Q708Y0	GO Function	GO:0005488	Binding
+EBF2	3702.Q708Y0	GO Function	GO:0005515	Protein binding
+EBF2	3702.Q708Y0	GO Component	GO:0000151	Ubiquitin ligase complex
+EBF2	3702.Q708Y0	GO Component	GO:0005622	Intracellular anatomical structure
+EBF2	3702.Q708Y0	GO Component	GO:0005634	Nucleus
+EBF2	3702.Q708Y0	GO Component	GO:0019005	SCF ubiquitin ligase complex
+EBF2	3702.Q708Y0	GO Component	GO:0031461	cullin-RING ubiquitin ligase complex
+EBF2	3702.Q708Y0	GO Component	GO:0032991	Protein-containing complex
+EBF2	3702.Q708Y0	GO Component	GO:0043226	Organelle
+EBF2	3702.Q708Y0	GO Component	GO:0043227	Membrane-bounded organelle
+EBF2	3702.Q708Y0	GO Component	GO:0043229	Intracellular organelle
+EBF2	3702.Q708Y0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+EBF2	3702.Q708Y0	GO Component	GO:0110165	Cellular anatomical structure
+EBF2	3702.Q708Y0	GO Component	GO:0140535	Intracellular protein-containing complex
+EBF2	3702.Q708Y0	GO Component	GO:1902494	Catalytic complex
+EBF2	3702.Q708Y0	GO Component	GO:1990234	Transferase complex
+EBF2	3702.Q708Y0	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+EBF2	3702.Q708Y0	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+EBF2	3702.Q708Y0	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+EBF2	3702.Q708Y0	STRING clusters	CL:26867	Ethylene signaling pathway, and TMEM222/RTE1
+EBF2	3702.Q708Y0	KEGG	ath04016	MAPK signaling pathway - plant
+EBF2	3702.Q708Y0	KEGG	ath04075	Plant hormone signal transduction
+EBF2	3702.Q708Y0	Reactome	MAP-1280218	Adaptive Immune System
+EBF2	3702.Q708Y0	Reactome	MAP-168256	Immune System
+EBF2	3702.Q708Y0	Reactome	MAP-392499	Metabolism of proteins
+EBF2	3702.Q708Y0	Reactome	MAP-597592	Post-translational protein modification
+EBF2	3702.Q708Y0	Reactome	MAP-8951664	Neddylation
+EBF2	3702.Q708Y0	Reactome	MAP-983168	Antigen processing: Ubiquitination & Proteasome degradation
+EBF2	3702.Q708Y0	Reactome	MAP-983169	Class I MHC mediated antigen processing & presentation
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0000151	Ubiquitin ligase complex
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0005634	Nucleus
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0019005	SCF ubiquitin ligase complex
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0031461	cullin-RING ubiquitin ligase complex
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0043226	Organelle
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+EBF2	3702.Q708Y0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+EBF2	3702.Q708Y0	UniProt Keywords	KW-0433	Leucine-rich repeat
+EBF2	3702.Q708Y0	UniProt Keywords	KW-0539	Nucleus
+EBF2	3702.Q708Y0	UniProt Keywords	KW-0677	Repeat
+EBF2	3702.Q708Y0	UniProt Keywords	KW-0833	Ubl conjugation pathway
+EBF2	3702.Q708Y0	UniProt Keywords	KW-0936	Ethylene signaling pathway
+EBF2	3702.Q708Y0	InterPro	IPR001611	Leucine-rich repeat
+EBF2	3702.Q708Y0	InterPro	IPR001810	F-box domain
+EBF2	3702.Q708Y0	InterPro	IPR006553	Leucine-rich repeat, cysteine-containing subtype
+EBF2	3702.Q708Y0	InterPro	IPR032675	Leucine-rich repeat domain superfamily
+EBF2	3702.Q708Y0	InterPro	IPR036047	F-box-like domain superfamily
+EBF2	3702.Q708Y0	SMART	SM00256	A Receptor for Ubiquitination Targets
+EBF2	3702.Q708Y0	SMART	SM00367	Leucine-rich repeat - CC (cysteine-containing) subfamily
+EBF2	3702.Q708Y0	SMART	SM00370	Leucine-rich repeats, outliers
+EIN2	3702.Q9S814	GO Process	GO:0000041	Transition metal ion transport
+EIN2	3702.Q9S814	GO Process	GO:0000160	Phosphorelay signal transduction system
+EIN2	3702.Q9S814	GO Process	GO:0001736	Establishment of planar polarity
+EIN2	3702.Q9S814	GO Process	GO:0001738	Morphogenesis of a polarized epithelium
+EIN2	3702.Q9S814	GO Process	GO:0002009	Morphogenesis of an epithelium
+EIN2	3702.Q9S814	GO Process	GO:0002237	Response to molecule of bacterial origin
+EIN2	3702.Q9S814	GO Process	GO:0006325	Chromatin organization
+EIN2	3702.Q9S814	GO Process	GO:0006338	Chromatin remodeling
+EIN2	3702.Q9S814	GO Process	GO:0006810	Transport
+EIN2	3702.Q9S814	GO Process	GO:0006811	Monoatomic ion transport
+EIN2	3702.Q9S814	GO Process	GO:0006812	Monoatomic cation transport
+EIN2	3702.Q9S814	GO Process	GO:0006826	Iron ion transport
+EIN2	3702.Q9S814	GO Process	GO:0006828	Manganese ion transport
+EIN2	3702.Q9S814	GO Process	GO:0006873	Intracellular monoatomic ion homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0006879	Intracellular iron ion homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0006950	Response to stress
+EIN2	3702.Q9S814	GO Process	GO:0006952	Defense response
+EIN2	3702.Q9S814	GO Process	GO:0006970	Response to osmotic stress
+EIN2	3702.Q9S814	GO Process	GO:0006979	Response to oxidative stress
+EIN2	3702.Q9S814	GO Process	GO:0007154	Cell communication
+EIN2	3702.Q9S814	GO Process	GO:0007164	Establishment of tissue polarity
+EIN2	3702.Q9S814	GO Process	GO:0007165	Signal transduction
+EIN2	3702.Q9S814	GO Process	GO:0007275	Multicellular organism development
+EIN2	3702.Q9S814	GO Process	GO:0009266	Response to temperature stimulus
+EIN2	3702.Q9S814	GO Process	GO:0009408	Response to heat
+EIN2	3702.Q9S814	GO Process	GO:0009605	Response to external stimulus
+EIN2	3702.Q9S814	GO Process	GO:0009607	Response to biotic stimulus
+EIN2	3702.Q9S814	GO Process	GO:0009611	Response to wounding
+EIN2	3702.Q9S814	GO Process	GO:0009617	Response to bacterium
+EIN2	3702.Q9S814	GO Process	GO:0009620	Response to fungus
+EIN2	3702.Q9S814	GO Process	GO:0009628	Response to abiotic stimulus
+EIN2	3702.Q9S814	GO Process	GO:0009651	Response to salt stress
+EIN2	3702.Q9S814	GO Process	GO:0009653	Anatomical structure morphogenesis
+EIN2	3702.Q9S814	GO Process	GO:0009719	Response to endogenous stimulus
+EIN2	3702.Q9S814	GO Process	GO:0009723	Response to ethylene
+EIN2	3702.Q9S814	GO Process	GO:0009725	Response to hormone
+EIN2	3702.Q9S814	GO Process	GO:0009733	Response to auxin
+EIN2	3702.Q9S814	GO Process	GO:0009734	Auxin-activated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0009735	Response to cytokinin
+EIN2	3702.Q9S814	GO Process	GO:0009736	Cytokinin-activated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0009743	Response to carbohydrate
+EIN2	3702.Q9S814	GO Process	GO:0009753	Response to jasmonic acid
+EIN2	3702.Q9S814	GO Process	GO:0009755	Hormone-mediated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0009756	Carbohydrate mediated signaling
+EIN2	3702.Q9S814	GO Process	GO:0009787	Regulation of abscisic acid-activated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0009789	Positive regulation of abscisic acid-activated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0009861	Jasmonic acid and ethylene-dependent systemic resistance
+EIN2	3702.Q9S814	GO Process	GO:0009871	Jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0009873	Ethylene-activated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0009888	Tissue development
+EIN2	3702.Q9S814	GO Process	GO:0009889	Regulation of biosynthetic process
+EIN2	3702.Q9S814	GO Process	GO:0009914	Hormone transport
+EIN2	3702.Q9S814	GO Process	GO:0009926	Auxin polar transport
+EIN2	3702.Q9S814	GO Process	GO:0009966	Regulation of signal transduction
+EIN2	3702.Q9S814	GO Process	GO:0009967	Positive regulation of signal transduction
+EIN2	3702.Q9S814	GO Process	GO:0009987	Cellular process
+EIN2	3702.Q9S814	GO Process	GO:0010015	Root morphogenesis
+EIN2	3702.Q9S814	GO Process	GO:0010053	Root epidermal cell differentiation
+EIN2	3702.Q9S814	GO Process	GO:0010054	Trichoblast differentiation
+EIN2	3702.Q9S814	GO Process	GO:0010087	Phloem or xylem histogenesis
+EIN2	3702.Q9S814	GO Process	GO:0010119	Regulation of stomatal movement
+EIN2	3702.Q9S814	GO Process	GO:0010150	Leaf senescence
+EIN2	3702.Q9S814	GO Process	GO:0010182	Sugar mediated signaling pathway
+EIN2	3702.Q9S814	GO Process	GO:0010468	Regulation of gene expression
+EIN2	3702.Q9S814	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+EIN2	3702.Q9S814	GO Process	GO:0010646	Regulation of cell communication
+EIN2	3702.Q9S814	GO Process	GO:0010647	Positive regulation of cell communication
+EIN2	3702.Q9S814	GO Process	GO:0010817	Regulation of hormone levels
+EIN2	3702.Q9S814	GO Process	GO:0014074	Response to purine-containing compound
+EIN2	3702.Q9S814	GO Process	GO:0016043	Cellular component organization
+EIN2	3702.Q9S814	GO Process	GO:0019222	Regulation of metabolic process
+EIN2	3702.Q9S814	GO Process	GO:0019725	Cellular homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0021700	Developmental maturation
+EIN2	3702.Q9S814	GO Process	GO:0022622	Root system development
+EIN2	3702.Q9S814	GO Process	GO:0023051	Regulation of signaling
+EIN2	3702.Q9S814	GO Process	GO:0023052	Signaling
+EIN2	3702.Q9S814	GO Process	GO:0023056	Positive regulation of signaling
+EIN2	3702.Q9S814	GO Process	GO:0030001	Metal ion transport
+EIN2	3702.Q9S814	GO Process	GO:0030003	Intracellular monoatomic cation homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0030026	Intracellular manganese ion homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0030154	Cell differentiation
+EIN2	3702.Q9S814	GO Process	GO:0031347	Regulation of defense response
+EIN2	3702.Q9S814	GO Process	GO:0031348	Negative regulation of defense response
+EIN2	3702.Q9S814	GO Process	GO:0032501	Multicellular organismal process
+EIN2	3702.Q9S814	GO Process	GO:0032502	Developmental process
+EIN2	3702.Q9S814	GO Process	GO:0032870	Cellular response to hormone stimulus
+EIN2	3702.Q9S814	GO Process	GO:0033036	Macromolecule localization
+EIN2	3702.Q9S814	GO Process	GO:0033037	Polysaccharide localization
+EIN2	3702.Q9S814	GO Process	GO:0033198	Response to ATP
+EIN2	3702.Q9S814	GO Process	GO:0033554	Cellular response to stress
+EIN2	3702.Q9S814	GO Process	GO:0033993	Response to lipid
+EIN2	3702.Q9S814	GO Process	GO:0034220	Monoatomic ion transmembrane transport
+EIN2	3702.Q9S814	GO Process	GO:0034755	Iron ion transmembrane transport
+EIN2	3702.Q9S814	GO Process	GO:0035556	Intracellular signal transduction
+EIN2	3702.Q9S814	GO Process	GO:0040029	Epigenetic regulation of gene expression
+EIN2	3702.Q9S814	GO Process	GO:0042221	Response to chemical
+EIN2	3702.Q9S814	GO Process	GO:0042545	Cell wall modification
+EIN2	3702.Q9S814	GO Process	GO:0042592	Homeostatic process
+EIN2	3702.Q9S814	GO Process	GO:0042742	Defense response to bacterium
+EIN2	3702.Q9S814	GO Process	GO:0043207	Response to external biotic stimulus
+EIN2	3702.Q9S814	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+EIN2	3702.Q9S814	GO Process	GO:0045229	External encapsulating structure organization
+EIN2	3702.Q9S814	GO Process	GO:0046683	Response to organophosphorus
+EIN2	3702.Q9S814	GO Process	GO:0048364	Root development
+EIN2	3702.Q9S814	GO Process	GO:0048366	Leaf development
+EIN2	3702.Q9S814	GO Process	GO:0048367	Shoot system development
+EIN2	3702.Q9S814	GO Process	GO:0048468	Cell development
+EIN2	3702.Q9S814	GO Process	GO:0048469	Cell maturation
+EIN2	3702.Q9S814	GO Process	GO:0048518	Positive regulation of biological process
+EIN2	3702.Q9S814	GO Process	GO:0048519	Negative regulation of biological process
+EIN2	3702.Q9S814	GO Process	GO:0048522	Positive regulation of cellular process
+EIN2	3702.Q9S814	GO Process	GO:0048583	Regulation of response to stimulus
+EIN2	3702.Q9S814	GO Process	GO:0048584	Positive regulation of response to stimulus
+EIN2	3702.Q9S814	GO Process	GO:0048585	Negative regulation of response to stimulus
+EIN2	3702.Q9S814	GO Process	GO:0048729	Tissue morphogenesis
+EIN2	3702.Q9S814	GO Process	GO:0048731	System development
+EIN2	3702.Q9S814	GO Process	GO:0048764	Trichoblast maturation
+EIN2	3702.Q9S814	GO Process	GO:0048765	Root hair cell differentiation
+EIN2	3702.Q9S814	GO Process	GO:0048827	Phyllome development
+EIN2	3702.Q9S814	GO Process	GO:0048856	Anatomical structure development
+EIN2	3702.Q9S814	GO Process	GO:0048869	Cellular developmental process
+EIN2	3702.Q9S814	GO Process	GO:0048878	Chemical homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0050789	Regulation of biological process
+EIN2	3702.Q9S814	GO Process	GO:0050794	Regulation of cellular process
+EIN2	3702.Q9S814	GO Process	GO:0050801	Monoatomic ion homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0050832	Defense response to fungus
+EIN2	3702.Q9S814	GO Process	GO:0050896	Response to stimulus
+EIN2	3702.Q9S814	GO Process	GO:0051179	Localization
+EIN2	3702.Q9S814	GO Process	GO:0051234	Establishment of localization
+EIN2	3702.Q9S814	GO Process	GO:0051301	Cell division
+EIN2	3702.Q9S814	GO Process	GO:0051707	Response to other organism
+EIN2	3702.Q9S814	GO Process	GO:0051716	Cellular response to stimulus
+EIN2	3702.Q9S814	GO Process	GO:0052386	Cell wall thickening
+EIN2	3702.Q9S814	GO Process	GO:0052482	Defense response by cell wall thickening
+EIN2	3702.Q9S814	GO Process	GO:0052542	Defense response by callose deposition
+EIN2	3702.Q9S814	GO Process	GO:0052543	Callose deposition in cell wall
+EIN2	3702.Q9S814	GO Process	GO:0052544	Defense response by callose deposition in cell wall
+EIN2	3702.Q9S814	GO Process	GO:0052545	Callose localization
+EIN2	3702.Q9S814	GO Process	GO:0055071	Manganese ion homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0055080	Monoatomic cation homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0055082	Intracellular chemical homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0055085	Transmembrane transport
+EIN2	3702.Q9S814	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+EIN2	3702.Q9S814	GO Process	GO:0060429	Epithelium development
+EIN2	3702.Q9S814	GO Process	GO:0060918	Auxin transport
+EIN2	3702.Q9S814	GO Process	GO:0065007	Biological regulation
+EIN2	3702.Q9S814	GO Process	GO:0065008	Regulation of biological quality
+EIN2	3702.Q9S814	GO Process	GO:0070542	Response to fatty acid
+EIN2	3702.Q9S814	GO Process	GO:0070887	Cellular response to chemical stimulus
+EIN2	3702.Q9S814	GO Process	GO:0071318	Cellular response to ATP
+EIN2	3702.Q9S814	GO Process	GO:0071322	Cellular response to carbohydrate stimulus
+EIN2	3702.Q9S814	GO Process	GO:0071365	Cellular response to auxin stimulus
+EIN2	3702.Q9S814	GO Process	GO:0071368	Cellular response to cytokinin stimulus
+EIN2	3702.Q9S814	GO Process	GO:0071369	Cellular response to ethylene stimulus
+EIN2	3702.Q9S814	GO Process	GO:0071421	Manganese ion transmembrane transport
+EIN2	3702.Q9S814	GO Process	GO:0071495	Cellular response to endogenous stimulus
+EIN2	3702.Q9S814	GO Process	GO:0071554	Cell wall organization or biogenesis
+EIN2	3702.Q9S814	GO Process	GO:0071555	Cell wall organization
+EIN2	3702.Q9S814	GO Process	GO:0071695	Anatomical structure maturation
+EIN2	3702.Q9S814	GO Process	GO:0071840	Cellular component organization or biogenesis
+EIN2	3702.Q9S814	GO Process	GO:0080134	Regulation of response to stress
+EIN2	3702.Q9S814	GO Process	GO:0090558	Plant epidermis development
+EIN2	3702.Q9S814	GO Process	GO:0090627	Plant epidermal cell differentiation
+EIN2	3702.Q9S814	GO Process	GO:0090693	Plant organ senescence
+EIN2	3702.Q9S814	GO Process	GO:0098542	Defense response to other organism
+EIN2	3702.Q9S814	GO Process	GO:0098655	Monoatomic cation transmembrane transport
+EIN2	3702.Q9S814	GO Process	GO:0098660	Inorganic ion transmembrane transport
+EIN2	3702.Q9S814	GO Process	GO:0098662	Inorganic cation transmembrane transport
+EIN2	3702.Q9S814	GO Process	GO:0098771	Inorganic ion homeostasis
+EIN2	3702.Q9S814	GO Process	GO:0099402	Plant organ development
+EIN2	3702.Q9S814	GO Process	GO:0106167	Extracellular ATP signaling
+EIN2	3702.Q9S814	GO Process	GO:0140546	Defense response to symbiont
+EIN2	3702.Q9S814	GO Process	GO:1901419	Regulation of response to alcohol
+EIN2	3702.Q9S814	GO Process	GO:1901698	Response to nitrogen compound
+EIN2	3702.Q9S814	GO Process	GO:1901699	Cellular response to nitrogen compound
+EIN2	3702.Q9S814	GO Process	GO:1901700	Response to oxygen-containing compound
+EIN2	3702.Q9S814	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+EIN2	3702.Q9S814	GO Process	GO:1905392	Plant organ morphogenesis
+EIN2	3702.Q9S814	GO Process	GO:1905957	Regulation of cellular response to alcohol
+EIN2	3702.Q9S814	GO Function	GO:0003676	Nucleic acid binding
+EIN2	3702.Q9S814	GO Function	GO:0003682	Chromatin binding
+EIN2	3702.Q9S814	GO Function	GO:0003723	RNA binding
+EIN2	3702.Q9S814	GO Function	GO:0003729	mRNA binding
+EIN2	3702.Q9S814	GO Function	GO:0005215	Transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0005384	Manganese ion transmembrane transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0005488	Binding
+EIN2	3702.Q9S814	GO Function	GO:0005515	Protein binding
+EIN2	3702.Q9S814	GO Function	GO:0008324	Monoatomic cation transmembrane transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0015075	Monoatomic ion transmembrane transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0022857	Transmembrane transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0042393	Histone binding
+EIN2	3702.Q9S814	GO Function	GO:0046873	Metal ion transmembrane transporter activity
+EIN2	3702.Q9S814	GO Function	GO:0046915	Transition metal ion transmembrane transporter activity
+EIN2	3702.Q9S814	GO Component	GO:0005622	Intracellular anatomical structure
+EIN2	3702.Q9S814	GO Component	GO:0005634	Nucleus
+EIN2	3702.Q9S814	GO Component	GO:0005737	Cytoplasm
+EIN2	3702.Q9S814	GO Component	GO:0005783	Endoplasmic reticulum
+EIN2	3702.Q9S814	GO Component	GO:0005789	Endoplasmic reticulum membrane
+EIN2	3702.Q9S814	GO Component	GO:0005886	Plasma membrane
+EIN2	3702.Q9S814	GO Component	GO:0012505	Endomembrane system
+EIN2	3702.Q9S814	GO Component	GO:0016020	Membrane
+EIN2	3702.Q9S814	GO Component	GO:0031090	Organelle membrane
+EIN2	3702.Q9S814	GO Component	GO:0031984	Organelle subcompartment
+EIN2	3702.Q9S814	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+EIN2	3702.Q9S814	GO Component	GO:0043226	Organelle
+EIN2	3702.Q9S814	GO Component	GO:0043227	Membrane-bounded organelle
+EIN2	3702.Q9S814	GO Component	GO:0043229	Intracellular organelle
+EIN2	3702.Q9S814	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+EIN2	3702.Q9S814	GO Component	GO:0071944	Cell periphery
+EIN2	3702.Q9S814	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+EIN2	3702.Q9S814	GO Component	GO:0110165	Cellular anatomical structure
+EIN2	3702.Q9S814	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+EIN2	3702.Q9S814	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+EIN2	3702.Q9S814	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+EIN2	3702.Q9S814	STRING clusters	CL:26867	Ethylene signaling pathway, and TMEM222/RTE1
+EIN2	3702.Q9S814	STRING clusters	CL:26871	Jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway, and Ethylene insensitive 3
+EIN2	3702.Q9S814	KEGG	ath04016	MAPK signaling pathway - plant
+EIN2	3702.Q9S814	KEGG	ath04075	Plant hormone signal transduction
+EIN2	3702.Q9S814	Reactome	MAP-382551	Transport of small molecules
+EIN2	3702.Q9S814	Reactome	MAP-425407	SLC-mediated transmembrane transport
+EIN2	3702.Q9S814	Reactome	MAP-425410	Metal ion SLC transporters
+EIN2	3702.Q9S814	WikiPathways	WP2851	Ethylene signaling pathway
+EIN2	3702.Q9S814	WikiPathways	WP3661	Genetic interactions between sugar and hormone signaling
+EIN2	3702.Q9S814	COMPARTMENTS	GOCC:0016020	Membrane
+EIN2	3702.Q9S814	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+EIN2	3702.Q9S814	UniProt Keywords	KW-0156	Chromatin regulator
+EIN2	3702.Q9S814	UniProt Keywords	KW-0256	Endoplasmic reticulum
+EIN2	3702.Q9S814	UniProt Keywords	KW-0346	Stress response
+EIN2	3702.Q9S814	UniProt Keywords	KW-0472	Membrane
+EIN2	3702.Q9S814	UniProt Keywords	KW-0539	Nucleus
+EIN2	3702.Q9S814	UniProt Keywords	KW-0597	Phosphoprotein
+EIN2	3702.Q9S814	UniProt Keywords	KW-0611	Plant defense
+EIN2	3702.Q9S814	UniProt Keywords	KW-0812	Transmembrane
+EIN2	3702.Q9S814	UniProt Keywords	KW-0927	Auxin signaling pathway
+EIN2	3702.Q9S814	UniProt Keywords	KW-0932	Cytokinin signaling pathway
+EIN2	3702.Q9S814	UniProt Keywords	KW-0936	Ethylene signaling pathway
+EIN2	3702.Q9S814	UniProt Keywords	KW-0963	Cytoplasm
+EIN2	3702.Q9S814	UniProt Keywords	KW-1133	Transmembrane helix
+EIN2	3702.Q9S814	Pfam	PF01566	Natural resistance-associated macrophage protein-like
+EIN2	3702.Q9S814	InterPro	IPR001046	NRAMP family
+EIN2	3702.Q9S814	InterPro	IPR017187	Ethylene-insensitive protein 2
+EIN3	3702.O24606	GO Process	GO:0000160	Phosphorelay signal transduction system
+EIN3	3702.O24606	GO Process	GO:0001666	Response to hypoxia
+EIN3	3702.O24606	GO Process	GO:0006109	Regulation of carbohydrate metabolic process
+EIN3	3702.O24606	GO Process	GO:0006325	Chromatin organization
+EIN3	3702.O24606	GO Process	GO:0006338	Chromatin remodeling
+EIN3	3702.O24606	GO Process	GO:0006355	Regulation of DNA-templated transcription
+EIN3	3702.O24606	GO Process	GO:0006950	Response to stress
+EIN3	3702.O24606	GO Process	GO:0006952	Defense response
+EIN3	3702.O24606	GO Process	GO:0007154	Cell communication
+EIN3	3702.O24606	GO Process	GO:0007165	Signal transduction
+EIN3	3702.O24606	GO Process	GO:0009605	Response to external stimulus
+EIN3	3702.O24606	GO Process	GO:0009607	Response to biotic stimulus
+EIN3	3702.O24606	GO Process	GO:0009617	Response to bacterium
+EIN3	3702.O24606	GO Process	GO:0009628	Response to abiotic stimulus
+EIN3	3702.O24606	GO Process	GO:0009719	Response to endogenous stimulus
+EIN3	3702.O24606	GO Process	GO:0009723	Response to ethylene
+EIN3	3702.O24606	GO Process	GO:0009725	Response to hormone
+EIN3	3702.O24606	GO Process	GO:0009743	Response to carbohydrate
+EIN3	3702.O24606	GO Process	GO:0009755	Hormone-mediated signaling pathway
+EIN3	3702.O24606	GO Process	GO:0009756	Carbohydrate mediated signaling
+EIN3	3702.O24606	GO Process	GO:0009873	Ethylene-activated signaling pathway
+EIN3	3702.O24606	GO Process	GO:0009889	Regulation of biosynthetic process
+EIN3	3702.O24606	GO Process	GO:0009987	Cellular process
+EIN3	3702.O24606	GO Process	GO:0010182	Sugar mediated signaling pathway
+EIN3	3702.O24606	GO Process	GO:0010468	Regulation of gene expression
+EIN3	3702.O24606	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+EIN3	3702.O24606	GO Process	GO:0010565	Regulation of ketone metabolic process
+EIN3	3702.O24606	GO Process	GO:0016043	Cellular component organization
+EIN3	3702.O24606	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+EIN3	3702.O24606	GO Process	GO:0019222	Regulation of metabolic process
+EIN3	3702.O24606	GO Process	GO:0023052	Signaling
+EIN3	3702.O24606	GO Process	GO:0030656	Regulation of vitamin metabolic process
+EIN3	3702.O24606	GO Process	GO:0032870	Cellular response to hormone stimulus
+EIN3	3702.O24606	GO Process	GO:0035556	Intracellular signal transduction
+EIN3	3702.O24606	GO Process	GO:0036293	Response to decreased oxygen levels
+EIN3	3702.O24606	GO Process	GO:0040029	Epigenetic regulation of gene expression
+EIN3	3702.O24606	GO Process	GO:0042221	Response to chemical
+EIN3	3702.O24606	GO Process	GO:0042742	Defense response to bacterium
+EIN3	3702.O24606	GO Process	GO:0043207	Response to external biotic stimulus
+EIN3	3702.O24606	GO Process	GO:0043255	Regulation of carbohydrate biosynthetic process
+EIN3	3702.O24606	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+EIN3	3702.O24606	GO Process	GO:0050789	Regulation of biological process
+EIN3	3702.O24606	GO Process	GO:0050794	Regulation of cellular process
+EIN3	3702.O24606	GO Process	GO:0050896	Response to stimulus
+EIN3	3702.O24606	GO Process	GO:0051252	Regulation of RNA metabolic process
+EIN3	3702.O24606	GO Process	GO:0051707	Response to other organism
+EIN3	3702.O24606	GO Process	GO:0051716	Cellular response to stimulus
+EIN3	3702.O24606	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+EIN3	3702.O24606	GO Process	GO:0062012	Regulation of small molecule metabolic process
+EIN3	3702.O24606	GO Process	GO:0065007	Biological regulation
+EIN3	3702.O24606	GO Process	GO:0070482	Response to oxygen levels
+EIN3	3702.O24606	GO Process	GO:0070887	Cellular response to chemical stimulus
+EIN3	3702.O24606	GO Process	GO:0071322	Cellular response to carbohydrate stimulus
+EIN3	3702.O24606	GO Process	GO:0071369	Cellular response to ethylene stimulus
+EIN3	3702.O24606	GO Process	GO:0071495	Cellular response to endogenous stimulus
+EIN3	3702.O24606	GO Process	GO:0071840	Cellular component organization or biogenesis
+EIN3	3702.O24606	GO Process	GO:0080090	Regulation of primary metabolic process
+EIN3	3702.O24606	GO Process	GO:1901700	Response to oxygen-containing compound
+EIN3	3702.O24606	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+EIN3	3702.O24606	GO Process	GO:2000082	Regulation of L-ascorbic acid biosynthetic process
+EIN3	3702.O24606	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+EIN3	3702.O24606	GO Function	GO:0000976	Transcription cis-regulatory region binding
+EIN3	3702.O24606	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+EIN3	3702.O24606	GO Function	GO:0003676	Nucleic acid binding
+EIN3	3702.O24606	GO Function	GO:0003677	DNA binding
+EIN3	3702.O24606	GO Function	GO:0003682	Chromatin binding
+EIN3	3702.O24606	GO Function	GO:0003690	Double-stranded DNA binding
+EIN3	3702.O24606	GO Function	GO:0003700	DNA-binding transcription factor activity
+EIN3	3702.O24606	GO Function	GO:0005488	Binding
+EIN3	3702.O24606	GO Function	GO:0005515	Protein binding
+EIN3	3702.O24606	GO Function	GO:0019899	Enzyme binding
+EIN3	3702.O24606	GO Function	GO:0019900	Kinase binding
+EIN3	3702.O24606	GO Function	GO:0042393	Histone binding
+EIN3	3702.O24606	GO Function	GO:0043565	Sequence-specific DNA binding
+EIN3	3702.O24606	GO Function	GO:0140110	Transcription regulator activity
+EIN3	3702.O24606	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+EIN3	3702.O24606	GO Component	GO:0005622	Intracellular anatomical structure
+EIN3	3702.O24606	GO Component	GO:0005634	Nucleus
+EIN3	3702.O24606	GO Component	GO:0043226	Organelle
+EIN3	3702.O24606	GO Component	GO:0043227	Membrane-bounded organelle
+EIN3	3702.O24606	GO Component	GO:0043229	Intracellular organelle
+EIN3	3702.O24606	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+EIN3	3702.O24606	GO Component	GO:0110165	Cellular anatomical structure
+EIN3	3702.O24606	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+EIN3	3702.O24606	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+EIN3	3702.O24606	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+EIN3	3702.O24606	STRING clusters	CL:26867	Ethylene signaling pathway, and TMEM222/RTE1
+EIN3	3702.O24606	STRING clusters	CL:26871	Jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway, and Ethylene insensitive 3
+EIN3	3702.O24606	KEGG	ath04016	MAPK signaling pathway - plant
+EIN3	3702.O24606	KEGG	ath04075	Plant hormone signal transduction
+EIN3	3702.O24606	WikiPathways	WP2279	Seed development
+EIN3	3702.O24606	WikiPathways	WP3661	Genetic interactions between sugar and hormone signaling
+EIN3	3702.O24606	WikiPathways	WP3860	Glucose sensing and signaling
+EIN3	3702.O24606	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+EIN3	3702.O24606	COMPARTMENTS	GOCC:0005634	Nucleus
+EIN3	3702.O24606	COMPARTMENTS	GOCC:0043226	Organelle
+EIN3	3702.O24606	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+EIN3	3702.O24606	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+EIN3	3702.O24606	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+EIN3	3702.O24606	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+EIN3	3702.O24606	UniProt Keywords	KW-0010	Activator
+EIN3	3702.O24606	UniProt Keywords	KW-0156	Chromatin regulator
+EIN3	3702.O24606	UniProt Keywords	KW-0175	Coiled coil
+EIN3	3702.O24606	UniProt Keywords	KW-0238	DNA-binding
+EIN3	3702.O24606	UniProt Keywords	KW-0539	Nucleus
+EIN3	3702.O24606	UniProt Keywords	KW-0804	Transcription
+EIN3	3702.O24606	UniProt Keywords	KW-0805	Transcription regulation
+EIN3	3702.O24606	UniProt Keywords	KW-0936	Ethylene signaling pathway
+EIN3	3702.O24606	InterPro	IPR006957	Ethylene insensitive 3
+EIN3	3702.O24606	InterPro	IPR023278	Ethylene insensitive 3-like protein, DNA-binding domain superfamily
+EIN3	3702.O24606	InterPro	IPR047091	Ethylene insensitive 3-like, DNA-binding domain
+ERF1B	3702.Q8LDC8	GO Process	GO:0000160	Phosphorelay signal transduction system
+ERF1B	3702.Q8LDC8	GO Process	GO:0006355	Regulation of DNA-templated transcription
+ERF1B	3702.Q8LDC8	GO Process	GO:0006950	Response to stress
+ERF1B	3702.Q8LDC8	GO Process	GO:0006952	Defense response
+ERF1B	3702.Q8LDC8	GO Process	GO:0007154	Cell communication
+ERF1B	3702.Q8LDC8	GO Process	GO:0007165	Signal transduction
+ERF1B	3702.Q8LDC8	GO Process	GO:0009719	Response to endogenous stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0009723	Response to ethylene
+ERF1B	3702.Q8LDC8	GO Process	GO:0009725	Response to hormone
+ERF1B	3702.Q8LDC8	GO Process	GO:0009753	Response to jasmonic acid
+ERF1B	3702.Q8LDC8	GO Process	GO:0009755	Hormone-mediated signaling pathway
+ERF1B	3702.Q8LDC8	GO Process	GO:0009867	Jasmonic acid mediated signaling pathway
+ERF1B	3702.Q8LDC8	GO Process	GO:0009873	Ethylene-activated signaling pathway
+ERF1B	3702.Q8LDC8	GO Process	GO:0009889	Regulation of biosynthetic process
+ERF1B	3702.Q8LDC8	GO Process	GO:0009987	Cellular process
+ERF1B	3702.Q8LDC8	GO Process	GO:0010468	Regulation of gene expression
+ERF1B	3702.Q8LDC8	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ERF1B	3702.Q8LDC8	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ERF1B	3702.Q8LDC8	GO Process	GO:0019222	Regulation of metabolic process
+ERF1B	3702.Q8LDC8	GO Process	GO:0023052	Signaling
+ERF1B	3702.Q8LDC8	GO Process	GO:0032870	Cellular response to hormone stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0033993	Response to lipid
+ERF1B	3702.Q8LDC8	GO Process	GO:0035556	Intracellular signal transduction
+ERF1B	3702.Q8LDC8	GO Process	GO:0042221	Response to chemical
+ERF1B	3702.Q8LDC8	GO Process	GO:0050789	Regulation of biological process
+ERF1B	3702.Q8LDC8	GO Process	GO:0050794	Regulation of cellular process
+ERF1B	3702.Q8LDC8	GO Process	GO:0050896	Response to stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0051252	Regulation of RNA metabolic process
+ERF1B	3702.Q8LDC8	GO Process	GO:0051716	Cellular response to stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ERF1B	3702.Q8LDC8	GO Process	GO:0065007	Biological regulation
+ERF1B	3702.Q8LDC8	GO Process	GO:0070542	Response to fatty acid
+ERF1B	3702.Q8LDC8	GO Process	GO:0070887	Cellular response to chemical stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0071369	Cellular response to ethylene stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0071395	Cellular response to jasmonic acid stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0071396	Cellular response to lipid
+ERF1B	3702.Q8LDC8	GO Process	GO:0071398	Cellular response to fatty acid
+ERF1B	3702.Q8LDC8	GO Process	GO:0071495	Cellular response to endogenous stimulus
+ERF1B	3702.Q8LDC8	GO Process	GO:0080090	Regulation of primary metabolic process
+ERF1B	3702.Q8LDC8	GO Process	GO:1901700	Response to oxygen-containing compound
+ERF1B	3702.Q8LDC8	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+ERF1B	3702.Q8LDC8	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ERF1B	3702.Q8LDC8	GO Function	GO:0000976	Transcription cis-regulatory region binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0003676	Nucleic acid binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0003677	DNA binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0003690	Double-stranded DNA binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0003700	DNA-binding transcription factor activity
+ERF1B	3702.Q8LDC8	GO Function	GO:0005488	Binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0005515	Protein binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0043565	Sequence-specific DNA binding
+ERF1B	3702.Q8LDC8	GO Function	GO:0140110	Transcription regulator activity
+ERF1B	3702.Q8LDC8	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+ERF1B	3702.Q8LDC8	GO Component	GO:0005622	Intracellular anatomical structure
+ERF1B	3702.Q8LDC8	GO Component	GO:0005634	Nucleus
+ERF1B	3702.Q8LDC8	GO Component	GO:0043226	Organelle
+ERF1B	3702.Q8LDC8	GO Component	GO:0043227	Membrane-bounded organelle
+ERF1B	3702.Q8LDC8	GO Component	GO:0043229	Intracellular organelle
+ERF1B	3702.Q8LDC8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ERF1B	3702.Q8LDC8	GO Component	GO:0110165	Cellular anatomical structure
+ERF1B	3702.Q8LDC8	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+ERF1B	3702.Q8LDC8	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+ERF1B	3702.Q8LDC8	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+ERF1B	3702.Q8LDC8	STRING clusters	CL:26896	Ethylene insensitive 3, and Induced systemic resistance, jasmonic acid mediated signaling pathway
+ERF1B	3702.Q8LDC8	KEGG	ath04016	MAPK signaling pathway - plant
+ERF1B	3702.Q8LDC8	KEGG	ath04075	Plant hormone signal transduction
+ERF1B	3702.Q8LDC8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ERF1B	3702.Q8LDC8	COMPARTMENTS	GOCC:0005634	Nucleus
+ERF1B	3702.Q8LDC8	COMPARTMENTS	GOCC:0043226	Organelle
+ERF1B	3702.Q8LDC8	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ERF1B	3702.Q8LDC8	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ERF1B	3702.Q8LDC8	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ERF1B	3702.Q8LDC8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ERF1B	3702.Q8LDC8	UniProt Keywords	KW-0010	Activator
+ERF1B	3702.Q8LDC8	UniProt Keywords	KW-0238	DNA-binding
+ERF1B	3702.Q8LDC8	UniProt Keywords	KW-0539	Nucleus
+ERF1B	3702.Q8LDC8	UniProt Keywords	KW-0611	Plant defense
+ERF1B	3702.Q8LDC8	UniProt Keywords	KW-0804	Transcription
+ERF1B	3702.Q8LDC8	UniProt Keywords	KW-0805	Transcription regulation
+ERF1B	3702.Q8LDC8	UniProt Keywords	KW-0936	Ethylene signaling pathway
+ERF1B	3702.Q8LDC8	InterPro	IPR001471	AP2/ERF domain
+ERF1B	3702.Q8LDC8	InterPro	IPR016177	DNA-binding domain superfamily
+ERF1B	3702.Q8LDC8	InterPro	IPR036955	AP2/ERF domain superfamily
+ERF1B	3702.Q8LDC8	InterPro	IPR044808	Ethylene-responsive transcription factor
+ERF1B	3702.Q8LDC8	SMART	SM00380	DNA-binding domain in plant proteins such as APETALA2 and EREBPs
+ERF2	3702.O80338	GO Process	GO:0000160	Phosphorelay signal transduction system
+ERF2	3702.O80338	GO Process	GO:0002218	Activation of innate immune response
+ERF2	3702.O80338	GO Process	GO:0002252	Immune effector process
+ERF2	3702.O80338	GO Process	GO:0002253	Activation of immune response
+ERF2	3702.O80338	GO Process	GO:0002376	Immune system process
+ERF2	3702.O80338	GO Process	GO:0002682	Regulation of immune system process
+ERF2	3702.O80338	GO Process	GO:0002684	Positive regulation of immune system process
+ERF2	3702.O80338	GO Process	GO:0002831	Regulation of response to biotic stimulus
+ERF2	3702.O80338	GO Process	GO:0002833	Positive regulation of response to biotic stimulus
+ERF2	3702.O80338	GO Process	GO:0006355	Regulation of DNA-templated transcription
+ERF2	3702.O80338	GO Process	GO:0006950	Response to stress
+ERF2	3702.O80338	GO Process	GO:0006952	Defense response
+ERF2	3702.O80338	GO Process	GO:0006955	Immune response
+ERF2	3702.O80338	GO Process	GO:0007154	Cell communication
+ERF2	3702.O80338	GO Process	GO:0007165	Signal transduction
+ERF2	3702.O80338	GO Process	GO:0009605	Response to external stimulus
+ERF2	3702.O80338	GO Process	GO:0009607	Response to biotic stimulus
+ERF2	3702.O80338	GO Process	GO:0009617	Response to bacterium
+ERF2	3702.O80338	GO Process	GO:0009682	Induced systemic resistance
+ERF2	3702.O80338	GO Process	GO:0009719	Response to endogenous stimulus
+ERF2	3702.O80338	GO Process	GO:0009723	Response to ethylene
+ERF2	3702.O80338	GO Process	GO:0009725	Response to hormone
+ERF2	3702.O80338	GO Process	GO:0009753	Response to jasmonic acid
+ERF2	3702.O80338	GO Process	GO:0009755	Hormone-mediated signaling pathway
+ERF2	3702.O80338	GO Process	GO:0009864	Induced systemic resistance, jasmonic acid mediated signaling pathway
+ERF2	3702.O80338	GO Process	GO:0009867	Jasmonic acid mediated signaling pathway
+ERF2	3702.O80338	GO Process	GO:0009873	Ethylene-activated signaling pathway
+ERF2	3702.O80338	GO Process	GO:0009888	Tissue development
+ERF2	3702.O80338	GO Process	GO:0009889	Regulation of biosynthetic process
+ERF2	3702.O80338	GO Process	GO:0009891	Positive regulation of biosynthetic process
+ERF2	3702.O80338	GO Process	GO:0009893	Positive regulation of metabolic process
+ERF2	3702.O80338	GO Process	GO:0009987	Cellular process
+ERF2	3702.O80338	GO Process	GO:0010087	Phloem or xylem histogenesis
+ERF2	3702.O80338	GO Process	GO:0010468	Regulation of gene expression
+ERF2	3702.O80338	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ERF2	3702.O80338	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+ERF2	3702.O80338	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+ERF2	3702.O80338	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ERF2	3702.O80338	GO Process	GO:0019222	Regulation of metabolic process
+ERF2	3702.O80338	GO Process	GO:0023052	Signaling
+ERF2	3702.O80338	GO Process	GO:0031347	Regulation of defense response
+ERF2	3702.O80338	GO Process	GO:0031349	Positive regulation of defense response
+ERF2	3702.O80338	GO Process	GO:0032101	Regulation of response to external stimulus
+ERF2	3702.O80338	GO Process	GO:0032103	Positive regulation of response to external stimulus
+ERF2	3702.O80338	GO Process	GO:0032502	Developmental process
+ERF2	3702.O80338	GO Process	GO:0032870	Cellular response to hormone stimulus
+ERF2	3702.O80338	GO Process	GO:0033993	Response to lipid
+ERF2	3702.O80338	GO Process	GO:0035556	Intracellular signal transduction
+ERF2	3702.O80338	GO Process	GO:0042221	Response to chemical
+ERF2	3702.O80338	GO Process	GO:0042742	Defense response to bacterium
+ERF2	3702.O80338	GO Process	GO:0043207	Response to external biotic stimulus
+ERF2	3702.O80338	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+ERF2	3702.O80338	GO Process	GO:0045087	Innate immune response
+ERF2	3702.O80338	GO Process	GO:0045088	Regulation of innate immune response
+ERF2	3702.O80338	GO Process	GO:0045089	Positive regulation of innate immune response
+ERF2	3702.O80338	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+ERF2	3702.O80338	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+ERF2	3702.O80338	GO Process	GO:0048518	Positive regulation of biological process
+ERF2	3702.O80338	GO Process	GO:0048522	Positive regulation of cellular process
+ERF2	3702.O80338	GO Process	GO:0048583	Regulation of response to stimulus
+ERF2	3702.O80338	GO Process	GO:0048584	Positive regulation of response to stimulus
+ERF2	3702.O80338	GO Process	GO:0048856	Anatomical structure development
+ERF2	3702.O80338	GO Process	GO:0050776	Regulation of immune response
+ERF2	3702.O80338	GO Process	GO:0050778	Positive regulation of immune response
+ERF2	3702.O80338	GO Process	GO:0050789	Regulation of biological process
+ERF2	3702.O80338	GO Process	GO:0050794	Regulation of cellular process
+ERF2	3702.O80338	GO Process	GO:0050896	Response to stimulus
+ERF2	3702.O80338	GO Process	GO:0051252	Regulation of RNA metabolic process
+ERF2	3702.O80338	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+ERF2	3702.O80338	GO Process	GO:0051301	Cell division
+ERF2	3702.O80338	GO Process	GO:0051707	Response to other organism
+ERF2	3702.O80338	GO Process	GO:0051716	Cellular response to stimulus
+ERF2	3702.O80338	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ERF2	3702.O80338	GO Process	GO:0065007	Biological regulation
+ERF2	3702.O80338	GO Process	GO:0070542	Response to fatty acid
+ERF2	3702.O80338	GO Process	GO:0070887	Cellular response to chemical stimulus
+ERF2	3702.O80338	GO Process	GO:0071369	Cellular response to ethylene stimulus
+ERF2	3702.O80338	GO Process	GO:0071395	Cellular response to jasmonic acid stimulus
+ERF2	3702.O80338	GO Process	GO:0071396	Cellular response to lipid
+ERF2	3702.O80338	GO Process	GO:0071398	Cellular response to fatty acid
+ERF2	3702.O80338	GO Process	GO:0071495	Cellular response to endogenous stimulus
+ERF2	3702.O80338	GO Process	GO:0080090	Regulation of primary metabolic process
+ERF2	3702.O80338	GO Process	GO:0080134	Regulation of response to stress
+ERF2	3702.O80338	GO Process	GO:0098542	Defense response to other organism
+ERF2	3702.O80338	GO Process	GO:0140546	Defense response to symbiont
+ERF2	3702.O80338	GO Process	GO:1901700	Response to oxygen-containing compound
+ERF2	3702.O80338	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+ERF2	3702.O80338	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+ERF2	3702.O80338	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ERF2	3702.O80338	GO Function	GO:0000976	Transcription cis-regulatory region binding
+ERF2	3702.O80338	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+ERF2	3702.O80338	GO Function	GO:0003676	Nucleic acid binding
+ERF2	3702.O80338	GO Function	GO:0003677	DNA binding
+ERF2	3702.O80338	GO Function	GO:0003690	Double-stranded DNA binding
+ERF2	3702.O80338	GO Function	GO:0003700	DNA-binding transcription factor activity
+ERF2	3702.O80338	GO Function	GO:0005488	Binding
+ERF2	3702.O80338	GO Function	GO:0043565	Sequence-specific DNA binding
+ERF2	3702.O80338	GO Function	GO:0140110	Transcription regulator activity
+ERF2	3702.O80338	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+ERF2	3702.O80338	GO Component	GO:0005622	Intracellular anatomical structure
+ERF2	3702.O80338	GO Component	GO:0005634	Nucleus
+ERF2	3702.O80338	GO Component	GO:0043226	Organelle
+ERF2	3702.O80338	GO Component	GO:0043227	Membrane-bounded organelle
+ERF2	3702.O80338	GO Component	GO:0043229	Intracellular organelle
+ERF2	3702.O80338	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ERF2	3702.O80338	GO Component	GO:0110165	Cellular anatomical structure
+ERF2	3702.O80338	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+ERF2	3702.O80338	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+ERF2	3702.O80338	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+ERF2	3702.O80338	STRING clusters	CL:26896	Ethylene insensitive 3, and Induced systemic resistance, jasmonic acid mediated signaling pathway
+ERF2	3702.O80338	KEGG	ath04075	Plant hormone signal transduction
+ERF2	3702.O80338	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ERF2	3702.O80338	COMPARTMENTS	GOCC:0005634	Nucleus
+ERF2	3702.O80338	COMPARTMENTS	GOCC:0043226	Organelle
+ERF2	3702.O80338	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ERF2	3702.O80338	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ERF2	3702.O80338	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ERF2	3702.O80338	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ERF2	3702.O80338	UniProt Keywords	KW-0010	Activator
+ERF2	3702.O80338	UniProt Keywords	KW-0238	DNA-binding
+ERF2	3702.O80338	UniProt Keywords	KW-0539	Nucleus
+ERF2	3702.O80338	UniProt Keywords	KW-0611	Plant defense
+ERF2	3702.O80338	UniProt Keywords	KW-0804	Transcription
+ERF2	3702.O80338	UniProt Keywords	KW-0805	Transcription regulation
+ERF2	3702.O80338	UniProt Keywords	KW-0936	Ethylene signaling pathway
+ERF2	3702.O80338	InterPro	IPR001471	AP2/ERF domain
+ERF2	3702.O80338	InterPro	IPR016177	DNA-binding domain superfamily
+ERF2	3702.O80338	InterPro	IPR036955	AP2/ERF domain superfamily
+ERF2	3702.O80338	InterPro	IPR044808	Ethylene-responsive transcription factor
+ERF2	3702.O80338	SMART	SM00380	DNA-binding domain in plant proteins such as APETALA2 and EREBPs
+ETR1	3702.P49333	GO Process	GO:0000160	Phosphorelay signal transduction system
+ETR1	3702.P49333	GO Process	GO:0002237	Response to molecule of bacterial origin
+ETR1	3702.P49333	GO Process	GO:0003006	Developmental process involved in reproduction
+ETR1	3702.P49333	GO Process	GO:0006468	Protein phosphorylation
+ETR1	3702.P49333	GO Process	GO:0006793	Phosphorus metabolic process
+ETR1	3702.P49333	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+ETR1	3702.P49333	GO Process	GO:0006950	Response to stress
+ETR1	3702.P49333	GO Process	GO:0006952	Defense response
+ETR1	3702.P49333	GO Process	GO:0006970	Response to osmotic stress
+ETR1	3702.P49333	GO Process	GO:0007154	Cell communication
+ETR1	3702.P49333	GO Process	GO:0007165	Signal transduction
+ETR1	3702.P49333	GO Process	GO:0007275	Multicellular organism development
+ETR1	3702.P49333	GO Process	GO:0008152	Metabolic process
+ETR1	3702.P49333	GO Process	GO:0009058	Biosynthetic process
+ETR1	3702.P49333	GO Process	GO:0009266	Response to temperature stimulus
+ETR1	3702.P49333	GO Process	GO:0009308	Amine metabolic process
+ETR1	3702.P49333	GO Process	GO:0009408	Response to heat
+ETR1	3702.P49333	GO Process	GO:0009593	Detection of chemical stimulus
+ETR1	3702.P49333	GO Process	GO:0009605	Response to external stimulus
+ETR1	3702.P49333	GO Process	GO:0009607	Response to biotic stimulus
+ETR1	3702.P49333	GO Process	GO:0009611	Response to wounding
+ETR1	3702.P49333	GO Process	GO:0009617	Response to bacterium
+ETR1	3702.P49333	GO Process	GO:0009625	Response to insect
+ETR1	3702.P49333	GO Process	GO:0009628	Response to abiotic stimulus
+ETR1	3702.P49333	GO Process	GO:0009651	Response to salt stress
+ETR1	3702.P49333	GO Process	GO:0009690	Cytokinin metabolic process
+ETR1	3702.P49333	GO Process	GO:0009719	Response to endogenous stimulus
+ETR1	3702.P49333	GO Process	GO:0009720	Detection of hormone stimulus
+ETR1	3702.P49333	GO Process	GO:0009723	Response to ethylene
+ETR1	3702.P49333	GO Process	GO:0009725	Response to hormone
+ETR1	3702.P49333	GO Process	GO:0009727	Detection of ethylene stimulus
+ETR1	3702.P49333	GO Process	GO:0009733	Response to auxin
+ETR1	3702.P49333	GO Process	GO:0009737	Response to abscisic acid
+ETR1	3702.P49333	GO Process	GO:0009739	Response to gibberellin
+ETR1	3702.P49333	GO Process	GO:0009743	Response to carbohydrate
+ETR1	3702.P49333	GO Process	GO:0009755	Hormone-mediated signaling pathway
+ETR1	3702.P49333	GO Process	GO:0009756	Carbohydrate mediated signaling
+ETR1	3702.P49333	GO Process	GO:0009791	Post-embryonic development
+ETR1	3702.P49333	GO Process	GO:0009861	Jasmonic acid and ethylene-dependent systemic resistance
+ETR1	3702.P49333	GO Process	GO:0009871	Jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway
+ETR1	3702.P49333	GO Process	GO:0009873	Ethylene-activated signaling pathway
+ETR1	3702.P49333	GO Process	GO:0009888	Tissue development
+ETR1	3702.P49333	GO Process	GO:0009966	Regulation of signal transduction
+ETR1	3702.P49333	GO Process	GO:0009968	Negative regulation of signal transduction
+ETR1	3702.P49333	GO Process	GO:0009987	Cellular process
+ETR1	3702.P49333	GO Process	GO:0010087	Phloem or xylem histogenesis
+ETR1	3702.P49333	GO Process	GO:0010104	Regulation of ethylene-activated signaling pathway
+ETR1	3702.P49333	GO Process	GO:0010105	Negative regulation of ethylene-activated signaling pathway
+ETR1	3702.P49333	GO Process	GO:0010119	Regulation of stomatal movement
+ETR1	3702.P49333	GO Process	GO:0010154	Fruit development
+ETR1	3702.P49333	GO Process	GO:0010162	Seed dormancy process
+ETR1	3702.P49333	GO Process	GO:0010182	Sugar mediated signaling pathway
+ETR1	3702.P49333	GO Process	GO:0010431	Seed maturation
+ETR1	3702.P49333	GO Process	GO:0010646	Regulation of cell communication
+ETR1	3702.P49333	GO Process	GO:0010648	Negative regulation of cell communication
+ETR1	3702.P49333	GO Process	GO:0010817	Regulation of hormone levels
+ETR1	3702.P49333	GO Process	GO:0016043	Cellular component organization
+ETR1	3702.P49333	GO Process	GO:0016310	Phosphorylation
+ETR1	3702.P49333	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+ETR1	3702.P49333	GO Process	GO:0018193	Peptidyl-amino acid modification
+ETR1	3702.P49333	GO Process	GO:0018202	Peptidyl-histidine modification
+ETR1	3702.P49333	GO Process	GO:0019538	Protein metabolic process
+ETR1	3702.P49333	GO Process	GO:0021700	Developmental maturation
+ETR1	3702.P49333	GO Process	GO:0022414	Reproductive process
+ETR1	3702.P49333	GO Process	GO:0022611	Dormancy process
+ETR1	3702.P49333	GO Process	GO:0023051	Regulation of signaling
+ETR1	3702.P49333	GO Process	GO:0023052	Signaling
+ETR1	3702.P49333	GO Process	GO:0023057	Negative regulation of signaling
+ETR1	3702.P49333	GO Process	GO:0032501	Multicellular organismal process
+ETR1	3702.P49333	GO Process	GO:0032502	Developmental process
+ETR1	3702.P49333	GO Process	GO:0032870	Cellular response to hormone stimulus
+ETR1	3702.P49333	GO Process	GO:0033036	Macromolecule localization
+ETR1	3702.P49333	GO Process	GO:0033037	Polysaccharide localization
+ETR1	3702.P49333	GO Process	GO:0033554	Cellular response to stress
+ETR1	3702.P49333	GO Process	GO:0033993	Response to lipid
+ETR1	3702.P49333	GO Process	GO:0035556	Intracellular signal transduction
+ETR1	3702.P49333	GO Process	GO:0036211	Protein modification process
+ETR1	3702.P49333	GO Process	GO:0042221	Response to chemical
+ETR1	3702.P49333	GO Process	GO:0042445	Hormone metabolic process
+ETR1	3702.P49333	GO Process	GO:0042545	Cell wall modification
+ETR1	3702.P49333	GO Process	GO:0042742	Defense response to bacterium
+ETR1	3702.P49333	GO Process	GO:0042743	Hydrogen peroxide metabolic process
+ETR1	3702.P49333	GO Process	GO:0043170	Macromolecule metabolic process
+ETR1	3702.P49333	GO Process	GO:0043207	Response to external biotic stimulus
+ETR1	3702.P49333	GO Process	GO:0043412	Macromolecule modification
+ETR1	3702.P49333	GO Process	GO:0044238	Primary metabolic process
+ETR1	3702.P49333	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+ETR1	3702.P49333	GO Process	GO:0045229	External encapsulating structure organization
+ETR1	3702.P49333	GO Process	GO:0048316	Seed development
+ETR1	3702.P49333	GO Process	GO:0048519	Negative regulation of biological process
+ETR1	3702.P49333	GO Process	GO:0048523	Negative regulation of cellular process
+ETR1	3702.P49333	GO Process	GO:0048580	Regulation of post-embryonic development
+ETR1	3702.P49333	GO Process	GO:0048583	Regulation of response to stimulus
+ETR1	3702.P49333	GO Process	GO:0048585	Negative regulation of response to stimulus
+ETR1	3702.P49333	GO Process	GO:0048608	Reproductive structure development
+ETR1	3702.P49333	GO Process	GO:0048609	Multicellular organismal reproductive process
+ETR1	3702.P49333	GO Process	GO:0048731	System development
+ETR1	3702.P49333	GO Process	GO:0048856	Anatomical structure development
+ETR1	3702.P49333	GO Process	GO:0050665	Hydrogen peroxide biosynthetic process
+ETR1	3702.P49333	GO Process	GO:0050789	Regulation of biological process
+ETR1	3702.P49333	GO Process	GO:0050793	Regulation of developmental process
+ETR1	3702.P49333	GO Process	GO:0050794	Regulation of cellular process
+ETR1	3702.P49333	GO Process	GO:0050896	Response to stimulus
+ETR1	3702.P49333	GO Process	GO:0051179	Localization
+ETR1	3702.P49333	GO Process	GO:0051239	Regulation of multicellular organismal process
+ETR1	3702.P49333	GO Process	GO:0051301	Cell division
+ETR1	3702.P49333	GO Process	GO:0051606	Detection of stimulus
+ETR1	3702.P49333	GO Process	GO:0051707	Response to other organism
+ETR1	3702.P49333	GO Process	GO:0051716	Cellular response to stimulus
+ETR1	3702.P49333	GO Process	GO:0052386	Cell wall thickening
+ETR1	3702.P49333	GO Process	GO:0052482	Defense response by cell wall thickening
+ETR1	3702.P49333	GO Process	GO:0052542	Defense response by callose deposition
+ETR1	3702.P49333	GO Process	GO:0052543	Callose deposition in cell wall
+ETR1	3702.P49333	GO Process	GO:0052544	Defense response by callose deposition in cell wall
+ETR1	3702.P49333	GO Process	GO:0052545	Callose localization
+ETR1	3702.P49333	GO Process	GO:0061458	Reproductive system development
+ETR1	3702.P49333	GO Process	GO:0065007	Biological regulation
+ETR1	3702.P49333	GO Process	GO:0065008	Regulation of biological quality
+ETR1	3702.P49333	GO Process	GO:0070297	Regulation of phosphorelay signal transduction system
+ETR1	3702.P49333	GO Process	GO:0070298	Negative regulation of phosphorelay signal transduction system
+ETR1	3702.P49333	GO Process	GO:0070887	Cellular response to chemical stimulus
+ETR1	3702.P49333	GO Process	GO:0071322	Cellular response to carbohydrate stimulus
+ETR1	3702.P49333	GO Process	GO:0071369	Cellular response to ethylene stimulus
+ETR1	3702.P49333	GO Process	GO:0071495	Cellular response to endogenous stimulus
+ETR1	3702.P49333	GO Process	GO:0071554	Cell wall organization or biogenesis
+ETR1	3702.P49333	GO Process	GO:0071555	Cell wall organization
+ETR1	3702.P49333	GO Process	GO:0071840	Cellular component organization or biogenesis
+ETR1	3702.P49333	GO Process	GO:0072593	Reactive oxygen species metabolic process
+ETR1	3702.P49333	GO Process	GO:0097305	Response to alcohol
+ETR1	3702.P49333	GO Process	GO:0098542	Defense response to other organism
+ETR1	3702.P49333	GO Process	GO:0140546	Defense response to symbiont
+ETR1	3702.P49333	GO Process	GO:1900140	Regulation of seedling development
+ETR1	3702.P49333	GO Process	GO:1901700	Response to oxygen-containing compound
+ETR1	3702.P49333	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+ETR1	3702.P49333	GO Process	GO:1902531	Regulation of intracellular signal transduction
+ETR1	3702.P49333	GO Process	GO:1902532	Negative regulation of intracellular signal transduction
+ETR1	3702.P49333	GO Process	GO:1903409	Reactive oxygen species biosynthetic process
+ETR1	3702.P49333	GO Process	GO:2000026	Regulation of multicellular organismal development
+ETR1	3702.P49333	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+ETR1	3702.P49333	GO Function	GO:0000166	Nucleotide binding
+ETR1	3702.P49333	GO Function	GO:0003824	Catalytic activity
+ETR1	3702.P49333	GO Function	GO:0004672	Protein kinase activity
+ETR1	3702.P49333	GO Function	GO:0004673	Protein histidine kinase activity
+ETR1	3702.P49333	GO Function	GO:0005488	Binding
+ETR1	3702.P49333	GO Function	GO:0005515	Protein binding
+ETR1	3702.P49333	GO Function	GO:0005524	ATP binding
+ETR1	3702.P49333	GO Function	GO:0016301	Kinase activity
+ETR1	3702.P49333	GO Function	GO:0016740	Transferase activity
+ETR1	3702.P49333	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+ETR1	3702.P49333	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+ETR1	3702.P49333	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+ETR1	3702.P49333	GO Function	GO:0017076	Purine nucleotide binding
+ETR1	3702.P49333	GO Function	GO:0030554	Adenyl nucleotide binding
+ETR1	3702.P49333	GO Function	GO:0032553	Ribonucleotide binding
+ETR1	3702.P49333	GO Function	GO:0032555	Purine ribonucleotide binding
+ETR1	3702.P49333	GO Function	GO:0032559	Adenyl ribonucleotide binding
+ETR1	3702.P49333	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+ETR1	3702.P49333	GO Function	GO:0036094	Small molecule binding
+ETR1	3702.P49333	GO Function	GO:0038023	Signaling receptor activity
+ETR1	3702.P49333	GO Function	GO:0038199	Ethylene receptor activity
+ETR1	3702.P49333	GO Function	GO:0042802	Identical protein binding
+ETR1	3702.P49333	GO Function	GO:0043167	Ion binding
+ETR1	3702.P49333	GO Function	GO:0043168	Anion binding
+ETR1	3702.P49333	GO Function	GO:0043169	Cation binding
+ETR1	3702.P49333	GO Function	GO:0046872	Metal ion binding
+ETR1	3702.P49333	GO Function	GO:0051740	Ethylene binding
+ETR1	3702.P49333	GO Function	GO:0060089	Molecular transducer activity
+ETR1	3702.P49333	GO Function	GO:0072328	Alkene binding
+ETR1	3702.P49333	GO Function	GO:0097367	Carbohydrate derivative binding
+ETR1	3702.P49333	GO Function	GO:0098772	Molecular function regulator activity
+ETR1	3702.P49333	GO Function	GO:0140096	Catalytic activity, acting on a protein
+ETR1	3702.P49333	GO Function	GO:0140299	Molecular sensor activity
+ETR1	3702.P49333	GO Function	GO:1901265	Nucleoside phosphate binding
+ETR1	3702.P49333	GO Function	GO:1901363	Heterocyclic compound binding
+ETR1	3702.P49333	GO Component	GO:0005622	Intracellular anatomical structure
+ETR1	3702.P49333	GO Component	GO:0005737	Cytoplasm
+ETR1	3702.P49333	GO Component	GO:0005783	Endoplasmic reticulum
+ETR1	3702.P49333	GO Component	GO:0005789	Endoplasmic reticulum membrane
+ETR1	3702.P49333	GO Component	GO:0012505	Endomembrane system
+ETR1	3702.P49333	GO Component	GO:0016020	Membrane
+ETR1	3702.P49333	GO Component	GO:0031090	Organelle membrane
+ETR1	3702.P49333	GO Component	GO:0031984	Organelle subcompartment
+ETR1	3702.P49333	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+ETR1	3702.P49333	GO Component	GO:0043226	Organelle
+ETR1	3702.P49333	GO Component	GO:0043227	Membrane-bounded organelle
+ETR1	3702.P49333	GO Component	GO:0043229	Intracellular organelle
+ETR1	3702.P49333	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ETR1	3702.P49333	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+ETR1	3702.P49333	GO Component	GO:0110165	Cellular anatomical structure
+ETR1	3702.P49333	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+ETR1	3702.P49333	STRING clusters	CL:26810	Mixed, incl. Ethylene biosynthesis, and Negative regulation of ethylene-activated signaling pathway
+ETR1	3702.P49333	STRING clusters	CL:26864	Mixed, incl. Ethylene signaling pathway, and Ethylene insensitive 3
+ETR1	3702.P49333	STRING clusters	CL:26867	Ethylene signaling pathway, and TMEM222/RTE1
+ETR1	3702.P49333	STRING clusters	CL:26871	Jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway, and Ethylene insensitive 3
+ETR1	3702.P49333	KEGG	ath04016	MAPK signaling pathway - plant
+ETR1	3702.P49333	KEGG	ath04075	Plant hormone signal transduction
+ETR1	3702.P49333	Reactome	MAP-2262752	Cellular responses to stress
+ETR1	3702.P49333	Reactome	MAP-3371453	Regulation of HSF1-mediated heat shock response
+ETR1	3702.P49333	Reactome	MAP-3371511	HSF1 activation
+ETR1	3702.P49333	Reactome	MAP-3371556	Cellular response to heat stress
+ETR1	3702.P49333	Reactome	MAP-3371568	Attenuation phase
+ETR1	3702.P49333	Reactome	MAP-3371571	HSF1-dependent transactivation
+ETR1	3702.P49333	Reactome	MAP-8953897	Cellular responses to stimuli
+ETR1	3702.P49333	Reactome	MAP-9841251	Mitochondrial unfolded protein response (UPRmt)
+ETR1	3702.P49333	WikiPathways	WP2851	Ethylene signaling pathway
+ETR1	3702.P49333	WikiPathways	WP3661	Genetic interactions between sugar and hormone signaling
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0005737	Cytoplasm
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0012505	Endomembrane system
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0043226	Organelle
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ETR1	3702.P49333	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ETR1	3702.P49333	UniProt Keywords	KW-0067	ATP-binding
+ETR1	3702.P49333	UniProt Keywords	KW-0186	Copper
+ETR1	3702.P49333	UniProt Keywords	KW-0256	Endoplasmic reticulum
+ETR1	3702.P49333	UniProt Keywords	KW-0418	Kinase
+ETR1	3702.P49333	UniProt Keywords	KW-0472	Membrane
+ETR1	3702.P49333	UniProt Keywords	KW-0479	Metal-binding
+ETR1	3702.P49333	UniProt Keywords	KW-0547	Nucleotide-binding
+ETR1	3702.P49333	UniProt Keywords	KW-0597	Phosphoprotein
+ETR1	3702.P49333	UniProt Keywords	KW-0675	Receptor
+ETR1	3702.P49333	UniProt Keywords	KW-0808	Transferase
+ETR1	3702.P49333	UniProt Keywords	KW-0812	Transmembrane
+ETR1	3702.P49333	UniProt Keywords	KW-0832	Ubl conjugation
+ETR1	3702.P49333	UniProt Keywords	KW-0902	Two-component regulatory system
+ETR1	3702.P49333	UniProt Keywords	KW-0936	Ethylene signaling pathway
+ETR1	3702.P49333	UniProt Keywords	KW-1015	Disulfide bond
+ETR1	3702.P49333	UniProt Keywords	KW-1017	Isopeptide bond
+ETR1	3702.P49333	UniProt Keywords	KW-1133	Transmembrane helix
+ETR1	3702.P49333	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+ETR1	3702.P49333	InterPro	IPR003018	GAF domain
+ETR1	3702.P49333	InterPro	IPR003594	Histidine kinase/HSP90-like ATPase domain
+ETR1	3702.P49333	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+ETR1	3702.P49333	InterPro	IPR004358	Signal transduction histidine kinase-related protein, C-terminal
+ETR1	3702.P49333	InterPro	IPR005467	Histidine kinase domain
+ETR1	3702.P49333	InterPro	IPR011006	CheY-like superfamily
+ETR1	3702.P49333	InterPro	IPR014525	Ethylene receptor
+ETR1	3702.P49333	InterPro	IPR029016	GAF-like domain superfamily
+ETR1	3702.P49333	InterPro	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+ETR1	3702.P49333	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+ETR1	3702.P49333	SMART	SM00065	Domain present in phytochromes and cGMP-specific phosphodiesterases.
+ETR1	3702.P49333	SMART	SM00387	Histidine kinase-like ATPases
+ETR1	3702.P49333	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+ETR1	3702.P49333	SMART	SM00448	cheY-homologous receiver domain
+MPK3	3702.Q39023	GO Process	GO:0000165	MAPK cascade
+MPK3	3702.Q39023	GO Process	GO:0001101	Response to acid chemical
+MPK3	3702.Q39023	GO Process	GO:0002376	Immune system process
+MPK3	3702.Q39023	GO Process	GO:0003006	Developmental process involved in reproduction
+MPK3	3702.Q39023	GO Process	GO:0006790	Sulfur compound metabolic process
+MPK3	3702.Q39023	GO Process	GO:0006935	Chemotaxis
+MPK3	3702.Q39023	GO Process	GO:0006950	Response to stress
+MPK3	3702.Q39023	GO Process	GO:0006952	Defense response
+MPK3	3702.Q39023	GO Process	GO:0006955	Immune response
+MPK3	3702.Q39023	GO Process	GO:0006970	Response to osmotic stress
+MPK3	3702.Q39023	GO Process	GO:0006979	Response to oxidative stress
+MPK3	3702.Q39023	GO Process	GO:0007154	Cell communication
+MPK3	3702.Q39023	GO Process	GO:0007165	Signal transduction
+MPK3	3702.Q39023	GO Process	GO:0007275	Multicellular organism development
+MPK3	3702.Q39023	GO Process	GO:0008152	Metabolic process
+MPK3	3702.Q39023	GO Process	GO:0008219	Cell death
+MPK3	3702.Q39023	GO Process	GO:0009058	Biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0009266	Response to temperature stimulus
+MPK3	3702.Q39023	GO Process	GO:0009314	Response to radiation
+MPK3	3702.Q39023	GO Process	GO:0009403	Toxin biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0009404	Toxin metabolic process
+MPK3	3702.Q39023	GO Process	GO:0009409	Response to cold
+MPK3	3702.Q39023	GO Process	GO:0009411	Response to UV
+MPK3	3702.Q39023	GO Process	GO:0009416	Response to light stimulus
+MPK3	3702.Q39023	GO Process	GO:0009555	Pollen development
+MPK3	3702.Q39023	GO Process	GO:0009605	Response to external stimulus
+MPK3	3702.Q39023	GO Process	GO:0009607	Response to biotic stimulus
+MPK3	3702.Q39023	GO Process	GO:0009611	Response to wounding
+MPK3	3702.Q39023	GO Process	GO:0009617	Response to bacterium
+MPK3	3702.Q39023	GO Process	GO:0009626	Plant-type hypersensitive response
+MPK3	3702.Q39023	GO Process	GO:0009628	Response to abiotic stimulus
+MPK3	3702.Q39023	GO Process	GO:0009700	Indole phytoalexin biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0009719	Response to endogenous stimulus
+MPK3	3702.Q39023	GO Process	GO:0009725	Response to hormone
+MPK3	3702.Q39023	GO Process	GO:0009737	Response to abscisic acid
+MPK3	3702.Q39023	GO Process	GO:0009738	Abscisic acid-activated signaling pathway
+MPK3	3702.Q39023	GO Process	GO:0009755	Hormone-mediated signaling pathway
+MPK3	3702.Q39023	GO Process	GO:0009791	Post-embryonic development
+MPK3	3702.Q39023	GO Process	GO:0009856	Pollination
+MPK3	3702.Q39023	GO Process	GO:0009875	Pollen-pistil interaction
+MPK3	3702.Q39023	GO Process	GO:0009908	Flower development
+MPK3	3702.Q39023	GO Process	GO:0009987	Cellular process
+MPK3	3702.Q39023	GO Process	GO:0010120	Camalexin biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0010183	Pollen tube guidance
+MPK3	3702.Q39023	GO Process	GO:0010200	Response to chitin
+MPK3	3702.Q39023	GO Process	GO:0010224	Response to UV-B
+MPK3	3702.Q39023	GO Process	GO:0010229	Inflorescence development
+MPK3	3702.Q39023	GO Process	GO:0012501	Programmed cell death
+MPK3	3702.Q39023	GO Process	GO:0019748	Secondary metabolic process
+MPK3	3702.Q39023	GO Process	GO:0022414	Reproductive process
+MPK3	3702.Q39023	GO Process	GO:0023052	Signaling
+MPK3	3702.Q39023	GO Process	GO:0032501	Multicellular organismal process
+MPK3	3702.Q39023	GO Process	GO:0032502	Developmental process
+MPK3	3702.Q39023	GO Process	GO:0032870	Cellular response to hormone stimulus
+MPK3	3702.Q39023	GO Process	GO:0033554	Cellular response to stress
+MPK3	3702.Q39023	GO Process	GO:0033993	Response to lipid
+MPK3	3702.Q39023	GO Process	GO:0034050	Symbiont-induced defense-related programmed cell death
+MPK3	3702.Q39023	GO Process	GO:0035556	Intracellular signal transduction
+MPK3	3702.Q39023	GO Process	GO:0035670	Plant-type ovary development
+MPK3	3702.Q39023	GO Process	GO:0040011	Locomotion
+MPK3	3702.Q39023	GO Process	GO:0042221	Response to chemical
+MPK3	3702.Q39023	GO Process	GO:0042330	Taxis
+MPK3	3702.Q39023	GO Process	GO:0042430	Indole-containing compound metabolic process
+MPK3	3702.Q39023	GO Process	GO:0042435	Indole-containing compound biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0043200	Response to amino acid
+MPK3	3702.Q39023	GO Process	GO:0043207	Response to external biotic stimulus
+MPK3	3702.Q39023	GO Process	GO:0044272	Sulfur compound biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+MPK3	3702.Q39023	GO Process	GO:0044550	Secondary metabolite biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0044706	Multi-multicellular organism process
+MPK3	3702.Q39023	GO Process	GO:0045087	Innate immune response
+MPK3	3702.Q39023	GO Process	GO:0046217	Indole phytoalexin metabolic process
+MPK3	3702.Q39023	GO Process	GO:0048229	Gametophyte development
+MPK3	3702.Q39023	GO Process	GO:0048367	Shoot system development
+MPK3	3702.Q39023	GO Process	GO:0048437	Floral organ development
+MPK3	3702.Q39023	GO Process	GO:0048438	Floral whorl development
+MPK3	3702.Q39023	GO Process	GO:0048440	Carpel development
+MPK3	3702.Q39023	GO Process	GO:0048467	Gynoecium development
+MPK3	3702.Q39023	GO Process	GO:0048481	Plant ovule development
+MPK3	3702.Q39023	GO Process	GO:0048583	Regulation of response to stimulus
+MPK3	3702.Q39023	GO Process	GO:0048608	Reproductive structure development
+MPK3	3702.Q39023	GO Process	GO:0048731	System development
+MPK3	3702.Q39023	GO Process	GO:0048827	Phyllome development
+MPK3	3702.Q39023	GO Process	GO:0048856	Anatomical structure development
+MPK3	3702.Q39023	GO Process	GO:0048868	Pollen tube development
+MPK3	3702.Q39023	GO Process	GO:0050789	Regulation of biological process
+MPK3	3702.Q39023	GO Process	GO:0050794	Regulation of cellular process
+MPK3	3702.Q39023	GO Process	GO:0050826	Response to freezing
+MPK3	3702.Q39023	GO Process	GO:0050896	Response to stimulus
+MPK3	3702.Q39023	GO Process	GO:0050918	Positive chemotaxis
+MPK3	3702.Q39023	GO Process	GO:0051707	Response to other organism
+MPK3	3702.Q39023	GO Process	GO:0051716	Cellular response to stimulus
+MPK3	3702.Q39023	GO Process	GO:0052314	Phytoalexin metabolic process
+MPK3	3702.Q39023	GO Process	GO:0052315	Phytoalexin biosynthetic process
+MPK3	3702.Q39023	GO Process	GO:0052317	Camalexin metabolic process
+MPK3	3702.Q39023	GO Process	GO:0061458	Reproductive system development
+MPK3	3702.Q39023	GO Process	GO:0065007	Biological regulation
+MPK3	3702.Q39023	GO Process	GO:0070887	Cellular response to chemical stimulus
+MPK3	3702.Q39023	GO Process	GO:0071215	Cellular response to abscisic acid stimulus
+MPK3	3702.Q39023	GO Process	GO:0071396	Cellular response to lipid
+MPK3	3702.Q39023	GO Process	GO:0071495	Cellular response to endogenous stimulus
+MPK3	3702.Q39023	GO Process	GO:0080134	Regulation of response to stress
+MPK3	3702.Q39023	GO Process	GO:0080135	Regulation of cellular response to stress
+MPK3	3702.Q39023	GO Process	GO:0080136	Priming of cellular response to stress
+MPK3	3702.Q39023	GO Process	GO:0090567	Reproductive shoot system development
+MPK3	3702.Q39023	GO Process	GO:0097305	Response to alcohol
+MPK3	3702.Q39023	GO Process	GO:0097306	Cellular response to alcohol
+MPK3	3702.Q39023	GO Process	GO:0098542	Defense response to other organism
+MPK3	3702.Q39023	GO Process	GO:0099402	Plant organ development
+MPK3	3702.Q39023	GO Process	GO:0140546	Defense response to symbiont
+MPK3	3702.Q39023	GO Process	GO:0141124	Intracellular signaling cassette
+MPK3	3702.Q39023	GO Process	GO:1901698	Response to nitrogen compound
+MPK3	3702.Q39023	GO Process	GO:1901700	Response to oxygen-containing compound
+MPK3	3702.Q39023	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+MPK3	3702.Q39023	GO Process	GO:1902065	Response to L-glutamate
+MPK3	3702.Q39023	GO Function	GO:0000166	Nucleotide binding
+MPK3	3702.Q39023	GO Function	GO:0003824	Catalytic activity
+MPK3	3702.Q39023	GO Function	GO:0004672	Protein kinase activity
+MPK3	3702.Q39023	GO Function	GO:0004674	Protein serine/threonine kinase activity
+MPK3	3702.Q39023	GO Function	GO:0004707	MAP kinase activity
+MPK3	3702.Q39023	GO Function	GO:0005488	Binding
+MPK3	3702.Q39023	GO Function	GO:0005515	Protein binding
+MPK3	3702.Q39023	GO Function	GO:0005524	ATP binding
+MPK3	3702.Q39023	GO Function	GO:0016301	Kinase activity
+MPK3	3702.Q39023	GO Function	GO:0016740	Transferase activity
+MPK3	3702.Q39023	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+MPK3	3702.Q39023	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+MPK3	3702.Q39023	GO Function	GO:0017076	Purine nucleotide binding
+MPK3	3702.Q39023	GO Function	GO:0030554	Adenyl nucleotide binding
+MPK3	3702.Q39023	GO Function	GO:0032553	Ribonucleotide binding
+MPK3	3702.Q39023	GO Function	GO:0032555	Purine ribonucleotide binding
+MPK3	3702.Q39023	GO Function	GO:0032559	Adenyl ribonucleotide binding
+MPK3	3702.Q39023	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+MPK3	3702.Q39023	GO Function	GO:0036094	Small molecule binding
+MPK3	3702.Q39023	GO Function	GO:0043167	Ion binding
+MPK3	3702.Q39023	GO Function	GO:0043168	Anion binding
+MPK3	3702.Q39023	GO Function	GO:0097367	Carbohydrate derivative binding
+MPK3	3702.Q39023	GO Function	GO:0106310	Protein serine kinase activity
+MPK3	3702.Q39023	GO Function	GO:0140096	Catalytic activity, acting on a protein
+MPK3	3702.Q39023	GO Function	GO:1901265	Nucleoside phosphate binding
+MPK3	3702.Q39023	GO Function	GO:1901363	Heterocyclic compound binding
+MPK3	3702.Q39023	GO Component	GO:0005622	Intracellular anatomical structure
+MPK3	3702.Q39023	GO Component	GO:0005634	Nucleus
+MPK3	3702.Q39023	GO Component	GO:0005737	Cytoplasm
+MPK3	3702.Q39023	GO Component	GO:0005938	Cell cortex
+MPK3	3702.Q39023	GO Component	GO:0010494	Cytoplasmic stress granule
+MPK3	3702.Q39023	GO Component	GO:0035770	Ribonucleoprotein granule
+MPK3	3702.Q39023	GO Component	GO:0036464	Cytoplasmic ribonucleoprotein granule
+MPK3	3702.Q39023	GO Component	GO:0043226	Organelle
+MPK3	3702.Q39023	GO Component	GO:0043227	Membrane-bounded organelle
+MPK3	3702.Q39023	GO Component	GO:0043228	Membraneless organelle
+MPK3	3702.Q39023	GO Component	GO:0043229	Intracellular organelle
+MPK3	3702.Q39023	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MPK3	3702.Q39023	GO Component	GO:0043232	Intracellular membraneless organelle
+MPK3	3702.Q39023	GO Component	GO:0071944	Cell periphery
+MPK3	3702.Q39023	GO Component	GO:0099080	Supramolecular complex
+MPK3	3702.Q39023	GO Component	GO:0110165	Cellular anatomical structure
+MPK3	3702.Q39023	STRING clusters	CL:17170	Mixed, incl. MAPK cascade, and Protein serine/threonine/tyrosine kinase activity
+MPK3	3702.Q39023	STRING clusters	CL:17171	Mixed, incl. MAPK cascade, and Intrinsic Pathway for Apoptosis
+MPK3	3702.Q39023	STRING clusters	CL:17173	MAPK cascade, and MAP kinase phosphatase activity
+MPK3	3702.Q39023	STRING clusters	CL:17175	MAPK cascade, and MAP kinase phosphatase activity
+MPK3	3702.Q39023	STRING clusters	CL:17177	MAPK cascade, and MAP kinase phosphatase activity
+MPK3	3702.Q39023	STRING clusters	CL:17178	MAPK cascade, and MAP kinase phosphatase activity
+MPK3	3702.Q39023	STRING clusters	CL:17179	Mixed, incl. Response to L-glutamate, and Signal transduction by L1
+MPK3	3702.Q39023	STRING clusters	CL:17181	Ser/Thr Protein Kinase, and Response to L-glutamate
+MPK3	3702.Q39023	KEGG	ath04016	MAPK signaling pathway - plant
+MPK3	3702.Q39023	KEGG	ath04075	Plant hormone signal transduction
+MPK3	3702.Q39023	KEGG	ath04626	Plant-pathogen interaction
+MPK3	3702.Q39023	Reactome	MAP-162582	Signal Transduction
+MPK3	3702.Q39023	Reactome	MAP-168249	Innate Immune System
+MPK3	3702.Q39023	Reactome	MAP-168256	Immune System
+MPK3	3702.Q39023	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+MPK3	3702.Q39023	WikiPathways	WP3661	Genetic interactions between sugar and hormone signaling
+MPK3	3702.Q39023	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MPK3	3702.Q39023	COMPARTMENTS	GOCC:0005737	Cytoplasm
+MPK3	3702.Q39023	COMPARTMENTS	GOCC:0005938	Cell cortex
+MPK3	3702.Q39023	COMPARTMENTS	GOCC:0071944	Cell periphery
+MPK3	3702.Q39023	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MPK3	3702.Q39023	UniProt Keywords	KW-0067	ATP-binding
+MPK3	3702.Q39023	UniProt Keywords	KW-0346	Stress response
+MPK3	3702.Q39023	UniProt Keywords	KW-0381	Hypersensitive response
+MPK3	3702.Q39023	UniProt Keywords	KW-0418	Kinase
+MPK3	3702.Q39023	UniProt Keywords	KW-0539	Nucleus
+MPK3	3702.Q39023	UniProt Keywords	KW-0547	Nucleotide-binding
+MPK3	3702.Q39023	UniProt Keywords	KW-0597	Phosphoprotein
+MPK3	3702.Q39023	UniProt Keywords	KW-0611	Plant defense
+MPK3	3702.Q39023	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+MPK3	3702.Q39023	UniProt Keywords	KW-0808	Transferase
+MPK3	3702.Q39023	UniProt Keywords	KW-0963	Cytoplasm
+MPK3	3702.Q39023	InterPro	IPR000719	Protein kinase domain
+MPK3	3702.Q39023	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+MPK3	3702.Q39023	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+MPK3	3702.Q39023	InterPro	IPR011009	Protein kinase-like domain superfamily
+MPK3	3702.Q39023	InterPro	IPR017441	Protein kinase, ATP binding site
+MPK3	3702.Q39023	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+MPK3	3702.Q39023	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+MPK6	3702.Q39026	GO Process	GO:0000165	MAPK cascade
+MPK6	3702.Q39026	GO Process	GO:0000302	Response to reactive oxygen species
+MPK6	3702.Q39026	GO Process	GO:0001101	Response to acid chemical
+MPK6	3702.Q39026	GO Process	GO:0001558	Regulation of cell growth
+MPK6	3702.Q39026	GO Process	GO:0002218	Activation of innate immune response
+MPK6	3702.Q39026	GO Process	GO:0002252	Immune effector process
+MPK6	3702.Q39026	GO Process	GO:0002253	Activation of immune response
+MPK6	3702.Q39026	GO Process	GO:0002376	Immune system process
+MPK6	3702.Q39026	GO Process	GO:0002682	Regulation of immune system process
+MPK6	3702.Q39026	GO Process	GO:0002684	Positive regulation of immune system process
+MPK6	3702.Q39026	GO Process	GO:0002831	Regulation of response to biotic stimulus
+MPK6	3702.Q39026	GO Process	GO:0002833	Positive regulation of response to biotic stimulus
+MPK6	3702.Q39026	GO Process	GO:0003006	Developmental process involved in reproduction
+MPK6	3702.Q39026	GO Process	GO:0006790	Sulfur compound metabolic process
+MPK6	3702.Q39026	GO Process	GO:0006935	Chemotaxis
+MPK6	3702.Q39026	GO Process	GO:0006950	Response to stress
+MPK6	3702.Q39026	GO Process	GO:0006952	Defense response
+MPK6	3702.Q39026	GO Process	GO:0006955	Immune response
+MPK6	3702.Q39026	GO Process	GO:0006970	Response to osmotic stress
+MPK6	3702.Q39026	GO Process	GO:0006979	Response to oxidative stress
+MPK6	3702.Q39026	GO Process	GO:0007154	Cell communication
+MPK6	3702.Q39026	GO Process	GO:0007165	Signal transduction
+MPK6	3702.Q39026	GO Process	GO:0007275	Multicellular organism development
+MPK6	3702.Q39026	GO Process	GO:0008152	Metabolic process
+MPK6	3702.Q39026	GO Process	GO:0008219	Cell death
+MPK6	3702.Q39026	GO Process	GO:0009058	Biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0009266	Response to temperature stimulus
+MPK6	3702.Q39026	GO Process	GO:0009314	Response to radiation
+MPK6	3702.Q39026	GO Process	GO:0009403	Toxin biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0009404	Toxin metabolic process
+MPK6	3702.Q39026	GO Process	GO:0009409	Response to cold
+MPK6	3702.Q39026	GO Process	GO:0009411	Response to UV
+MPK6	3702.Q39026	GO Process	GO:0009416	Response to light stimulus
+MPK6	3702.Q39026	GO Process	GO:0009555	Pollen development
+MPK6	3702.Q39026	GO Process	GO:0009605	Response to external stimulus
+MPK6	3702.Q39026	GO Process	GO:0009607	Response to biotic stimulus
+MPK6	3702.Q39026	GO Process	GO:0009617	Response to bacterium
+MPK6	3702.Q39026	GO Process	GO:0009620	Response to fungus
+MPK6	3702.Q39026	GO Process	GO:0009626	Plant-type hypersensitive response
+MPK6	3702.Q39026	GO Process	GO:0009628	Response to abiotic stimulus
+MPK6	3702.Q39026	GO Process	GO:0009651	Response to salt stress
+MPK6	3702.Q39026	GO Process	GO:0009653	Anatomical structure morphogenesis
+MPK6	3702.Q39026	GO Process	GO:0009682	Induced systemic resistance
+MPK6	3702.Q39026	GO Process	GO:0009700	Indole phytoalexin biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0009719	Response to endogenous stimulus
+MPK6	3702.Q39026	GO Process	GO:0009723	Response to ethylene
+MPK6	3702.Q39026	GO Process	GO:0009725	Response to hormone
+MPK6	3702.Q39026	GO Process	GO:0009737	Response to abscisic acid
+MPK6	3702.Q39026	GO Process	GO:0009738	Abscisic acid-activated signaling pathway
+MPK6	3702.Q39026	GO Process	GO:0009753	Response to jasmonic acid
+MPK6	3702.Q39026	GO Process	GO:0009755	Hormone-mediated signaling pathway
+MPK6	3702.Q39026	GO Process	GO:0009791	Post-embryonic development
+MPK6	3702.Q39026	GO Process	GO:0009856	Pollination
+MPK6	3702.Q39026	GO Process	GO:0009864	Induced systemic resistance, jasmonic acid mediated signaling pathway
+MPK6	3702.Q39026	GO Process	GO:0009867	Jasmonic acid mediated signaling pathway
+MPK6	3702.Q39026	GO Process	GO:0009888	Tissue development
+MPK6	3702.Q39026	GO Process	GO:0009908	Flower development
+MPK6	3702.Q39026	GO Process	GO:0009987	Cellular process
+MPK6	3702.Q39026	GO Process	GO:0010015	Root morphogenesis
+MPK6	3702.Q39026	GO Process	GO:0010073	Meristem maintenance
+MPK6	3702.Q39026	GO Process	GO:0010075	Regulation of meristem growth
+MPK6	3702.Q39026	GO Process	GO:0010082	Regulation of root meristem growth
+MPK6	3702.Q39026	GO Process	GO:0010119	Regulation of stomatal movement
+MPK6	3702.Q39026	GO Process	GO:0010120	Camalexin biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0010150	Leaf senescence
+MPK6	3702.Q39026	GO Process	GO:0010183	Pollen tube guidance
+MPK6	3702.Q39026	GO Process	GO:0010224	Response to UV-B
+MPK6	3702.Q39026	GO Process	GO:0010229	Inflorescence development
+MPK6	3702.Q39026	GO Process	GO:0012501	Programmed cell death
+MPK6	3702.Q39026	GO Process	GO:0019748	Secondary metabolic process
+MPK6	3702.Q39026	GO Process	GO:0022414	Reproductive process
+MPK6	3702.Q39026	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+MPK6	3702.Q39026	GO Process	GO:0022604	Regulation of cell morphogenesis
+MPK6	3702.Q39026	GO Process	GO:0022622	Root system development
+MPK6	3702.Q39026	GO Process	GO:0023052	Signaling
+MPK6	3702.Q39026	GO Process	GO:0031347	Regulation of defense response
+MPK6	3702.Q39026	GO Process	GO:0031349	Positive regulation of defense response
+MPK6	3702.Q39026	GO Process	GO:0032101	Regulation of response to external stimulus
+MPK6	3702.Q39026	GO Process	GO:0032103	Positive regulation of response to external stimulus
+MPK6	3702.Q39026	GO Process	GO:0032501	Multicellular organismal process
+MPK6	3702.Q39026	GO Process	GO:0032502	Developmental process
+MPK6	3702.Q39026	GO Process	GO:0032870	Cellular response to hormone stimulus
+MPK6	3702.Q39026	GO Process	GO:0033554	Cellular response to stress
+MPK6	3702.Q39026	GO Process	GO:0033993	Response to lipid
+MPK6	3702.Q39026	GO Process	GO:0034050	Symbiont-induced defense-related programmed cell death
+MPK6	3702.Q39026	GO Process	GO:0035556	Intracellular signal transduction
+MPK6	3702.Q39026	GO Process	GO:0035670	Plant-type ovary development
+MPK6	3702.Q39026	GO Process	GO:0040008	Regulation of growth
+MPK6	3702.Q39026	GO Process	GO:0040011	Locomotion
+MPK6	3702.Q39026	GO Process	GO:0042221	Response to chemical
+MPK6	3702.Q39026	GO Process	GO:0042330	Taxis
+MPK6	3702.Q39026	GO Process	GO:0042430	Indole-containing compound metabolic process
+MPK6	3702.Q39026	GO Process	GO:0042435	Indole-containing compound biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0042542	Response to hydrogen peroxide
+MPK6	3702.Q39026	GO Process	GO:0042742	Defense response to bacterium
+MPK6	3702.Q39026	GO Process	GO:0043200	Response to amino acid
+MPK6	3702.Q39026	GO Process	GO:0043207	Response to external biotic stimulus
+MPK6	3702.Q39026	GO Process	GO:0044272	Sulfur compound biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+MPK6	3702.Q39026	GO Process	GO:0044550	Secondary metabolite biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0044706	Multi-multicellular organism process
+MPK6	3702.Q39026	GO Process	GO:0045087	Innate immune response
+MPK6	3702.Q39026	GO Process	GO:0045088	Regulation of innate immune response
+MPK6	3702.Q39026	GO Process	GO:0045089	Positive regulation of innate immune response
+MPK6	3702.Q39026	GO Process	GO:0046217	Indole phytoalexin metabolic process
+MPK6	3702.Q39026	GO Process	GO:0048229	Gametophyte development
+MPK6	3702.Q39026	GO Process	GO:0048364	Root development
+MPK6	3702.Q39026	GO Process	GO:0048366	Leaf development
+MPK6	3702.Q39026	GO Process	GO:0048367	Shoot system development
+MPK6	3702.Q39026	GO Process	GO:0048437	Floral organ development
+MPK6	3702.Q39026	GO Process	GO:0048438	Floral whorl development
+MPK6	3702.Q39026	GO Process	GO:0048440	Carpel development
+MPK6	3702.Q39026	GO Process	GO:0048467	Gynoecium development
+MPK6	3702.Q39026	GO Process	GO:0048481	Plant ovule development
+MPK6	3702.Q39026	GO Process	GO:0048507	Meristem development
+MPK6	3702.Q39026	GO Process	GO:0048518	Positive regulation of biological process
+MPK6	3702.Q39026	GO Process	GO:0048583	Regulation of response to stimulus
+MPK6	3702.Q39026	GO Process	GO:0048584	Positive regulation of response to stimulus
+MPK6	3702.Q39026	GO Process	GO:0048608	Reproductive structure development
+MPK6	3702.Q39026	GO Process	GO:0048638	Regulation of developmental growth
+MPK6	3702.Q39026	GO Process	GO:0048731	System development
+MPK6	3702.Q39026	GO Process	GO:0048827	Phyllome development
+MPK6	3702.Q39026	GO Process	GO:0048856	Anatomical structure development
+MPK6	3702.Q39026	GO Process	GO:0048868	Pollen tube development
+MPK6	3702.Q39026	GO Process	GO:0050776	Regulation of immune response
+MPK6	3702.Q39026	GO Process	GO:0050778	Positive regulation of immune response
+MPK6	3702.Q39026	GO Process	GO:0050789	Regulation of biological process
+MPK6	3702.Q39026	GO Process	GO:0050793	Regulation of developmental process
+MPK6	3702.Q39026	GO Process	GO:0050794	Regulation of cellular process
+MPK6	3702.Q39026	GO Process	GO:0050826	Response to freezing
+MPK6	3702.Q39026	GO Process	GO:0050896	Response to stimulus
+MPK6	3702.Q39026	GO Process	GO:0050918	Positive chemotaxis
+MPK6	3702.Q39026	GO Process	GO:0051128	Regulation of cellular component organization
+MPK6	3702.Q39026	GO Process	GO:0051301	Cell division
+MPK6	3702.Q39026	GO Process	GO:0051510	Regulation of unidimensional cell growth
+MPK6	3702.Q39026	GO Process	GO:0051707	Response to other organism
+MPK6	3702.Q39026	GO Process	GO:0051716	Cellular response to stimulus
+MPK6	3702.Q39026	GO Process	GO:0052314	Phytoalexin metabolic process
+MPK6	3702.Q39026	GO Process	GO:0052315	Phytoalexin biosynthetic process
+MPK6	3702.Q39026	GO Process	GO:0052317	Camalexin metabolic process
+MPK6	3702.Q39026	GO Process	GO:0061458	Reproductive system development
+MPK6	3702.Q39026	GO Process	GO:0065007	Biological regulation
+MPK6	3702.Q39026	GO Process	GO:0070542	Response to fatty acid
+MPK6	3702.Q39026	GO Process	GO:0070887	Cellular response to chemical stimulus
+MPK6	3702.Q39026	GO Process	GO:0071215	Cellular response to abscisic acid stimulus
+MPK6	3702.Q39026	GO Process	GO:0071395	Cellular response to jasmonic acid stimulus
+MPK6	3702.Q39026	GO Process	GO:0071396	Cellular response to lipid
+MPK6	3702.Q39026	GO Process	GO:0071398	Cellular response to fatty acid
+MPK6	3702.Q39026	GO Process	GO:0071495	Cellular response to endogenous stimulus
+MPK6	3702.Q39026	GO Process	GO:0080134	Regulation of response to stress
+MPK6	3702.Q39026	GO Process	GO:0080135	Regulation of cellular response to stress
+MPK6	3702.Q39026	GO Process	GO:0080136	Priming of cellular response to stress
+MPK6	3702.Q39026	GO Process	GO:0090333	Regulation of stomatal closure
+MPK6	3702.Q39026	GO Process	GO:0090567	Reproductive shoot system development
+MPK6	3702.Q39026	GO Process	GO:0090693	Plant organ senescence
+MPK6	3702.Q39026	GO Process	GO:0097305	Response to alcohol
+MPK6	3702.Q39026	GO Process	GO:0097306	Cellular response to alcohol
+MPK6	3702.Q39026	GO Process	GO:0098542	Defense response to other organism
+MPK6	3702.Q39026	GO Process	GO:0099402	Plant organ development
+MPK6	3702.Q39026	GO Process	GO:0140546	Defense response to symbiont
+MPK6	3702.Q39026	GO Process	GO:0141124	Intracellular signaling cassette
+MPK6	3702.Q39026	GO Process	GO:1901698	Response to nitrogen compound
+MPK6	3702.Q39026	GO Process	GO:1901700	Response to oxygen-containing compound
+MPK6	3702.Q39026	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+MPK6	3702.Q39026	GO Process	GO:1902065	Response to L-glutamate
+MPK6	3702.Q39026	GO Process	GO:1905392	Plant organ morphogenesis
+MPK6	3702.Q39026	GO Function	GO:0000166	Nucleotide binding
+MPK6	3702.Q39026	GO Function	GO:0003824	Catalytic activity
+MPK6	3702.Q39026	GO Function	GO:0004672	Protein kinase activity
+MPK6	3702.Q39026	GO Function	GO:0004674	Protein serine/threonine kinase activity
+MPK6	3702.Q39026	GO Function	GO:0004707	MAP kinase activity
+MPK6	3702.Q39026	GO Function	GO:0005488	Binding
+MPK6	3702.Q39026	GO Function	GO:0005515	Protein binding
+MPK6	3702.Q39026	GO Function	GO:0005524	ATP binding
+MPK6	3702.Q39026	GO Function	GO:0016301	Kinase activity
+MPK6	3702.Q39026	GO Function	GO:0016740	Transferase activity
+MPK6	3702.Q39026	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+MPK6	3702.Q39026	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+MPK6	3702.Q39026	GO Function	GO:0017076	Purine nucleotide binding
+MPK6	3702.Q39026	GO Function	GO:0019899	Enzyme binding
+MPK6	3702.Q39026	GO Function	GO:0019902	Phosphatase binding
+MPK6	3702.Q39026	GO Function	GO:0030554	Adenyl nucleotide binding
+MPK6	3702.Q39026	GO Function	GO:0032553	Ribonucleotide binding
+MPK6	3702.Q39026	GO Function	GO:0032555	Purine ribonucleotide binding
+MPK6	3702.Q39026	GO Function	GO:0032559	Adenyl ribonucleotide binding
+MPK6	3702.Q39026	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+MPK6	3702.Q39026	GO Function	GO:0036094	Small molecule binding
+MPK6	3702.Q39026	GO Function	GO:0043167	Ion binding
+MPK6	3702.Q39026	GO Function	GO:0043168	Anion binding
+MPK6	3702.Q39026	GO Function	GO:0097367	Carbohydrate derivative binding
+MPK6	3702.Q39026	GO Function	GO:0106310	Protein serine kinase activity
+MPK6	3702.Q39026	GO Function	GO:0140096	Catalytic activity, acting on a protein
+MPK6	3702.Q39026	GO Function	GO:1901265	Nucleoside phosphate binding
+MPK6	3702.Q39026	GO Function	GO:1901363	Heterocyclic compound binding
+MPK6	3702.Q39026	GO Component	GO:0005622	Intracellular anatomical structure
+MPK6	3702.Q39026	GO Component	GO:0005634	Nucleus
+MPK6	3702.Q39026	GO Component	GO:0005737	Cytoplasm
+MPK6	3702.Q39026	GO Component	GO:0005794	Golgi apparatus
+MPK6	3702.Q39026	GO Component	GO:0005802	trans-Golgi network
+MPK6	3702.Q39026	GO Component	GO:0005829	Cytosol
+MPK6	3702.Q39026	GO Component	GO:0005856	Cytoskeleton
+MPK6	3702.Q39026	GO Component	GO:0005938	Cell cortex
+MPK6	3702.Q39026	GO Component	GO:0009524	Phragmoplast
+MPK6	3702.Q39026	GO Component	GO:0009574	Preprophase band
+MPK6	3702.Q39026	GO Component	GO:0012505	Endomembrane system
+MPK6	3702.Q39026	GO Component	GO:0015630	Microtubule cytoskeleton
+MPK6	3702.Q39026	GO Component	GO:0031984	Organelle subcompartment
+MPK6	3702.Q39026	GO Component	GO:0043226	Organelle
+MPK6	3702.Q39026	GO Component	GO:0043227	Membrane-bounded organelle
+MPK6	3702.Q39026	GO Component	GO:0043228	Membraneless organelle
+MPK6	3702.Q39026	GO Component	GO:0043229	Intracellular organelle
+MPK6	3702.Q39026	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MPK6	3702.Q39026	GO Component	GO:0043232	Intracellular membraneless organelle
+MPK6	3702.Q39026	GO Component	GO:0071944	Cell periphery
+MPK6	3702.Q39026	GO Component	GO:0098791	Golgi apparatus subcompartment
+MPK6	3702.Q39026	GO Component	GO:0110165	Cellular anatomical structure
+MPK6	3702.Q39026	STRING clusters	CL:17170	Mixed, incl. MAPK cascade, and Protein serine/threonine/tyrosine kinase activity
+MPK6	3702.Q39026	STRING clusters	CL:17171	Mixed, incl. MAPK cascade, and Intrinsic Pathway for Apoptosis
+MPK6	3702.Q39026	STRING clusters	CL:17173	MAPK cascade, and MAP kinase phosphatase activity
+MPK6	3702.Q39026	STRING clusters	CL:17175	MAPK cascade, and MAP kinase phosphatase activity
+MPK6	3702.Q39026	STRING clusters	CL:17177	MAPK cascade, and MAP kinase phosphatase activity
+MPK6	3702.Q39026	STRING clusters	CL:17178	MAPK cascade, and MAP kinase phosphatase activity
+MPK6	3702.Q39026	STRING clusters	CL:17179	Mixed, incl. Response to L-glutamate, and Signal transduction by L1
+MPK6	3702.Q39026	STRING clusters	CL:17181	Ser/Thr Protein Kinase, and Response to L-glutamate
+MPK6	3702.Q39026	KEGG	ath04016	MAPK signaling pathway - plant
+MPK6	3702.Q39026	KEGG	ath04075	Plant hormone signal transduction
+MPK6	3702.Q39026	KEGG	ath04626	Plant-pathogen interaction
+MPK6	3702.Q39026	Reactome	MAP-162582	Signal Transduction
+MPK6	3702.Q39026	Reactome	MAP-168249	Innate Immune System
+MPK6	3702.Q39026	Reactome	MAP-168256	Immune System
+MPK6	3702.Q39026	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+MPK6	3702.Q39026	WikiPathways	WP3661	Genetic interactions between sugar and hormone signaling
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0005737	Cytoplasm
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0005794	Golgi apparatus
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0005802	trans-Golgi network
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0005829	Cytosol
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0005856	Cytoskeleton
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0005938	Cell cortex
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0009524	Phragmoplast
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0009574	Preprophase band
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0012505	Endomembrane system
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0015630	Microtubule cytoskeleton
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0031984	Organelle subcompartment
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0043226	Organelle
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0071944	Cell periphery
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0098791	Golgi apparatus subcompartment
+MPK6	3702.Q39026	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MPK6	3702.Q39026	UniProt Keywords	KW-0067	ATP-binding
+MPK6	3702.Q39026	UniProt Keywords	KW-0346	Stress response
+MPK6	3702.Q39026	UniProt Keywords	KW-0381	Hypersensitive response
+MPK6	3702.Q39026	UniProt Keywords	KW-0418	Kinase
+MPK6	3702.Q39026	UniProt Keywords	KW-0539	Nucleus
+MPK6	3702.Q39026	UniProt Keywords	KW-0547	Nucleotide-binding
+MPK6	3702.Q39026	UniProt Keywords	KW-0597	Phosphoprotein
+MPK6	3702.Q39026	UniProt Keywords	KW-0611	Plant defense
+MPK6	3702.Q39026	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+MPK6	3702.Q39026	UniProt Keywords	KW-0808	Transferase
+MPK6	3702.Q39026	UniProt Keywords	KW-0938	Abscisic acid signaling pathway
+MPK6	3702.Q39026	UniProt Keywords	KW-0963	Cytoplasm
+MPK6	3702.Q39026	InterPro	IPR000719	Protein kinase domain
+MPK6	3702.Q39026	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+MPK6	3702.Q39026	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+MPK6	3702.Q39026	InterPro	IPR011009	Protein kinase-like domain superfamily
+MPK6	3702.Q39026	InterPro	IPR017441	Protein kinase, ATP binding site
+MPK6	3702.Q39026	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+MPK6	3702.Q39026	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+MYC2	3702.Q39204	GO Process	GO:0001101	Response to acid chemical
+MYC2	3702.Q39204	GO Process	GO:0002831	Regulation of response to biotic stimulus
+MYC2	3702.Q39204	GO Process	GO:0006082	Organic acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MYC2	3702.Q39204	GO Process	GO:0006520	Amino acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:0006521	Regulation of amino acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:0006568	L-tryptophan metabolic process
+MYC2	3702.Q39204	GO Process	GO:0006790	Sulfur compound metabolic process
+MYC2	3702.Q39204	GO Process	GO:0006950	Response to stress
+MYC2	3702.Q39204	GO Process	GO:0007154	Cell communication
+MYC2	3702.Q39204	GO Process	GO:0007165	Signal transduction
+MYC2	3702.Q39204	GO Process	GO:0007275	Multicellular organism development
+MYC2	3702.Q39204	GO Process	GO:0008152	Metabolic process
+MYC2	3702.Q39204	GO Process	GO:0009058	Biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0009072	Aromatic amino acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:0009269	Response to desiccation
+MYC2	3702.Q39204	GO Process	GO:0009414	Response to water deprivation
+MYC2	3702.Q39204	GO Process	GO:0009415	Response to water
+MYC2	3702.Q39204	GO Process	GO:0009611	Response to wounding
+MYC2	3702.Q39204	GO Process	GO:0009628	Response to abiotic stimulus
+MYC2	3702.Q39204	GO Process	GO:0009719	Response to endogenous stimulus
+MYC2	3702.Q39204	GO Process	GO:0009725	Response to hormone
+MYC2	3702.Q39204	GO Process	GO:0009737	Response to abscisic acid
+MYC2	3702.Q39204	GO Process	GO:0009738	Abscisic acid-activated signaling pathway
+MYC2	3702.Q39204	GO Process	GO:0009753	Response to jasmonic acid
+MYC2	3702.Q39204	GO Process	GO:0009755	Hormone-mediated signaling pathway
+MYC2	3702.Q39204	GO Process	GO:0009759	Indole glucosinolate biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0009791	Post-embryonic development
+MYC2	3702.Q39204	GO Process	GO:0009888	Tissue development
+MYC2	3702.Q39204	GO Process	GO:0009889	Regulation of biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0009893	Positive regulation of metabolic process
+MYC2	3702.Q39204	GO Process	GO:0009962	Regulation of flavonoid biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0009963	Positive regulation of flavonoid biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0009987	Cellular process
+MYC2	3702.Q39204	GO Process	GO:0010374	Stomatal complex development
+MYC2	3702.Q39204	GO Process	GO:0010468	Regulation of gene expression
+MYC2	3702.Q39204	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MYC2	3702.Q39204	GO Process	GO:0014074	Response to purine-containing compound
+MYC2	3702.Q39204	GO Process	GO:0016043	Cellular component organization
+MYC2	3702.Q39204	GO Process	GO:0016144	S-glycoside biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MYC2	3702.Q39204	GO Process	GO:0019222	Regulation of metabolic process
+MYC2	3702.Q39204	GO Process	GO:0019752	Carboxylic acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:0019760	Glucosinolate metabolic process
+MYC2	3702.Q39204	GO Process	GO:0019761	Glucosinolate biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0022607	Cellular component assembly
+MYC2	3702.Q39204	GO Process	GO:0022622	Root system development
+MYC2	3702.Q39204	GO Process	GO:0023052	Signaling
+MYC2	3702.Q39204	GO Process	GO:0031347	Regulation of defense response
+MYC2	3702.Q39204	GO Process	GO:0032101	Regulation of response to external stimulus
+MYC2	3702.Q39204	GO Process	GO:0032501	Multicellular organismal process
+MYC2	3702.Q39204	GO Process	GO:0032502	Developmental process
+MYC2	3702.Q39204	GO Process	GO:0032870	Cellular response to hormone stimulus
+MYC2	3702.Q39204	GO Process	GO:0033198	Response to ATP
+MYC2	3702.Q39204	GO Process	GO:0033993	Response to lipid
+MYC2	3702.Q39204	GO Process	GO:0042221	Response to chemical
+MYC2	3702.Q39204	GO Process	GO:0042343	Indole glucosinolate metabolic process
+MYC2	3702.Q39204	GO Process	GO:0042430	Indole-containing compound metabolic process
+MYC2	3702.Q39204	GO Process	GO:0042435	Indole-containing compound biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0043436	Oxoacid metabolic process
+MYC2	3702.Q39204	GO Process	GO:0043933	Protein-containing complex organization
+MYC2	3702.Q39204	GO Process	GO:0044085	Cellular component biogenesis
+MYC2	3702.Q39204	GO Process	GO:0044087	Regulation of cellular component biogenesis
+MYC2	3702.Q39204	GO Process	GO:0044238	Primary metabolic process
+MYC2	3702.Q39204	GO Process	GO:0044272	Sulfur compound biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:0044281	Small molecule metabolic process
+MYC2	3702.Q39204	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MYC2	3702.Q39204	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MYC2	3702.Q39204	GO Process	GO:0046683	Response to organophosphorus
+MYC2	3702.Q39204	GO Process	GO:0048364	Root development
+MYC2	3702.Q39204	GO Process	GO:0048518	Positive regulation of biological process
+MYC2	3702.Q39204	GO Process	GO:0048522	Positive regulation of cellular process
+MYC2	3702.Q39204	GO Process	GO:0048583	Regulation of response to stimulus
+MYC2	3702.Q39204	GO Process	GO:0048731	System development
+MYC2	3702.Q39204	GO Process	GO:0048856	Anatomical structure development
+MYC2	3702.Q39204	GO Process	GO:0050789	Regulation of biological process
+MYC2	3702.Q39204	GO Process	GO:0050794	Regulation of cellular process
+MYC2	3702.Q39204	GO Process	GO:0050896	Response to stimulus
+MYC2	3702.Q39204	GO Process	GO:0051252	Regulation of RNA metabolic process
+MYC2	3702.Q39204	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MYC2	3702.Q39204	GO Process	GO:0051259	Protein complex oligomerization
+MYC2	3702.Q39204	GO Process	GO:0051260	Protein homooligomerization
+MYC2	3702.Q39204	GO Process	GO:0051262	Protein tetramerization
+MYC2	3702.Q39204	GO Process	GO:0051289	Protein homotetramerization
+MYC2	3702.Q39204	GO Process	GO:0051716	Cellular response to stimulus
+MYC2	3702.Q39204	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MYC2	3702.Q39204	GO Process	GO:0062012	Regulation of small molecule metabolic process
+MYC2	3702.Q39204	GO Process	GO:0065003	Protein-containing complex assembly
+MYC2	3702.Q39204	GO Process	GO:0065007	Biological regulation
+MYC2	3702.Q39204	GO Process	GO:0070542	Response to fatty acid
+MYC2	3702.Q39204	GO Process	GO:0070887	Cellular response to chemical stimulus
+MYC2	3702.Q39204	GO Process	GO:0071215	Cellular response to abscisic acid stimulus
+MYC2	3702.Q39204	GO Process	GO:0071318	Cellular response to ATP
+MYC2	3702.Q39204	GO Process	GO:0071396	Cellular response to lipid
+MYC2	3702.Q39204	GO Process	GO:0071495	Cellular response to endogenous stimulus
+MYC2	3702.Q39204	GO Process	GO:0071840	Cellular component organization or biogenesis
+MYC2	3702.Q39204	GO Process	GO:0080090	Regulation of primary metabolic process
+MYC2	3702.Q39204	GO Process	GO:0080134	Regulation of response to stress
+MYC2	3702.Q39204	GO Process	GO:0090357	Regulation of L-tryptophan metabolic process
+MYC2	3702.Q39204	GO Process	GO:0090558	Plant epidermis development
+MYC2	3702.Q39204	GO Process	GO:0097305	Response to alcohol
+MYC2	3702.Q39204	GO Process	GO:0097306	Cellular response to alcohol
+MYC2	3702.Q39204	GO Process	GO:0099402	Plant organ development
+MYC2	3702.Q39204	GO Process	GO:0106167	Extracellular ATP signaling
+MYC2	3702.Q39204	GO Process	GO:0170033	L-amino acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:0170039	Proteinogenic amino acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:1901135	Carbohydrate derivative metabolic process
+MYC2	3702.Q39204	GO Process	GO:1901137	Carbohydrate derivative biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:1901605	Alpha-amino acid metabolic process
+MYC2	3702.Q39204	GO Process	GO:1901657	Glycosyl compound metabolic process
+MYC2	3702.Q39204	GO Process	GO:1901659	Glycosyl compound biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:1901698	Response to nitrogen compound
+MYC2	3702.Q39204	GO Process	GO:1901699	Cellular response to nitrogen compound
+MYC2	3702.Q39204	GO Process	GO:1901700	Response to oxygen-containing compound
+MYC2	3702.Q39204	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+MYC2	3702.Q39204	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MYC2	3702.Q39204	GO Process	GO:1903338	Regulation of cell wall organization or biogenesis
+MYC2	3702.Q39204	GO Process	GO:2000068	Regulation of defense response to insect
+MYC2	3702.Q39204	GO Process	GO:2000652	Regulation of secondary cell wall biogenesis
+MYC2	3702.Q39204	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MYC2	3702.Q39204	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MYC2	3702.Q39204	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MYC2	3702.Q39204	GO Function	GO:0003676	Nucleic acid binding
+MYC2	3702.Q39204	GO Function	GO:0003677	DNA binding
+MYC2	3702.Q39204	GO Function	GO:0003690	Double-stranded DNA binding
+MYC2	3702.Q39204	GO Function	GO:0003700	DNA-binding transcription factor activity
+MYC2	3702.Q39204	GO Function	GO:0005488	Binding
+MYC2	3702.Q39204	GO Function	GO:0005515	Protein binding
+MYC2	3702.Q39204	GO Function	GO:0019899	Enzyme binding
+MYC2	3702.Q39204	GO Function	GO:0019900	Kinase binding
+MYC2	3702.Q39204	GO Function	GO:0043565	Sequence-specific DNA binding
+MYC2	3702.Q39204	GO Function	GO:0046983	Protein dimerization activity
+MYC2	3702.Q39204	GO Function	GO:0140110	Transcription regulator activity
+MYC2	3702.Q39204	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MYC2	3702.Q39204	GO Component	GO:0005622	Intracellular anatomical structure
+MYC2	3702.Q39204	GO Component	GO:0005634	Nucleus
+MYC2	3702.Q39204	GO Component	GO:0043226	Organelle
+MYC2	3702.Q39204	GO Component	GO:0043227	Membrane-bounded organelle
+MYC2	3702.Q39204	GO Component	GO:0043229	Intracellular organelle
+MYC2	3702.Q39204	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MYC2	3702.Q39204	GO Component	GO:0110165	Cellular anatomical structure
+MYC2	3702.Q39204	STRING clusters	CL:26618	Mixed, incl. Response to fatty acid, and alpha-Linolenic acid metabolism
+MYC2	3702.Q39204	STRING clusters	CL:26619	Mixed, incl. alpha-Linolenic acid metabolism, and Jasmonic acid signaling pathway
+MYC2	3702.Q39204	STRING clusters	CL:26620	Mixed, incl. alpha-Linolenic acid metabolism, and TIFY/JAZ family
+MYC2	3702.Q39204	STRING clusters	CL:26621	alpha-Linolenic acid metabolism, and TIFY/JAZ family
+MYC2	3702.Q39204	STRING clusters	CL:26622	TIFY/JAZ family, and Transcription factor AIB/MYC-like
+MYC2	3702.Q39204	STRING clusters	CL:26624	TIFY/JAZ family, and Cellular response to ATP
+MYC2	3702.Q39204	STRING clusters	CL:26627	TIFY/JAZ family, and Cellular response to ATP
+MYC2	3702.Q39204	STRING clusters	CL:26629	CO/COL/TOC1, conserved site, and Cellular response to ATP
+MYC2	3702.Q39204	KEGG	ath04016	MAPK signaling pathway - plant
+MYC2	3702.Q39204	KEGG	ath04075	Plant hormone signal transduction
+MYC2	3702.Q39204	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MYC2	3702.Q39204	COMPARTMENTS	GOCC:0005634	Nucleus
+MYC2	3702.Q39204	COMPARTMENTS	GOCC:0043226	Organelle
+MYC2	3702.Q39204	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MYC2	3702.Q39204	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MYC2	3702.Q39204	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MYC2	3702.Q39204	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MYC2	3702.Q39204	UniProt Keywords	KW-0010	Activator
+MYC2	3702.Q39204	UniProt Keywords	KW-0238	DNA-binding
+MYC2	3702.Q39204	UniProt Keywords	KW-0539	Nucleus
+MYC2	3702.Q39204	UniProt Keywords	KW-0597	Phosphoprotein
+MYC2	3702.Q39204	UniProt Keywords	KW-0804	Transcription
+MYC2	3702.Q39204	UniProt Keywords	KW-0805	Transcription regulation
+MYC2	3702.Q39204	UniProt Keywords	KW-0938	Abscisic acid signaling pathway
+MYC2	3702.Q39204	UniProt Keywords	KW-0945	Host-virus interaction
+MYC2	3702.Q39204	UniProt Keywords	KW-1184	Jasmonic acid signaling pathway
+MYC2	3702.Q39204	Pfam	PF14215	bHLH-MYC and R2R3-MYB transcription factors N-terminal
+MYC2	3702.Q39204	InterPro	IPR011598	Myc-type, basic helix-loop-helix (bHLH) domain
+MYC2	3702.Q39204	InterPro	IPR025610	Transcription factor MYC/MYB N-terminal
+MYC2	3702.Q39204	InterPro	IPR036638	Helix-loop-helix DNA-binding domain superfamily
+MYC2	3702.Q39204	InterPro	IPR045084	Transcription factor AIB/MYC-like
+MYC2	3702.Q39204	SMART	SM00353	Helix loop helix domain

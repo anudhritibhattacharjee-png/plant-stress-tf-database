@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+LTP2	39947.Q7XT30	0.5973846153846154	0.12211538461538463	rgb(178,171,0)	Lipid transfer protein-like protein.
+MADS16	39947.Q944S9	0.5161538461538462	0.664423076923077	rgb(255,175,101)	MADS-box transcription factor 16; Probable transcription factor involved in the development of floral organs. Required for normal development of lodicules and stamens (whorls 2 and 3). May function as a heterodimer with MADS4.
+MADS2	39947.Q40702	0.4413846153846154	0.6153846153846154	rgb(187,255,101)	MADS-box transcription factor 2; Probable transcription factor involved in the development of floral organs. B-class protein required for normal development of lodicules (whorl 2).
+MADS25	39947.Q84NC5	0.5235384615384616	0.4783653846153846	rgb(255,0,0)	MADS-box transcription factor 25; Probable transcription factor.
+MPK13	39947.Q0E459	0.6924615384615385	0.6774038461538462	rgb(101,255,163)	Mitogen-activated protein kinase 13; Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MPK15	39947.Q53N72	0.3869230769230769	0.8793269230769231	rgb(0,28,178)	Mitogen-activated protein kinase 15; Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MPK2	39947.Q5J4W4	0.3712307692307692	0.31682692307692306	rgb(150,101,255)	Mitogen-activated protein kinase 2; Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MPK5	39947.Q10N20	0.30200000000000005	0.5908653846153846	rgb(0,178,157)	Mitogen-activated protein kinase 5; Involved in disease resistance and abiotic stress tolerance signaling pathways. Acts as a positive regulator of drought, salt and cold tolerance. Negatively modulates pathogenesis-related (PR) gene expression and broad-spectrum disease resistance. Functions downstream of CPK18 in a signaling pathway that represses defense gene expression and negatively regulates resistance to rice blast fungus. Phosphorylated by CPK18 at Thr-14 and Thr-32 and activated independently of MAP kinase kinase (MKK) phosphorylation ; Belongs to the protein kinase superfamil [...] 
+MPK6	39947.Q336X9	0.3296923076923077	0.45096153846153847	rgb(101,199,255)	Mitogen-activated protein kinase 6.
+MPK8	39947.Q5SN53	0.6804615384615385	0.4394230769230769	rgb(239,117,117)	Mitogen-activated protein kinase 8.
+Q0DBX9_ORYSJ	39947.Q0DBX9	0.578923076923077	0.8850961538461539	rgb(14,178,0)	cDNA clone:J013129F03, full insert sequence.

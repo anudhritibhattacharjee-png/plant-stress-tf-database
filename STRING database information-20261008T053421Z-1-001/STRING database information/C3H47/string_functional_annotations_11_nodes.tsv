@@ -1,0 +1,1022 @@
+#node	identifier	category	term ID	term description
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0000288	Nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0000290	Deadenylation-dependent decapping of nuclear-transcribed mRNA
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0000956	Nuclear-transcribed mRNA catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0006401	RNA catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0006402	mRNA catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0008152	Metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009056	Catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009057	Macromolecule catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009890	Negative regulation of biosynthetic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009892	Negative regulation of metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009893	Positive regulation of metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009894	Regulation of catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009896	Positive regulation of catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0009987	Cellular process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0010468	Regulation of gene expression
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0010608	Post-transcriptional regulation of gene expression
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0010629	Negative regulation of gene expression
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0016070	RNA metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0016071	mRNA metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0019222	Regulation of metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0031086	Nuclear-transcribed mRNA catabolic process, deadenylation-independent decay
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0031087	Deadenylation-independent decapping of nuclear-transcribed mRNA
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0034655	Nucleobase-containing compound catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0043170	Macromolecule metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0043487	Regulation of RNA stability
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0043488	Regulation of mRNA stability
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0044238	Primary metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0048518	Positive regulation of biological process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0048519	Negative regulation of biological process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0048522	Positive regulation of cellular process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0048523	Negative regulation of cellular process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0050779	RNA destabilization
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0050789	Regulation of biological process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0050794	Regulation of cellular process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0061013	Regulation of mRNA catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0061014	Positive regulation of mRNA catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0061157	mRNA destabilization
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0065007	Biological regulation
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0065008	Regulation of biological quality
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0090304	Nucleic acid metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0110154	RNA decapping
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0110156	mRNA methylguanosine-cap decapping
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:0141188	Nucleic acid catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:1903311	Regulation of mRNA metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Process	GO:1903313	Positive regulation of mRNA metabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0003676	Nucleic acid binding
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0003723	RNA binding
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0003729	mRNA binding
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0005488	Binding
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0008047	Enzyme activator activity
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0030234	Enzyme regulator activity
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0098772	Molecular function regulator activity
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Function	GO:0140677	Molecular function activator activity
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0000932	P-body
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0005737	Cytoplasm
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0035770	Ribonucleoprotein granule
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0036464	Cytoplasmic ribonucleoprotein granule
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0043226	Organelle
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0043228	Membraneless organelle
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0043229	Intracellular organelle
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0099080	Supramolecular complex
+A0A0P0W5Y1	39947.A0A0P0W5Y1	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0W5Y1	39947.A0A0P0W5Y1	STRING clusters	CL:25215	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	STRING clusters	CL:25217	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	STRING clusters	CL:25221	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+A0A0P0W5Y1	39947.A0A0P0W5Y1	STRING clusters	CL:25226	mRNA decay by 5 to 3 exoribonuclease, and Scd6-like Sm domain
+A0A0P0W5Y1	39947.A0A0P0W5Y1	KEGG	map03018	RNA degradation
+A0A0P0W5Y1	39947.A0A0P0W5Y1	Reactome	MAP-429914	Deadenylation-dependent mRNA decay
+A0A0P0W5Y1	39947.A0A0P0W5Y1	Reactome	MAP-430039	mRNA decay by 5 to 3 exoribonuclease
+A0A0P0W5Y1	39947.A0A0P0W5Y1	Reactome	MAP-8953854	Metabolism of RNA
+A0A0P0W5Y1	39947.A0A0P0W5Y1	Pfam	PF06058	Dcp1-like decapping family
+A0A0P0W5Y1	39947.A0A0P0W5Y1	InterPro	IPR010334	mRNA-decapping enzyme subunit 1
+A0A0P0W5Y1	39947.A0A0P0W5Y1	InterPro	IPR011993	PH-like domain superfamily
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0000166	Nucleotide binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0003824	Catalytic activity
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0004672	Protein kinase activity
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0005488	Binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0005524	ATP binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0016301	Kinase activity
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0016740	Transferase activity
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0017076	Purine nucleotide binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0032553	Ribonucleotide binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0036094	Small molecule binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0043167	Ion binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0043168	Anion binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0106310	Protein serine kinase activity
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Function	GO:1901363	Heterocyclic compound binding
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Component	GO:0005886	Plasma membrane
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Component	GO:0016020	Membrane
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Component	GO:0071944	Cell periphery
+A0A0P0X2B3	39947.A0A0P0X2B3	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0X2B3	39947.A0A0P0X2B3	STRING clusters	CL:26226	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and DNA-binding transcription repressor activity, RNA polymerase II-specific
+A0A0P0X2B3	39947.A0A0P0X2B3	STRING clusters	CL:26496	Mixed, incl. Peptide chain release factor 2, and Protein RETICULATA-related
+A0A0P0X2B3	39947.A0A0P0X2B3	KEGG	map04626	Plant-pathogen interaction
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0005819	Spindle
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0005856	Cytoskeleton
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0015630	Microtubule cytoskeleton
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0043226	Organelle
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+A0A0P0X2B3	39947.A0A0P0X2B3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-0067	ATP-binding
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-0418	Kinase
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-0472	Membrane
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-0808	Transferase
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-0812	Transmembrane
+A0A0P0X2B3	39947.A0A0P0X2B3	UniProt Keywords	KW-1133	Transmembrane helix
+A0A0P0X2B3	39947.A0A0P0X2B3	InterPro	IPR000719	Protein kinase domain
+A0A0P0X2B3	39947.A0A0P0X2B3	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+A0A0P0X2B3	39947.A0A0P0X2B3	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A0P0X2B3	39947.A0A0P0X2B3	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A0P0X2B3	39947.A0A0P0X2B3	InterPro	IPR047117	Proline-rich receptor-like protein kinase PERK1-13-like
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0006082	Organic acid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0006399	tRNA metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0006450	Regulation of translational fidelity
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0006520	Amino acid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0008152	Metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0009056	Catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0009063	Amino acid catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0009987	Cellular process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0016054	Organic acid catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0016070	RNA metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0019478	D-amino acid catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0019752	Carboxylic acid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0043170	Macromolecule metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0043436	Oxoacid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0044238	Primary metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0044281	Small molecule metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0044282	Small molecule catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0046395	Carboxylic acid catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0046416	D-amino acid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0065007	Biological regulation
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0065008	Regulation of biological quality
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0090304	Nucleic acid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0106074	aminoacyl-tRNA metabolism involved in translational fidelity
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0170041	Non-proteinogenic amino acid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:0170044	Non-proteinogenic amino acid catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:1901605	Alpha-amino acid metabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Process	GO:1901606	Alpha-amino acid catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0002161	aminoacyl-tRNA deacylase activity
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0003824	Catalytic activity
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0005488	Binding
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0016787	Hydrolase activity
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0036094	Small molecule binding
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0043167	Ion binding
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0043169	Cation binding
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0046872	Metal ion binding
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0051499	D-aminoacyl-tRNA deacylase activity
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0052689	Carboxylic ester hydrolase activity
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0106026	Gly-tRNA(Ala) deacylase activity
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0140098	Catalytic activity, acting on RNA
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0140101	Catalytic activity, acting on a tRNA
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+A0A0P0XK57	39947.A0A0P0XK57	GO Function	GO:0160215	Deacylase activity
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0005634	Nucleus
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0005737	Cytoplasm
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0043226	Organelle
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0043227	Membrane-bounded organelle
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0043229	Intracellular organelle
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A0P0XK57	39947.A0A0P0XK57	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0XK57	39947.A0A0P0XK57	STRING clusters	CL:25215	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	STRING clusters	CL:25217	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	STRING clusters	CL:25221	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+A0A0P0XK57	39947.A0A0P0XK57	STRING clusters	CL:25226	mRNA decay by 5 to 3 exoribonuclease, and Scd6-like Sm domain
+A0A0P0XK57	39947.A0A0P0XK57	STRING clusters	CL:25229	mRNA decay by 5 to 3 exoribonuclease
+A0A0P0XK57	39947.A0A0P0XK57	STRING clusters	CL:25231	U6 snRNP, and D-aminoacyl-tRNA deacylase
+A0A0P0XK57	39947.A0A0P0XK57	KEGG	map03008	Ribosome biogenesis in eukaryotes
+A0A0P0XK57	39947.A0A0P0XK57	KEGG	map03018	RNA degradation
+A0A0P0XK57	39947.A0A0P0XK57	Reactome	MAP-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA
+A0A0P0XK57	39947.A0A0P0XK57	Reactome	MAP-450531	Regulation of mRNA stability by proteins that bind AU-rich elements
+A0A0P0XK57	39947.A0A0P0XK57	Reactome	MAP-8953854	Metabolism of RNA
+A0A0P0XK57	39947.A0A0P0XK57	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0XK57	39947.A0A0P0XK57	UniProt Keywords	KW-0378	Hydrolase
+A0A0P0XK57	39947.A0A0P0XK57	UniProt Keywords	KW-0479	Metal-binding
+A0A0P0XK57	39947.A0A0P0XK57	UniProt Keywords	KW-0862	Zinc
+A0A0P0XK57	39947.A0A0P0XK57	Pfam	PF04414	D-aminoacyl-tRNA deacylase
+A0A0P0XK57	39947.A0A0P0XK57	InterPro	IPR007508	D-aminoacyl-tRNA deacylase DtdA
+A0A0P0XK57	39947.A0A0P0XK57	InterPro	IPR018033	D-aminoacyl-tRNA deacylase, archaea
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0000460	Maturation of 5.8S rRNA
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0000466	Maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0000467	Exonucleolytic trimming to generate mature 3-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0000956	Nuclear-transcribed mRNA catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0006364	rRNA processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0006396	RNA processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0006399	tRNA metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0006401	RNA catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0006402	mRNA catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0008152	Metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009056	Catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009057	Macromolecule catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009058	Biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009059	Macromolecule biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009889	Regulation of biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009890	Negative regulation of biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009892	Negative regulation of metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0009987	Cellular process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0010467	Gene expression
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0010468	Regulation of gene expression
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0010629	Negative regulation of gene expression
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0016070	RNA metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0016071	mRNA metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0016072	rRNA metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0016073	snRNA metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0016075	rRNA catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0016078	tRNA decay
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0016180	snRNA processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0019222	Regulation of metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0022613	Ribonucleoprotein complex biogenesis
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0031123	RNA 3-end processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0031125	rRNA 3-end processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0032774	RNA biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0034472	snRNA 3-end processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0034473	U1 snRNA 3-end processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0034475	U4 snRNA 3-end processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0034476	U5 snRNA 3-end processing
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0034655	Nucleobase-containing compound catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0042254	Ribosome biogenesis
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0043170	Macromolecule metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0044085	Cellular component biogenesis
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0044238	Primary metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0048519	Negative regulation of biological process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0048523	Negative regulation of cellular process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0050789	Regulation of biological process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0050794	Regulation of cellular process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0065007	Biological regulation
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0071025	RNA surveillance
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0071027	Nuclear RNA surveillance
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0071028	Nuclear mRNA surveillance
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0071035	Nuclear polyadenylation-dependent rRNA catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0071038	TRAMP-dependent tRNA surveillance pathway
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0071840	Cellular component organization or biogenesis
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0090304	Nucleic acid metabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0106354	tRNA surveillance
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0141187	Nucleic acid biosynthetic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Process	GO:0141188	Nucleic acid catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	GO Function	GO:0003676	Nucleic acid binding
+B7ELW5_ORYSJ	39947.B7ELW5	GO Function	GO:0003723	RNA binding
+B7ELW5_ORYSJ	39947.B7ELW5	GO Function	GO:0003729	mRNA binding
+B7ELW5_ORYSJ	39947.B7ELW5	GO Function	GO:0003730	mRNA 3-UTR binding
+B7ELW5_ORYSJ	39947.B7ELW5	GO Function	GO:0005488	Binding
+B7ELW5_ORYSJ	39947.B7ELW5	GO Function	GO:0035925	mRNA 3-UTR AU-rich region binding
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0000176	Nuclear exosome (RNase complex)
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0000177	Cytoplasmic exosome (RNase complex)
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0000178	Exosome (RNase complex)
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0005622	Intracellular anatomical structure
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0005634	Nucleus
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0005730	Nucleolus
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0005737	Cytoplasm
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0031974	Membrane-enclosed lumen
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0031981	Nuclear lumen
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0032991	Protein-containing complex
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0043226	Organelle
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0043227	Membrane-bounded organelle
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0043228	Membraneless organelle
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0043229	Intracellular organelle
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0043232	Intracellular membraneless organelle
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0043233	Organelle lumen
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0070013	Intracellular organelle lumen
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0110165	Cellular anatomical structure
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:0140513	Nuclear protein-containing complex
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:1902494	Catalytic complex
+B7ELW5_ORYSJ	39947.B7ELW5	GO Component	GO:1905354	Exoribonuclease complex
+B7ELW5_ORYSJ	39947.B7ELW5	STRING clusters	CL:24020	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and TRAMP complex
+B7ELW5_ORYSJ	39947.B7ELW5	STRING clusters	CL:24023	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	STRING clusters	CL:24026	mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+B7ELW5_ORYSJ	39947.B7ELW5	STRING clusters	CL:24028	Exosome (RNase complex), and Ski complex
+B7ELW5_ORYSJ	39947.B7ELW5	STRING clusters	CL:24032	Exosome (RNase complex)
+B7ELW5_ORYSJ	39947.B7ELW5	STRING clusters	CL:24037	U4 snRNA 3-end processing
+B7ELW5_ORYSJ	39947.B7ELW5	KEGG	map03018	RNA degradation
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-429914	Deadenylation-dependent mRNA decay
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-429958	mRNA decay by 3 to 5 exoribonuclease
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-450531	Regulation of mRNA stability by proteins that bind AU-rich elements
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-6791226	Major pathway of rRNA processing in the nucleolus and cytosol
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-72312	rRNA processing
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-8868773	rRNA processing in the nucleus and cytosol
+B7ELW5_ORYSJ	39947.B7ELW5	Reactome	MAP-8953854	Metabolism of RNA
+B7ELW5_ORYSJ	39947.B7ELW5	COMPARTMENTS	GOCC:0000177	Cytoplasmic exosome (RNase complex)
+B7ELW5_ORYSJ	39947.B7ELW5	COMPARTMENTS	GOCC:0000178	Exosome (RNase complex)
+B7ELW5_ORYSJ	39947.B7ELW5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B7ELW5_ORYSJ	39947.B7ELW5	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B7ELW5_ORYSJ	39947.B7ELW5	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+B7ELW5_ORYSJ	39947.B7ELW5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B7ELW5_ORYSJ	39947.B7ELW5	COMPARTMENTS	GOCC:1905354	Exoribonuclease complex
+B7ELW5_ORYSJ	39947.B7ELW5	UniProt Keywords	KW-0271	Exosome
+B7ELW5_ORYSJ	39947.B7ELW5	UniProt Keywords	KW-0694	RNA-binding
+B7ELW5_ORYSJ	39947.B7ELW5	UniProt Keywords	KW-0698	rRNA processing
+B7ELW5_ORYSJ	39947.B7ELW5	Pfam	PF01138	3 exoribonuclease family, domain 1
+B7ELW5_ORYSJ	39947.B7ELW5	Pfam	PF03725	3 exoribonuclease family, domain 2
+B7ELW5_ORYSJ	39947.B7ELW5	InterPro	IPR001247	Exoribonuclease, phosphorolytic domain 1
+B7ELW5_ORYSJ	39947.B7ELW5	InterPro	IPR015847	Exoribonuclease, phosphorolytic domain 2
+B7ELW5_ORYSJ	39947.B7ELW5	InterPro	IPR020568	Ribosomal protein uS5 domain 2-type superfamily
+B7ELW5_ORYSJ	39947.B7ELW5	InterPro	IPR027408	PNPase/RNase PH domain superfamily
+B7ELW5_ORYSJ	39947.B7ELW5	InterPro	IPR033196	Exosome complex component Rrp43
+B7ELW5_ORYSJ	39947.B7ELW5	InterPro	IPR036345	Exoribonuclease, PH domain 2 superfamily
+B7ELW5_ORYSJ	39947.B7ELW5	InterPro	IPR050590	Exosome complex component Rrp42 subfamily
+LIC	39947.Q5Z807	GO Process	GO:0007154	Cell communication
+LIC	39947.Q5Z807	GO Process	GO:0007165	Signal transduction
+LIC	39947.Q5Z807	GO Process	GO:0007166	Cell surface receptor signaling pathway
+LIC	39947.Q5Z807	GO Process	GO:0008152	Metabolic process
+LIC	39947.Q5Z807	GO Process	GO:0009719	Response to endogenous stimulus
+LIC	39947.Q5Z807	GO Process	GO:0009725	Response to hormone
+LIC	39947.Q5Z807	GO Process	GO:0009741	Response to brassinosteroid
+LIC	39947.Q5Z807	GO Process	GO:0009742	Brassinosteroid mediated signaling pathway
+LIC	39947.Q5Z807	GO Process	GO:0009755	Hormone-mediated signaling pathway
+LIC	39947.Q5Z807	GO Process	GO:0009966	Regulation of signal transduction
+LIC	39947.Q5Z807	GO Process	GO:0009968	Negative regulation of signal transduction
+LIC	39947.Q5Z807	GO Process	GO:0009987	Cellular process
+LIC	39947.Q5Z807	GO Process	GO:0010646	Regulation of cell communication
+LIC	39947.Q5Z807	GO Process	GO:0010648	Negative regulation of cell communication
+LIC	39947.Q5Z807	GO Process	GO:0016567	Protein ubiquitination
+LIC	39947.Q5Z807	GO Process	GO:0019538	Protein metabolic process
+LIC	39947.Q5Z807	GO Process	GO:0023051	Regulation of signaling
+LIC	39947.Q5Z807	GO Process	GO:0023052	Signaling
+LIC	39947.Q5Z807	GO Process	GO:0023057	Negative regulation of signaling
+LIC	39947.Q5Z807	GO Process	GO:0032446	Protein modification by small protein conjugation
+LIC	39947.Q5Z807	GO Process	GO:0032870	Cellular response to hormone stimulus
+LIC	39947.Q5Z807	GO Process	GO:0033993	Response to lipid
+LIC	39947.Q5Z807	GO Process	GO:0036211	Protein modification process
+LIC	39947.Q5Z807	GO Process	GO:0042221	Response to chemical
+LIC	39947.Q5Z807	GO Process	GO:0043170	Macromolecule metabolic process
+LIC	39947.Q5Z807	GO Process	GO:0043401	Steroid hormone receptor signaling pathway
+LIC	39947.Q5Z807	GO Process	GO:0043412	Macromolecule modification
+LIC	39947.Q5Z807	GO Process	GO:0043687	Post-translational protein modification
+LIC	39947.Q5Z807	GO Process	GO:0044238	Primary metabolic process
+LIC	39947.Q5Z807	GO Process	GO:0048519	Negative regulation of biological process
+LIC	39947.Q5Z807	GO Process	GO:0048523	Negative regulation of cellular process
+LIC	39947.Q5Z807	GO Process	GO:0048545	Response to steroid hormone
+LIC	39947.Q5Z807	GO Process	GO:0048583	Regulation of response to stimulus
+LIC	39947.Q5Z807	GO Process	GO:0048585	Negative regulation of response to stimulus
+LIC	39947.Q5Z807	GO Process	GO:0050789	Regulation of biological process
+LIC	39947.Q5Z807	GO Process	GO:0050794	Regulation of cellular process
+LIC	39947.Q5Z807	GO Process	GO:0050896	Response to stimulus
+LIC	39947.Q5Z807	GO Process	GO:0051716	Cellular response to stimulus
+LIC	39947.Q5Z807	GO Process	GO:0065007	Biological regulation
+LIC	39947.Q5Z807	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+LIC	39947.Q5Z807	GO Process	GO:0070887	Cellular response to chemical stimulus
+LIC	39947.Q5Z807	GO Process	GO:0071367	Cellular response to brassinosteroid stimulus
+LIC	39947.Q5Z807	GO Process	GO:0071383	Cellular response to steroid hormone stimulus
+LIC	39947.Q5Z807	GO Process	GO:0071396	Cellular response to lipid
+LIC	39947.Q5Z807	GO Process	GO:0071495	Cellular response to endogenous stimulus
+LIC	39947.Q5Z807	GO Process	GO:1900457	Regulation of brassinosteroid mediated signaling pathway
+LIC	39947.Q5Z807	GO Process	GO:1900458	Negative regulation of brassinosteroid mediated signaling pathway
+LIC	39947.Q5Z807	GO Process	GO:1901700	Response to oxygen-containing compound
+LIC	39947.Q5Z807	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+LIC	39947.Q5Z807	GO Function	GO:0003676	Nucleic acid binding
+LIC	39947.Q5Z807	GO Function	GO:0003677	DNA binding
+LIC	39947.Q5Z807	GO Function	GO:0003824	Catalytic activity
+LIC	39947.Q5Z807	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+LIC	39947.Q5Z807	GO Function	GO:0005488	Binding
+LIC	39947.Q5Z807	GO Function	GO:0005515	Protein binding
+LIC	39947.Q5Z807	GO Function	GO:0008270	Zinc ion binding
+LIC	39947.Q5Z807	GO Function	GO:0016740	Transferase activity
+LIC	39947.Q5Z807	GO Function	GO:0016746	Acyltransferase activity
+LIC	39947.Q5Z807	GO Function	GO:0016755	Aminoacyltransferase activity
+LIC	39947.Q5Z807	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+LIC	39947.Q5Z807	GO Function	GO:0036094	Small molecule binding
+LIC	39947.Q5Z807	GO Function	GO:0043167	Ion binding
+LIC	39947.Q5Z807	GO Function	GO:0043169	Cation binding
+LIC	39947.Q5Z807	GO Function	GO:0043565	Sequence-specific DNA binding
+LIC	39947.Q5Z807	GO Function	GO:0046872	Metal ion binding
+LIC	39947.Q5Z807	GO Function	GO:0046914	Transition metal ion binding
+LIC	39947.Q5Z807	GO Function	GO:0061630	Ubiquitin protein ligase activity
+LIC	39947.Q5Z807	GO Function	GO:0061659	Ubiquitin-like protein ligase activity
+LIC	39947.Q5Z807	GO Function	GO:0140096	Catalytic activity, acting on a protein
+LIC	39947.Q5Z807	GO Component	GO:0005622	Intracellular anatomical structure
+LIC	39947.Q5Z807	GO Component	GO:0005634	Nucleus
+LIC	39947.Q5Z807	GO Component	GO:0005737	Cytoplasm
+LIC	39947.Q5Z807	GO Component	GO:0043226	Organelle
+LIC	39947.Q5Z807	GO Component	GO:0043227	Membrane-bounded organelle
+LIC	39947.Q5Z807	GO Component	GO:0043229	Intracellular organelle
+LIC	39947.Q5Z807	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LIC	39947.Q5Z807	GO Component	GO:0110165	Cellular anatomical structure
+LIC	39947.Q5Z807	STRING clusters	CL:25215	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+LIC	39947.Q5Z807	KEGG	map03013	Nucleocytoplasmic transport
+LIC	39947.Q5Z807	Reactome	MAP-9033241	Peroxisomal protein import
+LIC	39947.Q5Z807	Reactome	MAP-9609507	Protein localization
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0005634	Nucleus
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0005737	Cytoplasm
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0043226	Organelle
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LIC	39947.Q5Z807	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LIC	39947.Q5Z807	UniProt Keywords	KW-0010	Activator
+LIC	39947.Q5Z807	UniProt Keywords	KW-0238	DNA-binding
+LIC	39947.Q5Z807	UniProt Keywords	KW-0479	Metal-binding
+LIC	39947.Q5Z807	UniProt Keywords	KW-0539	Nucleus
+LIC	39947.Q5Z807	UniProt Keywords	KW-0804	Transcription
+LIC	39947.Q5Z807	UniProt Keywords	KW-0805	Transcription regulation
+LIC	39947.Q5Z807	UniProt Keywords	KW-0862	Zinc
+LIC	39947.Q5Z807	UniProt Keywords	KW-0863	Zinc-finger
+LIC	39947.Q5Z807	UniProt Keywords	KW-0963	Cytoplasm
+LIC	39947.Q5Z807	UniProt Keywords	KW-1070	Brassinosteroid signaling pathway
+LIC	39947.Q5Z807	InterPro	IPR000571	Zinc finger, CCCH-type
+LIC	39947.Q5Z807	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+LIC	39947.Q5Z807	InterPro	IPR051767	Nucleoporin NUP42 domain-containing protein
+LIC	39947.Q5Z807	SMART	SM00356	Zinc finger
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0009889	Regulation of biosynthetic process
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0010468	Regulation of gene expression
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0019222	Regulation of metabolic process
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0050789	Regulation of biological process
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0050794	Regulation of cellular process
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0065007	Biological regulation
+OJ1417_E01.106	39947.Q8GW05	GO Process	GO:0080090	Regulation of primary metabolic process
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0003676	Nucleic acid binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0003677	DNA binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0005488	Binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0008270	Zinc ion binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0036094	Small molecule binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0043167	Ion binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0043169	Cation binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0046872	Metal ion binding
+OJ1417_E01.106	39947.Q8GW05	GO Function	GO:0046914	Transition metal ion binding
+OJ1417_E01.106	39947.Q8GW05	GO Component	GO:0005622	Intracellular anatomical structure
+OJ1417_E01.106	39947.Q8GW05	GO Component	GO:0043226	Organelle
+OJ1417_E01.106	39947.Q8GW05	GO Component	GO:0043229	Intracellular organelle
+OJ1417_E01.106	39947.Q8GW05	GO Component	GO:0110165	Cellular anatomical structure
+OJ1417_E01.106	39947.Q8GW05	STRING clusters	CL:26226	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and DNA-binding transcription repressor activity, RNA polymerase II-specific
+OJ1417_E01.106	39947.Q8GW05	STRING clusters	CL:26496	Mixed, incl. Peptide chain release factor 2, and Protein RETICULATA-related
+OJ1417_E01.106	39947.Q8GW05	Reactome	MAP-450531	Regulation of mRNA stability by proteins that bind AU-rich elements
+OJ1417_E01.106	39947.Q8GW05	Reactome	MAP-8953854	Metabolism of RNA
+OJ1417_E01.106	39947.Q8GW05	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+OJ1417_E01.106	39947.Q8GW05	COMPARTMENTS	GOCC:0043226	Organelle
+OJ1417_E01.106	39947.Q8GW05	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+OJ1417_E01.106	39947.Q8GW05	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+OJ1417_E01.106	39947.Q8GW05	UniProt Keywords	KW-0238	DNA-binding
+OJ1417_E01.106	39947.Q8GW05	UniProt Keywords	KW-0479	Metal-binding
+OJ1417_E01.106	39947.Q8GW05	UniProt Keywords	KW-0677	Repeat
+OJ1417_E01.106	39947.Q8GW05	UniProt Keywords	KW-0862	Zinc
+OJ1417_E01.106	39947.Q8GW05	UniProt Keywords	KW-0863	Zinc-finger
+OJ1417_E01.106	39947.Q8GW05	InterPro	IPR000571	Zinc finger, CCCH-type
+OJ1417_E01.106	39947.Q8GW05	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+OJ1417_E01.106	39947.Q8GW05	SMART	SM00356	Zinc finger
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0006412	Translation
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0006415	Translational termination
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0008152	Metabolic process
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0009058	Biosynthetic process
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0009059	Macromolecule biosynthetic process
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0009987	Cellular process
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0010467	Gene expression
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0016043	Cellular component organization
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0019538	Protein metabolic process
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0022411	Cellular component disassembly
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0032984	Protein-containing complex disassembly
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0043170	Macromolecule metabolic process
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0043933	Protein-containing complex organization
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0044238	Primary metabolic process
+Q10MK3_ORYSJ	39947.Q10MK3	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q10MK3_ORYSJ	39947.Q10MK3	GO Function	GO:0003747	Translation release factor activity
+Q10MK3_ORYSJ	39947.Q10MK3	GO Function	GO:0008079	Translation termination factor activity
+Q10MK3_ORYSJ	39947.Q10MK3	GO Function	GO:0016149	Translation release factor activity, codon specific
+Q10MK3_ORYSJ	39947.Q10MK3	GO Function	GO:0180051	Translation factor activity
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0005622	Intracellular anatomical structure
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0005737	Cytoplasm
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0009507	Chloroplast
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0009532	Plastid stroma
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0009536	Plastid
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0009570	Chloroplast stroma
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0043226	Organelle
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0043227	Membrane-bounded organelle
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0043229	Intracellular organelle
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q10MK3_ORYSJ	39947.Q10MK3	GO Component	GO:0110165	Cellular anatomical structure
+Q10MK3_ORYSJ	39947.Q10MK3	STRING clusters	CL:26226	Mixed, incl. TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain, and DNA-binding transcription repressor activity, RNA polymerase II-specific
+Q10MK3_ORYSJ	39947.Q10MK3	STRING clusters	CL:26496	Mixed, incl. Peptide chain release factor 2, and Protein RETICULATA-related
+Q10MK3_ORYSJ	39947.Q10MK3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q10MK3_ORYSJ	39947.Q10MK3	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q10MK3_ORYSJ	39947.Q10MK3	COMPARTMENTS	GOCC:0043226	Organelle
+Q10MK3_ORYSJ	39947.Q10MK3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q10MK3_ORYSJ	39947.Q10MK3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q10MK3_ORYSJ	39947.Q10MK3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q10MK3_ORYSJ	39947.Q10MK3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q10MK3_ORYSJ	39947.Q10MK3	UniProt Keywords	KW-0648	Protein biosynthesis
+Q10MK3_ORYSJ	39947.Q10MK3	Pfam	PF00472	RF-1 domain
+Q10MK3_ORYSJ	39947.Q10MK3	InterPro	IPR000352	Peptide chain release factor class I
+Q10MK3_ORYSJ	39947.Q10MK3	InterPro	IPR004374	Peptide chain release factor 2
+Q10MK3_ORYSJ	39947.Q10MK3	InterPro	IPR005139	Peptide chain release factor
+Q10MK3_ORYSJ	39947.Q10MK3	InterPro	IPR045853	Peptide chain release factor class I superfamily
+Q10MK3_ORYSJ	39947.Q10MK3	SMART	SM00937	This domain is found in peptide chain release factors.
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0000184	Nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0000288	Nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0000290	Deadenylation-dependent decapping of nuclear-transcribed mRNA
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0000956	Nuclear-transcribed mRNA catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0003006	Developmental process involved in reproduction
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0006396	RNA processing
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0006397	mRNA processing
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0006401	RNA catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0006402	mRNA catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0007275	Multicellular organism development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0008152	Metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009056	Catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009057	Macromolecule catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009058	Biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009059	Macromolecule biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009653	Anatomical structure morphogenesis
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009790	Embryo development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009791	Post-embryonic development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009793	Embryo development ending in seed dormancy
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009888	Tissue development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009889	Regulation of biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009890	Negative regulation of biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009892	Negative regulation of metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009893	Positive regulation of metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009894	Regulation of catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009896	Positive regulation of catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009933	Meristem structural organization
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0009987	Cellular process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010014	Meristem initiation
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010016	Shoot system morphogenesis
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010154	Fruit development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010467	Gene expression
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010468	Regulation of gene expression
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010608	Post-transcriptional regulation of gene expression
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0010629	Negative regulation of gene expression
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0016070	RNA metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0016071	mRNA metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0016441	Post-transcriptional gene silencing
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0019222	Regulation of metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0022414	Reproductive process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0031086	Nuclear-transcribed mRNA catabolic process, deadenylation-independent decay
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0031087	Deadenylation-independent decapping of nuclear-transcribed mRNA
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0032501	Multicellular organismal process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0032502	Developmental process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0032774	RNA biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0034655	Nucleobase-containing compound catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0043170	Macromolecule metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0043487	Regulation of RNA stability
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0043488	Regulation of mRNA stability
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0044238	Primary metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048316	Seed development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048367	Shoot system development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048507	Meristem development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048508	Embryonic meristem development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048518	Positive regulation of biological process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048519	Negative regulation of biological process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048522	Positive regulation of cellular process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048523	Negative regulation of cellular process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048532	Anatomical structure arrangement
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048608	Reproductive structure development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048731	System development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0048856	Anatomical structure development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0050779	RNA destabilization
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0050789	Regulation of biological process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0050794	Regulation of cellular process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0061013	Regulation of mRNA catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0061014	Positive regulation of mRNA catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0061157	mRNA destabilization
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0061458	Reproductive system development
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0065007	Biological regulation
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0065008	Regulation of biological quality
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0080090	Regulation of primary metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0090304	Nucleic acid metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0090421	Embryonic meristem initiation
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0110154	RNA decapping
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0110156	mRNA methylguanosine-cap decapping
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0141187	Nucleic acid biosynthetic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:0141188	Nucleic acid catabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:1903311	Regulation of mRNA metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Process	GO:1903313	Positive regulation of mRNA metabolic process
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0000166	Nucleotide binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0000287	Magnesium ion binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0003676	Nucleic acid binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0003723	RNA binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0003729	mRNA binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0003824	Catalytic activity
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0005488	Binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0005515	Protein binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0005524	ATP binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0016462	Pyrophosphatase activity
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0016787	Hydrolase activity
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0017076	Purine nucleotide binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0030145	Manganese ion binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0030554	Adenyl nucleotide binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0032553	Ribonucleotide binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0032555	Purine ribonucleotide binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0032559	Adenyl ribonucleotide binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0036094	Small molecule binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0042802	Identical protein binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0042803	Protein homodimerization activity
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0043167	Ion binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0043168	Anion binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0043169	Cation binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0046872	Metal ion binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0046914	Transition metal ion binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0046983	Protein dimerization activity
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0097367	Carbohydrate derivative binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:0140933	5-(N(7)-methylguanosine 5-triphospho)-[mRNA] hydrolase activity
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:1901265	Nucleoside phosphate binding
+Q6K837_ORYSJ	39947.Q6K837	GO Function	GO:1901363	Heterocyclic compound binding
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0000932	P-body
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0005622	Intracellular anatomical structure
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0005737	Cytoplasm
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0035770	Ribonucleoprotein granule
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0036464	Cytoplasmic ribonucleoprotein granule
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0043226	Organelle
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0043228	Membraneless organelle
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0043229	Intracellular organelle
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0043232	Intracellular membraneless organelle
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0099080	Supramolecular complex
+Q6K837_ORYSJ	39947.Q6K837	GO Component	GO:0110165	Cellular anatomical structure
+Q6K837_ORYSJ	39947.Q6K837	STRING clusters	CL:25215	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+Q6K837_ORYSJ	39947.Q6K837	STRING clusters	CL:25217	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+Q6K837_ORYSJ	39947.Q6K837	STRING clusters	CL:25221	mRNA decay by 5 to 3 exoribonuclease, and Coenzyme A catabolic process
+Q6K837_ORYSJ	39947.Q6K837	STRING clusters	CL:25226	mRNA decay by 5 to 3 exoribonuclease, and Scd6-like Sm domain
+Q6K837_ORYSJ	39947.Q6K837	STRING clusters	CL:25229	mRNA decay by 5 to 3 exoribonuclease
+Q6K837_ORYSJ	39947.Q6K837	STRING clusters	CL:25251	mRNA decay by 5 to 3 exoribonuclease
+Q6K837_ORYSJ	39947.Q6K837	STRING clusters	CL:25255	Enhancer of mRNA-decapping protein 4-like, and Pyridoxamine 5-phosphate oxidase
+Q6K837_ORYSJ	39947.Q6K837	KEGG	map03018	RNA degradation
+Q6K837_ORYSJ	39947.Q6K837	Reactome	MAP-429914	Deadenylation-dependent mRNA decay
+Q6K837_ORYSJ	39947.Q6K837	Reactome	MAP-430039	mRNA decay by 5 to 3 exoribonuclease
+Q6K837_ORYSJ	39947.Q6K837	Reactome	MAP-8953854	Metabolism of RNA
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0000932	P-body
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0035770	Ribonucleoprotein granule
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0036464	Cytoplasmic ribonucleoprotein granule
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0043226	Organelle
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0099080	Supramolecular complex
+Q6K837_ORYSJ	39947.Q6K837	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6K837_ORYSJ	39947.Q6K837	UniProt Keywords	KW-0378	Hydrolase
+Q6K837_ORYSJ	39947.Q6K837	UniProt Keywords	KW-0460	Magnesium
+Q6K837_ORYSJ	39947.Q6K837	UniProt Keywords	KW-0464	Manganese
+Q6K837_ORYSJ	39947.Q6K837	UniProt Keywords	KW-0479	Metal-binding
+Q6K837_ORYSJ	39947.Q6K837	UniProt Keywords	KW-0694	RNA-binding
+Q6K837_ORYSJ	39947.Q6K837	UniProt Keywords	KW-0963	Cytoplasm
+Q6K837_ORYSJ	39947.Q6K837	Pfam	PF00293	NUDIX domain
+Q6K837_ORYSJ	39947.Q6K837	InterPro	IPR000086	NUDIX hydrolase domain
+Q6K837_ORYSJ	39947.Q6K837	InterPro	IPR007722	mRNA decapping protein 2, Box A domain
+Q6K837_ORYSJ	39947.Q6K837	InterPro	IPR015797	NUDIX hydrolase-like domain superfamily
+Q6K837_ORYSJ	39947.Q6K837	InterPro	IPR020084	NUDIX hydrolase, conserved site
+Q6K837_ORYSJ	39947.Q6K837	InterPro	IPR036189	mRNA decapping protein 2, Box A domain superfamily
+Q6K837_ORYSJ	39947.Q6K837	InterPro	IPR044099	mRNA decapping enzyme 2 , NUDIX hydrolase domain
+Q6K837_ORYSJ	39947.Q6K837	SMART	SM01125	Dcp2, box A domain
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0006082	Organic acid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0006399	tRNA metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0006450	Regulation of translational fidelity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0006520	Amino acid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0008152	Metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0009056	Catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0009063	Amino acid catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0009987	Cellular process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0016054	Organic acid catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0016070	RNA metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0019478	D-amino acid catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0019752	Carboxylic acid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0043170	Macromolecule metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0043436	Oxoacid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0044238	Primary metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0044281	Small molecule metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0044282	Small molecule catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0046395	Carboxylic acid catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0046416	D-amino acid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0065007	Biological regulation
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0065008	Regulation of biological quality
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0090304	Nucleic acid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0106074	aminoacyl-tRNA metabolism involved in translational fidelity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0170041	Non-proteinogenic amino acid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:0170044	Non-proteinogenic amino acid catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:1901605	Alpha-amino acid metabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Process	GO:1901606	Alpha-amino acid catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0002161	aminoacyl-tRNA deacylase activity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0003824	Catalytic activity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0005488	Binding
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0016787	Hydrolase activity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0036094	Small molecule binding
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0043167	Ion binding
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0043169	Cation binding
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0046872	Metal ion binding
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0051499	D-aminoacyl-tRNA deacylase activity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0052689	Carboxylic ester hydrolase activity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0106026	Gly-tRNA(Ala) deacylase activity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0140098	Catalytic activity, acting on RNA
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0140101	Catalytic activity, acting on a tRNA
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Function	GO:0160215	Deacylase activity
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0005622	Intracellular anatomical structure
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0005634	Nucleus
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0005737	Cytoplasm
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0043226	Organelle
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0043227	Membrane-bounded organelle
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0043229	Intracellular organelle
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	GO Component	GO:0110165	Cellular anatomical structure
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	STRING clusters	CL:24020	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and TRAMP complex
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	STRING clusters	CL:24023	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	STRING clusters	CL:24026	mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	KEGG	map03008	Ribosome biogenesis in eukaryotes
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	KEGG	map03018	RNA degradation
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	Reactome	MAP-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	Reactome	MAP-450531	Regulation of mRNA stability by proteins that bind AU-rich elements
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	Reactome	MAP-8953854	Metabolism of RNA
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	UniProt Keywords	KW-0378	Hydrolase
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	UniProt Keywords	KW-0479	Metal-binding
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	UniProt Keywords	KW-0862	Zinc
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	Pfam	PF04414	D-aminoacyl-tRNA deacylase
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	InterPro	IPR007508	D-aminoacyl-tRNA deacylase DtdA
+Q6Z0F0_ORYSJ	39947.Q6Z0F0	InterPro	IPR018033	D-aminoacyl-tRNA deacylase, archaea
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0000460	Maturation of 5.8S rRNA
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0000466	Maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0000467	Exonucleolytic trimming to generate mature 3-end of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0000956	Nuclear-transcribed mRNA catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0006364	rRNA processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0006396	RNA processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0006399	tRNA metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0006401	RNA catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0006402	mRNA catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0008152	Metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009056	Catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009057	Macromolecule catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009058	Biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009059	Macromolecule biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009889	Regulation of biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009890	Negative regulation of biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009891	Positive regulation of biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009892	Negative regulation of metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009893	Positive regulation of metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0009987	Cellular process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010467	Gene expression
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010468	Regulation of gene expression
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010628	Positive regulation of gene expression
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0010629	Negative regulation of gene expression
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0016070	RNA metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0016071	mRNA metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0016072	rRNA metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0016073	snRNA metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0016074	sno(s)RNA metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0016078	tRNA decay
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0016180	snRNA processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0019222	Regulation of metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0022613	Ribonucleoprotein complex biogenesis
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0031123	RNA 3-end processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0031125	rRNA 3-end processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0031126	sno(s)RNA 3-end processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0032774	RNA biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0034472	snRNA 3-end processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0034475	U4 snRNA 3-end processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0034655	Nucleobase-containing compound catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0042254	Ribosome biogenesis
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0043144	sno(s)RNA processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0043170	Macromolecule metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0044085	Cellular component biogenesis
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0044238	Primary metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0048518	Positive regulation of biological process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0048519	Negative regulation of biological process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0048522	Positive regulation of cellular process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0048523	Negative regulation of cellular process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0050789	Regulation of biological process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0050794	Regulation of cellular process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0060147	Regulation of post-transcriptional gene silencing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0060149	Negative regulation of post-transcriptional gene silencing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0065007	Biological regulation
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0071025	RNA surveillance
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0071027	Nuclear RNA surveillance
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0071034	CUT catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0071035	Nuclear polyadenylation-dependent rRNA catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0071038	TRAMP-dependent tRNA surveillance pathway
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0071051	poly(A)-dependent snoRNA 3-end processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0090304	Nucleic acid metabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0106354	tRNA surveillance
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0141187	Nucleic acid biosynthetic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Process	GO:0141188	Nucleic acid catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Function	GO:0003676	Nucleic acid binding
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Function	GO:0003723	RNA binding
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Function	GO:0005488	Binding
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0000176	Nuclear exosome (RNase complex)
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0000177	Cytoplasmic exosome (RNase complex)
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0000178	Exosome (RNase complex)
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0005622	Intracellular anatomical structure
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0005634	Nucleus
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0005654	Nucleoplasm
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0005730	Nucleolus
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0005737	Cytoplasm
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0031974	Membrane-enclosed lumen
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0031981	Nuclear lumen
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0032991	Protein-containing complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0043226	Organelle
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0043227	Membrane-bounded organelle
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0043228	Membraneless organelle
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0043229	Intracellular organelle
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0043232	Intracellular membraneless organelle
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0043233	Organelle lumen
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0070013	Intracellular organelle lumen
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0110165	Cellular anatomical structure
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:0140513	Nuclear protein-containing complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:1902494	Catalytic complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	GO Component	GO:1905354	Exoribonuclease complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	STRING clusters	CL:24020	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and TRAMP complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	STRING clusters	CL:24023	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	STRING clusters	CL:24026	mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+Q7XUA1_ORYSJ	39947.Q7XUA1	STRING clusters	CL:24028	Exosome (RNase complex), and Ski complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	STRING clusters	CL:24032	Exosome (RNase complex)
+Q7XUA1_ORYSJ	39947.Q7XUA1	STRING clusters	CL:24037	U4 snRNA 3-end processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	KEGG	map03018	RNA degradation
+Q7XUA1_ORYSJ	39947.Q7XUA1	Reactome	MAP-429914	Deadenylation-dependent mRNA decay
+Q7XUA1_ORYSJ	39947.Q7XUA1	Reactome	MAP-429958	mRNA decay by 3 to 5 exoribonuclease
+Q7XUA1_ORYSJ	39947.Q7XUA1	Reactome	MAP-6791226	Major pathway of rRNA processing in the nucleolus and cytosol
+Q7XUA1_ORYSJ	39947.Q7XUA1	Reactome	MAP-72312	rRNA processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	Reactome	MAP-8868773	rRNA processing in the nucleus and cytosol
+Q7XUA1_ORYSJ	39947.Q7XUA1	Reactome	MAP-8953854	Metabolism of RNA
+Q7XUA1_ORYSJ	39947.Q7XUA1	COMPARTMENTS	GOCC:0000178	Exosome (RNase complex)
+Q7XUA1_ORYSJ	39947.Q7XUA1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q7XUA1_ORYSJ	39947.Q7XUA1	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q7XUA1_ORYSJ	39947.Q7XUA1	COMPARTMENTS	GOCC:1905354	Exoribonuclease complex
+Q7XUA1_ORYSJ	39947.Q7XUA1	UniProt Keywords	KW-0271	Exosome
+Q7XUA1_ORYSJ	39947.Q7XUA1	UniProt Keywords	KW-0539	Nucleus
+Q7XUA1_ORYSJ	39947.Q7XUA1	UniProt Keywords	KW-0694	RNA-binding
+Q7XUA1_ORYSJ	39947.Q7XUA1	UniProt Keywords	KW-0698	rRNA processing
+Q7XUA1_ORYSJ	39947.Q7XUA1	Pfam	PF15985	KH domain
+Q7XUA1_ORYSJ	39947.Q7XUA1	InterPro	IPR003029	S1 domain
+Q7XUA1_ORYSJ	39947.Q7XUA1	InterPro	IPR004087	K Homology domain
+Q7XUA1_ORYSJ	39947.Q7XUA1	InterPro	IPR004088	K Homology domain, type 1
+Q7XUA1_ORYSJ	39947.Q7XUA1	InterPro	IPR012340	Nucleic acid-binding, OB-fold
+Q7XUA1_ORYSJ	39947.Q7XUA1	InterPro	IPR026699	Exosome complex RNA-binding protein 1/RRP40/RRP4
+Q7XUA1_ORYSJ	39947.Q7XUA1	InterPro	IPR036612	K Homology domain, type 1 superfamily
+Q7XUA1_ORYSJ	39947.Q7XUA1	InterPro	IPR048565	RRP4, S1 domain
+Q7XUA1_ORYSJ	39947.Q7XUA1	SMART	SM00316	Ribosomal protein S1-like RNA-binding domain
+RRP46	39947.Q84T68	GO Process	GO:0000956	Nuclear-transcribed mRNA catabolic process
+RRP46	39947.Q84T68	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0006259	DNA metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0006364	rRNA processing
+RRP46	39947.Q84T68	GO Process	GO:0006396	RNA processing
+RRP46	39947.Q84T68	GO Process	GO:0006401	RNA catabolic process
+RRP46	39947.Q84T68	GO Process	GO:0006402	mRNA catabolic process
+RRP46	39947.Q84T68	GO Process	GO:0008152	Metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0009056	Catabolic process
+RRP46	39947.Q84T68	GO Process	GO:0009057	Macromolecule catabolic process
+RRP46	39947.Q84T68	GO Process	GO:0009058	Biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0009059	Macromolecule biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0009889	Regulation of biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0009890	Negative regulation of biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0009892	Negative regulation of metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0009987	Cellular process
+RRP46	39947.Q84T68	GO Process	GO:0010467	Gene expression
+RRP46	39947.Q84T68	GO Process	GO:0010468	Regulation of gene expression
+RRP46	39947.Q84T68	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0010629	Negative regulation of gene expression
+RRP46	39947.Q84T68	GO Process	GO:0016070	RNA metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0016071	mRNA metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0016072	rRNA metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0016073	snRNA metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0016074	sno(s)RNA metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0016075	rRNA catabolic process
+RRP46	39947.Q84T68	GO Process	GO:0016180	snRNA processing
+RRP46	39947.Q84T68	GO Process	GO:0019222	Regulation of metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0022613	Ribonucleoprotein complex biogenesis
+RRP46	39947.Q84T68	GO Process	GO:0031123	RNA 3-end processing
+RRP46	39947.Q84T68	GO Process	GO:0031126	sno(s)RNA 3-end processing
+RRP46	39947.Q84T68	GO Process	GO:0032774	RNA biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0034472	snRNA 3-end processing
+RRP46	39947.Q84T68	GO Process	GO:0034475	U4 snRNA 3-end processing
+RRP46	39947.Q84T68	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0034655	Nucleobase-containing compound catabolic process
+RRP46	39947.Q84T68	GO Process	GO:0042254	Ribosome biogenesis
+RRP46	39947.Q84T68	GO Process	GO:0043144	sno(s)RNA processing
+RRP46	39947.Q84T68	GO Process	GO:0043170	Macromolecule metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0044085	Cellular component biogenesis
+RRP46	39947.Q84T68	GO Process	GO:0044238	Primary metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0048519	Negative regulation of biological process
+RRP46	39947.Q84T68	GO Process	GO:0048523	Negative regulation of cellular process
+RRP46	39947.Q84T68	GO Process	GO:0050789	Regulation of biological process
+RRP46	39947.Q84T68	GO Process	GO:0050794	Regulation of cellular process
+RRP46	39947.Q84T68	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0065007	Biological regulation
+RRP46	39947.Q84T68	GO Process	GO:0071025	RNA surveillance
+RRP46	39947.Q84T68	GO Process	GO:0071027	Nuclear RNA surveillance
+RRP46	39947.Q84T68	GO Process	GO:0071028	Nuclear mRNA surveillance
+RRP46	39947.Q84T68	GO Process	GO:0071051	poly(A)-dependent snoRNA 3-end processing
+RRP46	39947.Q84T68	GO Process	GO:0071840	Cellular component organization or biogenesis
+RRP46	39947.Q84T68	GO Process	GO:0090304	Nucleic acid metabolic process
+RRP46	39947.Q84T68	GO Process	GO:0141187	Nucleic acid biosynthetic process
+RRP46	39947.Q84T68	GO Process	GO:0141188	Nucleic acid catabolic process
+RRP46	39947.Q84T68	GO Function	GO:0003676	Nucleic acid binding
+RRP46	39947.Q84T68	GO Function	GO:0003677	DNA binding
+RRP46	39947.Q84T68	GO Function	GO:0003690	Double-stranded DNA binding
+RRP46	39947.Q84T68	GO Function	GO:0003723	RNA binding
+RRP46	39947.Q84T68	GO Function	GO:0003727	Single-stranded RNA binding
+RRP46	39947.Q84T68	GO Function	GO:0003824	Catalytic activity
+RRP46	39947.Q84T68	GO Function	GO:0004518	Nuclease activity
+RRP46	39947.Q84T68	GO Function	GO:0004527	Exonuclease activity
+RRP46	39947.Q84T68	GO Function	GO:0004536	DNA nuclease activity
+RRP46	39947.Q84T68	GO Function	GO:0004540	RNA nuclease activity
+RRP46	39947.Q84T68	GO Function	GO:0005488	Binding
+RRP46	39947.Q84T68	GO Function	GO:0005515	Protein binding
+RRP46	39947.Q84T68	GO Function	GO:0016787	Hydrolase activity
+RRP46	39947.Q84T68	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+RRP46	39947.Q84T68	GO Function	GO:0042802	Identical protein binding
+RRP46	39947.Q84T68	GO Function	GO:0140097	Catalytic activity, acting on DNA
+RRP46	39947.Q84T68	GO Function	GO:0140098	Catalytic activity, acting on RNA
+RRP46	39947.Q84T68	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+RRP46	39947.Q84T68	GO Component	GO:0000176	Nuclear exosome (RNase complex)
+RRP46	39947.Q84T68	GO Component	GO:0000177	Cytoplasmic exosome (RNase complex)
+RRP46	39947.Q84T68	GO Component	GO:0000178	Exosome (RNase complex)
+RRP46	39947.Q84T68	GO Component	GO:0005622	Intracellular anatomical structure
+RRP46	39947.Q84T68	GO Component	GO:0005634	Nucleus
+RRP46	39947.Q84T68	GO Component	GO:0005730	Nucleolus
+RRP46	39947.Q84T68	GO Component	GO:0005737	Cytoplasm
+RRP46	39947.Q84T68	GO Component	GO:0031974	Membrane-enclosed lumen
+RRP46	39947.Q84T68	GO Component	GO:0031981	Nuclear lumen
+RRP46	39947.Q84T68	GO Component	GO:0032991	Protein-containing complex
+RRP46	39947.Q84T68	GO Component	GO:0043226	Organelle
+RRP46	39947.Q84T68	GO Component	GO:0043227	Membrane-bounded organelle
+RRP46	39947.Q84T68	GO Component	GO:0043228	Membraneless organelle
+RRP46	39947.Q84T68	GO Component	GO:0043229	Intracellular organelle
+RRP46	39947.Q84T68	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+RRP46	39947.Q84T68	GO Component	GO:0043232	Intracellular membraneless organelle
+RRP46	39947.Q84T68	GO Component	GO:0043233	Organelle lumen
+RRP46	39947.Q84T68	GO Component	GO:0070013	Intracellular organelle lumen
+RRP46	39947.Q84T68	GO Component	GO:0110165	Cellular anatomical structure
+RRP46	39947.Q84T68	GO Component	GO:0140513	Nuclear protein-containing complex
+RRP46	39947.Q84T68	GO Component	GO:1902494	Catalytic complex
+RRP46	39947.Q84T68	GO Component	GO:1905354	Exoribonuclease complex
+RRP46	39947.Q84T68	STRING clusters	CL:24020	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and TRAMP complex
+RRP46	39947.Q84T68	STRING clusters	CL:24023	Mixed, incl. mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+RRP46	39947.Q84T68	STRING clusters	CL:24026	mRNA decay by 3 to 5 exoribonuclease, and snRNA catabolic process
+RRP46	39947.Q84T68	STRING clusters	CL:24028	Exosome (RNase complex), and Ski complex
+RRP46	39947.Q84T68	STRING clusters	CL:24032	Exosome (RNase complex)
+RRP46	39947.Q84T68	STRING clusters	CL:24037	U4 snRNA 3-end processing
+RRP46	39947.Q84T68	KEGG	map03018	RNA degradation
+RRP46	39947.Q84T68	Reactome	MAP-429914	Deadenylation-dependent mRNA decay
+RRP46	39947.Q84T68	Reactome	MAP-429958	mRNA decay by 3 to 5 exoribonuclease
+RRP46	39947.Q84T68	Reactome	MAP-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA
+RRP46	39947.Q84T68	Reactome	MAP-450531	Regulation of mRNA stability by proteins that bind AU-rich elements
+RRP46	39947.Q84T68	Reactome	MAP-6791226	Major pathway of rRNA processing in the nucleolus and cytosol
+RRP46	39947.Q84T68	Reactome	MAP-72312	rRNA processing
+RRP46	39947.Q84T68	Reactome	MAP-8868773	rRNA processing in the nucleus and cytosol
+RRP46	39947.Q84T68	Reactome	MAP-8953854	Metabolism of RNA
+RRP46	39947.Q84T68	COMPARTMENTS	GOCC:0000178	Exosome (RNase complex)
+RRP46	39947.Q84T68	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+RRP46	39947.Q84T68	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+RRP46	39947.Q84T68	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+RRP46	39947.Q84T68	COMPARTMENTS	GOCC:1905354	Exoribonuclease complex
+RRP46	39947.Q84T68	UniProt Keywords	KW-0238	DNA-binding
+RRP46	39947.Q84T68	UniProt Keywords	KW-0269	Exonuclease
+RRP46	39947.Q84T68	UniProt Keywords	KW-0271	Exosome
+RRP46	39947.Q84T68	UniProt Keywords	KW-0378	Hydrolase
+RRP46	39947.Q84T68	UniProt Keywords	KW-0539	Nucleus
+RRP46	39947.Q84T68	UniProt Keywords	KW-0540	Nuclease
+RRP46	39947.Q84T68	UniProt Keywords	KW-0694	RNA-binding
+RRP46	39947.Q84T68	UniProt Keywords	KW-0698	rRNA processing
+RRP46	39947.Q84T68	Pfam	PF01138	3 exoribonuclease family, domain 1
+RRP46	39947.Q84T68	InterPro	IPR001247	Exoribonuclease, phosphorolytic domain 1
+RRP46	39947.Q84T68	InterPro	IPR020568	Ribosomal protein uS5 domain 2-type superfamily
+RRP46	39947.Q84T68	InterPro	IPR027408	PNPase/RNase PH domain superfamily
+RRP46	39947.Q84T68	InterPro	IPR036345	Exoribonuclease, PH domain 2 superfamily
+RRP46	39947.Q84T68	InterPro	IPR050080	Ribonuclease PH

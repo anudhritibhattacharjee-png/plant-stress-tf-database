@@ -1,0 +1,1001 @@
+#node	identifier	category	term ID	term description
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0006810	Transport
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0006886	Intracellular protein transport
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0006897	Endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0006898	Receptor-mediated endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0008104	Intracellular protein localization
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0009987	Cellular process
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0015031	Protein transport
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0016192	Vesicle-mediated transport
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0033036	Macromolecule localization
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0045184	Establishment of protein localization
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0046907	Intracellular transport
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0051179	Localization
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0051234	Establishment of localization
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0051641	Cellular localization
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0051649	Establishment of localization in cell
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0071705	Nitrogen compound transport
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0072583	Clathrin-dependent endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Process	GO:0098657	Import into cell
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Function	GO:0005488	Binding
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Function	GO:0005515	Protein binding
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Function	GO:0008289	Lipid binding
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Function	GO:0030674	Protein-macromolecule adaptor activity
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Function	GO:0035615	Clathrin adaptor activity
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Function	GO:0060090	Molecular adaptor activity
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Function	GO:0140312	Cargo adaptor activity
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0005737	Cytoplasm
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0005886	Plasma membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0005905	Clathrin-coated pit
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0009536	Plastid
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0012505	Endomembrane system
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0012506	Vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0016020	Membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030117	Membrane coat
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030118	Clathrin coat
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030119	AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030120	Vesicle coat
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030122	AP-2 adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030125	Clathrin vesicle coat
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030128	Clathrin coat of endocytic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030131	Clathrin adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030132	Clathrin coat of coated pit
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030135	Coated vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030136	Clathrin-coated vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030139	Endocytic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030659	Cytoplasmic vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030662	Coated vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030665	Clathrin-coated vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030666	Endocytic vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0030669	Clathrin-coated endocytic vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0031090	Organelle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0031410	Cytoplasmic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0031982	Vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0032991	Protein-containing complex
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0043226	Organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0043227	Membrane-bounded organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0043229	Intracellular organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0045334	Clathrin-coated endocytic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0048475	Coated membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0071944	Cell periphery
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0097708	Intracellular vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0098588	Bounding membrane of organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0098796	Membrane protein complex
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0098797	Plasma membrane protein complex
+A0A0P0VSF7	39947.A0A0P0VSF7	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27614	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27616	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27617	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27618	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27621	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27624	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27626	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27628	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27633	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27638	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27642	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27645	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27650	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27655	Mixed, incl. Clathrin coat, and Clathrin coat assembly
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27660	Clathrin vesicle coat, and Endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27665	Clathrin vesicle coat, and Endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27667	Clathrin vesicle coat, and Endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27672	Clathrin vesicle coat, and EH domain
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27673	Mixed, incl. Recycling pathway of L1, and EH domain
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27677	Recycling pathway of L1, and EH domain
+A0A0P0VSF7	39947.A0A0P0VSF7	STRING clusters	CL:27699	AP-2 adaptor complex, and Calcium sensing receptor, plant
+A0A0P0VSF7	39947.A0A0P0VSF7	KEGG	map04144	Endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-1266738	Developmental Biology
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-168256	Immune System
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-174824	Plasma lipoprotein assembly, remodeling, and clearance
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-199991	Membrane Trafficking
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-373760	L1CAM interactions
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-382551	Transport of small molecules
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-422475	Axon guidance
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-437239	Recycling pathway of L1
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-5653656	Vesicle-mediated transport
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-8856825	Cargo recognition for clathrin-mediated endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-8856828	Clathrin-mediated endocytosis
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-8866427	VLDLR internalisation and degradation
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-8964038	LDL clearance
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-8964043	Plasma lipoprotein clearance
+A0A0P0VSF7	39947.A0A0P0VSF7	Reactome	MAP-9675108	Nervous system development
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0005886	Plasma membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0005905	Clathrin-coated pit
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0012505	Endomembrane system
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0012506	Vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0016020	Membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030117	Membrane coat
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030118	Clathrin coat
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030119	AP-type membrane coat adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030120	Vesicle coat
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030122	AP-2 adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030125	Clathrin vesicle coat
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030128	Clathrin coat of endocytic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030131	Clathrin adaptor complex
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030132	Clathrin coat of coated pit
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030135	Coated vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030136	Clathrin-coated vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030139	Endocytic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030659	Cytoplasmic vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030662	Coated vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030665	Clathrin-coated vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030666	Endocytic vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0030669	Clathrin-coated endocytic vesicle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0031090	Organelle membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0031410	Cytoplasmic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0031982	Vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0043226	Organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0045334	Clathrin-coated endocytic vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0048475	Coated membrane
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0071944	Cell periphery
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0097708	Intracellular vesicle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0098797	Plasma membrane protein complex
+A0A0P0VSF7	39947.A0A0P0VSF7	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0VSF7	39947.A0A0P0VSF7	UniProt Keywords	KW-0653	Protein transport
+A0A0P0VSF7	39947.A0A0P0VSF7	UniProt Keywords	KW-0813	Transport
+A0A0P0VSF7	39947.A0A0P0VSF7	Pfam	PF12717	non-SMC mitotic condensation complex subunit 1
+A0A0P0VSF7	39947.A0A0P0VSF7	InterPro	IPR002553	Clathrin/coatomer adaptor, adaptin-like, N-terminal
+A0A0P0VSF7	39947.A0A0P0VSF7	InterPro	IPR011989	Armadillo-like helical
+A0A0P0VSF7	39947.A0A0P0VSF7	InterPro	IPR016024	Armadillo-type fold
+A0A0P0VSF7	39947.A0A0P0VSF7	InterPro	IPR050840	Adaptor Complexes Large Subunit
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0006810	Transport
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0006886	Intracellular protein transport
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0006897	Endocytosis
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0006898	Receptor-mediated endocytosis
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0008104	Intracellular protein localization
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0009987	Cellular process
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0015031	Protein transport
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0016192	Vesicle-mediated transport
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0033036	Macromolecule localization
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0045184	Establishment of protein localization
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0046907	Intracellular transport
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0051179	Localization
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0051234	Establishment of localization
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0051641	Cellular localization
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0051649	Establishment of localization in cell
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0071705	Nitrogen compound transport
+A0A0P0XY01	39947.A0A0P0XY01	GO Process	GO:0098657	Import into cell
+A0A0P0XY01	39947.A0A0P0XY01	GO Function	GO:0005198	Structural molecule activity
+A0A0P0XY01	39947.A0A0P0XY01	GO Function	GO:0005488	Binding
+A0A0P0XY01	39947.A0A0P0XY01	GO Function	GO:0005515	Protein binding
+A0A0P0XY01	39947.A0A0P0XY01	GO Function	GO:0030276	Clathrin binding
+A0A0P0XY01	39947.A0A0P0XY01	GO Function	GO:0032051	Clathrin light chain binding
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0005737	Cytoplasm
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0005794	Golgi apparatus
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0005798	Golgi-associated vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0005886	Plasma membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0005905	Clathrin-coated pit
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0012505	Endomembrane system
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0012506	Vesicle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0012510	trans-Golgi network transport vesicle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0016020	Membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030117	Membrane coat
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030118	Clathrin coat
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030120	Vesicle coat
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030125	Clathrin vesicle coat
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030130	Clathrin coat of trans-Golgi network vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030132	Clathrin coat of coated pit
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030133	Transport vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030135	Coated vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030136	Clathrin-coated vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030140	trans-Golgi network transport vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030658	Transport vesicle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030659	Cytoplasmic vesicle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030660	Golgi-associated vesicle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030662	Coated vesicle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0030665	Clathrin-coated vesicle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0031090	Organelle membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0031410	Cytoplasmic vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0031982	Vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0032991	Protein-containing complex
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0043226	Organelle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0043227	Membrane-bounded organelle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0043229	Intracellular organelle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0048475	Coated membrane
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0071439	Clathrin complex
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0071944	Cell periphery
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0097708	Intracellular vesicle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0098588	Bounding membrane of organelle
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0098796	Membrane protein complex
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0098797	Plasma membrane protein complex
+A0A0P0XY01	39947.A0A0P0XY01	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27614	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27616	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27617	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27618	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27621	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27624	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27626	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27628	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27633	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27638	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27642	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27645	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27650	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27655	Mixed, incl. Clathrin coat, and Clathrin coat assembly
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27660	Clathrin vesicle coat, and Endocytosis
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27665	Clathrin vesicle coat, and Endocytosis
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27667	Clathrin vesicle coat, and Endocytosis
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27672	Clathrin vesicle coat, and EH domain
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27673	Mixed, incl. Recycling pathway of L1, and EH domain
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27677	Recycling pathway of L1, and EH domain
+A0A0P0XY01	39947.A0A0P0XY01	STRING clusters	CL:27678	Recycling pathway of L1, and Beta-adaptin appendage, C-terminal subdomain
+A0A0P0XY01	39947.A0A0P0XY01	KEGG	map04142	Lysosome
+A0A0P0XY01	39947.A0A0P0XY01	KEGG	map04144	Endocytosis
+A0A0P0XY01	39947.A0A0P0XY01	KEGG	map05100	Bacterial invasion of epithelial cells
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-1266738	Developmental Biology
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-162582	Signal Transduction
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-174824	Plasma lipoprotein assembly, remodeling, and clearance
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-194315	Signaling by Rho GTPases
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-199991	Membrane Trafficking
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-199992	trans-Golgi Network Vesicle Budding
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-373760	L1CAM interactions
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-382551	Transport of small molecules
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-422475	Axon guidance
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-432720	Lysosome Vesicle Biogenesis
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-437239	Recycling pathway of L1
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-5653656	Vesicle-mediated transport
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-8856828	Clathrin-mediated endocytosis
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-8866427	VLDLR internalisation and degradation
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-8964038	LDL clearance
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-8964043	Plasma lipoprotein clearance
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-9012999	RHO GTPase cycle
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-9013420	RHOU GTPase cycle
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-9013424	RHOV GTPase cycle
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-9675108	Nervous system development
+A0A0P0XY01	39947.A0A0P0XY01	Reactome	MAP-9716542	Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0016020	Membrane
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0030117	Membrane coat
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0030118	Clathrin coat
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0048475	Coated membrane
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0071439	Clathrin complex
+A0A0P0XY01	39947.A0A0P0XY01	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0XY01	39947.A0A0P0XY01	UniProt Keywords	KW-0472	Membrane
+A0A0P0XY01	39947.A0A0P0XY01	UniProt Keywords	KW-0677	Repeat
+A0A0P0XY01	39947.A0A0P0XY01	UniProt Keywords	KW-0968	Cytoplasmic vesicle
+A0A0P0XY01	39947.A0A0P0XY01	Pfam	PF01394	Clathrin propeller repeat
+A0A0P0XY01	39947.A0A0P0XY01	Pfam	PF09268	Clathrin, heavy-chain linker
+A0A0P0XY01	39947.A0A0P0XY01	Pfam	PF13838	Clathrin-H-link
+A0A0P0XY01	39947.A0A0P0XY01	InterPro	IPR000547	Clathrin, heavy chain/VPS, 7-fold repeat
+A0A0P0XY01	39947.A0A0P0XY01	InterPro	IPR015348	Clathrin, heavy chain, linker, core motif
+A0A0P0XY01	39947.A0A0P0XY01	InterPro	IPR016024	Armadillo-type fold
+A0A0P0XY01	39947.A0A0P0XY01	InterPro	IPR016025	Clathrin heavy chain, N-terminal
+A0A0P0XY01	39947.A0A0P0XY01	InterPro	IPR022365	Clathrin, heavy chain, propeller repeat
+NLP2	39947.Q0JC27	GO Process	GO:0006355	Regulation of DNA-templated transcription
+NLP2	39947.Q0JC27	GO Process	GO:0009889	Regulation of biosynthetic process
+NLP2	39947.Q0JC27	GO Process	GO:0010468	Regulation of gene expression
+NLP2	39947.Q0JC27	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+NLP2	39947.Q0JC27	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+NLP2	39947.Q0JC27	GO Process	GO:0019222	Regulation of metabolic process
+NLP2	39947.Q0JC27	GO Process	GO:0050789	Regulation of biological process
+NLP2	39947.Q0JC27	GO Process	GO:0050794	Regulation of cellular process
+NLP2	39947.Q0JC27	GO Process	GO:0051252	Regulation of RNA metabolic process
+NLP2	39947.Q0JC27	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+NLP2	39947.Q0JC27	GO Process	GO:0065007	Biological regulation
+NLP2	39947.Q0JC27	GO Process	GO:0080090	Regulation of primary metabolic process
+NLP2	39947.Q0JC27	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+NLP2	39947.Q0JC27	GO Function	GO:0003676	Nucleic acid binding
+NLP2	39947.Q0JC27	GO Function	GO:0003677	DNA binding
+NLP2	39947.Q0JC27	GO Function	GO:0003700	DNA-binding transcription factor activity
+NLP2	39947.Q0JC27	GO Function	GO:0005488	Binding
+NLP2	39947.Q0JC27	GO Function	GO:0140110	Transcription regulator activity
+NLP2	39947.Q0JC27	GO Component	GO:0005622	Intracellular anatomical structure
+NLP2	39947.Q0JC27	GO Component	GO:0005634	Nucleus
+NLP2	39947.Q0JC27	GO Component	GO:0043226	Organelle
+NLP2	39947.Q0JC27	GO Component	GO:0043227	Membrane-bounded organelle
+NLP2	39947.Q0JC27	GO Component	GO:0043229	Intracellular organelle
+NLP2	39947.Q0JC27	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+NLP2	39947.Q0JC27	GO Component	GO:0110165	Cellular anatomical structure
+NLP2	39947.Q0JC27	STRING clusters	CL:27614	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+NLP2	39947.Q0JC27	STRING clusters	CL:27616	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+NLP2	39947.Q0JC27	STRING clusters	CL:27617	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+NLP2	39947.Q0JC27	STRING clusters	CL:27618	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+NLP2	39947.Q0JC27	STRING clusters	CL:27621	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	STRING clusters	CL:27624	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	STRING clusters	CL:27626	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	STRING clusters	CL:27628	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	STRING clusters	CL:27633	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	STRING clusters	CL:27638	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	STRING clusters	CL:27642	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	STRING clusters	CL:27645	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+NLP2	39947.Q0JC27	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+NLP2	39947.Q0JC27	COMPARTMENTS	GOCC:0043226	Organelle
+NLP2	39947.Q0JC27	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+NLP2	39947.Q0JC27	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+NLP2	39947.Q0JC27	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+NLP2	39947.Q0JC27	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NLP2	39947.Q0JC27	UniProt Keywords	KW-0238	DNA-binding
+NLP2	39947.Q0JC27	UniProt Keywords	KW-0539	Nucleus
+NLP2	39947.Q0JC27	UniProt Keywords	KW-0804	Transcription
+NLP2	39947.Q0JC27	UniProt Keywords	KW-0805	Transcription regulation
+NLP2	39947.Q0JC27	Pfam	PF02042	RWP-RK domain
+NLP2	39947.Q0JC27	InterPro	IPR000270	PB1 domain
+NLP2	39947.Q0JC27	InterPro	IPR003035	RWP-RK domain
+NLP2	39947.Q0JC27	InterPro	IPR045012	Protein NLP
+NLP2	39947.Q0JC27	InterPro	IPR053793	PB1-like domain
+NLP2	39947.Q0JC27	InterPro	IPR055081	NLP1-9, GAF domain
+NLP2	39947.Q0JC27	SMART	SM00666	PB1 domain
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0000266	Mitochondrial fission
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0006996	Organelle organization
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0007005	Mitochondrion organization
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0007031	Peroxisome organization
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0009987	Cellular process
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0016043	Cellular component organization
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0016559	Peroxisome fission
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0048285	Organelle fission
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Function	GO:0005488	Binding
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Function	GO:0005515	Protein binding
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Function	GO:0008289	Lipid binding
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Function	GO:0060090	Molecular adaptor activity
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0005622	Intracellular anatomical structure
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0005737	Cytoplasm
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0005739	Mitochondrion
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0005740	Mitochondrial envelope
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0005741	Mitochondrial outer membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0005777	Peroxisome
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0005778	Peroxisomal membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0016020	Membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0019867	Outer membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0031090	Organelle membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0031903	Microbody membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0031966	Mitochondrial membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0031967	Organelle envelope
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0031968	Organelle outer membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0042579	Microbody
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0043226	Organelle
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0043227	Membrane-bounded organelle
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0043229	Intracellular organelle
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0098588	Bounding membrane of organelle
+Q0DIK0_ORYSJ	39947.Q0DIK0	GO Component	GO:0110165	Cellular anatomical structure
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33229	Mixed, incl. Peroxisome, and Peptidase S1, PA clan
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33230	Mixed, incl. Microbody membrane, and Peptidase S1, PA clan
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33231	Mixed, incl. Microbody membrane, and Two-component system
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33234	Mixed, incl. Microbody membrane, and Peptidase S1, PA clan
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33236	Mixed, incl. Microbody membrane, and Peptidase S1, PA clan
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33238	Mixed, incl. Microbody membrane, and Mpv17/PMP22
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33240	Mixed, incl. Microbody membrane, and Mpv17/PMP22
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33241	Peroxisome organization, and Mpv17/PMP22
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33243	Peroxisome organization, and Mpv17/PMP22
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33245	Peroxisome organization
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33246	Peroxisome organization
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33248	Class I peroxisomal membrane protein import
+Q0DIK0_ORYSJ	39947.Q0DIK0	STRING clusters	CL:33251	Class I peroxisomal membrane protein import
+Q0DIK0_ORYSJ	39947.Q0DIK0	KEGG	map03272	Virion - Hepatitis viruses
+Q0DIK0_ORYSJ	39947.Q0DIK0	KEGG	map04382	Cornified envelope formation
+Q0DIK0_ORYSJ	39947.Q0DIK0	Reactome	MAP-9603798	Class I peroxisomal membrane protein import
+Q0DIK0_ORYSJ	39947.Q0DIK0	Reactome	MAP-9609507	Protein localization
+Q0DIK0_ORYSJ	39947.Q0DIK0	COMPARTMENTS	GOCC:0005779	Obsolete integral component of peroxisomal membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	COMPARTMENTS	GOCC:0031231	Obsolete intrinsic component of peroxisomal membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	COMPARTMENTS	GOCC:0031306	Obsolete intrinsic component of mitochondrial outer membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	COMPARTMENTS	GOCC:0031307	Obsolete integral component of mitochondrial outer membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	UniProt Keywords	KW-0472	Membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	UniProt Keywords	KW-0496	Mitochondrion
+Q0DIK0_ORYSJ	39947.Q0DIK0	UniProt Keywords	KW-0812	Transmembrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	UniProt Keywords	KW-0962	Peroxisome biogenesis
+Q0DIK0_ORYSJ	39947.Q0DIK0	UniProt Keywords	KW-1000	Mitochondrion outer membrane
+Q0DIK0_ORYSJ	39947.Q0DIK0	UniProt Keywords	KW-1133	Transmembrane helix
+Q0DIK0_ORYSJ	39947.Q0DIK0	Pfam	PF14852	Fis1 N-terminal tetratricopeptide repeat
+Q0DIK0_ORYSJ	39947.Q0DIK0	Pfam	PF14853	Fis1 C-terminal tetratricopeptide repeat
+Q0DIK0_ORYSJ	39947.Q0DIK0	InterPro	IPR011990	Tetratricopeptide-like helical domain superfamily
+Q0DIK0_ORYSJ	39947.Q0DIK0	InterPro	IPR016543	Mitochondria fission 1 protein
+Q0DIK0_ORYSJ	39947.Q0DIK0	InterPro	IPR028058	Fis1, N-terminal tetratricopeptide repeat
+Q0DIK0_ORYSJ	39947.Q0DIK0	InterPro	IPR028061	Fis1, C-terminal tetratricopeptide repeat
+Q0DIK0_ORYSJ	39947.Q0DIK0	InterPro	IPR033745	Mitochondria fission protein Fis1, cytosolic domain
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0006810	Transport
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0006886	Intracellular protein transport
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0006897	Endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0006898	Receptor-mediated endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0008104	Intracellular protein localization
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0009987	Cellular process
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0015031	Protein transport
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0016192	Vesicle-mediated transport
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0033036	Macromolecule localization
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0045184	Establishment of protein localization
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0046907	Intracellular transport
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0051179	Localization
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0051234	Establishment of localization
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0051641	Cellular localization
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0051649	Establishment of localization in cell
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0071705	Nitrogen compound transport
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0072583	Clathrin-dependent endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Process	GO:0098657	Import into cell
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Function	GO:0005488	Binding
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Function	GO:0005515	Protein binding
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Function	GO:0008289	Lipid binding
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Function	GO:0030674	Protein-macromolecule adaptor activity
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Function	GO:0035615	Clathrin adaptor activity
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Function	GO:0060090	Molecular adaptor activity
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Function	GO:0140312	Cargo adaptor activity
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0005622	Intracellular anatomical structure
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0005737	Cytoplasm
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0005886	Plasma membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0005905	Clathrin-coated pit
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0009536	Plastid
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0012505	Endomembrane system
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0012506	Vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0016020	Membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030117	Membrane coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030118	Clathrin coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030119	AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030120	Vesicle coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030122	AP-2 adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030125	Clathrin vesicle coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030128	Clathrin coat of endocytic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030131	Clathrin adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030132	Clathrin coat of coated pit
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030135	Coated vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030136	Clathrin-coated vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030139	Endocytic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030659	Cytoplasmic vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030662	Coated vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030665	Clathrin-coated vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030666	Endocytic vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0030669	Clathrin-coated endocytic vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0031090	Organelle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0031410	Cytoplasmic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0031982	Vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0032991	Protein-containing complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0043226	Organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0043227	Membrane-bounded organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0043229	Intracellular organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0045334	Clathrin-coated endocytic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0048475	Coated membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0071944	Cell periphery
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0097708	Intracellular vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0098588	Bounding membrane of organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0098796	Membrane protein complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0098797	Plasma membrane protein complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	GO Component	GO:0110165	Cellular anatomical structure
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27614	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27616	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27617	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27618	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27621	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27624	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27626	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27628	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27633	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27638	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27642	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27645	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27650	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27655	Mixed, incl. Clathrin coat, and Clathrin coat assembly
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27660	Clathrin vesicle coat, and Endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27665	Clathrin vesicle coat, and Endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27667	Clathrin vesicle coat, and Endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27672	Clathrin vesicle coat, and EH domain
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27673	Mixed, incl. Recycling pathway of L1, and EH domain
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27677	Recycling pathway of L1, and EH domain
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27678	Recycling pathway of L1, and Beta-adaptin appendage, C-terminal subdomain
+Q0DVU5_ORYSJ	39947.Q0DVU5	STRING clusters	CL:27682	Recycling pathway of L1
+Q0DVU5_ORYSJ	39947.Q0DVU5	KEGG	map04144	Endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-1266738	Developmental Biology
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-168256	Immune System
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-174824	Plasma lipoprotein assembly, remodeling, and clearance
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-199991	Membrane Trafficking
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-373760	L1CAM interactions
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-382551	Transport of small molecules
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-422475	Axon guidance
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-437239	Recycling pathway of L1
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-5653656	Vesicle-mediated transport
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-8856825	Cargo recognition for clathrin-mediated endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-8856828	Clathrin-mediated endocytosis
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-8866427	VLDLR internalisation and degradation
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-8964038	LDL clearance
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-8964043	Plasma lipoprotein clearance
+Q0DVU5_ORYSJ	39947.Q0DVU5	Reactome	MAP-9675108	Nervous system development
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0005886	Plasma membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0005905	Clathrin-coated pit
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0012505	Endomembrane system
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0012506	Vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0016020	Membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030117	Membrane coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030118	Clathrin coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030119	AP-type membrane coat adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030120	Vesicle coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030122	AP-2 adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030125	Clathrin vesicle coat
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030128	Clathrin coat of endocytic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030131	Clathrin adaptor complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030132	Clathrin coat of coated pit
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030135	Coated vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030136	Clathrin-coated vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030139	Endocytic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030659	Cytoplasmic vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030662	Coated vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030665	Clathrin-coated vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030666	Endocytic vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0030669	Clathrin-coated endocytic vesicle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0031090	Organelle membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0031410	Cytoplasmic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0031982	Vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0043226	Organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0045334	Clathrin-coated endocytic vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0048475	Coated membrane
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0071944	Cell periphery
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0097708	Intracellular vesicle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0098797	Plasma membrane protein complex
+Q0DVU5_ORYSJ	39947.Q0DVU5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q0DVU5_ORYSJ	39947.Q0DVU5	Pfam	PF02296	Alpha adaptin AP2, C-terminal domain
+Q0DVU5_ORYSJ	39947.Q0DVU5	InterPro	IPR003164	Clathrin adaptor, alpha-adaptin, appendage, C-terminal subdomain
+Q0DVU5_ORYSJ	39947.Q0DVU5	InterPro	IPR009028	Coatomer/calthrin adaptor appendage, C-terminal subdomain
+Q0DVU5_ORYSJ	39947.Q0DVU5	InterPro	IPR012295	TBP domain superfamily
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0000266	Mitochondrial fission
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0006996	Organelle organization
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0007005	Mitochondrion organization
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0007031	Peroxisome organization
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0009987	Cellular process
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0016043	Cellular component organization
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0016559	Peroxisome fission
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0048285	Organelle fission
+Q10L89_ORYSJ	39947.Q10L89	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q10L89_ORYSJ	39947.Q10L89	GO Function	GO:0005488	Binding
+Q10L89_ORYSJ	39947.Q10L89	GO Function	GO:0005515	Protein binding
+Q10L89_ORYSJ	39947.Q10L89	GO Function	GO:0008289	Lipid binding
+Q10L89_ORYSJ	39947.Q10L89	GO Function	GO:0060090	Molecular adaptor activity
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0005622	Intracellular anatomical structure
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0005737	Cytoplasm
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0005739	Mitochondrion
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0005740	Mitochondrial envelope
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0005741	Mitochondrial outer membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0005777	Peroxisome
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0005778	Peroxisomal membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0016020	Membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0019867	Outer membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0031090	Organelle membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0031903	Microbody membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0031966	Mitochondrial membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0031967	Organelle envelope
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0031968	Organelle outer membrane
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0042579	Microbody
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0043226	Organelle
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0043227	Membrane-bounded organelle
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0043229	Intracellular organelle
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0098588	Bounding membrane of organelle
+Q10L89_ORYSJ	39947.Q10L89	GO Component	GO:0110165	Cellular anatomical structure
+Q10L89_ORYSJ	39947.Q10L89	STRING clusters	CL:54918	Mixed, incl. Protein PSK SIMULATOR, and TBC/RABGAPs
+Q10L89_ORYSJ	39947.Q10L89	STRING clusters	CL:54919	Mixed, incl. Domain of unknown function DUF6821, and Plant protein 1589 of unknown function (A_thal_3526)
+Q10L89_ORYSJ	39947.Q10L89	KEGG	map03272	Virion - Hepatitis viruses
+Q10L89_ORYSJ	39947.Q10L89	KEGG	map04382	Cornified envelope formation
+Q10L89_ORYSJ	39947.Q10L89	Reactome	MAP-9603798	Class I peroxisomal membrane protein import
+Q10L89_ORYSJ	39947.Q10L89	Reactome	MAP-9609507	Protein localization
+Q10L89_ORYSJ	39947.Q10L89	COMPARTMENTS	GOCC:0005779	Obsolete integral component of peroxisomal membrane
+Q10L89_ORYSJ	39947.Q10L89	COMPARTMENTS	GOCC:0031231	Obsolete intrinsic component of peroxisomal membrane
+Q10L89_ORYSJ	39947.Q10L89	COMPARTMENTS	GOCC:0031306	Obsolete intrinsic component of mitochondrial outer membrane
+Q10L89_ORYSJ	39947.Q10L89	COMPARTMENTS	GOCC:0031307	Obsolete integral component of mitochondrial outer membrane
+Q10L89_ORYSJ	39947.Q10L89	UniProt Keywords	KW-0472	Membrane
+Q10L89_ORYSJ	39947.Q10L89	UniProt Keywords	KW-0496	Mitochondrion
+Q10L89_ORYSJ	39947.Q10L89	UniProt Keywords	KW-0812	Transmembrane
+Q10L89_ORYSJ	39947.Q10L89	UniProt Keywords	KW-0962	Peroxisome biogenesis
+Q10L89_ORYSJ	39947.Q10L89	UniProt Keywords	KW-1000	Mitochondrion outer membrane
+Q10L89_ORYSJ	39947.Q10L89	UniProt Keywords	KW-1133	Transmembrane helix
+Q10L89_ORYSJ	39947.Q10L89	Pfam	PF14852	Fis1 N-terminal tetratricopeptide repeat
+Q10L89_ORYSJ	39947.Q10L89	Pfam	PF14853	Fis1 C-terminal tetratricopeptide repeat
+Q10L89_ORYSJ	39947.Q10L89	InterPro	IPR011990	Tetratricopeptide-like helical domain superfamily
+Q10L89_ORYSJ	39947.Q10L89	InterPro	IPR016543	Mitochondria fission 1 protein
+Q10L89_ORYSJ	39947.Q10L89	InterPro	IPR028058	Fis1, N-terminal tetratricopeptide repeat
+Q10L89_ORYSJ	39947.Q10L89	InterPro	IPR028061	Fis1, C-terminal tetratricopeptide repeat
+Q10L89_ORYSJ	39947.Q10L89	InterPro	IPR033745	Mitochondria fission protein Fis1, cytosolic domain
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0006810	Transport
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0006897	Endocytosis
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0006898	Receptor-mediated endocytosis
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0009987	Cellular process
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0016043	Cellular component organization
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0016192	Vesicle-mediated transport
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0022411	Cellular component disassembly
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0032984	Protein-containing complex disassembly
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0043933	Protein-containing complex organization
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0051179	Localization
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0051234	Establishment of localization
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0051261	Protein depolymerization
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0072318	Clathrin coat disassembly
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0072319	Vesicle uncoating
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0072583	Clathrin-dependent endocytosis
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Process	GO:0098657	Import into cell
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Function	GO:0005488	Binding
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Function	GO:0005515	Protein binding
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Function	GO:0030276	Clathrin binding
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Component	GO:0005622	Intracellular anatomical structure
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Component	GO:0005737	Cytoplasm
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Component	GO:0031982	Vesicle
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Component	GO:0043226	Organelle
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Component	GO:0043227	Membrane-bounded organelle
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	GO Component	GO:0110165	Cellular anatomical structure
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27614	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27616	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27617	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27618	Mixed, incl. Clathrin-coated vesicle, and trans-Golgi Network Vesicle Budding
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27621	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27624	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27626	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27628	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27633	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27638	Mixed, incl. Clathrin binding, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27642	Mixed, incl. Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	STRING clusters	CL:27645	Clathrin-coated vesicle, and AP-type membrane coat adaptor complex
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	Reactome	MAP-199991	Membrane Trafficking
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	Reactome	MAP-5653656	Vesicle-mediated transport
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	Reactome	MAP-8856828	Clathrin-mediated endocytosis
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0005829	Cytosol
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0005886	Plasma membrane
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0009504	Cell plate
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0016020	Membrane
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0071944	Cell periphery
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	InterPro	IPR036869	Chaperone J-domain superfamily
+Q2QNZ9_ORYSJ	39947.Q2QNZ9	SMART	SM00271	DnaJ molecular chaperone homology domain
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0000266	Mitochondrial fission
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0006996	Organelle organization
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0007005	Mitochondrion organization
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0007031	Peroxisome organization
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0009987	Cellular process
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0016043	Cellular component organization
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0016559	Peroxisome fission
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0048285	Organelle fission
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Function	GO:0005488	Binding
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Function	GO:0005515	Protein binding
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Function	GO:0008289	Lipid binding
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Function	GO:0060090	Molecular adaptor activity
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0005622	Intracellular anatomical structure
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0005737	Cytoplasm
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0005739	Mitochondrion
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0005740	Mitochondrial envelope
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0005741	Mitochondrial outer membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0005777	Peroxisome
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0005778	Peroxisomal membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0016020	Membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0019867	Outer membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0031090	Organelle membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0031903	Microbody membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0031966	Mitochondrial membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0031967	Organelle envelope
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0031968	Organelle outer membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0042579	Microbody
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0043226	Organelle
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0043227	Membrane-bounded organelle
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0043229	Intracellular organelle
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0098588	Bounding membrane of organelle
+Q5JKW7_ORYSJ	39947.Q5JKW7	GO Component	GO:0110165	Cellular anatomical structure
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33229	Mixed, incl. Peroxisome, and Peptidase S1, PA clan
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33230	Mixed, incl. Microbody membrane, and Peptidase S1, PA clan
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33231	Mixed, incl. Microbody membrane, and Two-component system
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33234	Mixed, incl. Microbody membrane, and Peptidase S1, PA clan
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33236	Mixed, incl. Microbody membrane, and Peptidase S1, PA clan
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33238	Mixed, incl. Microbody membrane, and Mpv17/PMP22
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33240	Mixed, incl. Microbody membrane, and Mpv17/PMP22
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33241	Peroxisome organization, and Mpv17/PMP22
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33243	Peroxisome organization, and Mpv17/PMP22
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33245	Peroxisome organization
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33246	Peroxisome organization
+Q5JKW7_ORYSJ	39947.Q5JKW7	STRING clusters	CL:33248	Class I peroxisomal membrane protein import
+Q5JKW7_ORYSJ	39947.Q5JKW7	KEGG	map03272	Virion - Hepatitis viruses
+Q5JKW7_ORYSJ	39947.Q5JKW7	KEGG	map04382	Cornified envelope formation
+Q5JKW7_ORYSJ	39947.Q5JKW7	Reactome	MAP-9603798	Class I peroxisomal membrane protein import
+Q5JKW7_ORYSJ	39947.Q5JKW7	Reactome	MAP-9609507	Protein localization
+Q5JKW7_ORYSJ	39947.Q5JKW7	COMPARTMENTS	GOCC:0005779	Obsolete integral component of peroxisomal membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	COMPARTMENTS	GOCC:0031231	Obsolete intrinsic component of peroxisomal membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	COMPARTMENTS	GOCC:0031306	Obsolete intrinsic component of mitochondrial outer membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	COMPARTMENTS	GOCC:0031307	Obsolete integral component of mitochondrial outer membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	UniProt Keywords	KW-0472	Membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	UniProt Keywords	KW-0496	Mitochondrion
+Q5JKW7_ORYSJ	39947.Q5JKW7	UniProt Keywords	KW-0812	Transmembrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	UniProt Keywords	KW-0962	Peroxisome biogenesis
+Q5JKW7_ORYSJ	39947.Q5JKW7	UniProt Keywords	KW-1000	Mitochondrion outer membrane
+Q5JKW7_ORYSJ	39947.Q5JKW7	UniProt Keywords	KW-1133	Transmembrane helix
+Q5JKW7_ORYSJ	39947.Q5JKW7	Pfam	PF14852	Fis1 N-terminal tetratricopeptide repeat
+Q5JKW7_ORYSJ	39947.Q5JKW7	Pfam	PF14853	Fis1 C-terminal tetratricopeptide repeat
+Q5JKW7_ORYSJ	39947.Q5JKW7	InterPro	IPR011990	Tetratricopeptide-like helical domain superfamily
+Q5JKW7_ORYSJ	39947.Q5JKW7	InterPro	IPR016543	Mitochondria fission 1 protein
+Q5JKW7_ORYSJ	39947.Q5JKW7	InterPro	IPR028058	Fis1, N-terminal tetratricopeptide repeat
+Q5JKW7_ORYSJ	39947.Q5JKW7	InterPro	IPR028061	Fis1, C-terminal tetratricopeptide repeat
+Q5JKW7_ORYSJ	39947.Q5JKW7	InterPro	IPR033745	Mitochondria fission protein Fis1, cytosolic domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0002682	Regulation of immune system process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0002683	Negative regulation of immune system process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0002831	Regulation of response to biotic stimulus
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0002832	Negative regulation of response to biotic stimulus
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0003006	Developmental process involved in reproduction
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0006996	Organelle organization
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0007275	Multicellular organism development
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0009657	Plastid organization
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0009668	Plastid membrane organization
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0009791	Post-embryonic development
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0009987	Cellular process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0010027	Thylakoid membrane organization
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0010228	Vegetative to reproductive phase transition of meristem
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0010363	Regulation of plant-type hypersensitive response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0016043	Cellular component organization
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0022414	Reproductive process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0031347	Regulation of defense response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0031348	Negative regulation of defense response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0032101	Regulation of response to external stimulus
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0032102	Negative regulation of response to external stimulus
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0032501	Multicellular organismal process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0032502	Developmental process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0034051	Negative regulation of plant-type hypersensitive response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0043067	Regulation of programmed cell death
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0043069	Negative regulation of programmed cell death
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0045088	Regulation of innate immune response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0045824	Negative regulation of innate immune response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0048519	Negative regulation of biological process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0048523	Negative regulation of cellular process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0048583	Regulation of response to stimulus
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0048585	Negative regulation of response to stimulus
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0048608	Reproductive structure development
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0048731	System development
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0048856	Anatomical structure development
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0050776	Regulation of immune response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0050777	Negative regulation of immune response
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0050789	Regulation of biological process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0050794	Regulation of cellular process
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0061024	Membrane organization
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0061458	Reproductive system development
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0065007	Biological regulation
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0080134	Regulation of response to stress
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:0080135	Regulation of cellular response to stress
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:1900424	Regulation of defense response to bacterium
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Process	GO:1900425	Negative regulation of defense response to bacterium
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0000166	Nucleotide binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0003824	Catalytic activity
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0005488	Binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0005525	GTP binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0016787	Hydrolase activity
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0017076	Purine nucleotide binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0019001	Guanyl nucleotide binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0032553	Ribonucleotide binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0032555	Purine ribonucleotide binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0032561	Guanyl ribonucleotide binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0036094	Small molecule binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0043167	Ion binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0043168	Anion binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:0097367	Carbohydrate derivative binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:1901265	Nucleoside phosphate binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Function	GO:1901363	Heterocyclic compound binding
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0005622	Intracellular anatomical structure
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0005737	Cytoplasm
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009507	Chloroplast
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009526	Plastid envelope
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009527	Plastid outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009528	Plastid inner membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009534	Chloroplast thylakoid
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009535	Chloroplast thylakoid membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009536	Plastid
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009579	Thylakoid
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009706	Chloroplast inner membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009707	Chloroplast outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0009941	Chloroplast envelope
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0016020	Membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0019866	Organelle inner membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0019867	Outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0031090	Organelle membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0031967	Organelle envelope
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0031968	Organelle outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0031969	Chloroplast membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0031976	Plastid thylakoid
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0034357	Photosynthetic membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0042170	Plastid membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0042651	Thylakoid membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0043226	Organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0043227	Membrane-bounded organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0043228	Membraneless organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0043229	Intracellular organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0043232	Intracellular membraneless organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0055035	Plastid thylakoid membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0098588	Bounding membrane of organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	GO Component	GO:0110165	Cellular anatomical structure
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7811	Mostly uncharacterized, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7812	Mostly uncharacterized, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7813	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7815	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7818	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7821	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7824	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7827	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Plant mobile domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7830	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Regulation of seed germination
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7833	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Regulation of seed germination
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7836	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Regulation of seed germination
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7838	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Regulation of seed germination
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7841	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Regulation of seed germination
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7843	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Regulation of seed germination
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7847	Mixed, incl. FKBP-type peptidyl-prolyl cis-trans isomerase, and Miro GTPase Cycle
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7899	Mixed, incl. Peptidyl-prolyl cis-trans isomerase FKBP4/5/8-like, and Miro GTPase Cycle
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7901	Mixed, incl. Peptidyl-prolyl cis-trans isomerase FKBP4/5/8-like, and Miro GTPase Cycle
+Q6I5X7_ORYSJ	39947.Q6I5X7	STRING clusters	CL:7905	Miro GTPase Cycle, and F-box protein EID1-like
+Q6I5X7_ORYSJ	39947.Q6I5X7	KEGG	map04621	NOD-like receptor signaling pathway
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-109582	Hemostasis
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-162582	Signal Transduction
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-1632852	Macroautophagy
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-5205647	Mitophagy
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-5205685	PINK1-PRKN Mediated Mitophagy
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-9013419	RHOT2 GTPase cycle
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-9612973	Autophagy
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-9663891	Selective autophagy
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-9715370	Miro GTPase Cycle
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-9716542	Signaling by Rho GTPases, Miro GTPases and RHOBTB3
+Q6I5X7_ORYSJ	39947.Q6I5X7	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0009507	Chloroplast
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0009526	Plastid envelope
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0009527	Plastid outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0009536	Plastid
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0009707	Chloroplast outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0009941	Chloroplast envelope
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0016020	Membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0019867	Outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0031090	Organelle membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0031967	Organelle envelope
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0031968	Organelle outer membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0031969	Chloroplast membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0031975	Obsolete envelope
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0042170	Plastid membrane
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0043226	Organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+Q6I5X7_ORYSJ	39947.Q6I5X7	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6I5X7_ORYSJ	39947.Q6I5X7	UniProt Keywords	KW-0175	Coiled coil
+Q6I5X7_ORYSJ	39947.Q6I5X7	Pfam	PF01926	50S ribosome-binding GTPase
+Q6I5X7_ORYSJ	39947.Q6I5X7	InterPro	IPR006073	GTP binding domain
+Q6I5X7_ORYSJ	39947.Q6I5X7	InterPro	IPR027417	P-loop containing nucleoside triphosphate hydrolase
+Q6I5X7_ORYSJ	39947.Q6I5X7	InterPro	IPR051943	TRAFAC Dynamin-like GTPase
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0006810	Transport
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0006914	Autophagy
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0008104	Intracellular protein localization
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0008152	Metabolic process
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0009056	Catabolic process
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0009987	Cellular process
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0015031	Protein transport
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0033036	Macromolecule localization
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0045184	Establishment of protein localization
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0051179	Localization
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0051234	Establishment of localization
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0061919	Process utilizing autophagic mechanism
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Process	GO:0071705	Nitrogen compound transport
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0005488	Binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0005515	Protein binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0008270	Zinc ion binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0036094	Small molecule binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0043167	Ion binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0043169	Cation binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0046872	Metal ion binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Function	GO:0046914	Transition metal ion binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0005622	Intracellular anatomical structure
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0005737	Cytoplasm
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0005773	Vacuole
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0005776	Autophagosome
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0043226	Organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0043227	Membrane-bounded organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0043229	Intracellular organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	GO Component	GO:0110165	Cellular anatomical structure
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6614	Mixed, incl. Ubiquitin-conjugating enzyme/RWD-like, and Ubiquitin conjugating enzyme binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6619	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6622	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6624	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6627	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6630	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin associated domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6633	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin associated domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6635	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin homologues
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6755	Mixed, incl. Ubiquitin associated domain, and Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6756	Mixed, incl. Heat shock chaperonin-binding motif., and Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+Q6ZH84_ORYSJ	39947.Q6ZH84	STRING clusters	CL:6781	BEACH domain-containing protein, and Ig-like domain from next to BRCA1 gene
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0005773	Vacuole
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0005776	Autophagosome
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0043226	Organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q6ZH84_ORYSJ	39947.Q6ZH84	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6ZH84_ORYSJ	39947.Q6ZH84	UniProt Keywords	KW-0479	Metal-binding
+Q6ZH84_ORYSJ	39947.Q6ZH84	UniProt Keywords	KW-0539	Nucleus
+Q6ZH84_ORYSJ	39947.Q6ZH84	UniProt Keywords	KW-0804	Transcription
+Q6ZH84_ORYSJ	39947.Q6ZH84	UniProt Keywords	KW-0862	Zinc
+Q6ZH84_ORYSJ	39947.Q6ZH84	UniProt Keywords	KW-0863	Zinc-finger
+Q6ZH84_ORYSJ	39947.Q6ZH84	UniProt Keywords	KW-0968	Cytoplasmic vesicle
+Q6ZH84_ORYSJ	39947.Q6ZH84	Pfam	PF00564	PB1 domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	Pfam	PF16158	Ig-like domain from next to BRCA1 gene
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR000270	PB1 domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR000433	Zinc finger, ZZ-type
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR009060	UBA-like superfamily
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR013783	Immunoglobulin-like fold
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR015940	Ubiquitin-associated domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR032350	Nbr1, FW domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR043145	Zinc finger, ZZ-type superfamily
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR053793	PB1-like domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	InterPro	IPR056893	Nbr1-like, C-terminal UBA domain
+Q6ZH84_ORYSJ	39947.Q6ZH84	SMART	SM00291	Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0006810	Transport
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0006914	Autophagy
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0008104	Intracellular protein localization
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0008152	Metabolic process
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0009056	Catabolic process
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0009987	Cellular process
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0015031	Protein transport
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0033036	Macromolecule localization
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0045184	Establishment of protein localization
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0051179	Localization
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0051234	Establishment of localization
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0061919	Process utilizing autophagic mechanism
+Q7XK43_ORYSJ	39947.Q7XK43	GO Process	GO:0071705	Nitrogen compound transport
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0005488	Binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0005515	Protein binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0008270	Zinc ion binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0036094	Small molecule binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0043167	Ion binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0043169	Cation binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0046872	Metal ion binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Function	GO:0046914	Transition metal ion binding
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0005622	Intracellular anatomical structure
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0005737	Cytoplasm
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0005773	Vacuole
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0005776	Autophagosome
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0043226	Organelle
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0043227	Membrane-bounded organelle
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0043229	Intracellular organelle
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q7XK43_ORYSJ	39947.Q7XK43	GO Component	GO:0110165	Cellular anatomical structure
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6614	Mixed, incl. Ubiquitin-conjugating enzyme/RWD-like, and Ubiquitin conjugating enzyme binding
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6619	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6622	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6624	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6627	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6630	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin associated domain
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6633	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin associated domain
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6635	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin homologues
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6755	Mixed, incl. Ubiquitin associated domain, and Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6756	Mixed, incl. Heat shock chaperonin-binding motif., and Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+Q7XK43_ORYSJ	39947.Q7XK43	STRING clusters	CL:6781	BEACH domain-containing protein, and Ig-like domain from next to BRCA1 gene
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0005773	Vacuole
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0005776	Autophagosome
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0043226	Organelle
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q7XK43_ORYSJ	39947.Q7XK43	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q7XK43_ORYSJ	39947.Q7XK43	UniProt Keywords	KW-0479	Metal-binding
+Q7XK43_ORYSJ	39947.Q7XK43	UniProt Keywords	KW-0539	Nucleus
+Q7XK43_ORYSJ	39947.Q7XK43	UniProt Keywords	KW-0804	Transcription
+Q7XK43_ORYSJ	39947.Q7XK43	UniProt Keywords	KW-0862	Zinc
+Q7XK43_ORYSJ	39947.Q7XK43	UniProt Keywords	KW-0863	Zinc-finger
+Q7XK43_ORYSJ	39947.Q7XK43	Pfam	PF16158	Ig-like domain from next to BRCA1 gene
+Q7XK43_ORYSJ	39947.Q7XK43	SMART	SM00291	Zinc-binding domain, present in Dystrophin, CREB-binding protein.
+Q7XK43_ORYSJ	39947.Q7XK43	SMART	SM00666	PB1 domain

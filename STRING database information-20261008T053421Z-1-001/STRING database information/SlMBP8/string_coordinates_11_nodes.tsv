@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+A0A3Q7EYF0	4081.A0A3Q7EYF0	0.5544057377049181	0.8854066985645933	rgb(101,199,255)	Uncharacterized protein.
+A0A3Q7H0R2	4081.A0A3Q7H0R2	0.6171106557377051	0.6959330143540671	rgb(255,175,101)	Uncharacterized protein.
+A0A3Q7H689	4081.A0A3Q7H689	0.3681352459016393	0.7834928229665072	rgb(0,28,178)	MADS-box domain-containing protein.
+A0A3Q7HV35	4081.A0A3Q7HV35	0.37459016393442623	0.4332535885167464	rgb(187,255,101)	Uncharacterized protein.
+A0A3Q7ITG2	4081.A0A3Q7ITG2	0.2906762295081967	0.6514354066985647	rgb(101,255,163)	MADS-box domain-containing protein.
+A0A3Q7IUT3	4081.A0A3Q7IUT3	0.3109631147540984	0.24234449760765553	rgb(0,178,157)	MADS-box domain-containing protein.
+A0A3Q7JAE6	4081.A0A3Q7JAE6	0.670594262295082	0.36148325358851674	rgb(14,178,0)	SHSP domain-containing protein; Belongs to the small heat shock protein (HSP20) family.
+A0A3Q7JXP0	4081.A0A3Q7JXP0	0.5165983606557377	0.4921052631578947	rgb(255,0,0)	Uncharacterized protein.
+J	4081.Q9FUY6	0.7037909836065575	0.5495215311004785	rgb(178,171,0)	MADS-box protein JOINTLESS; Putative transcription factor that coordinates gene expression underlying the differentiation of the pedicel abscission zone. May also be involved in the maintenance of the inflorescence meristem state.
+MADS4_SOLLC	4081.K4BND8	0.504610655737705	0.12177033492822967	rgb(239,117,117)	MADS-box protein 04g005320; Probable MADS-box transcription factor that functions with J2 and EJ2 in meristem maturation.
+def	4081.Q2UVA8	0.6005122950819674	0.13468899521531102	rgb(150,101,255)	Floral homeotic protein DEFICIENS.

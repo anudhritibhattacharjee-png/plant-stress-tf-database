@@ -1,0 +1,962 @@
+#node	identifier	category	term ID	term description
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0000166	Nucleotide binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0003824	Catalytic activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0004672	Protein kinase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0005488	Binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0005524	ATP binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0016301	Kinase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0016740	Transferase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0016746	Acyltransferase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0016755	Aminoacyltransferase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0016787	Hydrolase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0017076	Purine nucleotide binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0032553	Ribonucleotide binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0036094	Small molecule binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0043167	Ion binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0043168	Anion binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0061630	Ubiquitin protein ligase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0061659	Ubiquitin-like protein ligase activity
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Function	GO:1901363	Heterocyclic compound binding
+A0A0P0WTL2	39947.A0A0P0WTL2	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0WTL2	39947.A0A0P0WTL2	STRING clusters	CL:19971	Mixed, incl. RAB geranylgeranylation, and RAB GEFs exchange GTP for GDP on RABs
+A0A0P0WTL2	39947.A0A0P0WTL2	STRING clusters	CL:19972	RAB geranylgeranylation, and RAB GEFs exchange GTP for GDP on RABs
+A0A0P0WTL2	39947.A0A0P0WTL2	STRING clusters	CL:19973	RAB geranylgeranylation, and HOPS complex
+A0A0P0WTL2	39947.A0A0P0WTL2	STRING clusters	CL:19974	RAB geranylgeranylation, and HOPS complex
+A0A0P0WTL2	39947.A0A0P0WTL2	STRING clusters	CL:19976	RAB geranylgeranylation, and HOPS complex
+A0A0P0WTL2	39947.A0A0P0WTL2	STRING clusters	CL:20104	Mixed, incl. Rab GTPases family involved in membrane trafficking, and VPS9 domain superfamily
+A0A0P0WTL2	39947.A0A0P0WTL2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+FL	39947.Q0JAI1	GO Process	GO:0003006	Developmental process involved in reproduction
+FL	39947.Q0JAI1	GO Process	GO:0006355	Regulation of DNA-templated transcription
+FL	39947.Q0JAI1	GO Process	GO:0007275	Multicellular organism development
+FL	39947.Q0JAI1	GO Process	GO:0009791	Post-embryonic development
+FL	39947.Q0JAI1	GO Process	GO:0009888	Tissue development
+FL	39947.Q0JAI1	GO Process	GO:0009889	Regulation of biosynthetic process
+FL	39947.Q0JAI1	GO Process	GO:0009908	Flower development
+FL	39947.Q0JAI1	GO Process	GO:0009909	Regulation of flower development
+FL	39947.Q0JAI1	GO Process	GO:0009987	Cellular process
+FL	39947.Q0JAI1	GO Process	GO:0010073	Meristem maintenance
+FL	39947.Q0JAI1	GO Process	GO:0010074	Maintenance of meristem identity
+FL	39947.Q0JAI1	GO Process	GO:0010468	Regulation of gene expression
+FL	39947.Q0JAI1	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+FL	39947.Q0JAI1	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+FL	39947.Q0JAI1	GO Process	GO:0019222	Regulation of metabolic process
+FL	39947.Q0JAI1	GO Process	GO:0019827	Stem cell population maintenance
+FL	39947.Q0JAI1	GO Process	GO:0022414	Reproductive process
+FL	39947.Q0JAI1	GO Process	GO:0030154	Cell differentiation
+FL	39947.Q0JAI1	GO Process	GO:0032501	Multicellular organismal process
+FL	39947.Q0JAI1	GO Process	GO:0032502	Developmental process
+FL	39947.Q0JAI1	GO Process	GO:0040008	Regulation of growth
+FL	39947.Q0JAI1	GO Process	GO:0048367	Shoot system development
+FL	39947.Q0JAI1	GO Process	GO:0048507	Meristem development
+FL	39947.Q0JAI1	GO Process	GO:0048580	Regulation of post-embryonic development
+FL	39947.Q0JAI1	GO Process	GO:0048608	Reproductive structure development
+FL	39947.Q0JAI1	GO Process	GO:0048638	Regulation of developmental growth
+FL	39947.Q0JAI1	GO Process	GO:0048731	System development
+FL	39947.Q0JAI1	GO Process	GO:0048831	Regulation of shoot system development
+FL	39947.Q0JAI1	GO Process	GO:0048856	Anatomical structure development
+FL	39947.Q0JAI1	GO Process	GO:0048869	Cellular developmental process
+FL	39947.Q0JAI1	GO Process	GO:0050789	Regulation of biological process
+FL	39947.Q0JAI1	GO Process	GO:0050793	Regulation of developmental process
+FL	39947.Q0JAI1	GO Process	GO:0050794	Regulation of cellular process
+FL	39947.Q0JAI1	GO Process	GO:0051239	Regulation of multicellular organismal process
+FL	39947.Q0JAI1	GO Process	GO:0051252	Regulation of RNA metabolic process
+FL	39947.Q0JAI1	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+FL	39947.Q0JAI1	GO Process	GO:0061458	Reproductive system development
+FL	39947.Q0JAI1	GO Process	GO:0065007	Biological regulation
+FL	39947.Q0JAI1	GO Process	GO:0080090	Regulation of primary metabolic process
+FL	39947.Q0JAI1	GO Process	GO:0090567	Reproductive shoot system development
+FL	39947.Q0JAI1	GO Process	GO:0098727	Maintenance of cell number
+FL	39947.Q0JAI1	GO Process	GO:1905613	Regulation of developmental vegetative growth
+FL	39947.Q0JAI1	GO Process	GO:2000026	Regulation of multicellular organismal development
+FL	39947.Q0JAI1	GO Process	GO:2000241	Regulation of reproductive process
+FL	39947.Q0JAI1	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+FL	39947.Q0JAI1	GO Function	GO:0003676	Nucleic acid binding
+FL	39947.Q0JAI1	GO Function	GO:0003677	DNA binding
+FL	39947.Q0JAI1	GO Function	GO:0005488	Binding
+FL	39947.Q0JAI1	GO Function	GO:0005515	Protein binding
+FL	39947.Q0JAI1	GO Component	GO:0005622	Intracellular anatomical structure
+FL	39947.Q0JAI1	GO Component	GO:0005634	Nucleus
+FL	39947.Q0JAI1	GO Component	GO:0043226	Organelle
+FL	39947.Q0JAI1	GO Component	GO:0043227	Membrane-bounded organelle
+FL	39947.Q0JAI1	GO Component	GO:0043229	Intracellular organelle
+FL	39947.Q0JAI1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+FL	39947.Q0JAI1	GO Component	GO:0110165	Cellular anatomical structure
+FL	39947.Q0JAI1	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+FL	39947.Q0JAI1	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+FL	39947.Q0JAI1	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+FL	39947.Q0JAI1	STRING clusters	CL:21459	MADS MEF2-like, N-terminal, and Flowering
+FL	39947.Q0JAI1	STRING clusters	CL:21461	K-box region, and Regulation of vasculature development
+FL	39947.Q0JAI1	STRING clusters	CL:21463	K-box region, and Regulation of vasculature development
+FL	39947.Q0JAI1	STRING clusters	CL:21466	K-box region
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0005634	Nucleus
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0032039	Integrator complex
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0043226	Organelle
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+FL	39947.Q0JAI1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+FL	39947.Q0JAI1	UniProt Keywords	KW-0010	Activator
+FL	39947.Q0JAI1	UniProt Keywords	KW-0217	Developmental protein
+FL	39947.Q0JAI1	UniProt Keywords	KW-0221	Differentiation
+FL	39947.Q0JAI1	UniProt Keywords	KW-0238	DNA-binding
+FL	39947.Q0JAI1	UniProt Keywords	KW-0287	Flowering
+FL	39947.Q0JAI1	UniProt Keywords	KW-0539	Nucleus
+FL	39947.Q0JAI1	UniProt Keywords	KW-0804	Transcription
+FL	39947.Q0JAI1	UniProt Keywords	KW-0805	Transcription regulation
+FL	39947.Q0JAI1	Pfam	PF17538	DNA Binding Domain (C-terminal) Leafy/Floricaula
+FL	39947.Q0JAI1	InterPro	IPR002910	Floricaula/leafy protein
+FL	39947.Q0JAI1	InterPro	IPR035079	Floricaula/Leafy protein, SAM domain
+FL	39947.Q0JAI1	InterPro	IPR035209	Floricaula/leafy, DNA-binding C-terminal domain
+FL	39947.Q0JAI1	InterPro	IPR038276	Floricaula/leafy, C-terminal domain superfamily
+MADS16	39947.Q944S9	GO Process	GO:0003002	Regionalization
+MADS16	39947.Q944S9	GO Process	GO:0003006	Developmental process involved in reproduction
+MADS16	39947.Q944S9	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MADS16	39947.Q944S9	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+MADS16	39947.Q944S9	GO Process	GO:0007275	Multicellular organism development
+MADS16	39947.Q944S9	GO Process	GO:0007389	Pattern specification process
+MADS16	39947.Q944S9	GO Process	GO:0009653	Anatomical structure morphogenesis
+MADS16	39947.Q944S9	GO Process	GO:0009791	Post-embryonic development
+MADS16	39947.Q944S9	GO Process	GO:0009889	Regulation of biosynthetic process
+MADS16	39947.Q944S9	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MADS16	39947.Q944S9	GO Process	GO:0009893	Positive regulation of metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0009908	Flower development
+MADS16	39947.Q944S9	GO Process	GO:0009987	Cellular process
+MADS16	39947.Q944S9	GO Process	GO:0010093	Specification of floral organ identity
+MADS16	39947.Q944S9	GO Process	GO:0010097	Specification of stamen identity
+MADS16	39947.Q944S9	GO Process	GO:0010468	Regulation of gene expression
+MADS16	39947.Q944S9	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MADS16	39947.Q944S9	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MADS16	39947.Q944S9	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0019222	Regulation of metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0022414	Reproductive process
+MADS16	39947.Q944S9	GO Process	GO:0030154	Cell differentiation
+MADS16	39947.Q944S9	GO Process	GO:0032501	Multicellular organismal process
+MADS16	39947.Q944S9	GO Process	GO:0032502	Developmental process
+MADS16	39947.Q944S9	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MADS16	39947.Q944S9	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+MADS16	39947.Q944S9	GO Process	GO:0048367	Shoot system development
+MADS16	39947.Q944S9	GO Process	GO:0048437	Floral organ development
+MADS16	39947.Q944S9	GO Process	GO:0048438	Floral whorl development
+MADS16	39947.Q944S9	GO Process	GO:0048443	Stamen development
+MADS16	39947.Q944S9	GO Process	GO:0048444	Floral organ morphogenesis
+MADS16	39947.Q944S9	GO Process	GO:0048448	Stamen morphogenesis
+MADS16	39947.Q944S9	GO Process	GO:0048449	Floral organ formation
+MADS16	39947.Q944S9	GO Process	GO:0048455	Stamen formation
+MADS16	39947.Q944S9	GO Process	GO:0048466	Androecium development
+MADS16	39947.Q944S9	GO Process	GO:0048518	Positive regulation of biological process
+MADS16	39947.Q944S9	GO Process	GO:0048522	Positive regulation of cellular process
+MADS16	39947.Q944S9	GO Process	GO:0048608	Reproductive structure development
+MADS16	39947.Q944S9	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+MADS16	39947.Q944S9	GO Process	GO:0048731	System development
+MADS16	39947.Q944S9	GO Process	GO:0048827	Phyllome development
+MADS16	39947.Q944S9	GO Process	GO:0048856	Anatomical structure development
+MADS16	39947.Q944S9	GO Process	GO:0048869	Cellular developmental process
+MADS16	39947.Q944S9	GO Process	GO:0050789	Regulation of biological process
+MADS16	39947.Q944S9	GO Process	GO:0050794	Regulation of cellular process
+MADS16	39947.Q944S9	GO Process	GO:0051252	Regulation of RNA metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0061458	Reproductive system development
+MADS16	39947.Q944S9	GO Process	GO:0065007	Biological regulation
+MADS16	39947.Q944S9	GO Process	GO:0080090	Regulation of primary metabolic process
+MADS16	39947.Q944S9	GO Process	GO:0090567	Reproductive shoot system development
+MADS16	39947.Q944S9	GO Process	GO:0090696	Post-embryonic plant organ development
+MADS16	39947.Q944S9	GO Process	GO:0090697	Post-embryonic plant organ morphogenesis
+MADS16	39947.Q944S9	GO Process	GO:0090698	Post-embryonic plant morphogenesis
+MADS16	39947.Q944S9	GO Process	GO:0090701	Specification of plant organ identity
+MADS16	39947.Q944S9	GO Process	GO:0099402	Plant organ development
+MADS16	39947.Q944S9	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MADS16	39947.Q944S9	GO Process	GO:1905392	Plant organ morphogenesis
+MADS16	39947.Q944S9	GO Process	GO:1905393	Plant organ formation
+MADS16	39947.Q944S9	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MADS16	39947.Q944S9	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MADS16	39947.Q944S9	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+MADS16	39947.Q944S9	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+MADS16	39947.Q944S9	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+MADS16	39947.Q944S9	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+MADS16	39947.Q944S9	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MADS16	39947.Q944S9	GO Function	GO:0003676	Nucleic acid binding
+MADS16	39947.Q944S9	GO Function	GO:0003677	DNA binding
+MADS16	39947.Q944S9	GO Function	GO:0003690	Double-stranded DNA binding
+MADS16	39947.Q944S9	GO Function	GO:0003700	DNA-binding transcription factor activity
+MADS16	39947.Q944S9	GO Function	GO:0005488	Binding
+MADS16	39947.Q944S9	GO Function	GO:0005515	Protein binding
+MADS16	39947.Q944S9	GO Function	GO:0043565	Sequence-specific DNA binding
+MADS16	39947.Q944S9	GO Function	GO:0046983	Protein dimerization activity
+MADS16	39947.Q944S9	GO Function	GO:0140110	Transcription regulator activity
+MADS16	39947.Q944S9	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MADS16	39947.Q944S9	GO Component	GO:0005622	Intracellular anatomical structure
+MADS16	39947.Q944S9	GO Component	GO:0005634	Nucleus
+MADS16	39947.Q944S9	GO Component	GO:0043226	Organelle
+MADS16	39947.Q944S9	GO Component	GO:0043227	Membrane-bounded organelle
+MADS16	39947.Q944S9	GO Component	GO:0043229	Intracellular organelle
+MADS16	39947.Q944S9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MADS16	39947.Q944S9	GO Component	GO:0110165	Cellular anatomical structure
+MADS16	39947.Q944S9	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+MADS16	39947.Q944S9	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+MADS16	39947.Q944S9	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+MADS16	39947.Q944S9	STRING clusters	CL:21459	MADS MEF2-like, N-terminal, and Flowering
+MADS16	39947.Q944S9	STRING clusters	CL:21461	K-box region, and Regulation of vasculature development
+MADS16	39947.Q944S9	STRING clusters	CL:21463	K-box region, and Regulation of vasculature development
+MADS16	39947.Q944S9	STRING clusters	CL:21466	K-box region
+MADS16	39947.Q944S9	Reactome	MAP-1266738	Developmental Biology
+MADS16	39947.Q944S9	Reactome	MAP-525793	Myogenesis
+MADS16	39947.Q944S9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MADS16	39947.Q944S9	COMPARTMENTS	GOCC:0005634	Nucleus
+MADS16	39947.Q944S9	COMPARTMENTS	GOCC:0043226	Organelle
+MADS16	39947.Q944S9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MADS16	39947.Q944S9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MADS16	39947.Q944S9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MADS16	39947.Q944S9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MADS16	39947.Q944S9	UniProt Keywords	KW-0010	Activator
+MADS16	39947.Q944S9	UniProt Keywords	KW-0217	Developmental protein
+MADS16	39947.Q944S9	UniProt Keywords	KW-0221	Differentiation
+MADS16	39947.Q944S9	UniProt Keywords	KW-0238	DNA-binding
+MADS16	39947.Q944S9	UniProt Keywords	KW-0287	Flowering
+MADS16	39947.Q944S9	UniProt Keywords	KW-0539	Nucleus
+MADS16	39947.Q944S9	UniProt Keywords	KW-0804	Transcription
+MADS16	39947.Q944S9	UniProt Keywords	KW-0805	Transcription regulation
+MADS16	39947.Q944S9	Pfam	PF01486	K-box region
+MADS16	39947.Q944S9	InterPro	IPR002100	Transcription factor, MADS-box
+MADS16	39947.Q944S9	InterPro	IPR002487	Transcription factor, K-box
+MADS16	39947.Q944S9	InterPro	IPR033896	MADS MEF2-like, N-terminal
+MADS16	39947.Q944S9	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+MADS16	39947.Q944S9	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+MADS16	39947.Q944S9	SMART	SM00432	MADS
+MADS2	39947.Q40702	GO Process	GO:0003002	Regionalization
+MADS2	39947.Q40702	GO Process	GO:0003006	Developmental process involved in reproduction
+MADS2	39947.Q40702	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MADS2	39947.Q40702	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+MADS2	39947.Q40702	GO Process	GO:0007275	Multicellular organism development
+MADS2	39947.Q40702	GO Process	GO:0007389	Pattern specification process
+MADS2	39947.Q40702	GO Process	GO:0009653	Anatomical structure morphogenesis
+MADS2	39947.Q40702	GO Process	GO:0009791	Post-embryonic development
+MADS2	39947.Q40702	GO Process	GO:0009889	Regulation of biosynthetic process
+MADS2	39947.Q40702	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MADS2	39947.Q40702	GO Process	GO:0009893	Positive regulation of metabolic process
+MADS2	39947.Q40702	GO Process	GO:0009908	Flower development
+MADS2	39947.Q40702	GO Process	GO:0009987	Cellular process
+MADS2	39947.Q40702	GO Process	GO:0010093	Specification of floral organ identity
+MADS2	39947.Q40702	GO Process	GO:0010097	Specification of stamen identity
+MADS2	39947.Q40702	GO Process	GO:0010468	Regulation of gene expression
+MADS2	39947.Q40702	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MADS2	39947.Q40702	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MADS2	39947.Q40702	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MADS2	39947.Q40702	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MADS2	39947.Q40702	GO Process	GO:0019222	Regulation of metabolic process
+MADS2	39947.Q40702	GO Process	GO:0022414	Reproductive process
+MADS2	39947.Q40702	GO Process	GO:0030154	Cell differentiation
+MADS2	39947.Q40702	GO Process	GO:0032501	Multicellular organismal process
+MADS2	39947.Q40702	GO Process	GO:0032502	Developmental process
+MADS2	39947.Q40702	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MADS2	39947.Q40702	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MADS2	39947.Q40702	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+MADS2	39947.Q40702	GO Process	GO:0048367	Shoot system development
+MADS2	39947.Q40702	GO Process	GO:0048437	Floral organ development
+MADS2	39947.Q40702	GO Process	GO:0048438	Floral whorl development
+MADS2	39947.Q40702	GO Process	GO:0048443	Stamen development
+MADS2	39947.Q40702	GO Process	GO:0048444	Floral organ morphogenesis
+MADS2	39947.Q40702	GO Process	GO:0048448	Stamen morphogenesis
+MADS2	39947.Q40702	GO Process	GO:0048449	Floral organ formation
+MADS2	39947.Q40702	GO Process	GO:0048455	Stamen formation
+MADS2	39947.Q40702	GO Process	GO:0048466	Androecium development
+MADS2	39947.Q40702	GO Process	GO:0048518	Positive regulation of biological process
+MADS2	39947.Q40702	GO Process	GO:0048522	Positive regulation of cellular process
+MADS2	39947.Q40702	GO Process	GO:0048608	Reproductive structure development
+MADS2	39947.Q40702	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+MADS2	39947.Q40702	GO Process	GO:0048731	System development
+MADS2	39947.Q40702	GO Process	GO:0048827	Phyllome development
+MADS2	39947.Q40702	GO Process	GO:0048856	Anatomical structure development
+MADS2	39947.Q40702	GO Process	GO:0048869	Cellular developmental process
+MADS2	39947.Q40702	GO Process	GO:0050789	Regulation of biological process
+MADS2	39947.Q40702	GO Process	GO:0050794	Regulation of cellular process
+MADS2	39947.Q40702	GO Process	GO:0051252	Regulation of RNA metabolic process
+MADS2	39947.Q40702	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MADS2	39947.Q40702	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MADS2	39947.Q40702	GO Process	GO:0061458	Reproductive system development
+MADS2	39947.Q40702	GO Process	GO:0065007	Biological regulation
+MADS2	39947.Q40702	GO Process	GO:0080090	Regulation of primary metabolic process
+MADS2	39947.Q40702	GO Process	GO:0090567	Reproductive shoot system development
+MADS2	39947.Q40702	GO Process	GO:0090696	Post-embryonic plant organ development
+MADS2	39947.Q40702	GO Process	GO:0090697	Post-embryonic plant organ morphogenesis
+MADS2	39947.Q40702	GO Process	GO:0090698	Post-embryonic plant morphogenesis
+MADS2	39947.Q40702	GO Process	GO:0090701	Specification of plant organ identity
+MADS2	39947.Q40702	GO Process	GO:0099402	Plant organ development
+MADS2	39947.Q40702	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MADS2	39947.Q40702	GO Process	GO:1905392	Plant organ morphogenesis
+MADS2	39947.Q40702	GO Process	GO:1905393	Plant organ formation
+MADS2	39947.Q40702	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MADS2	39947.Q40702	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MADS2	39947.Q40702	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+MADS2	39947.Q40702	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+MADS2	39947.Q40702	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+MADS2	39947.Q40702	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+MADS2	39947.Q40702	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MADS2	39947.Q40702	GO Function	GO:0003676	Nucleic acid binding
+MADS2	39947.Q40702	GO Function	GO:0003677	DNA binding
+MADS2	39947.Q40702	GO Function	GO:0003690	Double-stranded DNA binding
+MADS2	39947.Q40702	GO Function	GO:0003700	DNA-binding transcription factor activity
+MADS2	39947.Q40702	GO Function	GO:0005488	Binding
+MADS2	39947.Q40702	GO Function	GO:0005515	Protein binding
+MADS2	39947.Q40702	GO Function	GO:0043565	Sequence-specific DNA binding
+MADS2	39947.Q40702	GO Function	GO:0046983	Protein dimerization activity
+MADS2	39947.Q40702	GO Function	GO:0140110	Transcription regulator activity
+MADS2	39947.Q40702	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MADS2	39947.Q40702	GO Component	GO:0005622	Intracellular anatomical structure
+MADS2	39947.Q40702	GO Component	GO:0005634	Nucleus
+MADS2	39947.Q40702	GO Component	GO:0043226	Organelle
+MADS2	39947.Q40702	GO Component	GO:0043227	Membrane-bounded organelle
+MADS2	39947.Q40702	GO Component	GO:0043229	Intracellular organelle
+MADS2	39947.Q40702	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MADS2	39947.Q40702	GO Component	GO:0110165	Cellular anatomical structure
+MADS2	39947.Q40702	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+MADS2	39947.Q40702	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+MADS2	39947.Q40702	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+MADS2	39947.Q40702	STRING clusters	CL:21459	MADS MEF2-like, N-terminal, and Flowering
+MADS2	39947.Q40702	STRING clusters	CL:21461	K-box region, and Regulation of vasculature development
+MADS2	39947.Q40702	STRING clusters	CL:21463	K-box region, and Regulation of vasculature development
+MADS2	39947.Q40702	STRING clusters	CL:21466	K-box region
+MADS2	39947.Q40702	STRING clusters	CL:21468	K-box region
+MADS2	39947.Q40702	STRING clusters	CL:21470	Specification of ovule identity, and Specification of plant organ identity
+MADS2	39947.Q40702	Reactome	MAP-1266738	Developmental Biology
+MADS2	39947.Q40702	Reactome	MAP-525793	Myogenesis
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0005634	Nucleus
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0005737	Cytoplasm
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0043226	Organelle
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MADS2	39947.Q40702	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MADS2	39947.Q40702	UniProt Keywords	KW-0010	Activator
+MADS2	39947.Q40702	UniProt Keywords	KW-0025	Alternative splicing
+MADS2	39947.Q40702	UniProt Keywords	KW-0217	Developmental protein
+MADS2	39947.Q40702	UniProt Keywords	KW-0221	Differentiation
+MADS2	39947.Q40702	UniProt Keywords	KW-0238	DNA-binding
+MADS2	39947.Q40702	UniProt Keywords	KW-0287	Flowering
+MADS2	39947.Q40702	UniProt Keywords	KW-0539	Nucleus
+MADS2	39947.Q40702	UniProt Keywords	KW-0804	Transcription
+MADS2	39947.Q40702	UniProt Keywords	KW-0805	Transcription regulation
+MADS2	39947.Q40702	Pfam	PF01486	K-box region
+MADS2	39947.Q40702	InterPro	IPR002100	Transcription factor, MADS-box
+MADS2	39947.Q40702	InterPro	IPR002487	Transcription factor, K-box
+MADS2	39947.Q40702	InterPro	IPR033896	MADS MEF2-like, N-terminal
+MADS2	39947.Q40702	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+MADS2	39947.Q40702	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+MADS2	39947.Q40702	SMART	SM00432	MADS
+MADS3	39947.Q40704	GO Process	GO:0003002	Regionalization
+MADS3	39947.Q40704	GO Process	GO:0003006	Developmental process involved in reproduction
+MADS3	39947.Q40704	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MADS3	39947.Q40704	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+MADS3	39947.Q40704	GO Process	GO:0007275	Multicellular organism development
+MADS3	39947.Q40704	GO Process	GO:0007389	Pattern specification process
+MADS3	39947.Q40704	GO Process	GO:0009653	Anatomical structure morphogenesis
+MADS3	39947.Q40704	GO Process	GO:0009791	Post-embryonic development
+MADS3	39947.Q40704	GO Process	GO:0009889	Regulation of biosynthetic process
+MADS3	39947.Q40704	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MADS3	39947.Q40704	GO Process	GO:0009893	Positive regulation of metabolic process
+MADS3	39947.Q40704	GO Process	GO:0009908	Flower development
+MADS3	39947.Q40704	GO Process	GO:0009987	Cellular process
+MADS3	39947.Q40704	GO Process	GO:0010093	Specification of floral organ identity
+MADS3	39947.Q40704	GO Process	GO:0010097	Specification of stamen identity
+MADS3	39947.Q40704	GO Process	GO:0010468	Regulation of gene expression
+MADS3	39947.Q40704	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MADS3	39947.Q40704	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MADS3	39947.Q40704	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MADS3	39947.Q40704	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MADS3	39947.Q40704	GO Process	GO:0019222	Regulation of metabolic process
+MADS3	39947.Q40704	GO Process	GO:0022414	Reproductive process
+MADS3	39947.Q40704	GO Process	GO:0030154	Cell differentiation
+MADS3	39947.Q40704	GO Process	GO:0032501	Multicellular organismal process
+MADS3	39947.Q40704	GO Process	GO:0032502	Developmental process
+MADS3	39947.Q40704	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MADS3	39947.Q40704	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MADS3	39947.Q40704	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+MADS3	39947.Q40704	GO Process	GO:0048367	Shoot system development
+MADS3	39947.Q40704	GO Process	GO:0048437	Floral organ development
+MADS3	39947.Q40704	GO Process	GO:0048438	Floral whorl development
+MADS3	39947.Q40704	GO Process	GO:0048443	Stamen development
+MADS3	39947.Q40704	GO Process	GO:0048444	Floral organ morphogenesis
+MADS3	39947.Q40704	GO Process	GO:0048448	Stamen morphogenesis
+MADS3	39947.Q40704	GO Process	GO:0048449	Floral organ formation
+MADS3	39947.Q40704	GO Process	GO:0048455	Stamen formation
+MADS3	39947.Q40704	GO Process	GO:0048466	Androecium development
+MADS3	39947.Q40704	GO Process	GO:0048518	Positive regulation of biological process
+MADS3	39947.Q40704	GO Process	GO:0048522	Positive regulation of cellular process
+MADS3	39947.Q40704	GO Process	GO:0048608	Reproductive structure development
+MADS3	39947.Q40704	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+MADS3	39947.Q40704	GO Process	GO:0048731	System development
+MADS3	39947.Q40704	GO Process	GO:0048827	Phyllome development
+MADS3	39947.Q40704	GO Process	GO:0048856	Anatomical structure development
+MADS3	39947.Q40704	GO Process	GO:0048869	Cellular developmental process
+MADS3	39947.Q40704	GO Process	GO:0050789	Regulation of biological process
+MADS3	39947.Q40704	GO Process	GO:0050794	Regulation of cellular process
+MADS3	39947.Q40704	GO Process	GO:0051252	Regulation of RNA metabolic process
+MADS3	39947.Q40704	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MADS3	39947.Q40704	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MADS3	39947.Q40704	GO Process	GO:0061458	Reproductive system development
+MADS3	39947.Q40704	GO Process	GO:0065007	Biological regulation
+MADS3	39947.Q40704	GO Process	GO:0080090	Regulation of primary metabolic process
+MADS3	39947.Q40704	GO Process	GO:0090567	Reproductive shoot system development
+MADS3	39947.Q40704	GO Process	GO:0090696	Post-embryonic plant organ development
+MADS3	39947.Q40704	GO Process	GO:0090697	Post-embryonic plant organ morphogenesis
+MADS3	39947.Q40704	GO Process	GO:0090698	Post-embryonic plant morphogenesis
+MADS3	39947.Q40704	GO Process	GO:0090701	Specification of plant organ identity
+MADS3	39947.Q40704	GO Process	GO:0099402	Plant organ development
+MADS3	39947.Q40704	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MADS3	39947.Q40704	GO Process	GO:1905392	Plant organ morphogenesis
+MADS3	39947.Q40704	GO Process	GO:1905393	Plant organ formation
+MADS3	39947.Q40704	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MADS3	39947.Q40704	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MADS3	39947.Q40704	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+MADS3	39947.Q40704	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+MADS3	39947.Q40704	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+MADS3	39947.Q40704	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+MADS3	39947.Q40704	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MADS3	39947.Q40704	GO Function	GO:0003676	Nucleic acid binding
+MADS3	39947.Q40704	GO Function	GO:0003677	DNA binding
+MADS3	39947.Q40704	GO Function	GO:0003690	Double-stranded DNA binding
+MADS3	39947.Q40704	GO Function	GO:0003700	DNA-binding transcription factor activity
+MADS3	39947.Q40704	GO Function	GO:0005488	Binding
+MADS3	39947.Q40704	GO Function	GO:0005515	Protein binding
+MADS3	39947.Q40704	GO Function	GO:0043565	Sequence-specific DNA binding
+MADS3	39947.Q40704	GO Function	GO:0046983	Protein dimerization activity
+MADS3	39947.Q40704	GO Function	GO:0140110	Transcription regulator activity
+MADS3	39947.Q40704	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MADS3	39947.Q40704	GO Component	GO:0005622	Intracellular anatomical structure
+MADS3	39947.Q40704	GO Component	GO:0005634	Nucleus
+MADS3	39947.Q40704	GO Component	GO:0043226	Organelle
+MADS3	39947.Q40704	GO Component	GO:0043227	Membrane-bounded organelle
+MADS3	39947.Q40704	GO Component	GO:0043229	Intracellular organelle
+MADS3	39947.Q40704	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MADS3	39947.Q40704	GO Component	GO:0110165	Cellular anatomical structure
+MADS3	39947.Q40704	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+MADS3	39947.Q40704	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+MADS3	39947.Q40704	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+MADS3	39947.Q40704	STRING clusters	CL:21459	MADS MEF2-like, N-terminal, and Flowering
+MADS3	39947.Q40704	STRING clusters	CL:21461	K-box region, and Regulation of vasculature development
+MADS3	39947.Q40704	STRING clusters	CL:21463	K-box region, and Regulation of vasculature development
+MADS3	39947.Q40704	STRING clusters	CL:21466	K-box region
+MADS3	39947.Q40704	STRING clusters	CL:21468	K-box region
+MADS3	39947.Q40704	Reactome	MAP-1266738	Developmental Biology
+MADS3	39947.Q40704	Reactome	MAP-525793	Myogenesis
+MADS3	39947.Q40704	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MADS3	39947.Q40704	COMPARTMENTS	GOCC:0005634	Nucleus
+MADS3	39947.Q40704	COMPARTMENTS	GOCC:0043226	Organelle
+MADS3	39947.Q40704	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MADS3	39947.Q40704	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MADS3	39947.Q40704	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MADS3	39947.Q40704	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MADS3	39947.Q40704	UniProt Keywords	KW-0010	Activator
+MADS3	39947.Q40704	UniProt Keywords	KW-0025	Alternative splicing
+MADS3	39947.Q40704	UniProt Keywords	KW-0217	Developmental protein
+MADS3	39947.Q40704	UniProt Keywords	KW-0221	Differentiation
+MADS3	39947.Q40704	UniProt Keywords	KW-0238	DNA-binding
+MADS3	39947.Q40704	UniProt Keywords	KW-0287	Flowering
+MADS3	39947.Q40704	UniProt Keywords	KW-0539	Nucleus
+MADS3	39947.Q40704	UniProt Keywords	KW-0804	Transcription
+MADS3	39947.Q40704	UniProt Keywords	KW-0805	Transcription regulation
+MADS3	39947.Q40704	Pfam	PF01486	K-box region
+MADS3	39947.Q40704	InterPro	IPR002100	Transcription factor, MADS-box
+MADS3	39947.Q40704	InterPro	IPR002487	Transcription factor, K-box
+MADS3	39947.Q40704	InterPro	IPR033896	MADS MEF2-like, N-terminal
+MADS3	39947.Q40704	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+MADS3	39947.Q40704	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+MADS3	39947.Q40704	SMART	SM00432	MADS
+MADS4	39947.Q40703	GO Process	GO:0003002	Regionalization
+MADS4	39947.Q40703	GO Process	GO:0003006	Developmental process involved in reproduction
+MADS4	39947.Q40703	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MADS4	39947.Q40703	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+MADS4	39947.Q40703	GO Process	GO:0007275	Multicellular organism development
+MADS4	39947.Q40703	GO Process	GO:0007389	Pattern specification process
+MADS4	39947.Q40703	GO Process	GO:0009653	Anatomical structure morphogenesis
+MADS4	39947.Q40703	GO Process	GO:0009791	Post-embryonic development
+MADS4	39947.Q40703	GO Process	GO:0009889	Regulation of biosynthetic process
+MADS4	39947.Q40703	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MADS4	39947.Q40703	GO Process	GO:0009893	Positive regulation of metabolic process
+MADS4	39947.Q40703	GO Process	GO:0009908	Flower development
+MADS4	39947.Q40703	GO Process	GO:0009987	Cellular process
+MADS4	39947.Q40703	GO Process	GO:0010093	Specification of floral organ identity
+MADS4	39947.Q40703	GO Process	GO:0010097	Specification of stamen identity
+MADS4	39947.Q40703	GO Process	GO:0010468	Regulation of gene expression
+MADS4	39947.Q40703	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MADS4	39947.Q40703	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MADS4	39947.Q40703	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MADS4	39947.Q40703	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MADS4	39947.Q40703	GO Process	GO:0019222	Regulation of metabolic process
+MADS4	39947.Q40703	GO Process	GO:0022414	Reproductive process
+MADS4	39947.Q40703	GO Process	GO:0030154	Cell differentiation
+MADS4	39947.Q40703	GO Process	GO:0032501	Multicellular organismal process
+MADS4	39947.Q40703	GO Process	GO:0032502	Developmental process
+MADS4	39947.Q40703	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MADS4	39947.Q40703	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MADS4	39947.Q40703	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+MADS4	39947.Q40703	GO Process	GO:0048367	Shoot system development
+MADS4	39947.Q40703	GO Process	GO:0048437	Floral organ development
+MADS4	39947.Q40703	GO Process	GO:0048438	Floral whorl development
+MADS4	39947.Q40703	GO Process	GO:0048443	Stamen development
+MADS4	39947.Q40703	GO Process	GO:0048444	Floral organ morphogenesis
+MADS4	39947.Q40703	GO Process	GO:0048448	Stamen morphogenesis
+MADS4	39947.Q40703	GO Process	GO:0048449	Floral organ formation
+MADS4	39947.Q40703	GO Process	GO:0048455	Stamen formation
+MADS4	39947.Q40703	GO Process	GO:0048466	Androecium development
+MADS4	39947.Q40703	GO Process	GO:0048518	Positive regulation of biological process
+MADS4	39947.Q40703	GO Process	GO:0048522	Positive regulation of cellular process
+MADS4	39947.Q40703	GO Process	GO:0048608	Reproductive structure development
+MADS4	39947.Q40703	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+MADS4	39947.Q40703	GO Process	GO:0048731	System development
+MADS4	39947.Q40703	GO Process	GO:0048827	Phyllome development
+MADS4	39947.Q40703	GO Process	GO:0048856	Anatomical structure development
+MADS4	39947.Q40703	GO Process	GO:0048869	Cellular developmental process
+MADS4	39947.Q40703	GO Process	GO:0050789	Regulation of biological process
+MADS4	39947.Q40703	GO Process	GO:0050794	Regulation of cellular process
+MADS4	39947.Q40703	GO Process	GO:0051252	Regulation of RNA metabolic process
+MADS4	39947.Q40703	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MADS4	39947.Q40703	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MADS4	39947.Q40703	GO Process	GO:0061458	Reproductive system development
+MADS4	39947.Q40703	GO Process	GO:0065007	Biological regulation
+MADS4	39947.Q40703	GO Process	GO:0080090	Regulation of primary metabolic process
+MADS4	39947.Q40703	GO Process	GO:0090567	Reproductive shoot system development
+MADS4	39947.Q40703	GO Process	GO:0090696	Post-embryonic plant organ development
+MADS4	39947.Q40703	GO Process	GO:0090697	Post-embryonic plant organ morphogenesis
+MADS4	39947.Q40703	GO Process	GO:0090698	Post-embryonic plant morphogenesis
+MADS4	39947.Q40703	GO Process	GO:0090701	Specification of plant organ identity
+MADS4	39947.Q40703	GO Process	GO:0099402	Plant organ development
+MADS4	39947.Q40703	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MADS4	39947.Q40703	GO Process	GO:1905392	Plant organ morphogenesis
+MADS4	39947.Q40703	GO Process	GO:1905393	Plant organ formation
+MADS4	39947.Q40703	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MADS4	39947.Q40703	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MADS4	39947.Q40703	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+MADS4	39947.Q40703	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+MADS4	39947.Q40703	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+MADS4	39947.Q40703	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+MADS4	39947.Q40703	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MADS4	39947.Q40703	GO Function	GO:0003676	Nucleic acid binding
+MADS4	39947.Q40703	GO Function	GO:0003677	DNA binding
+MADS4	39947.Q40703	GO Function	GO:0003690	Double-stranded DNA binding
+MADS4	39947.Q40703	GO Function	GO:0003700	DNA-binding transcription factor activity
+MADS4	39947.Q40703	GO Function	GO:0005488	Binding
+MADS4	39947.Q40703	GO Function	GO:0005515	Protein binding
+MADS4	39947.Q40703	GO Function	GO:0043565	Sequence-specific DNA binding
+MADS4	39947.Q40703	GO Function	GO:0046983	Protein dimerization activity
+MADS4	39947.Q40703	GO Function	GO:0140110	Transcription regulator activity
+MADS4	39947.Q40703	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MADS4	39947.Q40703	GO Component	GO:0005622	Intracellular anatomical structure
+MADS4	39947.Q40703	GO Component	GO:0005634	Nucleus
+MADS4	39947.Q40703	GO Component	GO:0043226	Organelle
+MADS4	39947.Q40703	GO Component	GO:0043227	Membrane-bounded organelle
+MADS4	39947.Q40703	GO Component	GO:0043229	Intracellular organelle
+MADS4	39947.Q40703	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MADS4	39947.Q40703	GO Component	GO:0110165	Cellular anatomical structure
+MADS4	39947.Q40703	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+MADS4	39947.Q40703	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+MADS4	39947.Q40703	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+MADS4	39947.Q40703	STRING clusters	CL:21459	MADS MEF2-like, N-terminal, and Flowering
+MADS4	39947.Q40703	STRING clusters	CL:21461	K-box region, and Regulation of vasculature development
+MADS4	39947.Q40703	STRING clusters	CL:21463	K-box region, and Regulation of vasculature development
+MADS4	39947.Q40703	STRING clusters	CL:21466	K-box region
+MADS4	39947.Q40703	STRING clusters	CL:21468	K-box region
+MADS4	39947.Q40703	Reactome	MAP-1266738	Developmental Biology
+MADS4	39947.Q40703	Reactome	MAP-525793	Myogenesis
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0005634	Nucleus
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0005737	Cytoplasm
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0043226	Organelle
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MADS4	39947.Q40703	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MADS4	39947.Q40703	UniProt Keywords	KW-0010	Activator
+MADS4	39947.Q40703	UniProt Keywords	KW-0025	Alternative splicing
+MADS4	39947.Q40703	UniProt Keywords	KW-0217	Developmental protein
+MADS4	39947.Q40703	UniProt Keywords	KW-0221	Differentiation
+MADS4	39947.Q40703	UniProt Keywords	KW-0238	DNA-binding
+MADS4	39947.Q40703	UniProt Keywords	KW-0287	Flowering
+MADS4	39947.Q40703	UniProt Keywords	KW-0539	Nucleus
+MADS4	39947.Q40703	UniProt Keywords	KW-0804	Transcription
+MADS4	39947.Q40703	UniProt Keywords	KW-0805	Transcription regulation
+MADS4	39947.Q40703	Pfam	PF01486	K-box region
+MADS4	39947.Q40703	InterPro	IPR002100	Transcription factor, MADS-box
+MADS4	39947.Q40703	InterPro	IPR002487	Transcription factor, K-box
+MADS4	39947.Q40703	InterPro	IPR033896	MADS MEF2-like, N-terminal
+MADS4	39947.Q40703	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+MADS4	39947.Q40703	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+MADS4	39947.Q40703	SMART	SM00432	MADS
+MADS47	39947.Q5K4R0	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MADS47	39947.Q5K4R0	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+MADS47	39947.Q5K4R0	GO Process	GO:0007154	Cell communication
+MADS47	39947.Q5K4R0	GO Process	GO:0007165	Signal transduction
+MADS47	39947.Q5K4R0	GO Process	GO:0007166	Cell surface receptor signaling pathway
+MADS47	39947.Q5K4R0	GO Process	GO:0009719	Response to endogenous stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0009725	Response to hormone
+MADS47	39947.Q5K4R0	GO Process	GO:0009741	Response to brassinosteroid
+MADS47	39947.Q5K4R0	GO Process	GO:0009742	Brassinosteroid mediated signaling pathway
+MADS47	39947.Q5K4R0	GO Process	GO:0009755	Hormone-mediated signaling pathway
+MADS47	39947.Q5K4R0	GO Process	GO:0009889	Regulation of biosynthetic process
+MADS47	39947.Q5K4R0	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MADS47	39947.Q5K4R0	GO Process	GO:0009893	Positive regulation of metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0009987	Cellular process
+MADS47	39947.Q5K4R0	GO Process	GO:0010468	Regulation of gene expression
+MADS47	39947.Q5K4R0	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MADS47	39947.Q5K4R0	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MADS47	39947.Q5K4R0	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0019222	Regulation of metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0023052	Signaling
+MADS47	39947.Q5K4R0	GO Process	GO:0032870	Cellular response to hormone stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0033993	Response to lipid
+MADS47	39947.Q5K4R0	GO Process	GO:0042221	Response to chemical
+MADS47	39947.Q5K4R0	GO Process	GO:0043401	Steroid hormone receptor signaling pathway
+MADS47	39947.Q5K4R0	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MADS47	39947.Q5K4R0	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+MADS47	39947.Q5K4R0	GO Process	GO:0048518	Positive regulation of biological process
+MADS47	39947.Q5K4R0	GO Process	GO:0048522	Positive regulation of cellular process
+MADS47	39947.Q5K4R0	GO Process	GO:0048545	Response to steroid hormone
+MADS47	39947.Q5K4R0	GO Process	GO:0050789	Regulation of biological process
+MADS47	39947.Q5K4R0	GO Process	GO:0050794	Regulation of cellular process
+MADS47	39947.Q5K4R0	GO Process	GO:0050896	Response to stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0051252	Regulation of RNA metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0051716	Cellular response to stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:0065007	Biological regulation
+MADS47	39947.Q5K4R0	GO Process	GO:0070887	Cellular response to chemical stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0071367	Cellular response to brassinosteroid stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0071383	Cellular response to steroid hormone stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0071396	Cellular response to lipid
+MADS47	39947.Q5K4R0	GO Process	GO:0071495	Cellular response to endogenous stimulus
+MADS47	39947.Q5K4R0	GO Process	GO:0080090	Regulation of primary metabolic process
+MADS47	39947.Q5K4R0	GO Process	GO:1901700	Response to oxygen-containing compound
+MADS47	39947.Q5K4R0	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+MADS47	39947.Q5K4R0	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MADS47	39947.Q5K4R0	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MADS47	39947.Q5K4R0	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MADS47	39947.Q5K4R0	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+MADS47	39947.Q5K4R0	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+MADS47	39947.Q5K4R0	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+MADS47	39947.Q5K4R0	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+MADS47	39947.Q5K4R0	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MADS47	39947.Q5K4R0	GO Function	GO:0003676	Nucleic acid binding
+MADS47	39947.Q5K4R0	GO Function	GO:0003677	DNA binding
+MADS47	39947.Q5K4R0	GO Function	GO:0003690	Double-stranded DNA binding
+MADS47	39947.Q5K4R0	GO Function	GO:0003700	DNA-binding transcription factor activity
+MADS47	39947.Q5K4R0	GO Function	GO:0005488	Binding
+MADS47	39947.Q5K4R0	GO Function	GO:0005515	Protein binding
+MADS47	39947.Q5K4R0	GO Function	GO:0043565	Sequence-specific DNA binding
+MADS47	39947.Q5K4R0	GO Function	GO:0046983	Protein dimerization activity
+MADS47	39947.Q5K4R0	GO Function	GO:0140110	Transcription regulator activity
+MADS47	39947.Q5K4R0	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MADS47	39947.Q5K4R0	GO Component	GO:0005622	Intracellular anatomical structure
+MADS47	39947.Q5K4R0	GO Component	GO:0005634	Nucleus
+MADS47	39947.Q5K4R0	GO Component	GO:0043226	Organelle
+MADS47	39947.Q5K4R0	GO Component	GO:0043227	Membrane-bounded organelle
+MADS47	39947.Q5K4R0	GO Component	GO:0043229	Intracellular organelle
+MADS47	39947.Q5K4R0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MADS47	39947.Q5K4R0	GO Component	GO:0110165	Cellular anatomical structure
+MADS47	39947.Q5K4R0	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+MADS47	39947.Q5K4R0	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+MADS47	39947.Q5K4R0	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+MADS47	39947.Q5K4R0	STRING clusters	CL:21459	MADS MEF2-like, N-terminal, and Flowering
+MADS47	39947.Q5K4R0	STRING clusters	CL:21461	K-box region, and Regulation of vasculature development
+MADS47	39947.Q5K4R0	STRING clusters	CL:21463	K-box region, and Regulation of vasculature development
+MADS47	39947.Q5K4R0	STRING clusters	CL:21466	K-box region
+MADS47	39947.Q5K4R0	STRING clusters	CL:21468	K-box region
+MADS47	39947.Q5K4R0	Reactome	MAP-1266738	Developmental Biology
+MADS47	39947.Q5K4R0	Reactome	MAP-525793	Myogenesis
+MADS47	39947.Q5K4R0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MADS47	39947.Q5K4R0	COMPARTMENTS	GOCC:0005634	Nucleus
+MADS47	39947.Q5K4R0	COMPARTMENTS	GOCC:0043226	Organelle
+MADS47	39947.Q5K4R0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MADS47	39947.Q5K4R0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MADS47	39947.Q5K4R0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MADS47	39947.Q5K4R0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MADS47	39947.Q5K4R0	UniProt Keywords	KW-0025	Alternative splicing
+MADS47	39947.Q5K4R0	UniProt Keywords	KW-0238	DNA-binding
+MADS47	39947.Q5K4R0	UniProt Keywords	KW-0539	Nucleus
+MADS47	39947.Q5K4R0	UniProt Keywords	KW-0804	Transcription
+MADS47	39947.Q5K4R0	UniProt Keywords	KW-0805	Transcription regulation
+MADS47	39947.Q5K4R0	Pfam	PF01486	K-box region
+MADS47	39947.Q5K4R0	InterPro	IPR002100	Transcription factor, MADS-box
+MADS47	39947.Q5K4R0	InterPro	IPR002487	Transcription factor, K-box
+MADS47	39947.Q5K4R0	InterPro	IPR033896	MADS MEF2-like, N-terminal
+MADS47	39947.Q5K4R0	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+MADS47	39947.Q5K4R0	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+MADS47	39947.Q5K4R0	SMART	SM00432	MADS
+MADS7	39947.Q0J466	GO Process	GO:0003006	Developmental process involved in reproduction
+MADS7	39947.Q0J466	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MADS7	39947.Q0J466	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+MADS7	39947.Q0J466	GO Process	GO:0007275	Multicellular organism development
+MADS7	39947.Q0J466	GO Process	GO:0009791	Post-embryonic development
+MADS7	39947.Q0J466	GO Process	GO:0009889	Regulation of biosynthetic process
+MADS7	39947.Q0J466	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MADS7	39947.Q0J466	GO Process	GO:0009893	Positive regulation of metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0009908	Flower development
+MADS7	39947.Q0J466	GO Process	GO:0009987	Cellular process
+MADS7	39947.Q0J466	GO Process	GO:0010468	Regulation of gene expression
+MADS7	39947.Q0J466	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MADS7	39947.Q0J466	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MADS7	39947.Q0J466	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0019222	Regulation of metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0022414	Reproductive process
+MADS7	39947.Q0J466	GO Process	GO:0030154	Cell differentiation
+MADS7	39947.Q0J466	GO Process	GO:0032501	Multicellular organismal process
+MADS7	39947.Q0J466	GO Process	GO:0032502	Developmental process
+MADS7	39947.Q0J466	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MADS7	39947.Q0J466	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+MADS7	39947.Q0J466	GO Process	GO:0048367	Shoot system development
+MADS7	39947.Q0J466	GO Process	GO:0048518	Positive regulation of biological process
+MADS7	39947.Q0J466	GO Process	GO:0048522	Positive regulation of cellular process
+MADS7	39947.Q0J466	GO Process	GO:0048608	Reproductive structure development
+MADS7	39947.Q0J466	GO Process	GO:0048731	System development
+MADS7	39947.Q0J466	GO Process	GO:0048856	Anatomical structure development
+MADS7	39947.Q0J466	GO Process	GO:0048869	Cellular developmental process
+MADS7	39947.Q0J466	GO Process	GO:0050789	Regulation of biological process
+MADS7	39947.Q0J466	GO Process	GO:0050794	Regulation of cellular process
+MADS7	39947.Q0J466	GO Process	GO:0051252	Regulation of RNA metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0061458	Reproductive system development
+MADS7	39947.Q0J466	GO Process	GO:0065007	Biological regulation
+MADS7	39947.Q0J466	GO Process	GO:0080090	Regulation of primary metabolic process
+MADS7	39947.Q0J466	GO Process	GO:0090567	Reproductive shoot system development
+MADS7	39947.Q0J466	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MADS7	39947.Q0J466	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MADS7	39947.Q0J466	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MADS7	39947.Q0J466	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+MADS7	39947.Q0J466	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+MADS7	39947.Q0J466	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+MADS7	39947.Q0J466	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+MADS7	39947.Q0J466	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MADS7	39947.Q0J466	GO Function	GO:0003676	Nucleic acid binding
+MADS7	39947.Q0J466	GO Function	GO:0003677	DNA binding
+MADS7	39947.Q0J466	GO Function	GO:0003690	Double-stranded DNA binding
+MADS7	39947.Q0J466	GO Function	GO:0003700	DNA-binding transcription factor activity
+MADS7	39947.Q0J466	GO Function	GO:0005488	Binding
+MADS7	39947.Q0J466	GO Function	GO:0005515	Protein binding
+MADS7	39947.Q0J466	GO Function	GO:0043565	Sequence-specific DNA binding
+MADS7	39947.Q0J466	GO Function	GO:0046983	Protein dimerization activity
+MADS7	39947.Q0J466	GO Function	GO:0140110	Transcription regulator activity
+MADS7	39947.Q0J466	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MADS7	39947.Q0J466	GO Component	GO:0005622	Intracellular anatomical structure
+MADS7	39947.Q0J466	GO Component	GO:0005634	Nucleus
+MADS7	39947.Q0J466	GO Component	GO:0043226	Organelle
+MADS7	39947.Q0J466	GO Component	GO:0043227	Membrane-bounded organelle
+MADS7	39947.Q0J466	GO Component	GO:0043229	Intracellular organelle
+MADS7	39947.Q0J466	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MADS7	39947.Q0J466	GO Component	GO:0110165	Cellular anatomical structure
+MADS7	39947.Q0J466	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+MADS7	39947.Q0J466	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+MADS7	39947.Q0J466	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+MADS7	39947.Q0J466	STRING clusters	CL:21459	MADS MEF2-like, N-terminal, and Flowering
+MADS7	39947.Q0J466	STRING clusters	CL:21461	K-box region, and Regulation of vasculature development
+MADS7	39947.Q0J466	STRING clusters	CL:21463	K-box region, and Regulation of vasculature development
+MADS7	39947.Q0J466	STRING clusters	CL:21466	K-box region
+MADS7	39947.Q0J466	STRING clusters	CL:21468	K-box region
+MADS7	39947.Q0J466	STRING clusters	CL:21470	Specification of ovule identity, and Specification of plant organ identity
+MADS7	39947.Q0J466	Reactome	MAP-1266738	Developmental Biology
+MADS7	39947.Q0J466	Reactome	MAP-525793	Myogenesis
+MADS7	39947.Q0J466	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MADS7	39947.Q0J466	COMPARTMENTS	GOCC:0005634	Nucleus
+MADS7	39947.Q0J466	COMPARTMENTS	GOCC:0043226	Organelle
+MADS7	39947.Q0J466	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MADS7	39947.Q0J466	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MADS7	39947.Q0J466	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MADS7	39947.Q0J466	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MADS7	39947.Q0J466	UniProt Keywords	KW-0025	Alternative splicing
+MADS7	39947.Q0J466	UniProt Keywords	KW-0217	Developmental protein
+MADS7	39947.Q0J466	UniProt Keywords	KW-0221	Differentiation
+MADS7	39947.Q0J466	UniProt Keywords	KW-0238	DNA-binding
+MADS7	39947.Q0J466	UniProt Keywords	KW-0287	Flowering
+MADS7	39947.Q0J466	UniProt Keywords	KW-0539	Nucleus
+MADS7	39947.Q0J466	UniProt Keywords	KW-0804	Transcription
+MADS7	39947.Q0J466	UniProt Keywords	KW-0805	Transcription regulation
+MADS7	39947.Q0J466	Pfam	PF01486	K-box region
+MADS7	39947.Q0J466	InterPro	IPR002100	Transcription factor, MADS-box
+MADS7	39947.Q0J466	InterPro	IPR002487	Transcription factor, K-box
+MADS7	39947.Q0J466	InterPro	IPR033896	MADS MEF2-like, N-terminal
+MADS7	39947.Q0J466	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+MADS7	39947.Q0J466	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+MADS7	39947.Q0J466	SMART	SM00432	MADS
+MADS8	39947.Q9SAR1	GO Process	GO:0003006	Developmental process involved in reproduction
+MADS8	39947.Q9SAR1	GO Process	GO:0006355	Regulation of DNA-templated transcription
+MADS8	39947.Q9SAR1	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+MADS8	39947.Q9SAR1	GO Process	GO:0007275	Multicellular organism development
+MADS8	39947.Q9SAR1	GO Process	GO:0009791	Post-embryonic development
+MADS8	39947.Q9SAR1	GO Process	GO:0009889	Regulation of biosynthetic process
+MADS8	39947.Q9SAR1	GO Process	GO:0009891	Positive regulation of biosynthetic process
+MADS8	39947.Q9SAR1	GO Process	GO:0009893	Positive regulation of metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0009908	Flower development
+MADS8	39947.Q9SAR1	GO Process	GO:0009987	Cellular process
+MADS8	39947.Q9SAR1	GO Process	GO:0010468	Regulation of gene expression
+MADS8	39947.Q9SAR1	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+MADS8	39947.Q9SAR1	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+MADS8	39947.Q9SAR1	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0019222	Regulation of metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0022414	Reproductive process
+MADS8	39947.Q9SAR1	GO Process	GO:0030154	Cell differentiation
+MADS8	39947.Q9SAR1	GO Process	GO:0032501	Multicellular organismal process
+MADS8	39947.Q9SAR1	GO Process	GO:0032502	Developmental process
+MADS8	39947.Q9SAR1	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+MADS8	39947.Q9SAR1	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+MADS8	39947.Q9SAR1	GO Process	GO:0048367	Shoot system development
+MADS8	39947.Q9SAR1	GO Process	GO:0048518	Positive regulation of biological process
+MADS8	39947.Q9SAR1	GO Process	GO:0048522	Positive regulation of cellular process
+MADS8	39947.Q9SAR1	GO Process	GO:0048608	Reproductive structure development
+MADS8	39947.Q9SAR1	GO Process	GO:0048731	System development
+MADS8	39947.Q9SAR1	GO Process	GO:0048856	Anatomical structure development
+MADS8	39947.Q9SAR1	GO Process	GO:0048869	Cellular developmental process
+MADS8	39947.Q9SAR1	GO Process	GO:0050789	Regulation of biological process
+MADS8	39947.Q9SAR1	GO Process	GO:0050794	Regulation of cellular process
+MADS8	39947.Q9SAR1	GO Process	GO:0051252	Regulation of RNA metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0061458	Reproductive system development
+MADS8	39947.Q9SAR1	GO Process	GO:0065007	Biological regulation
+MADS8	39947.Q9SAR1	GO Process	GO:0080090	Regulation of primary metabolic process
+MADS8	39947.Q9SAR1	GO Process	GO:0090567	Reproductive shoot system development
+MADS8	39947.Q9SAR1	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+MADS8	39947.Q9SAR1	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+MADS8	39947.Q9SAR1	GO Function	GO:0000976	Transcription cis-regulatory region binding
+MADS8	39947.Q9SAR1	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+MADS8	39947.Q9SAR1	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+MADS8	39947.Q9SAR1	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+MADS8	39947.Q9SAR1	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+MADS8	39947.Q9SAR1	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+MADS8	39947.Q9SAR1	GO Function	GO:0003676	Nucleic acid binding
+MADS8	39947.Q9SAR1	GO Function	GO:0003677	DNA binding
+MADS8	39947.Q9SAR1	GO Function	GO:0003690	Double-stranded DNA binding
+MADS8	39947.Q9SAR1	GO Function	GO:0003700	DNA-binding transcription factor activity
+MADS8	39947.Q9SAR1	GO Function	GO:0005488	Binding
+MADS8	39947.Q9SAR1	GO Function	GO:0005515	Protein binding
+MADS8	39947.Q9SAR1	GO Function	GO:0043565	Sequence-specific DNA binding
+MADS8	39947.Q9SAR1	GO Function	GO:0046983	Protein dimerization activity
+MADS8	39947.Q9SAR1	GO Function	GO:0140110	Transcription regulator activity
+MADS8	39947.Q9SAR1	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+MADS8	39947.Q9SAR1	GO Component	GO:0005622	Intracellular anatomical structure
+MADS8	39947.Q9SAR1	GO Component	GO:0005634	Nucleus
+MADS8	39947.Q9SAR1	GO Component	GO:0043226	Organelle
+MADS8	39947.Q9SAR1	GO Component	GO:0043227	Membrane-bounded organelle
+MADS8	39947.Q9SAR1	GO Component	GO:0043229	Intracellular organelle
+MADS8	39947.Q9SAR1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MADS8	39947.Q9SAR1	GO Component	GO:0110165	Cellular anatomical structure
+MADS8	39947.Q9SAR1	STRING clusters	CL:21455	Transcription factor, MADS-box, and Flowering
+MADS8	39947.Q9SAR1	STRING clusters	CL:21456	Transcription factor, MADS-box, and Flowering
+MADS8	39947.Q9SAR1	STRING clusters	CL:21457	MADS MEF2-like, N-terminal, and Flowering
+MADS8	39947.Q9SAR1	STRING clusters	CL:21563	Mixed, incl. SRF-type transcription factor (DNA-binding and dimerisation domain), and K-box region
+MADS8	39947.Q9SAR1	Reactome	MAP-1266738	Developmental Biology
+MADS8	39947.Q9SAR1	Reactome	MAP-525793	Myogenesis
+MADS8	39947.Q9SAR1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MADS8	39947.Q9SAR1	COMPARTMENTS	GOCC:0005634	Nucleus
+MADS8	39947.Q9SAR1	COMPARTMENTS	GOCC:0043226	Organelle
+MADS8	39947.Q9SAR1	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MADS8	39947.Q9SAR1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MADS8	39947.Q9SAR1	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MADS8	39947.Q9SAR1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MADS8	39947.Q9SAR1	UniProt Keywords	KW-0217	Developmental protein
+MADS8	39947.Q9SAR1	UniProt Keywords	KW-0221	Differentiation
+MADS8	39947.Q9SAR1	UniProt Keywords	KW-0238	DNA-binding
+MADS8	39947.Q9SAR1	UniProt Keywords	KW-0287	Flowering
+MADS8	39947.Q9SAR1	UniProt Keywords	KW-0539	Nucleus
+MADS8	39947.Q9SAR1	UniProt Keywords	KW-0804	Transcription
+MADS8	39947.Q9SAR1	UniProt Keywords	KW-0805	Transcription regulation
+MADS8	39947.Q9SAR1	Pfam	PF01486	K-box region
+MADS8	39947.Q9SAR1	InterPro	IPR002100	Transcription factor, MADS-box
+MADS8	39947.Q9SAR1	InterPro	IPR002487	Transcription factor, K-box
+MADS8	39947.Q9SAR1	InterPro	IPR033896	MADS MEF2-like, N-terminal
+MADS8	39947.Q9SAR1	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+MADS8	39947.Q9SAR1	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+MADS8	39947.Q9SAR1	SMART	SM00432	MADS
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0000166	Nucleotide binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0003824	Catalytic activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0004672	Protein kinase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0005488	Binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0005524	ATP binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0016301	Kinase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0016740	Transferase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0016746	Acyltransferase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0016755	Aminoacyltransferase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0016787	Hydrolase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0017076	Purine nucleotide binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0030554	Adenyl nucleotide binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0032553	Ribonucleotide binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0032555	Purine ribonucleotide binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0032559	Adenyl ribonucleotide binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0036094	Small molecule binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0043167	Ion binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0043168	Anion binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0061630	Ubiquitin protein ligase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0061659	Ubiquitin-like protein ligase activity
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0097367	Carbohydrate derivative binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:0140096	Catalytic activity, acting on a protein
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:1901265	Nucleoside phosphate binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Function	GO:1901363	Heterocyclic compound binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	GO Component	GO:0110165	Cellular anatomical structure
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	STRING clusters	CL:19971	Mixed, incl. RAB geranylgeranylation, and RAB GEFs exchange GTP for GDP on RABs
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	STRING clusters	CL:19972	RAB geranylgeranylation, and RAB GEFs exchange GTP for GDP on RABs
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	STRING clusters	CL:19973	RAB geranylgeranylation, and HOPS complex
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	STRING clusters	CL:19974	RAB geranylgeranylation, and HOPS complex
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	STRING clusters	CL:19976	RAB geranylgeranylation, and HOPS complex
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	STRING clusters	CL:20104	Mixed, incl. Rab GTPases family involved in membrane trafficking, and VPS9 domain superfamily
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	UniProt Keywords	KW-0067	ATP-binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	UniProt Keywords	KW-0175	Coiled coil
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	UniProt Keywords	KW-0418	Kinase
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	UniProt Keywords	KW-0547	Nucleotide-binding
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	UniProt Keywords	KW-0808	Transferase
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	UniProt Keywords	KW-0833	Ubl conjugation pathway
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	Pfam	PF00582	Universal stress protein family
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	InterPro	IPR000719	Protein kinase domain
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	InterPro	IPR006016	UspA
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	InterPro	IPR011009	Protein kinase-like domain superfamily
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	InterPro	IPR014729	Rossmann-like alpha/beta/alpha sandwich fold
+Q6K4Q1_ORYSJ	39947.Q6K4Q1	InterPro	IPR051348	U-box domain-containing ubiquitin ligases
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Process	GO:0008285	Negative regulation of cell population proliferation
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Process	GO:0042127	Regulation of cell population proliferation
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Process	GO:0048519	Negative regulation of biological process
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Process	GO:0048523	Negative regulation of cellular process
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Process	GO:0050789	Regulation of biological process
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Process	GO:0050794	Regulation of cellular process
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Process	GO:0065007	Biological regulation
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Component	GO:0016020	Membrane
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	GO Component	GO:0110165	Cellular anatomical structure
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	STRING clusters	CL:4317	Mixed, incl. Phosphatidylethanolamine-binding, conserved site, and Nuclear Receptor transcription pathway
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	Reactome	MAP-212436	Generic Transcription Pathway
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	Reactome	MAP-383280	Nuclear Receptor transcription pathway
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	Reactome	MAP-73857	RNA Polymerase II Transcription
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	Reactome	MAP-74160	Gene expression (Transcription)
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	COMPARTMENTS	GOCC:0005634	Nucleus
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	COMPARTMENTS	GOCC:0043226	Organelle
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6Z6F9_ORYSJ	39947.Q6Z6F9	Pfam	PF04749	PLAC8 family

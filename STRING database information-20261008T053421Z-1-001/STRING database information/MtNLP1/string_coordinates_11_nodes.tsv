@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+A0A072UPL7	3880.A0A072UPL7	0.4096311475409836	0.19751037344398342	rgb(0,28,178)	PB1-Joka2 domain protein.
+A0A072UPY6	3880.A0A072UPY6	0.29713114754098363	0.28713692946058095	rgb(150,101,255)	Putative PB1 domain-containing protein.
+A0A072UPZ4	3880.A0A072UPZ4	0.33954918032786885	0.15643153526970954	rgb(239,117,117)	PB1 domain protein.
+A0A072V3U8	3880.A0A072V3U8	0.5230532786885246	0.4682572614107884	rgb(255,0,0)	Putative transcription factor Nin-like family.
+A0A072VAY5	3880.A0A072VAY5	0.558094262295082	0.841701244813278	rgb(187,255,101)	AP-2 complex subunit alpha; Subunit of the adaptor protein complex 2 (AP-2). Adaptor protein complexes function in protein transport via transport vesicles in different membrane traffic pathways. Adaptor protein complexes are vesicle coat components and appear to be involved in cargo selection and vesicle formation. AP-2 is involved in clathrin-dependent endocytosis in which cargo proteins are incorporated into vesicles surrounded by clathrin (clathrin-coated vesicles, CCVs) which are destined for fusion with the early endosome.
+A2Q2Z4_MEDTR	3880.A2Q2Z4	0.4105532786885246	0.5989626556016598	rgb(101,255,163)	Mitochondrial fission 1 protein; Component of the peroxisomal and mitochondrial division machineries. Plays a role in promoting the fission of mitochondria and peroxisomes.
+B7FH42_MEDTR	3880.B7FH42	0.32202868852459016	0.5784232365145229	rgb(0,178,157)	Mitochondrial fission 1 protein; Component of the peroxisomal and mitochondrial division machineries. Plays a role in promoting the fission of mitochondria and peroxisomes.
+G7ICP9_MEDTR	3880.G7ICP9	0.6973360655737706	0.42531120331950206	rgb(14,178,0)	Guanine nucleotide-binding protein subunit gamma 2.
+G7IED3_MEDTR	3880.G7IED3	0.37459016393442623	0.38983402489626556	rgb(255,175,101)	FZO-like protein.
+G7IGH9_MEDTR	3880.G7IGH9	0.6318647540983606	0.1433609958506224	rgb(178,171,0)	DUF630 family protein.
+G7JRZ2_MEDTR	3880.G7JRZ2	0.6539959016393443	0.8659751037344399	rgb(101,199,255)	Extracellular calcium sensing receptor, putative.

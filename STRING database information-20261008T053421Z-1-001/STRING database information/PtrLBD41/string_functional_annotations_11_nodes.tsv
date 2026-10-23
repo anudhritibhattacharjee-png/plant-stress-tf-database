@@ -1,0 +1,569 @@
+#node	identifier	category	term ID	term description
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0006082	Organic acid metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0006629	Lipid metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0006631	Fatty acid metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0008152	Metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0009987	Cellular process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0019752	Carboxylic acid metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0032787	Monocarboxylic acid metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0043436	Oxoacid metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0044238	Primary metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Process	GO:0044281	Small molecule metabolic process
+A0A2K1XII1	3694.A0A2K1XII1	GO Function	GO:0003824	Catalytic activity
+A0A2K1XII1	3694.A0A2K1XII1	GO Function	GO:0016874	Ligase activity
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0005622	Intracellular anatomical structure
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0005737	Cytoplasm
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0005777	Peroxisome
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0005829	Cytosol
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0042579	Microbody
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0043226	Organelle
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0043227	Membrane-bounded organelle
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0043229	Intracellular organelle
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A2K1XII1	3694.A0A2K1XII1	GO Component	GO:0110165	Cellular anatomical structure
+A0A2K1XII1	3694.A0A2K1XII1	STRING clusters	CL:42789	Mixed, incl. Regulation of cellular response to hypoxia, and Detection of oxygen
+A0A2K1XII1	3694.A0A2K1XII1	STRING clusters	CL:42791	Mixed, incl. Monoatomic anion homeostasis, and LOB domain-containing protein
+A0A2K1XII1	3694.A0A2K1XII1	KEGG	pop01100	Metabolic pathways
+A0A2K1XII1	3694.A0A2K1XII1	Reactome	MAP-1430728	Metabolism
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0005777	Peroxisome
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0042579	Microbody
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0043226	Organelle
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A2K1XII1	3694.A0A2K1XII1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A2K1XII1	3694.A0A2K1XII1	Pfam	PF00501	AMP-binding enzyme
+A0A2K1XII1	3694.A0A2K1XII1	InterPro	IPR000873	AMP-dependent synthetase/ligase domain
+A0A2K1XII1	3694.A0A2K1XII1	InterPro	IPR020845	AMP-binding, conserved site
+A0A2K1XII1	3694.A0A2K1XII1	InterPro	IPR042099	ANL, N-terminal domain
+A0A2K1XII1	3694.A0A2K1XII1	InterPro	IPR045851	AMP-binding enzyme, C-terminal domain superfamily
+A0A2K1XP10	3694.A0A2K1XP10	GO Component	GO:0005622	Intracellular anatomical structure
+A0A2K1XP10	3694.A0A2K1XP10	GO Component	GO:0005737	Cytoplasm
+A0A2K1XP10	3694.A0A2K1XP10	GO Component	GO:0016020	Membrane
+A0A2K1XP10	3694.A0A2K1XP10	GO Component	GO:0110165	Cellular anatomical structure
+A0A2K1XP10	3694.A0A2K1XP10	STRING clusters	CL:42789	Mixed, incl. Regulation of cellular response to hypoxia, and Detection of oxygen
+A0A2K1XP10	3694.A0A2K1XP10	STRING clusters	CL:42791	Mixed, incl. Monoatomic anion homeostasis, and LOB domain-containing protein
+A0A2K1XP10	3694.A0A2K1XP10	KEGG	pop04146	Peroxisome
+A0A2K1XP10	3694.A0A2K1XP10	Reactome	MAP-9609507	Protein localization
+A0A2K1XP10	3694.A0A2K1XP10	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A2K1XP10	3694.A0A2K1XP10	COMPARTMENTS	GOCC:0043226	Organelle
+A0A2K1XP10	3694.A0A2K1XP10	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A2K1XP10	3694.A0A2K1XP10	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A2K1XP10	3694.A0A2K1XP10	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A2K1XP10	3694.A0A2K1XP10	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A2K1XP10	3694.A0A2K1XP10	InterPro	IPR007248	Mpv17/PMP22
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0010468	Regulation of gene expression
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0019222	Regulation of metabolic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0050789	Regulation of biological process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0050794	Regulation of cellular process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0065007	Biological regulation
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Function	GO:0003676	Nucleic acid binding
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Function	GO:0003677	DNA binding
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Function	GO:0005488	Binding
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Function	GO:0140110	Transcription regulator activity
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Component	GO:0005622	Intracellular anatomical structure
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Component	GO:0005634	Nucleus
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Component	GO:0043226	Organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Component	GO:0043227	Membrane-bounded organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Component	GO:0043229	Intracellular organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	GO Component	GO:0110165	Cellular anatomical structure
+A0A2K1ZUS3	3694.A0A2K1ZUS3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A2K1ZUS3	3694.A0A2K1ZUS3	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A2K1ZUS3	3694.A0A2K1ZUS3	COMPARTMENTS	GOCC:0043226	Organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A2K1ZUS3	3694.A0A2K1ZUS3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0010468	Regulation of gene expression
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0019222	Regulation of metabolic process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0050789	Regulation of biological process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0050794	Regulation of cellular process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0065007	Biological regulation
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A2K2C088	3694.A0A2K2C088	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A2K2C088	3694.A0A2K2C088	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A2K2C088	3694.A0A2K2C088	GO Function	GO:0005488	Binding
+A0A2K2C088	3694.A0A2K2C088	GO Function	GO:0005515	Protein binding
+A0A2K2C088	3694.A0A2K2C088	GO Function	GO:0046983	Protein dimerization activity
+A0A2K2C088	3694.A0A2K2C088	GO Function	GO:0140110	Transcription regulator activity
+A0A2K2C088	3694.A0A2K2C088	GO Component	GO:0005622	Intracellular anatomical structure
+A0A2K2C088	3694.A0A2K2C088	GO Component	GO:0005634	Nucleus
+A0A2K2C088	3694.A0A2K2C088	GO Component	GO:0043226	Organelle
+A0A2K2C088	3694.A0A2K2C088	GO Component	GO:0043227	Membrane-bounded organelle
+A0A2K2C088	3694.A0A2K2C088	GO Component	GO:0043229	Intracellular organelle
+A0A2K2C088	3694.A0A2K2C088	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A2K2C088	3694.A0A2K2C088	GO Component	GO:0110165	Cellular anatomical structure
+A0A2K2C088	3694.A0A2K2C088	STRING clusters	CL:37165	Mostly uncharacterized, incl. Protein BPS1, chloroplastic, and Domain of unknown function DUF4378
+A0A2K2C088	3694.A0A2K2C088	STRING clusters	CL:37166	Mostly uncharacterized, incl. Protein BPS1, chloroplastic, and Domain of unknown function DUF4378
+A0A2K2C088	3694.A0A2K2C088	STRING clusters	CL:37167	Mostly uncharacterized, incl. DNA-binding domain, and Myosin-binding protein
+A0A2K2C088	3694.A0A2K2C088	STRING clusters	CL:37168	Mostly uncharacterized, incl. DNA-binding domain, and Growth-regulating factor
+A0A2K2C088	3694.A0A2K2C088	STRING clusters	CL:37237	Mixed, incl. Protein TRM32-like, and CONSTANS-like, B-box-type 1 zinc finger
+A0A2K2C088	3694.A0A2K2C088	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A2K2C088	3694.A0A2K2C088	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A2K2C088	3694.A0A2K2C088	COMPARTMENTS	GOCC:0043226	Organelle
+A0A2K2C088	3694.A0A2K2C088	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A2K2C088	3694.A0A2K2C088	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A2K2C088	3694.A0A2K2C088	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A2K2C088	3694.A0A2K2C088	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A2K2C088	3694.A0A2K2C088	UniProt Keywords	KW-0539	Nucleus
+A0A2K2C088	3694.A0A2K2C088	UniProt Keywords	KW-0804	Transcription
+A0A2K2C088	3694.A0A2K2C088	UniProt Keywords	KW-0805	Transcription regulation
+A0A2K2C088	3694.A0A2K2C088	InterPro	IPR011598	Myc-type, basic helix-loop-helix (bHLH) domain
+A0A2K2C088	3694.A0A2K2C088	InterPro	IPR036638	Helix-loop-helix DNA-binding domain superfamily
+A0A2K2C088	3694.A0A2K2C088	InterPro	IPR045843	Transcription factor IND-like
+A0A2K2C088	3694.A0A2K2C088	SMART	SM00353	Helix loop helix domain
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0009719	Response to endogenous stimulus
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0009725	Response to hormone
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0009889	Regulation of biosynthetic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0009890	Negative regulation of biosynthetic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0009892	Negative regulation of metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0010468	Regulation of gene expression
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0019222	Regulation of metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0033993	Response to lipid
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0042221	Response to chemical
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0045892	Negative regulation of DNA-templated transcription
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0045934	Negative regulation of nucleobase-containing compound metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0048519	Negative regulation of biological process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0048523	Negative regulation of cellular process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0050789	Regulation of biological process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0050794	Regulation of cellular process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0050896	Response to stimulus
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0051252	Regulation of RNA metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0051253	Negative regulation of RNA metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0065007	Biological regulation
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:0080090	Regulation of primary metabolic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:1901700	Response to oxygen-containing compound
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:1902679	Negative regulation of RNA biosynthetic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A9P7Z5_POPTR	3694.A9P7Z5	GO Function	GO:0001217	DNA-binding transcription repressor activity
+A9P7Z5_POPTR	3694.A9P7Z5	GO Function	GO:0003700	DNA-binding transcription factor activity
+A9P7Z5_POPTR	3694.A9P7Z5	GO Function	GO:0140110	Transcription regulator activity
+A9P7Z5_POPTR	3694.A9P7Z5	STRING clusters	CL:41204	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+A9P7Z5_POPTR	3694.A9P7Z5	STRING clusters	CL:41205	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+A9P7Z5_POPTR	3694.A9P7Z5	STRING clusters	CL:41206	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+A9P7Z5_POPTR	3694.A9P7Z5	STRING clusters	CL:41207	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+A9P7Z5_POPTR	3694.A9P7Z5	STRING clusters	CL:41211	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+A9P7Z5_POPTR	3694.A9P7Z5	Pfam	PF03195	Lateral organ boundaries (LOB) domain
+A9P7Z5_POPTR	3694.A9P7Z5	InterPro	IPR004883	Lateral organ boundaries, LOB
+A9P7Z5_POPTR	3694.A9P7Z5	InterPro	IPR017414	LOB domain-containing protein
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0006950	Response to stress
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0006979	Response to oxidative stress
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0008152	Metabolic process
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0009056	Catabolic process
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0009636	Response to toxic substance
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0009653	Anatomical structure morphogenesis
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0009877	Nodulation
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0009987	Cellular process
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0032502	Developmental process
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0042221	Response to chemical
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0042743	Hydrogen peroxide metabolic process
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0042744	Hydrogen peroxide catabolic process
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0048856	Anatomical structure development
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0050896	Response to stimulus
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0051716	Cellular response to stimulus
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0070887	Cellular response to chemical stimulus
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0072593	Reactive oxygen species metabolic process
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0097237	Cellular response to toxic substance
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0098754	Detoxification
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:0098869	Cellular oxidant detoxification
+B9HDA0_POPTR	3694.B9HDA0	GO Process	GO:1990748	Cellular detoxification
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0003824	Catalytic activity
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0004601	Peroxidase activity
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0005488	Binding
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0016209	Antioxidant activity
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0016491	Oxidoreductase activity
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0016684	Oxidoreductase activity, acting on peroxide as acceptor
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0020037	Heme binding
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0036094	Small molecule binding
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0043167	Ion binding
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0043169	Cation binding
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0046872	Metal ion binding
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0046906	Tetrapyrrole binding
+B9HDA0_POPTR	3694.B9HDA0	GO Function	GO:0140825	Lactoperoxidase activity
+B9HDA0_POPTR	3694.B9HDA0	GO Component	GO:0005576	Extracellular region
+B9HDA0_POPTR	3694.B9HDA0	GO Component	GO:0005618	Cell wall
+B9HDA0_POPTR	3694.B9HDA0	GO Component	GO:0009505	Plant-type cell wall
+B9HDA0_POPTR	3694.B9HDA0	GO Component	GO:0030312	External encapsulating structure
+B9HDA0_POPTR	3694.B9HDA0	GO Component	GO:0071944	Cell periphery
+B9HDA0_POPTR	3694.B9HDA0	GO Component	GO:0110165	Cellular anatomical structure
+B9HDA0_POPTR	3694.B9HDA0	STRING clusters	CL:53920	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+B9HDA0_POPTR	3694.B9HDA0	STRING clusters	CL:53921	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+B9HDA0_POPTR	3694.B9HDA0	STRING clusters	CL:53922	Mixed, incl. Glycosyl transferase 48 domain, and Transcription factor, GATA, plant
+B9HDA0_POPTR	3694.B9HDA0	STRING clusters	CL:53923	Mixed, incl. Glycosyl transferase 48 domain, and Transcription factor, GATA, plant
+B9HDA0_POPTR	3694.B9HDA0	STRING clusters	CL:53970	Alanine dehydrogenase/PNT, C-terminal domain, and Transcription factor, GATA, plant
+B9HDA0_POPTR	3694.B9HDA0	KEGG	pop00940	Phenylpropanoid biosynthesis
+B9HDA0_POPTR	3694.B9HDA0	KEGG	pop01100	Metabolic pathways
+B9HDA0_POPTR	3694.B9HDA0	KEGG	pop01110	Biosynthesis of secondary metabolites
+B9HDA0_POPTR	3694.B9HDA0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0106	Calcium
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0325	Glycoprotein
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0349	Heme
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0376	Hydrogen peroxide
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0408	Iron
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0479	Metal-binding
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0560	Oxidoreductase
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0575	Peroxidase
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0732	Signal
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-0964	Secreted
+B9HDA0_POPTR	3694.B9HDA0	UniProt Keywords	KW-1015	Disulfide bond
+B9HDA0_POPTR	3694.B9HDA0	Pfam	PF00141	Peroxidase
+B9HDA0_POPTR	3694.B9HDA0	InterPro	IPR000823	Plant peroxidase
+B9HDA0_POPTR	3694.B9HDA0	InterPro	IPR002016	Haem peroxidase
+B9HDA0_POPTR	3694.B9HDA0	InterPro	IPR010255	Haem peroxidase superfamily
+B9HDA0_POPTR	3694.B9HDA0	InterPro	IPR019794	Peroxidase, active site
+B9HDA0_POPTR	3694.B9HDA0	InterPro	IPR033905	Secretory peroxidase
+B9I557_POPTR	3694.B9I557	GO Process	GO:0006355	Regulation of DNA-templated transcription
+B9I557_POPTR	3694.B9I557	GO Process	GO:0009889	Regulation of biosynthetic process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0010468	Regulation of gene expression
+B9I557_POPTR	3694.B9I557	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0019222	Regulation of metabolic process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0050789	Regulation of biological process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0050794	Regulation of cellular process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0050896	Response to stimulus
+B9I557_POPTR	3694.B9I557	GO Process	GO:0051252	Regulation of RNA metabolic process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+B9I557_POPTR	3694.B9I557	GO Process	GO:0065007	Biological regulation
+B9I557_POPTR	3694.B9I557	GO Process	GO:0080090	Regulation of primary metabolic process
+B9I557_POPTR	3694.B9I557	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+B9I557_POPTR	3694.B9I557	GO Function	GO:0000976	Transcription cis-regulatory region binding
+B9I557_POPTR	3694.B9I557	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+B9I557_POPTR	3694.B9I557	GO Function	GO:0003676	Nucleic acid binding
+B9I557_POPTR	3694.B9I557	GO Function	GO:0003677	DNA binding
+B9I557_POPTR	3694.B9I557	GO Function	GO:0003690	Double-stranded DNA binding
+B9I557_POPTR	3694.B9I557	GO Function	GO:0003700	DNA-binding transcription factor activity
+B9I557_POPTR	3694.B9I557	GO Function	GO:0005488	Binding
+B9I557_POPTR	3694.B9I557	GO Function	GO:0043565	Sequence-specific DNA binding
+B9I557_POPTR	3694.B9I557	GO Function	GO:0140110	Transcription regulator activity
+B9I557_POPTR	3694.B9I557	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+B9I557_POPTR	3694.B9I557	GO Component	GO:0005622	Intracellular anatomical structure
+B9I557_POPTR	3694.B9I557	GO Component	GO:0005634	Nucleus
+B9I557_POPTR	3694.B9I557	GO Component	GO:0043226	Organelle
+B9I557_POPTR	3694.B9I557	GO Component	GO:0043227	Membrane-bounded organelle
+B9I557_POPTR	3694.B9I557	GO Component	GO:0043229	Intracellular organelle
+B9I557_POPTR	3694.B9I557	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9I557_POPTR	3694.B9I557	GO Component	GO:0110165	Cellular anatomical structure
+B9I557_POPTR	3694.B9I557	STRING clusters	CL:53920	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+B9I557_POPTR	3694.B9I557	STRING clusters	CL:53921	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+B9I557_POPTR	3694.B9I557	STRING clusters	CL:54015	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Expansin
+B9I557_POPTR	3694.B9I557	STRING clusters	CL:54063	G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Positive regulation of secondary metabolite biosynthetic process
+B9I557_POPTR	3694.B9I557	STRING clusters	CL:54065	G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Beta tubulin
+B9I557_POPTR	3694.B9I557	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9I557_POPTR	3694.B9I557	COMPARTMENTS	GOCC:0005634	Nucleus
+B9I557_POPTR	3694.B9I557	COMPARTMENTS	GOCC:0043226	Organelle
+B9I557_POPTR	3694.B9I557	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9I557_POPTR	3694.B9I557	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9I557_POPTR	3694.B9I557	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9I557_POPTR	3694.B9I557	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9I557_POPTR	3694.B9I557	UniProt Keywords	KW-0238	DNA-binding
+B9I557_POPTR	3694.B9I557	UniProt Keywords	KW-0804	Transcription
+B9I557_POPTR	3694.B9I557	UniProt Keywords	KW-0805	Transcription regulation
+B9I557_POPTR	3694.B9I557	Pfam	PF02365	No apical meristem (NAM) protein
+B9I557_POPTR	3694.B9I557	InterPro	IPR003441	NAC domain
+B9I557_POPTR	3694.B9I557	InterPro	IPR036093	NAC domain superfamily
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0006950	Response to stress
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0006979	Response to oxidative stress
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0008152	Metabolic process
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0009056	Catabolic process
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0009636	Response to toxic substance
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0009653	Anatomical structure morphogenesis
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0009877	Nodulation
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0009987	Cellular process
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0032502	Developmental process
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0042221	Response to chemical
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0042743	Hydrogen peroxide metabolic process
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0042744	Hydrogen peroxide catabolic process
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0048856	Anatomical structure development
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0050896	Response to stimulus
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0051716	Cellular response to stimulus
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0070887	Cellular response to chemical stimulus
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0072593	Reactive oxygen species metabolic process
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0097237	Cellular response to toxic substance
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0098754	Detoxification
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:0098869	Cellular oxidant detoxification
+B9IGP8_POPTR	3694.B9IGP8	GO Process	GO:1990748	Cellular detoxification
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0003824	Catalytic activity
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0004601	Peroxidase activity
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0005488	Binding
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0016209	Antioxidant activity
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0016491	Oxidoreductase activity
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0016684	Oxidoreductase activity, acting on peroxide as acceptor
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0020037	Heme binding
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0036094	Small molecule binding
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0043167	Ion binding
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0043169	Cation binding
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0046872	Metal ion binding
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0046906	Tetrapyrrole binding
+B9IGP8_POPTR	3694.B9IGP8	GO Function	GO:0140825	Lactoperoxidase activity
+B9IGP8_POPTR	3694.B9IGP8	GO Component	GO:0005576	Extracellular region
+B9IGP8_POPTR	3694.B9IGP8	GO Component	GO:0005618	Cell wall
+B9IGP8_POPTR	3694.B9IGP8	GO Component	GO:0009505	Plant-type cell wall
+B9IGP8_POPTR	3694.B9IGP8	GO Component	GO:0030312	External encapsulating structure
+B9IGP8_POPTR	3694.B9IGP8	GO Component	GO:0071944	Cell periphery
+B9IGP8_POPTR	3694.B9IGP8	GO Component	GO:0110165	Cellular anatomical structure
+B9IGP8_POPTR	3694.B9IGP8	STRING clusters	CL:53920	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+B9IGP8_POPTR	3694.B9IGP8	STRING clusters	CL:53921	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+B9IGP8_POPTR	3694.B9IGP8	STRING clusters	CL:53922	Mixed, incl. Glycosyl transferase 48 domain, and Transcription factor, GATA, plant
+B9IGP8_POPTR	3694.B9IGP8	STRING clusters	CL:53923	Mixed, incl. Glycosyl transferase 48 domain, and Transcription factor, GATA, plant
+B9IGP8_POPTR	3694.B9IGP8	STRING clusters	CL:53970	Alanine dehydrogenase/PNT, C-terminal domain, and Transcription factor, GATA, plant
+B9IGP8_POPTR	3694.B9IGP8	STRING clusters	CL:53972	Alanine dehydrogenase/PNT, C-terminal domain, and Transcription factor, GATA, plant
+B9IGP8_POPTR	3694.B9IGP8	KEGG	pop00940	Phenylpropanoid biosynthesis
+B9IGP8_POPTR	3694.B9IGP8	KEGG	pop01100	Metabolic pathways
+B9IGP8_POPTR	3694.B9IGP8	KEGG	pop01110	Biosynthesis of secondary metabolites
+B9IGP8_POPTR	3694.B9IGP8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0106	Calcium
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0325	Glycoprotein
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0349	Heme
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0376	Hydrogen peroxide
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0408	Iron
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0479	Metal-binding
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0560	Oxidoreductase
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0575	Peroxidase
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0732	Signal
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-0964	Secreted
+B9IGP8_POPTR	3694.B9IGP8	UniProt Keywords	KW-1015	Disulfide bond
+B9IGP8_POPTR	3694.B9IGP8	Pfam	PF00141	Peroxidase
+B9IGP8_POPTR	3694.B9IGP8	InterPro	IPR000823	Plant peroxidase
+B9IGP8_POPTR	3694.B9IGP8	InterPro	IPR002016	Haem peroxidase
+B9IGP8_POPTR	3694.B9IGP8	InterPro	IPR010255	Haem peroxidase superfamily
+B9IGP8_POPTR	3694.B9IGP8	InterPro	IPR019793	Peroxidases heam-ligand binding site
+B9IGP8_POPTR	3694.B9IGP8	InterPro	IPR019794	Peroxidase, active site
+B9IGP8_POPTR	3694.B9IGP8	InterPro	IPR033905	Secretory peroxidase
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0006355	Regulation of DNA-templated transcription
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0009889	Regulation of biosynthetic process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0010468	Regulation of gene expression
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0019222	Regulation of metabolic process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0050789	Regulation of biological process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0050794	Regulation of cellular process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0051252	Regulation of RNA metabolic process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0065007	Biological regulation
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:0080090	Regulation of primary metabolic process
+B9IH13_POPTR	3694.B9IH13	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+B9IH13_POPTR	3694.B9IH13	GO Function	GO:0003676	Nucleic acid binding
+B9IH13_POPTR	3694.B9IH13	GO Function	GO:0003677	DNA binding
+B9IH13_POPTR	3694.B9IH13	GO Function	GO:0003700	DNA-binding transcription factor activity
+B9IH13_POPTR	3694.B9IH13	GO Function	GO:0005488	Binding
+B9IH13_POPTR	3694.B9IH13	GO Function	GO:0140110	Transcription regulator activity
+B9IH13_POPTR	3694.B9IH13	GO Component	GO:0005622	Intracellular anatomical structure
+B9IH13_POPTR	3694.B9IH13	GO Component	GO:0005634	Nucleus
+B9IH13_POPTR	3694.B9IH13	GO Component	GO:0043226	Organelle
+B9IH13_POPTR	3694.B9IH13	GO Component	GO:0043227	Membrane-bounded organelle
+B9IH13_POPTR	3694.B9IH13	GO Component	GO:0043229	Intracellular organelle
+B9IH13_POPTR	3694.B9IH13	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B9IH13_POPTR	3694.B9IH13	GO Component	GO:0110165	Cellular anatomical structure
+B9IH13_POPTR	3694.B9IH13	STRING clusters	CL:41204	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+B9IH13_POPTR	3694.B9IH13	STRING clusters	CL:41205	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+B9IH13_POPTR	3694.B9IH13	STRING clusters	CL:41206	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+B9IH13_POPTR	3694.B9IH13	STRING clusters	CL:41207	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+B9IH13_POPTR	3694.B9IH13	STRING clusters	CL:41211	Mixed, incl. Putative S-adenosyl-L-methionine-dependent methyltransferase, and ALOG domain
+B9IH13_POPTR	3694.B9IH13	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B9IH13_POPTR	3694.B9IH13	COMPARTMENTS	GOCC:0005634	Nucleus
+B9IH13_POPTR	3694.B9IH13	COMPARTMENTS	GOCC:0043226	Organelle
+B9IH13_POPTR	3694.B9IH13	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B9IH13_POPTR	3694.B9IH13	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B9IH13_POPTR	3694.B9IH13	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B9IH13_POPTR	3694.B9IH13	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B9IH13_POPTR	3694.B9IH13	UniProt Keywords	KW-0175	Coiled coil
+B9IH13_POPTR	3694.B9IH13	UniProt Keywords	KW-0804	Transcription
+B9IH13_POPTR	3694.B9IH13	UniProt Keywords	KW-0805	Transcription regulation
+B9IH13_POPTR	3694.B9IH13	InterPro	IPR001005	SANT/Myb domain
+B9IH13_POPTR	3694.B9IH13	InterPro	IPR044822	Myb/SANT-like DNA-binding domain 4
+B9IH13_POPTR	3694.B9IH13	SMART	SM00717	SANT  SWI3, ADA2, N-CoR and TFIIIB DNA-binding domains
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0006091	Generation of precursor metabolites and energy
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0008152	Metabolic process
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0009314	Response to radiation
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0009416	Response to light stimulus
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0009628	Response to abiotic stimulus
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0009765	Photosynthesis, light harvesting
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0009768	Photosynthesis, light harvesting in photosystem I
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0009987	Cellular process
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0010196	Nonphotochemical quenching
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0010207	Photosystem II assembly
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0015979	Photosynthesis
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0016043	Cellular component organization
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0019684	Photosynthesis, light reaction
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0022607	Cellular component assembly
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0043933	Protein-containing complex organization
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0044085	Cellular component biogenesis
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0050896	Response to stimulus
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0065003	Protein-containing complex assembly
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:0071840	Cellular component organization or biogenesis
+POPTR_T099400	3694.A9PGZ3	GO Process	GO:1990066	Energy quenching
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0003676	Nucleic acid binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0003723	RNA binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0003729	mRNA binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0005488	Binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0005515	Protein binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0016168	Chlorophyll binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0019904	Protein domain specific binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0036094	Small molecule binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0043167	Ion binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0043169	Cation binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0046872	Metal ion binding
+POPTR_T099400	3694.A9PGZ3	GO Function	GO:0046906	Tetrapyrrole binding
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0005622	Intracellular anatomical structure
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0005737	Cytoplasm
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0005829	Cytosol
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009507	Chloroplast
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009521	Photosystem
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009522	Photosystem I
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009523	Photosystem II
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009526	Plastid envelope
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009532	Plastid stroma
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009534	Chloroplast thylakoid
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009535	Chloroplast thylakoid membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009536	Plastid
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009570	Chloroplast stroma
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0009579	Thylakoid
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0010287	Plastoglobule
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0016020	Membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0019867	Outer membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0030076	Light-harvesting complex
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0031090	Organelle membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0031967	Organelle envelope
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0031968	Organelle outer membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0031976	Plastid thylakoid
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0032991	Protein-containing complex
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0034357	Photosynthetic membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0042170	Plastid membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0042651	Thylakoid membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0043226	Organelle
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0043227	Membrane-bounded organelle
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0043228	Membraneless organelle
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0043229	Intracellular organelle
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0043232	Intracellular membraneless organelle
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0055035	Plastid thylakoid membrane
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0098588	Bounding membrane of organelle
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0098796	Membrane protein complex
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0098807	Chloroplast thylakoid membrane protein complex
+POPTR_T099400	3694.A9PGZ3	GO Component	GO:0110165	Cellular anatomical structure
+POPTR_T099400	3694.A9PGZ3	STRING clusters	CL:6547	Photosystem II, and Plastoquinone
+POPTR_T099400	3694.A9PGZ3	STRING clusters	CL:6548	Photosystem II, and Photosystem II 5kDa protein, chloroplastic
+POPTR_T099400	3694.A9PGZ3	STRING clusters	CL:6550	Photosystem II, and Photosystem II protein D1/D2 superfamily
+POPTR_T099400	3694.A9PGZ3	STRING clusters	CL:6616	Photosystem II
+POPTR_T099400	3694.A9PGZ3	STRING clusters	CL:6617	Mixed, incl. Photosystem II oxygen evolving complex, and Photosystem II PsbY
+POPTR_T099400	3694.A9PGZ3	STRING clusters	CL:6619	Mixed, incl. Chloroplast electron transport chain, and Photosystem II PsbR
+POPTR_T099400	3694.A9PGZ3	KEGG	pop00196	Photosynthesis - antenna proteins
+POPTR_T099400	3694.A9PGZ3	KEGG	pop01100	Metabolic pathways
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0009521	Photosystem
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0009523	Photosystem II
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0009579	Thylakoid
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0016020	Membrane
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0034357	Photosynthetic membrane
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0043226	Organelle
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+POPTR_T099400	3694.A9PGZ3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0148	Chlorophyll
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0150	Chloroplast
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0157	Chromophore
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0602	Photosynthesis
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0603	Photosystem I
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0604	Photosystem II
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0793	Thylakoid
+POPTR_T099400	3694.A9PGZ3	UniProt Keywords	KW-0934	Plastid
+POPTR_T099400	3694.A9PGZ3	Pfam	PF00504	Chlorophyll A-B binding protein
+POPTR_T099400	3694.A9PGZ3	InterPro	IPR001344	Chlorophyll A-B binding protein, plant and chromista
+POPTR_T099400	3694.A9PGZ3	InterPro	IPR022796	Chlorophyll A-B binding protein
+PRX85	3694.B9IGP9	GO Process	GO:0006950	Response to stress
+PRX85	3694.B9IGP9	GO Process	GO:0006979	Response to oxidative stress
+PRX85	3694.B9IGP9	GO Process	GO:0008152	Metabolic process
+PRX85	3694.B9IGP9	GO Process	GO:0009056	Catabolic process
+PRX85	3694.B9IGP9	GO Process	GO:0009636	Response to toxic substance
+PRX85	3694.B9IGP9	GO Process	GO:0009653	Anatomical structure morphogenesis
+PRX85	3694.B9IGP9	GO Process	GO:0009877	Nodulation
+PRX85	3694.B9IGP9	GO Process	GO:0009987	Cellular process
+PRX85	3694.B9IGP9	GO Process	GO:0032502	Developmental process
+PRX85	3694.B9IGP9	GO Process	GO:0042221	Response to chemical
+PRX85	3694.B9IGP9	GO Process	GO:0042743	Hydrogen peroxide metabolic process
+PRX85	3694.B9IGP9	GO Process	GO:0042744	Hydrogen peroxide catabolic process
+PRX85	3694.B9IGP9	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+PRX85	3694.B9IGP9	GO Process	GO:0048856	Anatomical structure development
+PRX85	3694.B9IGP9	GO Process	GO:0050896	Response to stimulus
+PRX85	3694.B9IGP9	GO Process	GO:0051716	Cellular response to stimulus
+PRX85	3694.B9IGP9	GO Process	GO:0070887	Cellular response to chemical stimulus
+PRX85	3694.B9IGP9	GO Process	GO:0072593	Reactive oxygen species metabolic process
+PRX85	3694.B9IGP9	GO Process	GO:0097237	Cellular response to toxic substance
+PRX85	3694.B9IGP9	GO Process	GO:0098754	Detoxification
+PRX85	3694.B9IGP9	GO Process	GO:0098869	Cellular oxidant detoxification
+PRX85	3694.B9IGP9	GO Process	GO:1990748	Cellular detoxification
+PRX85	3694.B9IGP9	GO Function	GO:0003824	Catalytic activity
+PRX85	3694.B9IGP9	GO Function	GO:0004601	Peroxidase activity
+PRX85	3694.B9IGP9	GO Function	GO:0005488	Binding
+PRX85	3694.B9IGP9	GO Function	GO:0016209	Antioxidant activity
+PRX85	3694.B9IGP9	GO Function	GO:0016491	Oxidoreductase activity
+PRX85	3694.B9IGP9	GO Function	GO:0016684	Oxidoreductase activity, acting on peroxide as acceptor
+PRX85	3694.B9IGP9	GO Function	GO:0020037	Heme binding
+PRX85	3694.B9IGP9	GO Function	GO:0036094	Small molecule binding
+PRX85	3694.B9IGP9	GO Function	GO:0043167	Ion binding
+PRX85	3694.B9IGP9	GO Function	GO:0043169	Cation binding
+PRX85	3694.B9IGP9	GO Function	GO:0046872	Metal ion binding
+PRX85	3694.B9IGP9	GO Function	GO:0046906	Tetrapyrrole binding
+PRX85	3694.B9IGP9	GO Function	GO:0140825	Lactoperoxidase activity
+PRX85	3694.B9IGP9	GO Component	GO:0005576	Extracellular region
+PRX85	3694.B9IGP9	GO Component	GO:0005618	Cell wall
+PRX85	3694.B9IGP9	GO Component	GO:0009505	Plant-type cell wall
+PRX85	3694.B9IGP9	GO Component	GO:0030312	External encapsulating structure
+PRX85	3694.B9IGP9	GO Component	GO:0071944	Cell periphery
+PRX85	3694.B9IGP9	GO Component	GO:0110165	Cellular anatomical structure
+PRX85	3694.B9IGP9	STRING clusters	CL:53920	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+PRX85	3694.B9IGP9	STRING clusters	CL:53921	Mixed, incl. G-type lectin S-receptor-like kinases and EP1-like glycoproteins, and Glycosyl transferase 48 domain
+PRX85	3694.B9IGP9	STRING clusters	CL:53922	Mixed, incl. Glycosyl transferase 48 domain, and Transcription factor, GATA, plant
+PRX85	3694.B9IGP9	STRING clusters	CL:53923	Mixed, incl. Glycosyl transferase 48 domain, and Transcription factor, GATA, plant
+PRX85	3694.B9IGP9	STRING clusters	CL:53970	Alanine dehydrogenase/PNT, C-terminal domain, and Transcription factor, GATA, plant
+PRX85	3694.B9IGP9	STRING clusters	CL:53972	Alanine dehydrogenase/PNT, C-terminal domain, and Transcription factor, GATA, plant
+PRX85	3694.B9IGP9	KEGG	pop00940	Phenylpropanoid biosynthesis
+PRX85	3694.B9IGP9	KEGG	pop01100	Metabolic pathways
+PRX85	3694.B9IGP9	KEGG	pop01110	Biosynthesis of secondary metabolites
+PRX85	3694.B9IGP9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0106	Calcium
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0325	Glycoprotein
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0349	Heme
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0376	Hydrogen peroxide
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0408	Iron
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0479	Metal-binding
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0560	Oxidoreductase
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0575	Peroxidase
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0732	Signal
+PRX85	3694.B9IGP9	UniProt Keywords	KW-0964	Secreted
+PRX85	3694.B9IGP9	UniProt Keywords	KW-1015	Disulfide bond
+PRX85	3694.B9IGP9	Pfam	PF00141	Peroxidase
+PRX85	3694.B9IGP9	InterPro	IPR000823	Plant peroxidase
+PRX85	3694.B9IGP9	InterPro	IPR002016	Haem peroxidase
+PRX85	3694.B9IGP9	InterPro	IPR010255	Haem peroxidase superfamily
+PRX85	3694.B9IGP9	InterPro	IPR019793	Peroxidases heam-ligand binding site
+PRX85	3694.B9IGP9	InterPro	IPR019794	Peroxidase, active site
+PRX85	3694.B9IGP9	InterPro	IPR033905	Secretory peroxidase

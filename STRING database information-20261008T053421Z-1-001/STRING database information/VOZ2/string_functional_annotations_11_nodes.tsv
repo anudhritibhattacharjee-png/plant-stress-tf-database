@@ -1,0 +1,929 @@
+#node	identifier	category	term ID	term description
+AVP1	3702.P31414	GO Process	GO:0001101	Response to acid chemical
+AVP1	3702.P31414	GO Process	GO:0005975	Carbohydrate metabolic process
+AVP1	3702.P31414	GO Process	GO:0005976	Polysaccharide metabolic process
+AVP1	3702.P31414	GO Process	GO:0005984	Disaccharide metabolic process
+AVP1	3702.P31414	GO Process	GO:0005985	Sucrose metabolic process
+AVP1	3702.P31414	GO Process	GO:0006109	Regulation of carbohydrate metabolic process
+AVP1	3702.P31414	GO Process	GO:0006810	Transport
+AVP1	3702.P31414	GO Process	GO:0006811	Monoatomic ion transport
+AVP1	3702.P31414	GO Process	GO:0006812	Monoatomic cation transport
+AVP1	3702.P31414	GO Process	GO:0006950	Response to stress
+AVP1	3702.P31414	GO Process	GO:0006970	Response to osmotic stress
+AVP1	3702.P31414	GO Process	GO:0007275	Multicellular organism development
+AVP1	3702.P31414	GO Process	GO:0008152	Metabolic process
+AVP1	3702.P31414	GO Process	GO:0009311	Oligosaccharide metabolic process
+AVP1	3702.P31414	GO Process	GO:0009414	Response to water deprivation
+AVP1	3702.P31414	GO Process	GO:0009415	Response to water
+AVP1	3702.P31414	GO Process	GO:0009628	Response to abiotic stimulus
+AVP1	3702.P31414	GO Process	GO:0009651	Response to salt stress
+AVP1	3702.P31414	GO Process	GO:0009664	Plant-type cell wall organization
+AVP1	3702.P31414	GO Process	GO:0009914	Hormone transport
+AVP1	3702.P31414	GO Process	GO:0009926	Auxin polar transport
+AVP1	3702.P31414	GO Process	GO:0009987	Cellular process
+AVP1	3702.P31414	GO Process	GO:0010248	Establishment or maintenance of transmembrane electrochemical gradient
+AVP1	3702.P31414	GO Process	GO:0010393	Galacturonan metabolic process
+AVP1	3702.P31414	GO Process	GO:0010817	Regulation of hormone levels
+AVP1	3702.P31414	GO Process	GO:0016043	Cellular component organization
+AVP1	3702.P31414	GO Process	GO:0019222	Regulation of metabolic process
+AVP1	3702.P31414	GO Process	GO:0032501	Multicellular organismal process
+AVP1	3702.P31414	GO Process	GO:0032502	Developmental process
+AVP1	3702.P31414	GO Process	GO:0032881	Regulation of polysaccharide metabolic process
+AVP1	3702.P31414	GO Process	GO:0034220	Monoatomic ion transmembrane transport
+AVP1	3702.P31414	GO Process	GO:0042221	Response to chemical
+AVP1	3702.P31414	GO Process	GO:0043170	Macromolecule metabolic process
+AVP1	3702.P31414	GO Process	GO:0044238	Primary metabolic process
+AVP1	3702.P31414	GO Process	GO:0045229	External encapsulating structure organization
+AVP1	3702.P31414	GO Process	GO:0045488	Pectin metabolic process
+AVP1	3702.P31414	GO Process	GO:0048366	Leaf development
+AVP1	3702.P31414	GO Process	GO:0048367	Shoot system development
+AVP1	3702.P31414	GO Process	GO:0048731	System development
+AVP1	3702.P31414	GO Process	GO:0048827	Phyllome development
+AVP1	3702.P31414	GO Process	GO:0048856	Anatomical structure development
+AVP1	3702.P31414	GO Process	GO:0050789	Regulation of biological process
+AVP1	3702.P31414	GO Process	GO:0050794	Regulation of cellular process
+AVP1	3702.P31414	GO Process	GO:0050896	Response to stimulus
+AVP1	3702.P31414	GO Process	GO:0051179	Localization
+AVP1	3702.P31414	GO Process	GO:0051234	Establishment of localization
+AVP1	3702.P31414	GO Process	GO:0052546	Cell wall pectin metabolic process
+AVP1	3702.P31414	GO Process	GO:0055085	Transmembrane transport
+AVP1	3702.P31414	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+AVP1	3702.P31414	GO Process	GO:0060918	Auxin transport
+AVP1	3702.P31414	GO Process	GO:0065007	Biological regulation
+AVP1	3702.P31414	GO Process	GO:0065008	Regulation of biological quality
+AVP1	3702.P31414	GO Process	GO:0071554	Cell wall organization or biogenesis
+AVP1	3702.P31414	GO Process	GO:0071555	Cell wall organization
+AVP1	3702.P31414	GO Process	GO:0071669	Plant-type cell wall organization or biogenesis
+AVP1	3702.P31414	GO Process	GO:0071840	Cellular component organization or biogenesis
+AVP1	3702.P31414	GO Process	GO:0080090	Regulation of primary metabolic process
+AVP1	3702.P31414	GO Process	GO:0098655	Monoatomic cation transmembrane transport
+AVP1	3702.P31414	GO Process	GO:0098660	Inorganic ion transmembrane transport
+AVP1	3702.P31414	GO Process	GO:0098662	Inorganic cation transmembrane transport
+AVP1	3702.P31414	GO Process	GO:0099402	Plant organ development
+AVP1	3702.P31414	GO Process	GO:1901700	Response to oxygen-containing compound
+AVP1	3702.P31414	GO Process	GO:1902600	Proton transmembrane transport
+AVP1	3702.P31414	GO Process	GO:2000904	Regulation of starch metabolic process
+AVP1	3702.P31414	GO Function	GO:0003676	Nucleic acid binding
+AVP1	3702.P31414	GO Function	GO:0003723	RNA binding
+AVP1	3702.P31414	GO Function	GO:0003729	mRNA binding
+AVP1	3702.P31414	GO Function	GO:0003824	Catalytic activity
+AVP1	3702.P31414	GO Function	GO:0004427	Inorganic diphosphate phosphatase activity
+AVP1	3702.P31414	GO Function	GO:0005215	Transporter activity
+AVP1	3702.P31414	GO Function	GO:0005488	Binding
+AVP1	3702.P31414	GO Function	GO:0008324	Monoatomic cation transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0009678	Diphosphate hydrolysis-driven proton transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0015075	Monoatomic ion transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0015078	Proton transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0015399	Primary active transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0016462	Pyrophosphatase activity
+AVP1	3702.P31414	GO Function	GO:0016787	Hydrolase activity
+AVP1	3702.P31414	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+AVP1	3702.P31414	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+AVP1	3702.P31414	GO Function	GO:0022804	Active transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0022853	Active monoatomic ion transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0022857	Transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0022890	Inorganic cation transmembrane transporter activity
+AVP1	3702.P31414	GO Function	GO:0036094	Small molecule binding
+AVP1	3702.P31414	GO Function	GO:0043167	Ion binding
+AVP1	3702.P31414	GO Function	GO:0043169	Cation binding
+AVP1	3702.P31414	GO Function	GO:0046872	Metal ion binding
+AVP1	3702.P31414	GO Component	GO:0000325	Plant-type vacuole
+AVP1	3702.P31414	GO Component	GO:0005576	Extracellular region
+AVP1	3702.P31414	GO Component	GO:0005622	Intracellular anatomical structure
+AVP1	3702.P31414	GO Component	GO:0005737	Cytoplasm
+AVP1	3702.P31414	GO Component	GO:0005739	Mitochondrion
+AVP1	3702.P31414	GO Component	GO:0005768	Endosome
+AVP1	3702.P31414	GO Component	GO:0005773	Vacuole
+AVP1	3702.P31414	GO Component	GO:0005774	Vacuolar membrane
+AVP1	3702.P31414	GO Component	GO:0005794	Golgi apparatus
+AVP1	3702.P31414	GO Component	GO:0005829	Cytosol
+AVP1	3702.P31414	GO Component	GO:0005886	Plasma membrane
+AVP1	3702.P31414	GO Component	GO:0009507	Chloroplast
+AVP1	3702.P31414	GO Component	GO:0009526	Plastid envelope
+AVP1	3702.P31414	GO Component	GO:0009536	Plastid
+AVP1	3702.P31414	GO Component	GO:0009705	Plant-type vacuole membrane
+AVP1	3702.P31414	GO Component	GO:0009941	Chloroplast envelope
+AVP1	3702.P31414	GO Component	GO:0010008	Endosome membrane
+AVP1	3702.P31414	GO Component	GO:0012505	Endomembrane system
+AVP1	3702.P31414	GO Component	GO:0012506	Vesicle membrane
+AVP1	3702.P31414	GO Component	GO:0016020	Membrane
+AVP1	3702.P31414	GO Component	GO:0030659	Cytoplasmic vesicle membrane
+AVP1	3702.P31414	GO Component	GO:0031090	Organelle membrane
+AVP1	3702.P31414	GO Component	GO:0031410	Cytoplasmic vesicle
+AVP1	3702.P31414	GO Component	GO:0031967	Organelle envelope
+AVP1	3702.P31414	GO Component	GO:0031982	Vesicle
+AVP1	3702.P31414	GO Component	GO:0043226	Organelle
+AVP1	3702.P31414	GO Component	GO:0043227	Membrane-bounded organelle
+AVP1	3702.P31414	GO Component	GO:0043229	Intracellular organelle
+AVP1	3702.P31414	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+AVP1	3702.P31414	GO Component	GO:0071944	Cell periphery
+AVP1	3702.P31414	GO Component	GO:0097708	Intracellular vesicle
+AVP1	3702.P31414	GO Component	GO:0098588	Bounding membrane of organelle
+AVP1	3702.P31414	GO Component	GO:0110165	Cellular anatomical structure
+AVP1	3702.P31414	STRING clusters	CL:4306	Proton-transporting two-sector ATPase complex, and Inorganic pyrophosphatase
+AVP1	3702.P31414	STRING clusters	CL:4444	Mixed, incl. Inorganic pyrophosphatase, and Mitochondrial ATP synthase g subunit
+AVP1	3702.P31414	STRING clusters	CL:4447	Inorganic pyrophosphatase, and Inorganic H+ pyrophosphatase
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0000325	Plant-type vacuole
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005576	Extracellular region
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005737	Cytoplasm
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005768	Endosome
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005773	Vacuole
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005774	Vacuolar membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005794	Golgi apparatus
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0005886	Plasma membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0009705	Plant-type vacuole membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0010008	Endosome membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0012505	Endomembrane system
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0012506	Vesicle membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0016020	Membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0030659	Cytoplasmic vesicle membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0031090	Organelle membrane
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0031410	Cytoplasmic vesicle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0031982	Vesicle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0043226	Organelle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0071944	Cell periphery
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0097708	Intracellular vesicle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0098588	Bounding membrane of organelle
+AVP1	3702.P31414	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+AVP1	3702.P31414	UniProt Keywords	KW-0025	Alternative splicing
+AVP1	3702.P31414	UniProt Keywords	KW-0375	Hydrogen ion transport
+AVP1	3702.P31414	UniProt Keywords	KW-0406	Ion transport
+AVP1	3702.P31414	UniProt Keywords	KW-0460	Magnesium
+AVP1	3702.P31414	UniProt Keywords	KW-0472	Membrane
+AVP1	3702.P31414	UniProt Keywords	KW-0479	Metal-binding
+AVP1	3702.P31414	UniProt Keywords	KW-0812	Transmembrane
+AVP1	3702.P31414	UniProt Keywords	KW-0813	Transport
+AVP1	3702.P31414	UniProt Keywords	KW-0926	Vacuole
+AVP1	3702.P31414	UniProt Keywords	KW-0967	Endosome
+AVP1	3702.P31414	UniProt Keywords	KW-1003	Cell membrane
+AVP1	3702.P31414	UniProt Keywords	KW-1015	Disulfide bond
+AVP1	3702.P31414	UniProt Keywords	KW-1133	Transmembrane helix
+AVP1	3702.P31414	UniProt Keywords	KW-1278	Translocase
+AVP1	3702.P31414	Pfam	PF03030	Inorganic H+ pyrophosphatase
+AVP1	3702.P31414	InterPro	IPR004131	Pyrophosphate-energised proton pump
+A_TM018A10.12	3702.Q8VZ38	STRING clusters	CL:33304	Mostly uncharacterized, incl. WW domain, and Aluminum-activated malate transporter
+A_TM018A10.12	3702.Q8VZ38	STRING clusters	CL:33305	Uncharacterized
+A_TM018A10.12	3702.Q8VZ38	STRING clusters	CL:33419	Mostly uncharacterized, incl. BURP domain-containing protein, and Transcription factor VOZ1/VOZ2
+A_TM018A10.12	3702.Q8VZ38	STRING clusters	CL:33421	Mixed, incl. Transcription factor VOZ1/VOZ2, and Domain of unknown function DUF7054
+A_TM018A10.12	3702.Q8VZ38	Reactome	MAP-162582	Signal Transduction
+A_TM018A10.12	3702.Q8VZ38	Reactome	MAP-5358351	Signaling by Hedgehog
+A_TM018A10.12	3702.Q8VZ38	Reactome	MAP-5632684	Hedgehog on state
+A_TM018A10.12	3702.Q8VZ38	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A_TM018A10.12	3702.Q8VZ38	InterPro	IPR002083	MATH/TRAF domain
+A_TM018A10.12	3702.Q8VZ38	InterPro	IPR008974	TRAF-like
+A_TM018A10.12	3702.Q8VZ38	SMART	SM00061	Meprin and TRAF homology
+EIF2A	3702.Q9FE78	GO Process	GO:0006412	Translation
+EIF2A	3702.Q9FE78	GO Process	GO:0006413	Translational initiation
+EIF2A	3702.Q9FE78	GO Process	GO:0006417	Regulation of translation
+EIF2A	3702.Q9FE78	GO Process	GO:0008152	Metabolic process
+EIF2A	3702.Q9FE78	GO Process	GO:0009058	Biosynthetic process
+EIF2A	3702.Q9FE78	GO Process	GO:0009059	Macromolecule biosynthetic process
+EIF2A	3702.Q9FE78	GO Process	GO:0009889	Regulation of biosynthetic process
+EIF2A	3702.Q9FE78	GO Process	GO:0009987	Cellular process
+EIF2A	3702.Q9FE78	GO Process	GO:0010467	Gene expression
+EIF2A	3702.Q9FE78	GO Process	GO:0010468	Regulation of gene expression
+EIF2A	3702.Q9FE78	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+EIF2A	3702.Q9FE78	GO Process	GO:0010608	Post-transcriptional regulation of gene expression
+EIF2A	3702.Q9FE78	GO Process	GO:0019222	Regulation of metabolic process
+EIF2A	3702.Q9FE78	GO Process	GO:0019538	Protein metabolic process
+EIF2A	3702.Q9FE78	GO Process	GO:0043170	Macromolecule metabolic process
+EIF2A	3702.Q9FE78	GO Process	GO:0044238	Primary metabolic process
+EIF2A	3702.Q9FE78	GO Process	GO:0050789	Regulation of biological process
+EIF2A	3702.Q9FE78	GO Process	GO:0050794	Regulation of cellular process
+EIF2A	3702.Q9FE78	GO Process	GO:0051246	Regulation of protein metabolic process
+EIF2A	3702.Q9FE78	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+EIF2A	3702.Q9FE78	GO Process	GO:0065007	Biological regulation
+EIF2A	3702.Q9FE78	GO Process	GO:0080090	Regulation of primary metabolic process
+EIF2A	3702.Q9FE78	GO Function	GO:0003676	Nucleic acid binding
+EIF2A	3702.Q9FE78	GO Function	GO:0003723	RNA binding
+EIF2A	3702.Q9FE78	GO Function	GO:0003743	Translation initiation factor activity
+EIF2A	3702.Q9FE78	GO Function	GO:0005488	Binding
+EIF2A	3702.Q9FE78	GO Function	GO:0043021	Ribonucleoprotein complex binding
+EIF2A	3702.Q9FE78	GO Function	GO:0043022	Ribosome binding
+EIF2A	3702.Q9FE78	GO Function	GO:0044877	Protein-containing complex binding
+EIF2A	3702.Q9FE78	GO Function	GO:0180051	Translation factor activity
+EIF2A	3702.Q9FE78	GO Component	GO:0005622	Intracellular anatomical structure
+EIF2A	3702.Q9FE78	GO Component	GO:0005737	Cytoplasm
+EIF2A	3702.Q9FE78	GO Component	GO:0005829	Cytosol
+EIF2A	3702.Q9FE78	GO Component	GO:0005850	Eukaryotic translation initiation factor 2 complex
+EIF2A	3702.Q9FE78	GO Component	GO:0005886	Plasma membrane
+EIF2A	3702.Q9FE78	GO Component	GO:0016020	Membrane
+EIF2A	3702.Q9FE78	GO Component	GO:0032991	Protein-containing complex
+EIF2A	3702.Q9FE78	GO Component	GO:0033290	Eukaryotic 48S preinitiation complex
+EIF2A	3702.Q9FE78	GO Component	GO:0070993	Cytosolic translation preinitiation complex
+EIF2A	3702.Q9FE78	GO Component	GO:0071944	Cell periphery
+EIF2A	3702.Q9FE78	GO Component	GO:0110165	Cellular anatomical structure
+EIF2A	3702.Q9FE78	GO Component	GO:1990904	Ribonucleoprotein complex
+EIF2A	3702.Q9FE78	STRING clusters	CL:1172	Eukaryotic 48S preinitiation complex, and Eukaryotic translation initiation factor 2 complex
+EIF2A	3702.Q9FE78	STRING clusters	CL:1176	Eukaryotic 48S preinitiation complex, and Eukaryotic translation initiation factor 2 complex
+EIF2A	3702.Q9FE78	STRING clusters	CL:1218	Eukaryotic translation initiation factor 2 complex
+EIF2A	3702.Q9FE78	KEGG	ath04141	Protein processing in endoplasmic reticulum
+EIF2A	3702.Q9FE78	Reactome	MAP-156827	L13a-mediated translational silencing of Ceruloplasmin expression
+EIF2A	3702.Q9FE78	Reactome	MAP-2262752	Cellular responses to stress
+EIF2A	3702.Q9FE78	Reactome	MAP-382551	Transport of small molecules
+EIF2A	3702.Q9FE78	Reactome	MAP-382556	ABC-family proteins mediated transport
+EIF2A	3702.Q9FE78	Reactome	MAP-392499	Metabolism of proteins
+EIF2A	3702.Q9FE78	Reactome	MAP-72613	Eukaryotic Translation Initiation
+EIF2A	3702.Q9FE78	Reactome	MAP-72649	Translation initiation complex formation
+EIF2A	3702.Q9FE78	Reactome	MAP-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S
+EIF2A	3702.Q9FE78	Reactome	MAP-72695	Formation of the ternary complex, and subsequently, the 43S complex
+EIF2A	3702.Q9FE78	Reactome	MAP-72702	Ribosomal scanning and start codon recognition
+EIF2A	3702.Q9FE78	Reactome	MAP-72731	Recycling of eIF2:GDP
+EIF2A	3702.Q9FE78	Reactome	MAP-72737	Cap-dependent Translation Initiation
+EIF2A	3702.Q9FE78	Reactome	MAP-72766	Translation
+EIF2A	3702.Q9FE78	Reactome	MAP-8953897	Cellular responses to stimuli
+EIF2A	3702.Q9FE78	Reactome	MAP-9840373	Cellular response to mitochondrial stress
+EIF2A	3702.Q9FE78	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+EIF2A	3702.Q9FE78	COMPARTMENTS	GOCC:0005737	Cytoplasm
+EIF2A	3702.Q9FE78	COMPARTMENTS	GOCC:0005850	Eukaryotic translation initiation factor 2 complex
+EIF2A	3702.Q9FE78	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+EIF2A	3702.Q9FE78	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+EIF2A	3702.Q9FE78	UniProt Keywords	KW-0396	Initiation factor
+EIF2A	3702.Q9FE78	UniProt Keywords	KW-0597	Phosphoprotein
+EIF2A	3702.Q9FE78	UniProt Keywords	KW-0648	Protein biosynthesis
+EIF2A	3702.Q9FE78	UniProt Keywords	KW-0810	Translation regulation
+EIF2A	3702.Q9FE78	UniProt Keywords	KW-0963	Cytoplasm
+EIF2A	3702.Q9FE78	Pfam	PF07541	Eukaryotic translation initiation factor 2 alpha subunit
+EIF2A	3702.Q9FE78	InterPro	IPR003029	S1 domain
+EIF2A	3702.Q9FE78	InterPro	IPR011488	Translation initiation factor 2, alpha subunit
+EIF2A	3702.Q9FE78	InterPro	IPR012340	Nucleic acid-binding, OB-fold
+EIF2A	3702.Q9FE78	InterPro	IPR024054	Translation initiation factor 2, alpha subunit, middle domain superfamily
+EIF2A	3702.Q9FE78	InterPro	IPR024055	Translation initiation factor 2, alpha subunit, C-terminal
+EIF2A	3702.Q9FE78	InterPro	IPR044126	IF2a, S1-like domain
+EIF2A	3702.Q9FE78	SMART	SM00316	Ribosomal protein S1-like RNA-binding domain
+F18O22.30	3702.Q9LYA5	GO Process	GO:0006457	Protein folding
+F18O22.30	3702.Q9LYA5	GO Process	GO:0008152	Metabolic process
+F18O22.30	3702.Q9LYA5	GO Process	GO:0009058	Biosynthetic process
+F18O22.30	3702.Q9LYA5	GO Process	GO:0009059	Macromolecule biosynthetic process
+F18O22.30	3702.Q9LYA5	GO Process	GO:0009987	Cellular process
+F18O22.30	3702.Q9LYA5	GO Process	GO:0010467	Gene expression
+F18O22.30	3702.Q9LYA5	GO Process	GO:0019538	Protein metabolic process
+F18O22.30	3702.Q9LYA5	GO Process	GO:0043170	Macromolecule metabolic process
+F18O22.30	3702.Q9LYA5	GO Process	GO:0044238	Primary metabolic process
+F18O22.30	3702.Q9LYA5	GO Process	GO:0051604	Protein maturation
+F18O22.30	3702.Q9LYA5	GO Component	GO:0005622	Intracellular anatomical structure
+F18O22.30	3702.Q9LYA5	GO Component	GO:0005737	Cytoplasm
+F18O22.30	3702.Q9LYA5	GO Component	GO:0110165	Cellular anatomical structure
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18648	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18650	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18652	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18655	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18657	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18660	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18662	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18663	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18666	Mixed, incl. Protein folding, and Tubulin
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18667	Mixed, incl. Tubulin, and Association of TriC/CCT with target proteins during biosynthesis
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18668	Mixed, incl. Tubulin, and Association of TriC/CCT with target proteins during biosynthesis
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18670	Tubulin, and Association of TriC/CCT with target proteins during biosynthesis
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18672	Tubulin, and Association of TriC/CCT with target proteins during biosynthesis
+F18O22.30	3702.Q9LYA5	STRING clusters	CL:18677	Chaperone tailless complex polypeptide 1 (TCP-1)
+F18O22.30	3702.Q9LYA5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+F18O22.30	3702.Q9LYA5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+F18O22.30	3702.Q9LYA5	Pfam	PF02114	Phosducin
+F18O22.30	3702.Q9LYA5	InterPro	IPR024253	Phosducin, thioredoxin-like domain
+F18O22.30	3702.Q9LYA5	InterPro	IPR036249	Thioredoxin-like superfamily
+F18O22.30	3702.Q9LYA5	InterPro	IPR051498	Phosducin-like chaperone and apoptosis regulator
+IBI1	3702.Q9M084	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0006399	tRNA metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0006412	Translation
+IBI1	3702.Q9M084	GO Process	GO:0006418	tRNA aminoacylation for protein translation
+IBI1	3702.Q9M084	GO Process	GO:0006422	aspartyl-tRNA aminoacylation
+IBI1	3702.Q9M084	GO Process	GO:0006520	Amino acid metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0006950	Response to stress
+IBI1	3702.Q9M084	GO Process	GO:0006952	Defense response
+IBI1	3702.Q9M084	GO Process	GO:0008152	Metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0009058	Biosynthetic process
+IBI1	3702.Q9M084	GO Process	GO:0009059	Macromolecule biosynthetic process
+IBI1	3702.Q9M084	GO Process	GO:0009605	Response to external stimulus
+IBI1	3702.Q9M084	GO Process	GO:0009607	Response to biotic stimulus
+IBI1	3702.Q9M084	GO Process	GO:0009620	Response to fungus
+IBI1	3702.Q9M084	GO Process	GO:0009987	Cellular process
+IBI1	3702.Q9M084	GO Process	GO:0010467	Gene expression
+IBI1	3702.Q9M084	GO Process	GO:0016070	RNA metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0019538	Protein metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0043038	Amino acid activation
+IBI1	3702.Q9M084	GO Process	GO:0043039	tRNA aminoacylation
+IBI1	3702.Q9M084	GO Process	GO:0043170	Macromolecule metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0043207	Response to external biotic stimulus
+IBI1	3702.Q9M084	GO Process	GO:0044238	Primary metabolic process
+IBI1	3702.Q9M084	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+IBI1	3702.Q9M084	GO Process	GO:0050832	Defense response to fungus
+IBI1	3702.Q9M084	GO Process	GO:0050896	Response to stimulus
+IBI1	3702.Q9M084	GO Process	GO:0051707	Response to other organism
+IBI1	3702.Q9M084	GO Process	GO:0090304	Nucleic acid metabolic process
+IBI1	3702.Q9M084	GO Function	GO:0000166	Nucleotide binding
+IBI1	3702.Q9M084	GO Function	GO:0003676	Nucleic acid binding
+IBI1	3702.Q9M084	GO Function	GO:0003677	DNA binding
+IBI1	3702.Q9M084	GO Function	GO:0003723	RNA binding
+IBI1	3702.Q9M084	GO Function	GO:0003824	Catalytic activity
+IBI1	3702.Q9M084	GO Function	GO:0004812	aminoacyl-tRNA ligase activity
+IBI1	3702.Q9M084	GO Function	GO:0004815	aspartate-tRNA ligase activity
+IBI1	3702.Q9M084	GO Function	GO:0005488	Binding
+IBI1	3702.Q9M084	GO Function	GO:0005524	ATP binding
+IBI1	3702.Q9M084	GO Function	GO:0016874	Ligase activity
+IBI1	3702.Q9M084	GO Function	GO:0016875	Ligase activity, forming carbon-oxygen bonds
+IBI1	3702.Q9M084	GO Function	GO:0017076	Purine nucleotide binding
+IBI1	3702.Q9M084	GO Function	GO:0030554	Adenyl nucleotide binding
+IBI1	3702.Q9M084	GO Function	GO:0032553	Ribonucleotide binding
+IBI1	3702.Q9M084	GO Function	GO:0032555	Purine ribonucleotide binding
+IBI1	3702.Q9M084	GO Function	GO:0032559	Adenyl ribonucleotide binding
+IBI1	3702.Q9M084	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+IBI1	3702.Q9M084	GO Function	GO:0036094	Small molecule binding
+IBI1	3702.Q9M084	GO Function	GO:0043167	Ion binding
+IBI1	3702.Q9M084	GO Function	GO:0043168	Anion binding
+IBI1	3702.Q9M084	GO Function	GO:0043169	Cation binding
+IBI1	3702.Q9M084	GO Function	GO:0046872	Metal ion binding
+IBI1	3702.Q9M084	GO Function	GO:0097367	Carbohydrate derivative binding
+IBI1	3702.Q9M084	GO Function	GO:0140098	Catalytic activity, acting on RNA
+IBI1	3702.Q9M084	GO Function	GO:0140101	Catalytic activity, acting on a tRNA
+IBI1	3702.Q9M084	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+IBI1	3702.Q9M084	GO Function	GO:1901265	Nucleoside phosphate binding
+IBI1	3702.Q9M084	GO Function	GO:1901363	Heterocyclic compound binding
+IBI1	3702.Q9M084	GO Component	GO:0005622	Intracellular anatomical structure
+IBI1	3702.Q9M084	GO Component	GO:0005737	Cytoplasm
+IBI1	3702.Q9M084	GO Component	GO:0005783	Endoplasmic reticulum
+IBI1	3702.Q9M084	GO Component	GO:0005829	Cytosol
+IBI1	3702.Q9M084	GO Component	GO:0005886	Plasma membrane
+IBI1	3702.Q9M084	GO Component	GO:0012505	Endomembrane system
+IBI1	3702.Q9M084	GO Component	GO:0016020	Membrane
+IBI1	3702.Q9M084	GO Component	GO:0017101	aminoacyl-tRNA synthetase multienzyme complex
+IBI1	3702.Q9M084	GO Component	GO:0032991	Protein-containing complex
+IBI1	3702.Q9M084	GO Component	GO:0043226	Organelle
+IBI1	3702.Q9M084	GO Component	GO:0043227	Membrane-bounded organelle
+IBI1	3702.Q9M084	GO Component	GO:0043229	Intracellular organelle
+IBI1	3702.Q9M084	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+IBI1	3702.Q9M084	GO Component	GO:0071944	Cell periphery
+IBI1	3702.Q9M084	GO Component	GO:0110165	Cellular anatomical structure
+IBI1	3702.Q9M084	GO Component	GO:0140535	Intracellular protein-containing complex
+IBI1	3702.Q9M084	GO Component	GO:1902494	Catalytic complex
+IBI1	3702.Q9M084	STRING clusters	CL:2323	aminoacyl-tRNA ligase activity, and Fanconi Anemia Pathway
+IBI1	3702.Q9M084	STRING clusters	CL:2324	aminoacyl-tRNA ligase activity, and Fanconi Anemia Pathway
+IBI1	3702.Q9M084	STRING clusters	CL:2326	aminoacyl-tRNA ligase activity, and Fanconi Anemia Pathway
+IBI1	3702.Q9M084	STRING clusters	CL:2328	aminoacyl-tRNA ligase activity
+IBI1	3702.Q9M084	STRING clusters	CL:2329	aminoacyl-tRNA ligase activity
+IBI1	3702.Q9M084	STRING clusters	CL:2331	aminoacyl-tRNA ligase activity
+IBI1	3702.Q9M084	STRING clusters	CL:2333	aminoacyl-tRNA ligase activity
+IBI1	3702.Q9M084	STRING clusters	CL:2397	MITF-M-regulated melanocyte development
+IBI1	3702.Q9M084	KEGG	ath00970	Aminoacyl-tRNA biosynthesis
+IBI1	3702.Q9M084	Reactome	MAP-1266738	Developmental Biology
+IBI1	3702.Q9M084	Reactome	MAP-9730414	MITF-M-regulated melanocyte development
+IBI1	3702.Q9M084	Reactome	MAP-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0005737	Cytoplasm
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0005829	Cytosol
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0012505	Endomembrane system
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0043226	Organelle
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+IBI1	3702.Q9M084	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+IBI1	3702.Q9M084	UniProt Keywords	KW-0007	Acetylation
+IBI1	3702.Q9M084	UniProt Keywords	KW-0030	Aminoacyl-tRNA synthetase
+IBI1	3702.Q9M084	UniProt Keywords	KW-0067	ATP-binding
+IBI1	3702.Q9M084	UniProt Keywords	KW-0238	DNA-binding
+IBI1	3702.Q9M084	UniProt Keywords	KW-0256	Endoplasmic reticulum
+IBI1	3702.Q9M084	UniProt Keywords	KW-0436	Ligase
+IBI1	3702.Q9M084	UniProt Keywords	KW-0460	Magnesium
+IBI1	3702.Q9M084	UniProt Keywords	KW-0479	Metal-binding
+IBI1	3702.Q9M084	UniProt Keywords	KW-0547	Nucleotide-binding
+IBI1	3702.Q9M084	UniProt Keywords	KW-0648	Protein biosynthesis
+IBI1	3702.Q9M084	UniProt Keywords	KW-0963	Cytoplasm
+IBI1	3702.Q9M084	Pfam	PF00152	tRNA synthetases class II (D, K and N) 
+IBI1	3702.Q9M084	Pfam	PF01336	OB-fold nucleic acid binding domain
+IBI1	3702.Q9M084	InterPro	IPR002312	Aspartyl/Asparaginyl-tRNA synthetase, class IIb
+IBI1	3702.Q9M084	InterPro	IPR004364	Aminoacyl-tRNA synthetase, class II (D/K/N)
+IBI1	3702.Q9M084	InterPro	IPR004365	OB-fold nucleic acid binding domain, AA-tRNA synthetase-type
+IBI1	3702.Q9M084	InterPro	IPR004523	Aspartate-tRNA synthetase, type 2
+IBI1	3702.Q9M084	InterPro	IPR006195	Aminoacyl-tRNA synthetase, class II
+IBI1	3702.Q9M084	InterPro	IPR012340	Nucleic acid-binding, OB-fold
+IBI1	3702.Q9M084	InterPro	IPR045864	Class II Aminoacyl-tRNA synthetase/Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL)
+MQK4.8	3702.Q9FFE7	STRING clusters	CL:33304	Mostly uncharacterized, incl. WW domain, and Aluminum-activated malate transporter
+MQK4.8	3702.Q9FFE7	STRING clusters	CL:33305	Uncharacterized
+MQK4.8	3702.Q9FFE7	STRING clusters	CL:33419	Mostly uncharacterized, incl. BURP domain-containing protein, and Transcription factor VOZ1/VOZ2
+MQK4.8	3702.Q9FFE7	STRING clusters	CL:33421	Mixed, incl. Transcription factor VOZ1/VOZ2, and Domain of unknown function DUF7054
+MQK4.8	3702.Q9FFE7	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MQK4.8	3702.Q9FFE7	COMPARTMENTS	GOCC:0005737	Cytoplasm
+MQK4.8	3702.Q9FFE7	COMPARTMENTS	GOCC:0043226	Organelle
+MQK4.8	3702.Q9FFE7	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+MQK4.8	3702.Q9FFE7	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+MQK4.8	3702.Q9FFE7	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+MQK4.8	3702.Q9FFE7	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MQK4.8	3702.Q9FFE7	Pfam	PF04970	Lecithin retinol acyltransferase
+MQK4.8	3702.Q9FFE7	InterPro	IPR007053	LRAT domain
+PHYB	3702.P14713	GO Process	GO:0000160	Phosphorelay signal transduction system
+PHYB	3702.P14713	GO Process	GO:0006066	Alcohol metabolic process
+PHYB	3702.P14713	GO Process	GO:0006082	Organic acid metabolic process
+PHYB	3702.P14713	GO Process	GO:0006325	Chromatin organization
+PHYB	3702.P14713	GO Process	GO:0006355	Regulation of DNA-templated transcription
+PHYB	3702.P14713	GO Process	GO:0006468	Protein phosphorylation
+PHYB	3702.P14713	GO Process	GO:0006629	Lipid metabolic process
+PHYB	3702.P14713	GO Process	GO:0006714	Sesquiterpenoid metabolic process
+PHYB	3702.P14713	GO Process	GO:0006720	Isoprenoid metabolic process
+PHYB	3702.P14713	GO Process	GO:0006721	Terpenoid metabolic process
+PHYB	3702.P14713	GO Process	GO:0006793	Phosphorus metabolic process
+PHYB	3702.P14713	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+PHYB	3702.P14713	GO Process	GO:0006810	Transport
+PHYB	3702.P14713	GO Process	GO:0006833	Water transport
+PHYB	3702.P14713	GO Process	GO:0006873	Intracellular monoatomic ion homeostasis
+PHYB	3702.P14713	GO Process	GO:0006874	Intracellular calcium ion homeostasis
+PHYB	3702.P14713	GO Process	GO:0006950	Response to stress
+PHYB	3702.P14713	GO Process	GO:0006952	Defense response
+PHYB	3702.P14713	GO Process	GO:0007154	Cell communication
+PHYB	3702.P14713	GO Process	GO:0007165	Signal transduction
+PHYB	3702.P14713	GO Process	GO:0007275	Multicellular organism development
+PHYB	3702.P14713	GO Process	GO:0007602	Phototransduction
+PHYB	3702.P14713	GO Process	GO:0007623	Circadian rhythm
+PHYB	3702.P14713	GO Process	GO:0008152	Metabolic process
+PHYB	3702.P14713	GO Process	GO:0009058	Biosynthetic process
+PHYB	3702.P14713	GO Process	GO:0009059	Macromolecule biosynthetic process
+PHYB	3702.P14713	GO Process	GO:0009266	Response to temperature stimulus
+PHYB	3702.P14713	GO Process	GO:0009314	Response to radiation
+PHYB	3702.P14713	GO Process	GO:0009408	Response to heat
+PHYB	3702.P14713	GO Process	GO:0009409	Response to cold
+PHYB	3702.P14713	GO Process	GO:0009416	Response to light stimulus
+PHYB	3702.P14713	GO Process	GO:0009581	Detection of external stimulus
+PHYB	3702.P14713	GO Process	GO:0009582	Detection of abiotic stimulus
+PHYB	3702.P14713	GO Process	GO:0009583	Detection of light stimulus
+PHYB	3702.P14713	GO Process	GO:0009584	Detection of visible light
+PHYB	3702.P14713	GO Process	GO:0009585	Red, far-red light phototransduction
+PHYB	3702.P14713	GO Process	GO:0009605	Response to external stimulus
+PHYB	3702.P14713	GO Process	GO:0009606	Tropism
+PHYB	3702.P14713	GO Process	GO:0009607	Response to biotic stimulus
+PHYB	3702.P14713	GO Process	GO:0009617	Response to bacterium
+PHYB	3702.P14713	GO Process	GO:0009628	Response to abiotic stimulus
+PHYB	3702.P14713	GO Process	GO:0009629	Response to gravity
+PHYB	3702.P14713	GO Process	GO:0009630	Gravitropism
+PHYB	3702.P14713	GO Process	GO:0009637	Response to blue light
+PHYB	3702.P14713	GO Process	GO:0009638	Phototropism
+PHYB	3702.P14713	GO Process	GO:0009639	Response to red or far red light
+PHYB	3702.P14713	GO Process	GO:0009640	Photomorphogenesis
+PHYB	3702.P14713	GO Process	GO:0009642	Response to light intensity
+PHYB	3702.P14713	GO Process	GO:0009643	Photosynthetic acclimation
+PHYB	3702.P14713	GO Process	GO:0009645	Response to low light intensity stimulus
+PHYB	3702.P14713	GO Process	GO:0009649	Entrainment of circadian clock
+PHYB	3702.P14713	GO Process	GO:0009687	Abscisic acid metabolic process
+PHYB	3702.P14713	GO Process	GO:0009719	Response to endogenous stimulus
+PHYB	3702.P14713	GO Process	GO:0009725	Response to hormone
+PHYB	3702.P14713	GO Process	GO:0009753	Response to jasmonic acid
+PHYB	3702.P14713	GO Process	GO:0009755	Hormone-mediated signaling pathway
+PHYB	3702.P14713	GO Process	GO:0009791	Post-embryonic development
+PHYB	3702.P14713	GO Process	GO:0009867	Jasmonic acid mediated signaling pathway
+PHYB	3702.P14713	GO Process	GO:0009888	Tissue development
+PHYB	3702.P14713	GO Process	GO:0009889	Regulation of biosynthetic process
+PHYB	3702.P14713	GO Process	GO:0009890	Negative regulation of biosynthetic process
+PHYB	3702.P14713	GO Process	GO:0009892	Negative regulation of metabolic process
+PHYB	3702.P14713	GO Process	GO:0009987	Cellular process
+PHYB	3702.P14713	GO Process	GO:0010017	Red or far-red light signaling pathway
+PHYB	3702.P14713	GO Process	GO:0010018	Far-red light signaling pathway
+PHYB	3702.P14713	GO Process	GO:0010029	Regulation of seed germination
+PHYB	3702.P14713	GO Process	GO:0010114	Response to red light
+PHYB	3702.P14713	GO Process	GO:0010148	Transpiration
+PHYB	3702.P14713	GO Process	GO:0010161	Red light signaling pathway
+PHYB	3702.P14713	GO Process	GO:0010202	Response to low fluence red light stimulus
+PHYB	3702.P14713	GO Process	GO:0010218	Response to far red light
+PHYB	3702.P14713	GO Process	GO:0010244	Response to low fluence blue light stimulus by blue low-fluence system
+PHYB	3702.P14713	GO Process	GO:0010374	Stomatal complex development
+PHYB	3702.P14713	GO Process	GO:0010467	Gene expression
+PHYB	3702.P14713	GO Process	GO:0010468	Regulation of gene expression
+PHYB	3702.P14713	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+PHYB	3702.P14713	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+PHYB	3702.P14713	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+PHYB	3702.P14713	GO Process	GO:0010617	Circadian regulation of calcium ion oscillation
+PHYB	3702.P14713	GO Process	GO:0015979	Photosynthesis
+PHYB	3702.P14713	GO Process	GO:0016043	Cellular component organization
+PHYB	3702.P14713	GO Process	GO:0016310	Phosphorylation
+PHYB	3702.P14713	GO Process	GO:0017006	Protein-tetrapyrrole linkage
+PHYB	3702.P14713	GO Process	GO:0017007	Protein-bilin linkage
+PHYB	3702.P14713	GO Process	GO:0017012	Protein-phytochromobilin linkage
+PHYB	3702.P14713	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+PHYB	3702.P14713	GO Process	GO:0018193	Peptidyl-amino acid modification
+PHYB	3702.P14713	GO Process	GO:0018202	Peptidyl-histidine modification
+PHYB	3702.P14713	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+PHYB	3702.P14713	GO Process	GO:0019222	Regulation of metabolic process
+PHYB	3702.P14713	GO Process	GO:0019538	Protein metabolic process
+PHYB	3702.P14713	GO Process	GO:0019725	Cellular homeostasis
+PHYB	3702.P14713	GO Process	GO:0019752	Carboxylic acid metabolic process
+PHYB	3702.P14713	GO Process	GO:0023052	Signaling
+PHYB	3702.P14713	GO Process	GO:0030003	Intracellular monoatomic cation homeostasis
+PHYB	3702.P14713	GO Process	GO:0031347	Regulation of defense response
+PHYB	3702.P14713	GO Process	GO:0032501	Multicellular organismal process
+PHYB	3702.P14713	GO Process	GO:0032502	Developmental process
+PHYB	3702.P14713	GO Process	GO:0032787	Monocarboxylic acid metabolic process
+PHYB	3702.P14713	GO Process	GO:0032870	Cellular response to hormone stimulus
+PHYB	3702.P14713	GO Process	GO:0033993	Response to lipid
+PHYB	3702.P14713	GO Process	GO:0035556	Intracellular signal transduction
+PHYB	3702.P14713	GO Process	GO:0036211	Protein modification process
+PHYB	3702.P14713	GO Process	GO:0042044	Fluid transport
+PHYB	3702.P14713	GO Process	GO:0042221	Response to chemical
+PHYB	3702.P14713	GO Process	GO:0042592	Homeostatic process
+PHYB	3702.P14713	GO Process	GO:0042742	Defense response to bacterium
+PHYB	3702.P14713	GO Process	GO:0042752	Regulation of circadian rhythm
+PHYB	3702.P14713	GO Process	GO:0043170	Macromolecule metabolic process
+PHYB	3702.P14713	GO Process	GO:0043207	Response to external biotic stimulus
+PHYB	3702.P14713	GO Process	GO:0043288	Apocarotenoid metabolic process
+PHYB	3702.P14713	GO Process	GO:0043412	Macromolecule modification
+PHYB	3702.P14713	GO Process	GO:0043436	Oxoacid metabolic process
+PHYB	3702.P14713	GO Process	GO:0044238	Primary metabolic process
+PHYB	3702.P14713	GO Process	GO:0044281	Small molecule metabolic process
+PHYB	3702.P14713	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+PHYB	3702.P14713	GO Process	GO:0045892	Negative regulation of DNA-templated transcription
+PHYB	3702.P14713	GO Process	GO:0045934	Negative regulation of nucleobase-containing compound metabolic process
+PHYB	3702.P14713	GO Process	GO:0048511	Rhythmic process
+PHYB	3702.P14713	GO Process	GO:0048519	Negative regulation of biological process
+PHYB	3702.P14713	GO Process	GO:0048523	Negative regulation of cellular process
+PHYB	3702.P14713	GO Process	GO:0048580	Regulation of post-embryonic development
+PHYB	3702.P14713	GO Process	GO:0048583	Regulation of response to stimulus
+PHYB	3702.P14713	GO Process	GO:0048856	Anatomical structure development
+PHYB	3702.P14713	GO Process	GO:0048878	Chemical homeostasis
+PHYB	3702.P14713	GO Process	GO:0050789	Regulation of biological process
+PHYB	3702.P14713	GO Process	GO:0050793	Regulation of developmental process
+PHYB	3702.P14713	GO Process	GO:0050794	Regulation of cellular process
+PHYB	3702.P14713	GO Process	GO:0050801	Monoatomic ion homeostasis
+PHYB	3702.P14713	GO Process	GO:0050896	Response to stimulus
+PHYB	3702.P14713	GO Process	GO:0051179	Localization
+PHYB	3702.P14713	GO Process	GO:0051234	Establishment of localization
+PHYB	3702.P14713	GO Process	GO:0051239	Regulation of multicellular organismal process
+PHYB	3702.P14713	GO Process	GO:0051252	Regulation of RNA metabolic process
+PHYB	3702.P14713	GO Process	GO:0051253	Negative regulation of RNA metabolic process
+PHYB	3702.P14713	GO Process	GO:0051480	Regulation of cytosolic calcium ion concentration
+PHYB	3702.P14713	GO Process	GO:0051604	Protein maturation
+PHYB	3702.P14713	GO Process	GO:0051606	Detection of stimulus
+PHYB	3702.P14713	GO Process	GO:0051707	Response to other organism
+PHYB	3702.P14713	GO Process	GO:0051716	Cellular response to stimulus
+PHYB	3702.P14713	GO Process	GO:0055074	Calcium ion homeostasis
+PHYB	3702.P14713	GO Process	GO:0055080	Monoatomic cation homeostasis
+PHYB	3702.P14713	GO Process	GO:0055082	Intracellular chemical homeostasis
+PHYB	3702.P14713	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+PHYB	3702.P14713	GO Process	GO:0065007	Biological regulation
+PHYB	3702.P14713	GO Process	GO:0070542	Response to fatty acid
+PHYB	3702.P14713	GO Process	GO:0070887	Cellular response to chemical stimulus
+PHYB	3702.P14713	GO Process	GO:0071214	Cellular response to abiotic stimulus
+PHYB	3702.P14713	GO Process	GO:0071395	Cellular response to jasmonic acid stimulus
+PHYB	3702.P14713	GO Process	GO:0071396	Cellular response to lipid
+PHYB	3702.P14713	GO Process	GO:0071398	Cellular response to fatty acid
+PHYB	3702.P14713	GO Process	GO:0071478	Cellular response to radiation
+PHYB	3702.P14713	GO Process	GO:0071482	Cellular response to light stimulus
+PHYB	3702.P14713	GO Process	GO:0071489	Cellular response to red or far red light
+PHYB	3702.P14713	GO Process	GO:0071490	Cellular response to far red light
+PHYB	3702.P14713	GO Process	GO:0071491	Cellular response to red light
+PHYB	3702.P14713	GO Process	GO:0071495	Cellular response to endogenous stimulus
+PHYB	3702.P14713	GO Process	GO:0071588	Hydrogen peroxide mediated signaling pathway
+PHYB	3702.P14713	GO Process	GO:0071840	Cellular component organization or biogenesis
+PHYB	3702.P14713	GO Process	GO:0080090	Regulation of primary metabolic process
+PHYB	3702.P14713	GO Process	GO:0080134	Regulation of response to stress
+PHYB	3702.P14713	GO Process	GO:0090558	Plant epidermis development
+PHYB	3702.P14713	GO Process	GO:0098771	Inorganic ion homeostasis
+PHYB	3702.P14713	GO Process	GO:0104004	Cellular response to environmental stimulus
+PHYB	3702.P14713	GO Process	GO:0120254	Olefinic compound metabolic process
+PHYB	3702.P14713	GO Process	GO:1900140	Regulation of seedling development
+PHYB	3702.P14713	GO Process	GO:1901700	Response to oxygen-containing compound
+PHYB	3702.P14713	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+PHYB	3702.P14713	GO Process	GO:1902644	Tertiary alcohol metabolic process
+PHYB	3702.P14713	GO Process	GO:1902679	Negative regulation of RNA biosynthetic process
+PHYB	3702.P14713	GO Process	GO:2000026	Regulation of multicellular organismal development
+PHYB	3702.P14713	GO Process	GO:2000028	Regulation of photoperiodism, flowering
+PHYB	3702.P14713	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+PHYB	3702.P14713	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+PHYB	3702.P14713	GO Function	GO:0003676	Nucleic acid binding
+PHYB	3702.P14713	GO Function	GO:0003677	DNA binding
+PHYB	3702.P14713	GO Function	GO:0003682	Chromatin binding
+PHYB	3702.P14713	GO Function	GO:0003824	Catalytic activity
+PHYB	3702.P14713	GO Function	GO:0004672	Protein kinase activity
+PHYB	3702.P14713	GO Function	GO:0004673	Protein histidine kinase activity
+PHYB	3702.P14713	GO Function	GO:0005488	Binding
+PHYB	3702.P14713	GO Function	GO:0005515	Protein binding
+PHYB	3702.P14713	GO Function	GO:0009881	Photoreceptor activity
+PHYB	3702.P14713	GO Function	GO:0009883	Red or far-red light photoreceptor activity
+PHYB	3702.P14713	GO Function	GO:0016301	Kinase activity
+PHYB	3702.P14713	GO Function	GO:0016740	Transferase activity
+PHYB	3702.P14713	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+PHYB	3702.P14713	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+PHYB	3702.P14713	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+PHYB	3702.P14713	GO Function	GO:0031516	Far-red light photoreceptor activity
+PHYB	3702.P14713	GO Function	GO:0031517	Red light photoreceptor activity
+PHYB	3702.P14713	GO Function	GO:0038023	Signaling receptor activity
+PHYB	3702.P14713	GO Function	GO:0042802	Identical protein binding
+PHYB	3702.P14713	GO Function	GO:0042803	Protein homodimerization activity
+PHYB	3702.P14713	GO Function	GO:0043565	Sequence-specific DNA binding
+PHYB	3702.P14713	GO Function	GO:0046983	Protein dimerization activity
+PHYB	3702.P14713	GO Function	GO:0060089	Molecular transducer activity
+PHYB	3702.P14713	GO Function	GO:0098772	Molecular function regulator activity
+PHYB	3702.P14713	GO Function	GO:0140096	Catalytic activity, acting on a protein
+PHYB	3702.P14713	GO Function	GO:0140299	Molecular sensor activity
+PHYB	3702.P14713	GO Function	GO:1990841	Promoter-specific chromatin binding
+PHYB	3702.P14713	GO Component	GO:0005622	Intracellular anatomical structure
+PHYB	3702.P14713	GO Component	GO:0005634	Nucleus
+PHYB	3702.P14713	GO Component	GO:0005654	Nucleoplasm
+PHYB	3702.P14713	GO Component	GO:0005737	Cytoplasm
+PHYB	3702.P14713	GO Component	GO:0005829	Cytosol
+PHYB	3702.P14713	GO Component	GO:0016604	Nuclear body
+PHYB	3702.P14713	GO Component	GO:0016607	Nuclear speck
+PHYB	3702.P14713	GO Component	GO:0031974	Membrane-enclosed lumen
+PHYB	3702.P14713	GO Component	GO:0031981	Nuclear lumen
+PHYB	3702.P14713	GO Component	GO:0035770	Ribonucleoprotein granule
+PHYB	3702.P14713	GO Component	GO:0043226	Organelle
+PHYB	3702.P14713	GO Component	GO:0043227	Membrane-bounded organelle
+PHYB	3702.P14713	GO Component	GO:0043228	Membraneless organelle
+PHYB	3702.P14713	GO Component	GO:0043229	Intracellular organelle
+PHYB	3702.P14713	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+PHYB	3702.P14713	GO Component	GO:0043232	Intracellular membraneless organelle
+PHYB	3702.P14713	GO Component	GO:0043233	Organelle lumen
+PHYB	3702.P14713	GO Component	GO:0070013	Intracellular organelle lumen
+PHYB	3702.P14713	GO Component	GO:0099080	Supramolecular complex
+PHYB	3702.P14713	GO Component	GO:0110165	Cellular anatomical structure
+PHYB	3702.P14713	GO Component	GO:0140168	Nuclear ribonucleoprotein granule
+PHYB	3702.P14713	STRING clusters	CL:27354	Mixed, incl. Flowering, and B-box-type zinc finger
+PHYB	3702.P14713	STRING clusters	CL:27355	Mixed, incl. Flowering, and B-box-type zinc finger
+PHYB	3702.P14713	STRING clusters	CL:27356	Mixed, incl. Circadian rhythm - plant, and MADS MEF2-like, N-terminal
+PHYB	3702.P14713	STRING clusters	CL:27357	Mixed, incl. Circadian rhythm - plant, and B-box-type zinc finger
+PHYB	3702.P14713	STRING clusters	CL:27358	Mixed, incl. Circadian rhythm - plant, and B-box-type zinc finger
+PHYB	3702.P14713	STRING clusters	CL:27360	Mixed, incl. Circadian rhythm - plant, and Phytochrome signaling pathway to turn on photomorphogenesis
+PHYB	3702.P14713	STRING clusters	CL:27361	Circadian rhythm - plant, and Phytochrome signaling pathway to turn on photomorphogenesis
+PHYB	3702.P14713	STRING clusters	CL:27362	Circadian rhythm - plant, and Phytochrome signaling pathway to turn on photomorphogenesis
+PHYB	3702.P14713	STRING clusters	CL:27364	Circadian rhythm - plant, and Photoreceptor protein
+PHYB	3702.P14713	STRING clusters	CL:27365	PAS domain, and Biological rhythms
+PHYB	3702.P14713	STRING clusters	CL:27367	Biological rhythms
+PHYB	3702.P14713	KEGG	ath04712	Circadian rhythm - plant
+PHYB	3702.P14713	Reactome	MAP-2262752	Cellular responses to stress
+PHYB	3702.P14713	Reactome	MAP-3371453	Regulation of HSF1-mediated heat shock response
+PHYB	3702.P14713	Reactome	MAP-3371511	HSF1 activation
+PHYB	3702.P14713	Reactome	MAP-3371556	Cellular response to heat stress
+PHYB	3702.P14713	Reactome	MAP-3371568	Attenuation phase
+PHYB	3702.P14713	Reactome	MAP-3371571	HSF1-dependent transactivation
+PHYB	3702.P14713	Reactome	MAP-8953897	Cellular responses to stimuli
+PHYB	3702.P14713	Reactome	MAP-9841251	Mitochondrial unfolded protein response (UPRmt)
+PHYB	3702.P14713	WikiPathways	WP3662	Phytochrome signaling pathway to turn on photomorphogenesis
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0005634	Nucleus
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0005654	Nucleoplasm
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0005737	Cytoplasm
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0005829	Cytosol
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0005929	Cilium
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0016604	Nuclear body
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0016607	Nuclear speck
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0031514	Motile cilium
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0031981	Nuclear lumen
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0042995	Cell projection
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0043226	Organelle
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0043233	Organelle lumen
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0097729	9+2 motile cilium
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0097740	Paraflagellar rod
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0099080	Supramolecular complex
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+PHYB	3702.P14713	COMPARTMENTS	GOCC:0120025	Plasma membrane bounded cell projection
+PHYB	3702.P14713	UniProt Keywords	KW-0157	Chromophore
+PHYB	3702.P14713	UniProt Keywords	KW-0238	DNA-binding
+PHYB	3702.P14713	UniProt Keywords	KW-0539	Nucleus
+PHYB	3702.P14713	UniProt Keywords	KW-0600	Photoreceptor protein
+PHYB	3702.P14713	UniProt Keywords	KW-0607	Phytochrome signaling pathway
+PHYB	3702.P14713	UniProt Keywords	KW-0675	Receptor
+PHYB	3702.P14713	UniProt Keywords	KW-0677	Repeat
+PHYB	3702.P14713	UniProt Keywords	KW-0678	Repressor
+PHYB	3702.P14713	UniProt Keywords	KW-0716	Sensory transduction
+PHYB	3702.P14713	UniProt Keywords	KW-0804	Transcription
+PHYB	3702.P14713	UniProt Keywords	KW-0805	Transcription regulation
+PHYB	3702.P14713	UniProt Keywords	KW-0963	Cytoplasm
+PHYB	3702.P14713	Pfam	PF00360	Phytochrome region
+PHYB	3702.P14713	Pfam	PF08446	PAS fold
+PHYB	3702.P14713	InterPro	IPR000014	PAS domain
+PHYB	3702.P14713	InterPro	IPR001294	Phytochrome
+PHYB	3702.P14713	InterPro	IPR003018	GAF domain
+PHYB	3702.P14713	InterPro	IPR003594	Histidine kinase/HSP90-like ATPase domain
+PHYB	3702.P14713	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+PHYB	3702.P14713	InterPro	IPR005467	Histidine kinase domain
+PHYB	3702.P14713	InterPro	IPR012129	Phytochrome A/B/C/D/E
+PHYB	3702.P14713	InterPro	IPR013515	Phytochrome, central region
+PHYB	3702.P14713	InterPro	IPR013516	Phytochrome chromophore binding site
+PHYB	3702.P14713	InterPro	IPR013654	PAS fold-2
+PHYB	3702.P14713	InterPro	IPR013767	PAS fold
+PHYB	3702.P14713	InterPro	IPR016132	Phytochrome chromophore attachment domain
+PHYB	3702.P14713	InterPro	IPR029016	GAF-like domain superfamily
+PHYB	3702.P14713	InterPro	IPR035965	PAS domain superfamily
+PHYB	3702.P14713	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+PHYB	3702.P14713	InterPro	IPR043150	Phytochrome, PHY domain superfamily
+PHYB	3702.P14713	InterPro	IPR044767	Phytochrome A/B/C/D/E-like, histidine-kinase-related domain
+PHYB	3702.P14713	SMART	SM00065	Domain present in phytochromes and cGMP-specific phosphodiesterases.
+PHYB	3702.P14713	SMART	SM00091	PAS domain
+PHYB	3702.P14713	SMART	SM00387	Histidine kinase-like ATPases
+PHYB	3702.P14713	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+PRN1	3702.Q9LX49	GO Process	GO:0007154	Cell communication
+PRN1	3702.Q9LX49	GO Process	GO:0007165	Signal transduction
+PRN1	3702.Q9LX49	GO Process	GO:0009314	Response to radiation
+PRN1	3702.Q9LX49	GO Process	GO:0009416	Response to light stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0009628	Response to abiotic stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0009637	Response to blue light
+PRN1	3702.Q9LX49	GO Process	GO:0009719	Response to endogenous stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0009725	Response to hormone
+PRN1	3702.Q9LX49	GO Process	GO:0009737	Response to abscisic acid
+PRN1	3702.Q9LX49	GO Process	GO:0009738	Abscisic acid-activated signaling pathway
+PRN1	3702.Q9LX49	GO Process	GO:0009755	Hormone-mediated signaling pathway
+PRN1	3702.Q9LX49	GO Process	GO:0009785	Blue light signaling pathway
+PRN1	3702.Q9LX49	GO Process	GO:0009987	Cellular process
+PRN1	3702.Q9LX49	GO Process	GO:0023052	Signaling
+PRN1	3702.Q9LX49	GO Process	GO:0030522	Intracellular receptor signaling pathway
+PRN1	3702.Q9LX49	GO Process	GO:0032870	Cellular response to hormone stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0033993	Response to lipid
+PRN1	3702.Q9LX49	GO Process	GO:0035556	Intracellular signal transduction
+PRN1	3702.Q9LX49	GO Process	GO:0042221	Response to chemical
+PRN1	3702.Q9LX49	GO Process	GO:0050789	Regulation of biological process
+PRN1	3702.Q9LX49	GO Process	GO:0050794	Regulation of cellular process
+PRN1	3702.Q9LX49	GO Process	GO:0050896	Response to stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0051716	Cellular response to stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0065007	Biological regulation
+PRN1	3702.Q9LX49	GO Process	GO:0070887	Cellular response to chemical stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0071214	Cellular response to abiotic stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0071215	Cellular response to abscisic acid stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0071396	Cellular response to lipid
+PRN1	3702.Q9LX49	GO Process	GO:0071478	Cellular response to radiation
+PRN1	3702.Q9LX49	GO Process	GO:0071482	Cellular response to light stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0071483	Cellular response to blue light
+PRN1	3702.Q9LX49	GO Process	GO:0071495	Cellular response to endogenous stimulus
+PRN1	3702.Q9LX49	GO Process	GO:0097305	Response to alcohol
+PRN1	3702.Q9LX49	GO Process	GO:0097306	Cellular response to alcohol
+PRN1	3702.Q9LX49	GO Process	GO:0104004	Cellular response to environmental stimulus
+PRN1	3702.Q9LX49	GO Process	GO:1901700	Response to oxygen-containing compound
+PRN1	3702.Q9LX49	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+PRN1	3702.Q9LX49	GO Function	GO:0005488	Binding
+PRN1	3702.Q9LX49	GO Function	GO:0005515	Protein binding
+PRN1	3702.Q9LX49	GO Component	GO:0005622	Intracellular anatomical structure
+PRN1	3702.Q9LX49	GO Component	GO:0005634	Nucleus
+PRN1	3702.Q9LX49	GO Component	GO:0043226	Organelle
+PRN1	3702.Q9LX49	GO Component	GO:0043227	Membrane-bounded organelle
+PRN1	3702.Q9LX49	GO Component	GO:0043229	Intracellular organelle
+PRN1	3702.Q9LX49	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+PRN1	3702.Q9LX49	GO Component	GO:0110165	Cellular anatomical structure
+PRN1	3702.Q9LX49	STRING clusters	CL:33001	Mostly uncharacterized, incl. G protein-coupled receptor signaling pathway, and L-methionine salvage from methylthioadenosine
+PRN1	3702.Q9LX49	STRING clusters	CL:33173	Mixed, incl. G protein-coupled receptor signaling pathway, and L-methionine salvage from methylthioadenosine
+PRN1	3702.Q9LX49	STRING clusters	CL:33245	Mixed, incl. L-methionine salvage from methylthioadenosine, and Pirin
+PRN1	3702.Q9LX49	STRING clusters	CL:33281	Mixed, incl. Pirin, and YchF, N-terminal
+PRN1	3702.Q9LX49	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+PRN1	3702.Q9LX49	UniProt Keywords	KW-0007	Acetylation
+PRN1	3702.Q9LX49	UniProt Keywords	KW-0539	Nucleus
+PRN1	3702.Q9LX49	UniProt Keywords	KW-0938	Abscisic acid signaling pathway
+PRN1	3702.Q9LX49	Pfam	PF02678	Pirin
+PRN1	3702.Q9LX49	Pfam	PF05726	Pirin C-terminal cupin domain
+PRN1	3702.Q9LX49	InterPro	IPR003829	Pirin, N-terminal domain
+PRN1	3702.Q9LX49	InterPro	IPR008778	Pirin, C-terminal domain
+PRN1	3702.Q9LX49	InterPro	IPR011051	RmlC-like cupin domain superfamily
+PRN1	3702.Q9LX49	InterPro	IPR012093	Pirin
+PRN1	3702.Q9LX49	InterPro	IPR014710	RmlC-like jelly roll fold
+T20H2.11	3702.Q9LNT6	GO Function	GO:0003824	Catalytic activity
+T20H2.11	3702.Q9LNT6	GO Function	GO:0016874	Ligase activity
+T20H2.11	3702.Q9LNT6	STRING clusters	CL:33001	Mostly uncharacterized, incl. G protein-coupled receptor signaling pathway, and L-methionine salvage from methylthioadenosine
+T20H2.11	3702.Q9LNT6	STRING clusters	CL:33173	Mixed, incl. G protein-coupled receptor signaling pathway, and L-methionine salvage from methylthioadenosine
+T20H2.11	3702.Q9LNT6	STRING clusters	CL:33245	Mixed, incl. L-methionine salvage from methylthioadenosine, and Pirin
+T20H2.11	3702.Q9LNT6	STRING clusters	CL:33281	Mixed, incl. Pirin, and YchF, N-terminal
+T20H2.11	3702.Q9LNT6	STRING clusters	CL:33283	Mixed, incl. RGS1-HXK1-interacting protein, and Transcription factor VOZ1/VOZ2
+T20H2.11	3702.Q9LNT6	Reactome	MAP-162582	Signal Transduction
+T20H2.11	3702.Q9LNT6	Reactome	MAP-195721	Signaling by WNT
+T20H2.11	3702.Q9LNT6	Reactome	MAP-3238698	WNT ligand biogenesis and trafficking
+T20H2.11	3702.Q9LNT6	COMPARTMENTS	GOCC:0012505	Endomembrane system
+T20H2.11	3702.Q9LNT6	COMPARTMENTS	GOCC:0016020	Membrane
+T20H2.11	3702.Q9LNT6	COMPARTMENTS	GOCC:0030904	Retromer complex
+T20H2.11	3702.Q9LNT6	COMPARTMENTS	GOCC:0030906	Retromer, cargo-selective complex
+T20H2.11	3702.Q9LNT6	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+T20H2.11	3702.Q9LNT6	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+T20H2.11	3702.Q9LNT6	UniProt Keywords	KW-0436	Ligase
+T26J12.8	3702.Q84JS3	STRING clusters	CL:33304	Mostly uncharacterized, incl. WW domain, and Aluminum-activated malate transporter
+T26J12.8	3702.Q84JS3	STRING clusters	CL:33305	Uncharacterized
+T26J12.8	3702.Q84JS3	STRING clusters	CL:33419	Mostly uncharacterized, incl. BURP domain-containing protein, and Transcription factor VOZ1/VOZ2
+T26J12.8	3702.Q84JS3	STRING clusters	CL:33421	Mixed, incl. Transcription factor VOZ1/VOZ2, and Domain of unknown function DUF7054
+T26J12.8	3702.Q84JS3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+T26J12.8	3702.Q84JS3	COMPARTMENTS	GOCC:0043226	Organelle
+T26J12.8	3702.Q84JS3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+T26J12.8	3702.Q84JS3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+T26J12.8	3702.Q84JS3	InterPro	IPR040358	Uncharacterized protein At4g22758-like
+T26J12.8	3702.Q84JS3	InterPro	IPR055482	Domain of unknown function DUF7054
+VOZ2	3702.Q9SLB9	GO Process	GO:0003006	Developmental process involved in reproduction
+VOZ2	3702.Q9SLB9	GO Process	GO:0006355	Regulation of DNA-templated transcription
+VOZ2	3702.Q9SLB9	GO Process	GO:0006950	Response to stress
+VOZ2	3702.Q9SLB9	GO Process	GO:0006970	Response to osmotic stress
+VOZ2	3702.Q9SLB9	GO Process	GO:0007154	Cell communication
+VOZ2	3702.Q9SLB9	GO Process	GO:0007165	Signal transduction
+VOZ2	3702.Q9SLB9	GO Process	GO:0007275	Multicellular organism development
+VOZ2	3702.Q9SLB9	GO Process	GO:0007602	Phototransduction
+VOZ2	3702.Q9SLB9	GO Process	GO:0009314	Response to radiation
+VOZ2	3702.Q9SLB9	GO Process	GO:0009416	Response to light stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0009581	Detection of external stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0009582	Detection of abiotic stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0009583	Detection of light stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0009585	Red, far-red light phototransduction
+VOZ2	3702.Q9SLB9	GO Process	GO:0009605	Response to external stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0009628	Response to abiotic stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0009639	Response to red or far red light
+VOZ2	3702.Q9SLB9	GO Process	GO:0009648	Photoperiodism
+VOZ2	3702.Q9SLB9	GO Process	GO:0009651	Response to salt stress
+VOZ2	3702.Q9SLB9	GO Process	GO:0009791	Post-embryonic development
+VOZ2	3702.Q9SLB9	GO Process	GO:0009889	Regulation of biosynthetic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0009891	Positive regulation of biosynthetic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0009893	Positive regulation of metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0009987	Cellular process
+VOZ2	3702.Q9SLB9	GO Process	GO:0010017	Red or far-red light signaling pathway
+VOZ2	3702.Q9SLB9	GO Process	GO:0010228	Vegetative to reproductive phase transition of meristem
+VOZ2	3702.Q9SLB9	GO Process	GO:0010468	Regulation of gene expression
+VOZ2	3702.Q9SLB9	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0019222	Regulation of metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0022414	Reproductive process
+VOZ2	3702.Q9SLB9	GO Process	GO:0023052	Signaling
+VOZ2	3702.Q9SLB9	GO Process	GO:0032501	Multicellular organismal process
+VOZ2	3702.Q9SLB9	GO Process	GO:0032502	Developmental process
+VOZ2	3702.Q9SLB9	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+VOZ2	3702.Q9SLB9	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0048518	Positive regulation of biological process
+VOZ2	3702.Q9SLB9	GO Process	GO:0048522	Positive regulation of cellular process
+VOZ2	3702.Q9SLB9	GO Process	GO:0048571	Long-day photoperiodism
+VOZ2	3702.Q9SLB9	GO Process	GO:0048573	Photoperiodism, flowering
+VOZ2	3702.Q9SLB9	GO Process	GO:0048574	Long-day photoperiodism, flowering
+VOZ2	3702.Q9SLB9	GO Process	GO:0048578	Positive regulation of long-day photoperiodism, flowering
+VOZ2	3702.Q9SLB9	GO Process	GO:0048580	Regulation of post-embryonic development
+VOZ2	3702.Q9SLB9	GO Process	GO:0048582	Positive regulation of post-embryonic development
+VOZ2	3702.Q9SLB9	GO Process	GO:0048583	Regulation of response to stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0048584	Positive regulation of response to stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0048586	Regulation of long-day photoperiodism, flowering
+VOZ2	3702.Q9SLB9	GO Process	GO:0048608	Reproductive structure development
+VOZ2	3702.Q9SLB9	GO Process	GO:0048731	System development
+VOZ2	3702.Q9SLB9	GO Process	GO:0048856	Anatomical structure development
+VOZ2	3702.Q9SLB9	GO Process	GO:0050789	Regulation of biological process
+VOZ2	3702.Q9SLB9	GO Process	GO:0050793	Regulation of developmental process
+VOZ2	3702.Q9SLB9	GO Process	GO:0050794	Regulation of cellular process
+VOZ2	3702.Q9SLB9	GO Process	GO:0050896	Response to stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0051094	Positive regulation of developmental process
+VOZ2	3702.Q9SLB9	GO Process	GO:0051239	Regulation of multicellular organismal process
+VOZ2	3702.Q9SLB9	GO Process	GO:0051240	Positive regulation of multicellular organismal process
+VOZ2	3702.Q9SLB9	GO Process	GO:0051252	Regulation of RNA metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0051606	Detection of stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0051716	Cellular response to stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0061458	Reproductive system development
+VOZ2	3702.Q9SLB9	GO Process	GO:0065007	Biological regulation
+VOZ2	3702.Q9SLB9	GO Process	GO:0071214	Cellular response to abiotic stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0071478	Cellular response to radiation
+VOZ2	3702.Q9SLB9	GO Process	GO:0071482	Cellular response to light stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:0071489	Cellular response to red or far red light
+VOZ2	3702.Q9SLB9	GO Process	GO:0080090	Regulation of primary metabolic process
+VOZ2	3702.Q9SLB9	GO Process	GO:0104004	Cellular response to environmental stimulus
+VOZ2	3702.Q9SLB9	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+VOZ2	3702.Q9SLB9	GO Process	GO:2000026	Regulation of multicellular organismal development
+VOZ2	3702.Q9SLB9	GO Process	GO:2000028	Regulation of photoperiodism, flowering
+VOZ2	3702.Q9SLB9	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+VOZ2	3702.Q9SLB9	GO Function	GO:0003676	Nucleic acid binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0003677	DNA binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0005488	Binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0005515	Protein binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0008270	Zinc ion binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0036094	Small molecule binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0043167	Ion binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0043169	Cation binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0043565	Sequence-specific DNA binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0044877	Protein-containing complex binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0046872	Metal ion binding
+VOZ2	3702.Q9SLB9	GO Function	GO:0046914	Transition metal ion binding
+VOZ2	3702.Q9SLB9	GO Function	GO:1905761	SCF ubiquitin ligase complex binding
+VOZ2	3702.Q9SLB9	GO Component	GO:0005622	Intracellular anatomical structure
+VOZ2	3702.Q9SLB9	GO Component	GO:0005634	Nucleus
+VOZ2	3702.Q9SLB9	GO Component	GO:0005737	Cytoplasm
+VOZ2	3702.Q9SLB9	GO Component	GO:0043226	Organelle
+VOZ2	3702.Q9SLB9	GO Component	GO:0043227	Membrane-bounded organelle
+VOZ2	3702.Q9SLB9	GO Component	GO:0043229	Intracellular organelle
+VOZ2	3702.Q9SLB9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+VOZ2	3702.Q9SLB9	GO Component	GO:0110165	Cellular anatomical structure
+VOZ2	3702.Q9SLB9	STRING clusters	CL:33304	Mostly uncharacterized, incl. WW domain, and Aluminum-activated malate transporter
+VOZ2	3702.Q9SLB9	STRING clusters	CL:33305	Uncharacterized
+VOZ2	3702.Q9SLB9	STRING clusters	CL:33419	Mostly uncharacterized, incl. BURP domain-containing protein, and Transcription factor VOZ1/VOZ2
+VOZ2	3702.Q9SLB9	STRING clusters	CL:33421	Mixed, incl. Transcription factor VOZ1/VOZ2, and Domain of unknown function DUF7054
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0005634	Nucleus
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0005737	Cytoplasm
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0043226	Organelle
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+VOZ2	3702.Q9SLB9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0010	Activator
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0238	DNA-binding
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0479	Metal-binding
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0539	Nucleus
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0597	Phosphoprotein
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0607	Phytochrome signaling pathway
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0804	Transcription
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0805	Transcription regulation
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0862	Zinc
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0863	Zinc-finger
+VOZ2	3702.Q9SLB9	UniProt Keywords	KW-0963	Cytoplasm
+VOZ2	3702.Q9SLB9	InterPro	IPR039277	Transcription factor VOZ1/VOZ2

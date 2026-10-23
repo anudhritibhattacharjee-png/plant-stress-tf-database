@@ -1,0 +1,165 @@
+#node	identifier	category	term ID	term description
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0006355	Regulation of DNA-templated transcription
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0009889	Regulation of biosynthetic process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0010468	Regulation of gene expression
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0019222	Regulation of metabolic process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0050789	Regulation of biological process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0050794	Regulation of cellular process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0051252	Regulation of RNA metabolic process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0065007	Biological regulation
+DVH24_007673	3750.A0A498HM02	GO Process	GO:0080090	Regulation of primary metabolic process
+DVH24_007673	3750.A0A498HM02	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0000976	Transcription cis-regulatory region binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0003676	Nucleic acid binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0003677	DNA binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0003690	Double-stranded DNA binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0003700	DNA-binding transcription factor activity
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0005488	Binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0005515	Protein binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0043565	Sequence-specific DNA binding
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0046983	Protein dimerization activity
+DVH24_007673	3750.A0A498HM02	GO Function	GO:0140110	Transcription regulator activity
+DVH24_007673	3750.A0A498HM02	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+DVH24_007673	3750.A0A498HM02	GO Component	GO:0005622	Intracellular anatomical structure
+DVH24_007673	3750.A0A498HM02	GO Component	GO:0005634	Nucleus
+DVH24_007673	3750.A0A498HM02	GO Component	GO:0043226	Organelle
+DVH24_007673	3750.A0A498HM02	GO Component	GO:0043227	Membrane-bounded organelle
+DVH24_007673	3750.A0A498HM02	GO Component	GO:0043229	Intracellular organelle
+DVH24_007673	3750.A0A498HM02	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+DVH24_007673	3750.A0A498HM02	GO Component	GO:0110165	Cellular anatomical structure
+DVH24_007673	3750.A0A498HM02	STRING clusters	CL:55716	Mixed, incl. Peptidase S8, subtilisin-related, and E3 ubiquitin-protein ligase RFI2
+DVH24_007673	3750.A0A498HM02	STRING clusters	CL:55938	Mixed, incl. E3 ubiquitin-protein ligase RFI2, and Cellular response to UV-C
+DVH24_007673	3750.A0A498HM02	STRING clusters	CL:55940	E3 ubiquitin-protein ligase RFI2, and Cellular response to UV-C
+DVH24_007673	3750.A0A498HM02	STRING clusters	CL:55941	E3 ubiquitin-protein ligase RFI2, and Probable zinc-ribbon domain, plant
+DVH24_007673	3750.A0A498HM02	STRING clusters	CL:55944	E3 ubiquitin-protein ligase RFI2, and Enhanced disease resistance 4-like, N-terminal domain
+DVH24_007673	3750.A0A498HM02	STRING clusters	CL:55948	E3 ubiquitin-protein ligase RFI2, and Enhanced disease resistance 4-like, N-terminal domain
+DVH24_007673	3750.A0A498HM02	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+DVH24_007673	3750.A0A498HM02	COMPARTMENTS	GOCC:0005694	Chromosome
+DVH24_007673	3750.A0A498HM02	COMPARTMENTS	GOCC:0043226	Organelle
+DVH24_007673	3750.A0A498HM02	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+DVH24_007673	3750.A0A498HM02	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+DVH24_007673	3750.A0A498HM02	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+DVH24_007673	3750.A0A498HM02	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+DVH24_007673	3750.A0A498HM02	UniProt Keywords	KW-0539	Nucleus
+DVH24_007673	3750.A0A498HM02	UniProt Keywords	KW-0804	Transcription
+DVH24_007673	3750.A0A498HM02	UniProt Keywords	KW-0805	Transcription regulation
+DVH24_007673	3750.A0A498HM02	InterPro	IPR011598	Myc-type, basic helix-loop-helix (bHLH) domain
+DVH24_007673	3750.A0A498HM02	InterPro	IPR036638	Helix-loop-helix DNA-binding domain superfamily
+DVH24_007673	3750.A0A498HM02	InterPro	IPR045239	Transcription factor bHLH95-like, basic helix-loop-helix domain
+DVH24_007673	3750.A0A498HM02	InterPro	IPR045843	Transcription factor IND-like
+DVH24_007673	3750.A0A498HM02	SMART	SM00353	Helix loop helix domain
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0000160	Phosphorelay signal transduction system
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0006355	Regulation of DNA-templated transcription
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0006950	Response to stress
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0007154	Cell communication
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0007165	Signal transduction
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0009719	Response to endogenous stimulus
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0009723	Response to ethylene
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0009725	Response to hormone
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0009755	Hormone-mediated signaling pathway
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0009873	Ethylene-activated signaling pathway
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0009889	Regulation of biosynthetic process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0009987	Cellular process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0010468	Regulation of gene expression
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0019222	Regulation of metabolic process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0023052	Signaling
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0032870	Cellular response to hormone stimulus
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0035556	Intracellular signal transduction
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0042221	Response to chemical
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0050789	Regulation of biological process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0050794	Regulation of cellular process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0050896	Response to stimulus
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0051252	Regulation of RNA metabolic process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0051716	Cellular response to stimulus
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0065007	Biological regulation
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0070887	Cellular response to chemical stimulus
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0071369	Cellular response to ethylene stimulus
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0071495	Cellular response to endogenous stimulus
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:0080090	Regulation of primary metabolic process
+DVH24_024541	3750.A0A498JIZ7	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0000976	Transcription cis-regulatory region binding
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0003676	Nucleic acid binding
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0003677	DNA binding
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0003690	Double-stranded DNA binding
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0003700	DNA-binding transcription factor activity
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0005488	Binding
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0043565	Sequence-specific DNA binding
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:0140110	Transcription regulator activity
+DVH24_024541	3750.A0A498JIZ7	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+DVH24_024541	3750.A0A498JIZ7	GO Component	GO:0005622	Intracellular anatomical structure
+DVH24_024541	3750.A0A498JIZ7	GO Component	GO:0005634	Nucleus
+DVH24_024541	3750.A0A498JIZ7	GO Component	GO:0043226	Organelle
+DVH24_024541	3750.A0A498JIZ7	GO Component	GO:0043227	Membrane-bounded organelle
+DVH24_024541	3750.A0A498JIZ7	GO Component	GO:0043229	Intracellular organelle
+DVH24_024541	3750.A0A498JIZ7	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+DVH24_024541	3750.A0A498JIZ7	GO Component	GO:0110165	Cellular anatomical structure
+DVH24_024541	3750.A0A498JIZ7	STRING clusters	CL:50272	Mixed, incl. RING-H2 finger protein ATL1/ATL16-like, and Ring finger
+DVH24_024541	3750.A0A498JIZ7	STRING clusters	CL:50273	Mixed, incl. RING-H2 finger protein ATL1/ATL16-like, and E3 ubiquitin-protein ligase RNF126-like, zinc-ribbon
+DVH24_024541	3750.A0A498JIZ7	STRING clusters	CL:50383	Mixed, incl. E3 ubiquitin-protein ligase RNF126-like, zinc-ribbon, and Calcium-binding EGF-like domain
+DVH24_024541	3750.A0A498JIZ7	STRING clusters	CL:50385	RING-H2 finger protein ATL1/ATL16-like, and No apical meristem (NAM) protein
+DVH24_024541	3750.A0A498JIZ7	KEGG	mdm04626	Plant-pathogen interaction
+DVH24_024541	3750.A0A498JIZ7	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+DVH24_024541	3750.A0A498JIZ7	COMPARTMENTS	GOCC:0005634	Nucleus
+DVH24_024541	3750.A0A498JIZ7	COMPARTMENTS	GOCC:0043226	Organelle
+DVH24_024541	3750.A0A498JIZ7	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+DVH24_024541	3750.A0A498JIZ7	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+DVH24_024541	3750.A0A498JIZ7	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+DVH24_024541	3750.A0A498JIZ7	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0006355	Regulation of DNA-templated transcription
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0009889	Regulation of biosynthetic process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0010468	Regulation of gene expression
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0019222	Regulation of metabolic process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0050789	Regulation of biological process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0050794	Regulation of cellular process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0051252	Regulation of RNA metabolic process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0065007	Biological regulation
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:0080090	Regulation of primary metabolic process
+DVH24_030584	3750.A0A498K1B1	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0003676	Nucleic acid binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0003677	DNA binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0003700	DNA-binding transcription factor activity
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0005488	Binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0008270	Zinc ion binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0036094	Small molecule binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0043167	Ion binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0043169	Cation binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0046872	Metal ion binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0046914	Transition metal ion binding
+DVH24_030584	3750.A0A498K1B1	GO Function	GO:0140110	Transcription regulator activity
+DVH24_030584	3750.A0A498K1B1	GO Component	GO:0005622	Intracellular anatomical structure
+DVH24_030584	3750.A0A498K1B1	GO Component	GO:0005634	Nucleus
+DVH24_030584	3750.A0A498K1B1	GO Component	GO:0043226	Organelle
+DVH24_030584	3750.A0A498K1B1	GO Component	GO:0043227	Membrane-bounded organelle
+DVH24_030584	3750.A0A498K1B1	GO Component	GO:0043229	Intracellular organelle
+DVH24_030584	3750.A0A498K1B1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+DVH24_030584	3750.A0A498K1B1	GO Component	GO:0110165	Cellular anatomical structure
+DVH24_030584	3750.A0A498K1B1	STRING clusters	CL:59465	Mostly uncharacterized, incl. LIM domain, and Regulation of TP53 Degradation
+DVH24_030584	3750.A0A498K1B1	STRING clusters	CL:59467	Mostly uncharacterized, incl. LIM domain, and ZCF37
+DVH24_030584	3750.A0A498K1B1	STRING clusters	CL:59469	Mixed, incl. LIM domain, and ZCF37
+DVH24_030584	3750.A0A498K1B1	STRING clusters	CL:59473	Mixed, incl. LIM domain, and ZCF37
+DVH24_030584	3750.A0A498K1B1	STRING clusters	CL:59530	ZCF37, and Basic helix-loop-helix leucine zipper transcription factor
+DVH24_030584	3750.A0A498K1B1	UniProt Keywords	KW-0238	DNA-binding
+DVH24_030584	3750.A0A498K1B1	UniProt Keywords	KW-0479	Metal-binding
+DVH24_030584	3750.A0A498K1B1	UniProt Keywords	KW-0539	Nucleus
+DVH24_030584	3750.A0A498K1B1	UniProt Keywords	KW-0804	Transcription
+DVH24_030584	3750.A0A498K1B1	UniProt Keywords	KW-0805	Transcription regulation
+DVH24_030584	3750.A0A498K1B1	UniProt Keywords	KW-0862	Zinc
+DVH24_030584	3750.A0A498K1B1	UniProt Keywords	KW-0863	Zinc-finger
+DVH24_030584	3750.A0A498K1B1	InterPro	IPR003851	Zinc finger, Dof-type
+DVH24_030584	3750.A0A498K1B1	InterPro	IPR045174	Dof zinc finger protein

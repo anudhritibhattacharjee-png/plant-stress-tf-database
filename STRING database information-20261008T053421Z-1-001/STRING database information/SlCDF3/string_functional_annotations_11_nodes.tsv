@@ -1,0 +1,804 @@
+#node	identifier	category	term ID	term description
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0006508	Proteolysis
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0008152	Metabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0009056	Catabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0009057	Macromolecule catabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0009987	Cellular process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0030163	Protein catabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Process	GO:0051603	Proteolysis involved in protein catabolic process
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Function	GO:0003824	Catalytic activity
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Function	GO:0004175	Endopeptidase activity
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Function	GO:0004197	Cysteine-type endopeptidase activity
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Function	GO:0008233	Peptidase activity
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Function	GO:0008234	Cysteine-type peptidase activity
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Function	GO:0016787	Hydrolase activity
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0000323	Lytic vacuole
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0005576	Extracellular region
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0005615	Extracellular space
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0005737	Cytoplasm
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0005764	Lysosome
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0005773	Vacuole
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0043226	Organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42930	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42931	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42932	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42934	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42936	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42940	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42945	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42950	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42955	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42960	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42965	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42969	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42972	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42976	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42977	Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42978	Peptidase C1A, and Peptidase C13 family
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42980	Peptidase C1A, and Serpin, conserved site
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42984	Granulin, and Peptidase C1A
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42987	Peptidase C1A
+A0A3Q7ETF3	4081.A0A3Q7ETF3	STRING clusters	CL:42992	Granulin, and Cysteine peptidase, asparagine active site
+A0A3Q7ETF3	4081.A0A3Q7ETF3	KEGG	sly04142	Lysosome
+A0A3Q7ETF3	4081.A0A3Q7ETF3	KEGG	sly04626	Plant-pathogen interaction
+A0A3Q7ETF3	4081.A0A3Q7ETF3	Reactome	MAP-1280218	Adaptive Immune System
+A0A3Q7ETF3	4081.A0A3Q7ETF3	Reactome	MAP-168256	Immune System
+A0A3Q7ETF3	4081.A0A3Q7ETF3	Reactome	MAP-2132295	MHC class II antigen presentation
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0000323	Lytic vacuole
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0005773	Vacuole
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7ETF3	4081.A0A3Q7ETF3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7ETF3	4081.A0A3Q7ETF3	UniProt Keywords	KW-0325	Glycoprotein
+A0A3Q7ETF3	4081.A0A3Q7ETF3	UniProt Keywords	KW-0378	Hydrolase
+A0A3Q7ETF3	4081.A0A3Q7ETF3	UniProt Keywords	KW-0645	Protease
+A0A3Q7ETF3	4081.A0A3Q7ETF3	UniProt Keywords	KW-0732	Signal
+A0A3Q7ETF3	4081.A0A3Q7ETF3	UniProt Keywords	KW-0788	Thiol protease
+A0A3Q7ETF3	4081.A0A3Q7ETF3	UniProt Keywords	KW-0865	Zymogen
+A0A3Q7ETF3	4081.A0A3Q7ETF3	UniProt Keywords	KW-1015	Disulfide bond
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR000169	Cysteine peptidase, cysteine active site
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR000668	Peptidase C1A, papain C-terminal
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR013128	Peptidase C1A
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR013201	Cathepsin propeptide inhibitor domain (I29)
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR025660	Cysteine peptidase, histidine active site
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR025661	Cysteine peptidase, asparagine active site
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR038765	Papain-like cysteine peptidase superfamily
+A0A3Q7ETF3	4081.A0A3Q7ETF3	InterPro	IPR039417	Papain-like cysteine endopeptidase
+A0A3Q7ETF3	4081.A0A3Q7ETF3	SMART	SM00645	Papain family cysteine protease
+A0A3Q7ETF3	4081.A0A3Q7ETF3	SMART	SM00848	Cathepsin propeptide inhibitor domain (I29)
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0006412	Translation
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0008152	Metabolic process
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0009987	Cellular process
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0010467	Gene expression
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0032543	Mitochondrial translation
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Process	GO:0140053	Mitochondrial gene expression
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Function	GO:0003735	Structural constituent of ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Function	GO:0005198	Structural molecule activity
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0000313	Organellar ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0000315	Organellar large ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0005737	Cytoplasm
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0005739	Mitochondrion
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0005759	Mitochondrial matrix
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0005761	Mitochondrial ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0005840	Ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0015934	Large ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0043226	Organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0043233	Organelle lumen
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0044391	Ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0098798	Mitochondrial protein-containing complex
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7FSY3	4081.A0A3Q7FSY3	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1294	Structural constituent of ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1296	Structural constituent of ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1298	Structural constituent of ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1299	rRNA binding, and Organellar ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1302	rRNA binding, and Organellar ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1305	rRNA binding, and Organellar ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1309	rRNA binding, and Organellar ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1312	Mixed, incl. Organellar large ribosomal subunit, and Large ribosomal subunit protein bL12
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1316	Organellar large ribosomal subunit, and Ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1318	Organellar large ribosomal subunit, and rRNA binding
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1321	Mixed, incl. Organellar large ribosomal subunit, and Ribosomal protein TL5, C-terminal domain
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1360	Mixed, incl. Large ribosomal subunit protein uL11, bacterial-type, and Ribosomal prokaryotic L21 protein
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1363	Mixed, incl. Ribosomal prokaryotic L21 protein, and Large ribosomal subunit protein bL17, conserved site
+A0A3Q7FSY3	4081.A0A3Q7FSY3	STRING clusters	CL:1365	Mixed, incl. Large ribosomal subunit protein bL17, conserved site, and Ribosomal L29 protein
+A0A3Q7FSY3	4081.A0A3Q7FSY3	KEGG	sly03010	Ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	Reactome	MAP-392499	Metabolism of proteins
+A0A3Q7FSY3	4081.A0A3Q7FSY3	Reactome	MAP-72766	Translation
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0000313	Organellar ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0000315	Organellar large ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0005739	Mitochondrion
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0005759	Mitochondrial matrix
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0005761	Mitochondrial ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0005840	Ribosome
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0015934	Large ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0043233	Organelle lumen
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0044391	Ribosomal subunit
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7FSY3	4081.A0A3Q7FSY3	COMPARTMENTS	GOCC:1990904	Ribonucleoprotein complex
+A0A3Q7FSY3	4081.A0A3Q7FSY3	UniProt Keywords	KW-0496	Mitochondrion
+A0A3Q7FSY3	4081.A0A3Q7FSY3	UniProt Keywords	KW-0687	Ribonucleoprotein
+A0A3Q7FSY3	4081.A0A3Q7FSY3	UniProt Keywords	KW-0689	Ribosomal protein
+A0A3Q7FSY3	4081.A0A3Q7FSY3	Pfam	PF00831	Ribosomal L29 protein
+A0A3Q7FSY3	4081.A0A3Q7FSY3	InterPro	IPR001854	Large ribosomal subunit protein uL29
+A0A3Q7FSY3	4081.A0A3Q7FSY3	InterPro	IPR010729	Large ribosomal subunit protein uL29m, mitochondrial
+A0A3Q7FSY3	4081.A0A3Q7FSY3	InterPro	IPR036049	Large ribosomal subunit protein uL29 superfamily
+A0A3Q7FSY3	4081.A0A3Q7FSY3	InterPro	IPR038340	MRP-L47 superfamily, mitochondrial
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0006412	Translation
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0008152	Metabolic process
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0009987	Cellular process
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0010467	Gene expression
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0032543	Mitochondrial translation
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7G010	4081.A0A3Q7G010	GO Process	GO:0140053	Mitochondrial gene expression
+A0A3Q7G010	4081.A0A3Q7G010	GO Function	GO:0003735	Structural constituent of ribosome
+A0A3Q7G010	4081.A0A3Q7G010	GO Function	GO:0005198	Structural molecule activity
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0000313	Organellar ribosome
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0000315	Organellar large ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0005737	Cytoplasm
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0005739	Mitochondrion
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0005759	Mitochondrial matrix
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0005761	Mitochondrial ribosome
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0005840	Ribosome
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0015934	Large ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0043226	Organelle
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0043233	Organelle lumen
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0044391	Ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0098798	Mitochondrial protein-containing complex
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7G010	4081.A0A3Q7G010	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1294	Structural constituent of ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1296	Structural constituent of ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1298	Structural constituent of ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1299	rRNA binding, and Organellar ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1302	rRNA binding, and Organellar ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1305	rRNA binding, and Organellar ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1309	rRNA binding, and Organellar ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1312	Mixed, incl. Organellar large ribosomal subunit, and Large ribosomal subunit protein bL12
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1316	Organellar large ribosomal subunit, and Ribosome
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1318	Organellar large ribosomal subunit, and rRNA binding
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1321	Mixed, incl. Organellar large ribosomal subunit, and Ribosomal protein TL5, C-terminal domain
+A0A3Q7G010	4081.A0A3Q7G010	STRING clusters	CL:1360	Mixed, incl. Large ribosomal subunit protein uL11, bacterial-type, and Ribosomal prokaryotic L21 protein
+A0A3Q7G010	4081.A0A3Q7G010	KEGG	sly03010	Ribosome
+A0A3Q7G010	4081.A0A3Q7G010	Reactome	MAP-392499	Metabolism of proteins
+A0A3Q7G010	4081.A0A3Q7G010	Reactome	MAP-72766	Translation
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0000313	Organellar ribosome
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0000315	Organellar large ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0005739	Mitochondrion
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0005759	Mitochondrial matrix
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0005761	Mitochondrial ribosome
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0005840	Ribosome
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0015934	Large ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0043233	Organelle lumen
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0044391	Ribosomal subunit
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7G010	4081.A0A3Q7G010	COMPARTMENTS	GOCC:1990904	Ribonucleoprotein complex
+A0A3Q7G010	4081.A0A3Q7G010	UniProt Keywords	KW-0496	Mitochondrion
+A0A3Q7G010	4081.A0A3Q7G010	UniProt Keywords	KW-0687	Ribonucleoprotein
+A0A3Q7G010	4081.A0A3Q7G010	UniProt Keywords	KW-0689	Ribosomal protein
+A0A3Q7G010	4081.A0A3Q7G010	InterPro	IPR007741	Ribosomal protein/NADH dehydrogenase domain
+A0A3Q7G010	4081.A0A3Q7G010	InterPro	IPR036249	Thioredoxin-like superfamily
+A0A3Q7G010	4081.A0A3Q7G010	InterPro	IPR039927	Large ribosomal subunit protein mL43
+A0A3Q7G010	4081.A0A3Q7G010	SMART	SM00916	Mitochondrial ribosomal protein L51 / S25 / CI-B8 domain
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0006412	Translation
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0008152	Metabolic process
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0009987	Cellular process
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0010467	Gene expression
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Function	GO:0003735	Structural constituent of ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Function	GO:0005198	Structural molecule activity
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0000313	Organellar ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0000315	Organellar large ribosomal subunit
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0005737	Cytoplasm
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0005739	Mitochondrion
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0005759	Mitochondrial matrix
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0005761	Mitochondrial ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0005840	Ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0015934	Large ribosomal subunit
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0043226	Organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0043233	Organelle lumen
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0044391	Ribosomal subunit
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0098798	Mitochondrial protein-containing complex
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7G8M0	4081.A0A3Q7G8M0	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1294	Structural constituent of ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1296	Structural constituent of ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1298	Structural constituent of ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1299	rRNA binding, and Organellar ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1302	rRNA binding, and Organellar ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1305	rRNA binding, and Organellar ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1309	rRNA binding, and Organellar ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1312	Mixed, incl. Organellar large ribosomal subunit, and Large ribosomal subunit protein bL12
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1316	Organellar large ribosomal subunit, and Ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1318	Organellar large ribosomal subunit, and rRNA binding
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1321	Mixed, incl. Organellar large ribosomal subunit, and Ribosomal protein TL5, C-terminal domain
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1360	Mixed, incl. Large ribosomal subunit protein uL11, bacterial-type, and Ribosomal prokaryotic L21 protein
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1363	Mixed, incl. Ribosomal prokaryotic L21 protein, and Large ribosomal subunit protein bL17, conserved site
+A0A3Q7G8M0	4081.A0A3Q7G8M0	STRING clusters	CL:1365	Mixed, incl. Large ribosomal subunit protein bL17, conserved site, and Ribosomal L29 protein
+A0A3Q7G8M0	4081.A0A3Q7G8M0	KEGG	sly03010	Ribosome
+A0A3Q7G8M0	4081.A0A3Q7G8M0	Reactome	MAP-392499	Metabolism of proteins
+A0A3Q7G8M0	4081.A0A3Q7G8M0	Reactome	MAP-72766	Translation
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0009536	Plastid
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7G8M0	4081.A0A3Q7G8M0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7G8M0	4081.A0A3Q7G8M0	UniProt Keywords	KW-0496	Mitochondrion
+A0A3Q7G8M0	4081.A0A3Q7G8M0	UniProt Keywords	KW-0687	Ribonucleoprotein
+A0A3Q7G8M0	4081.A0A3Q7G8M0	UniProt Keywords	KW-0689	Ribosomal protein
+A0A3Q7G8M0	4081.A0A3Q7G8M0	UniProt Keywords	KW-0809	Transit peptide
+A0A3Q7G8M0	4081.A0A3Q7G8M0	Pfam	PF09809	Mitochondrial ribosomal protein L27
+A0A3Q7G8M0	4081.A0A3Q7G8M0	InterPro	IPR019189	Large ribosomal subunit protein mL41
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0006508	Proteolysis
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0008152	Metabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0009056	Catabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0009057	Macromolecule catabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0009987	Cellular process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0030163	Protein catabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Process	GO:0051603	Proteolysis involved in protein catabolic process
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Function	GO:0003824	Catalytic activity
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Function	GO:0004175	Endopeptidase activity
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Function	GO:0004197	Cysteine-type endopeptidase activity
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Function	GO:0008233	Peptidase activity
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Function	GO:0008234	Cysteine-type peptidase activity
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Function	GO:0016787	Hydrolase activity
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0000323	Lytic vacuole
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0005576	Extracellular region
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0005615	Extracellular space
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0005737	Cytoplasm
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0005764	Lysosome
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0005773	Vacuole
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0043226	Organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42930	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42931	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42932	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42934	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42936	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42940	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42945	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42950	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42955	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42960	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42965	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42969	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42972	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42976	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42977	Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42978	Peptidase C1A, and Peptidase C13 family
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42980	Peptidase C1A, and Serpin, conserved site
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42984	Granulin, and Peptidase C1A
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42987	Peptidase C1A
+A0A3Q7GB74	4081.A0A3Q7GB74	STRING clusters	CL:42992	Granulin, and Cysteine peptidase, asparagine active site
+A0A3Q7GB74	4081.A0A3Q7GB74	KEGG	sly04142	Lysosome
+A0A3Q7GB74	4081.A0A3Q7GB74	KEGG	sly04626	Plant-pathogen interaction
+A0A3Q7GB74	4081.A0A3Q7GB74	Reactome	MAP-1280218	Adaptive Immune System
+A0A3Q7GB74	4081.A0A3Q7GB74	Reactome	MAP-168256	Immune System
+A0A3Q7GB74	4081.A0A3Q7GB74	Reactome	MAP-2132295	MHC class II antigen presentation
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0000323	Lytic vacuole
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0005773	Vacuole
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GB74	4081.A0A3Q7GB74	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7GB74	4081.A0A3Q7GB74	UniProt Keywords	KW-0325	Glycoprotein
+A0A3Q7GB74	4081.A0A3Q7GB74	UniProt Keywords	KW-0378	Hydrolase
+A0A3Q7GB74	4081.A0A3Q7GB74	UniProt Keywords	KW-0645	Protease
+A0A3Q7GB74	4081.A0A3Q7GB74	UniProt Keywords	KW-0732	Signal
+A0A3Q7GB74	4081.A0A3Q7GB74	UniProt Keywords	KW-0788	Thiol protease
+A0A3Q7GB74	4081.A0A3Q7GB74	UniProt Keywords	KW-0865	Zymogen
+A0A3Q7GB74	4081.A0A3Q7GB74	UniProt Keywords	KW-1015	Disulfide bond
+A0A3Q7GB74	4081.A0A3Q7GB74	InterPro	IPR000169	Cysteine peptidase, cysteine active site
+A0A3Q7GB74	4081.A0A3Q7GB74	InterPro	IPR000668	Peptidase C1A, papain C-terminal
+A0A3Q7GB74	4081.A0A3Q7GB74	InterPro	IPR013128	Peptidase C1A
+A0A3Q7GB74	4081.A0A3Q7GB74	InterPro	IPR013201	Cathepsin propeptide inhibitor domain (I29)
+A0A3Q7GB74	4081.A0A3Q7GB74	InterPro	IPR025661	Cysteine peptidase, asparagine active site
+A0A3Q7GB74	4081.A0A3Q7GB74	InterPro	IPR038765	Papain-like cysteine peptidase superfamily
+A0A3Q7GB74	4081.A0A3Q7GB74	InterPro	IPR039417	Papain-like cysteine endopeptidase
+A0A3Q7GB74	4081.A0A3Q7GB74	SMART	SM00645	Papain family cysteine protease
+A0A3Q7GB74	4081.A0A3Q7GB74	SMART	SM00848	Cathepsin propeptide inhibitor domain (I29)
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Process	GO:0009987	Cellular process
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Function	GO:0003735	Structural constituent of ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Function	GO:0005198	Structural molecule activity
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0000313	Organellar ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0000314	Organellar small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0005737	Cytoplasm
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0005739	Mitochondrion
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0005759	Mitochondrial matrix
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0005761	Mitochondrial ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0005763	Mitochondrial small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0005840	Ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0015935	Small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0043226	Organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0043233	Organelle lumen
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0044391	Ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0098798	Mitochondrial protein-containing complex
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7HXU8	4081.A0A3Q7HXU8	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7HXU8	4081.A0A3Q7HXU8	STRING clusters	CL:1294	Structural constituent of ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	STRING clusters	CL:1296	Structural constituent of ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	STRING clusters	CL:1298	Structural constituent of ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	STRING clusters	CL:1590	Organellar small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	STRING clusters	CL:1593	Organellar small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	STRING clusters	CL:1595	Organellar small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	KEGG	sly03010	Ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	Reactome	MAP-392499	Metabolism of proteins
+A0A3Q7HXU8	4081.A0A3Q7HXU8	Reactome	MAP-72766	Translation
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0000313	Organellar ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0000314	Organellar small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0005739	Mitochondrion
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0005759	Mitochondrial matrix
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0005761	Mitochondrial ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0005763	Mitochondrial small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0005840	Ribosome
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0015935	Small ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0043233	Organelle lumen
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0044391	Ribosomal subunit
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7HXU8	4081.A0A3Q7HXU8	COMPARTMENTS	GOCC:1990904	Ribonucleoprotein complex
+A0A3Q7HXU8	4081.A0A3Q7HXU8	UniProt Keywords	KW-0496	Mitochondrion
+A0A3Q7HXU8	4081.A0A3Q7HXU8	UniProt Keywords	KW-0687	Ribonucleoprotein
+A0A3Q7HXU8	4081.A0A3Q7HXU8	UniProt Keywords	KW-0689	Ribosomal protein
+A0A3Q7HXU8	4081.A0A3Q7HXU8	UniProt Keywords	KW-0809	Transit peptide
+A0A3Q7HXU8	4081.A0A3Q7HXU8	Pfam	PF10236	Mitochondrial ribosomal death-associated protein 3
+A0A3Q7HXU8	4081.A0A3Q7HXU8	InterPro	IPR019368	Small ribosomal subunit protein mS29
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0006412	Translation
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0008152	Metabolic process
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0009987	Cellular process
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0010467	Gene expression
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Function	GO:0003723	RNA binding
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Function	GO:0003735	Structural constituent of ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Function	GO:0005198	Structural molecule activity
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Function	GO:0005488	Binding
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Function	GO:0019843	rRNA binding
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0000313	Organellar ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0000315	Organellar large ribosomal subunit
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0005737	Cytoplasm
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0005739	Mitochondrion
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0005759	Mitochondrial matrix
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0005761	Mitochondrial ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0005840	Ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0009507	Chloroplast
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0009536	Plastid
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0015934	Large ribosomal subunit
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0043226	Organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0043233	Organelle lumen
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0044391	Ribosomal subunit
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0098798	Mitochondrial protein-containing complex
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7HY56	4081.A0A3Q7HY56	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1294	Structural constituent of ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1296	Structural constituent of ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1298	Structural constituent of ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1299	rRNA binding, and Organellar ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1302	rRNA binding, and Organellar ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1305	rRNA binding, and Organellar ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1309	rRNA binding, and Organellar ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1436	Mixed, incl. rRNA-binding, and Ribosomal protein S7p/S5e
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1440	Mixed, incl. rRNA-binding, and Organellar large ribosomal subunit
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1444	Mixed, incl. rRNA-binding, and Organellar large ribosomal subunit
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1449	Mixed, incl. rRNA-binding, and Universal ribosomal protein uL29
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1452	Mixed, incl. rRNA-binding, and Universal ribosomal protein uL29
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1454	Mixed, incl. rRNA-binding, and Universal ribosomal protein uL29
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1458	rRNA-binding, and Large ribosomal subunit protein bL28/bL31-like superfamily
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1460	Large ribosomal subunit protein bL28/bL31-like superfamily, and rRNA-binding
+A0A3Q7HY56	4081.A0A3Q7HY56	STRING clusters	CL:1462	Mixed, incl. Large ribosomal subunit protein uL6, conserved site, and Ribosomal L5P family C-terminus
+A0A3Q7HY56	4081.A0A3Q7HY56	KEGG	sly03010	Ribosome
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0009507	Chloroplast
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0009536	Plastid
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HY56	4081.A0A3Q7HY56	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7HY56	4081.A0A3Q7HY56	UniProt Keywords	KW-0687	Ribonucleoprotein
+A0A3Q7HY56	4081.A0A3Q7HY56	UniProt Keywords	KW-0689	Ribosomal protein
+A0A3Q7HY56	4081.A0A3Q7HY56	Pfam	PF00281	Ribosomal protein L5
+A0A3Q7HY56	4081.A0A3Q7HY56	Pfam	PF00673	Ribosomal L5P family C-terminus
+A0A3Q7HY56	4081.A0A3Q7HY56	InterPro	IPR002132	Large ribosomal subunit protein uL5
+A0A3Q7HY56	4081.A0A3Q7HY56	InterPro	IPR020929	Large ribosomal subunit protein uL5, conserved site
+A0A3Q7HY56	4081.A0A3Q7HY56	InterPro	IPR020930	Large ribosomal subunit protein uL5, bacterial-type
+A0A3Q7HY56	4081.A0A3Q7HY56	InterPro	IPR022803	Large ribosomal subunit protein uL5 domain superfamily
+A0A3Q7HY56	4081.A0A3Q7HY56	InterPro	IPR031309	Large ribosomal subunit protein uL5, C-terminal
+A0A3Q7HY56	4081.A0A3Q7HY56	InterPro	IPR031310	Large ribosomal subunit protein uL5, N-terminal
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0006508	Proteolysis
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0008152	Metabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0009056	Catabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0009057	Macromolecule catabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0009987	Cellular process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0030163	Protein catabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Process	GO:0051603	Proteolysis involved in protein catabolic process
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Function	GO:0003824	Catalytic activity
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Function	GO:0004175	Endopeptidase activity
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Function	GO:0004197	Cysteine-type endopeptidase activity
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Function	GO:0008233	Peptidase activity
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Function	GO:0008234	Cysteine-type peptidase activity
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Function	GO:0016787	Hydrolase activity
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0000323	Lytic vacuole
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0005576	Extracellular region
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0005615	Extracellular space
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0005737	Cytoplasm
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0005764	Lysosome
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0005773	Vacuole
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0043226	Organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42930	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42931	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42932	Mixed, incl. Peptidase C1A, and Peptidase family A1 domain
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42934	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42936	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42940	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42945	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42950	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42955	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42960	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42965	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42969	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42972	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42976	Mixed, incl. Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42977	Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42978	Peptidase C1A, and Peptidase C13 family
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42980	Peptidase C1A, and Serpin, conserved site
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42984	Granulin, and Peptidase C1A
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42987	Peptidase C1A
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	STRING clusters	CL:42992	Granulin, and Cysteine peptidase, asparagine active site
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	KEGG	sly04142	Lysosome
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	KEGG	sly04626	Plant-pathogen interaction
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	Reactome	MAP-1280218	Adaptive Immune System
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	Reactome	MAP-168256	Immune System
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	Reactome	MAP-2132295	MHC class II antigen presentation
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0000323	Lytic vacuole
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0005773	Vacuole
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	UniProt Keywords	KW-0325	Glycoprotein
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	UniProt Keywords	KW-0378	Hydrolase
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	UniProt Keywords	KW-0645	Protease
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	UniProt Keywords	KW-0732	Signal
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	UniProt Keywords	KW-0788	Thiol protease
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	UniProt Keywords	KW-0865	Zymogen
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	UniProt Keywords	KW-1015	Disulfide bond
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR000169	Cysteine peptidase, cysteine active site
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR000668	Peptidase C1A, papain C-terminal
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR013128	Peptidase C1A
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR013201	Cathepsin propeptide inhibitor domain (I29)
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR025660	Cysteine peptidase, histidine active site
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR025661	Cysteine peptidase, asparagine active site
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR038765	Papain-like cysteine peptidase superfamily
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	InterPro	IPR039417	Papain-like cysteine endopeptidase
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	SMART	SM00645	Papain family cysteine protease
+A0A3Q7IQJ8	4081.A0A3Q7IQJ8	SMART	SM00848	Cathepsin propeptide inhibitor domain (I29)
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0006412	Translation
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0008152	Metabolic process
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0009987	Cellular process
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0010467	Gene expression
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0032543	Mitochondrial translation
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Process	GO:0140053	Mitochondrial gene expression
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Function	GO:0003723	RNA binding
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Function	GO:0003729	mRNA binding
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Function	GO:0003735	Structural constituent of ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Function	GO:0005198	Structural molecule activity
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Function	GO:0005488	Binding
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0000313	Organellar ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0000315	Organellar large ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0005737	Cytoplasm
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0005739	Mitochondrion
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0005759	Mitochondrial matrix
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0005761	Mitochondrial ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0005840	Ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0015934	Large ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0043226	Organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0043233	Organelle lumen
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0044391	Ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0098798	Mitochondrial protein-containing complex
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7IRI1	4081.A0A3Q7IRI1	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1294	Structural constituent of ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1296	Structural constituent of ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1298	Structural constituent of ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1299	rRNA binding, and Organellar ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1302	rRNA binding, and Organellar ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1305	rRNA binding, and Organellar ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1309	rRNA binding, and Organellar ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1312	Mixed, incl. Organellar large ribosomal subunit, and Large ribosomal subunit protein bL12
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1316	Organellar large ribosomal subunit, and Ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1318	Organellar large ribosomal subunit, and rRNA binding
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1321	Mixed, incl. Organellar large ribosomal subunit, and Ribosomal protein TL5, C-terminal domain
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1360	Mixed, incl. Large ribosomal subunit protein uL11, bacterial-type, and Ribosomal prokaryotic L21 protein
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1363	Mixed, incl. Ribosomal prokaryotic L21 protein, and Large ribosomal subunit protein bL17, conserved site
+A0A3Q7IRI1	4081.A0A3Q7IRI1	STRING clusters	CL:1365	Mixed, incl. Large ribosomal subunit protein bL17, conserved site, and Ribosomal L29 protein
+A0A3Q7IRI1	4081.A0A3Q7IRI1	KEGG	sly03010	Ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	Reactome	MAP-392499	Metabolism of proteins
+A0A3Q7IRI1	4081.A0A3Q7IRI1	Reactome	MAP-72766	Translation
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0000313	Organellar ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0000315	Organellar large ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0005739	Mitochondrion
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0005759	Mitochondrial matrix
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0005761	Mitochondrial ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0005762	Mitochondrial large ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0005840	Ribosome
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0015934	Large ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0043233	Organelle lumen
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0044391	Ribosomal subunit
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7IRI1	4081.A0A3Q7IRI1	COMPARTMENTS	GOCC:1990904	Ribonucleoprotein complex
+A0A3Q7IRI1	4081.A0A3Q7IRI1	UniProt Keywords	KW-0687	Ribonucleoprotein
+A0A3Q7IRI1	4081.A0A3Q7IRI1	UniProt Keywords	KW-0689	Ribosomal protein
+A0A3Q7IRI1	4081.A0A3Q7IRI1	UniProt Keywords	KW-0694	RNA-binding
+A0A3Q7IRI1	4081.A0A3Q7IRI1	Pfam	PF00276	Ribosomal protein L23
+A0A3Q7IRI1	4081.A0A3Q7IRI1	InterPro	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+A0A3Q7IRI1	4081.A0A3Q7IRI1	InterPro	IPR012678	Ribosomal protein uL23/eL15/eS24 core domain superfamily
+A0A3Q7IRI1	4081.A0A3Q7IRI1	InterPro	IPR013025	Large ribosomal subunit protein uL23-like
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0003006	Developmental process involved in reproduction
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0007275	Multicellular organism development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0009791	Post-embryonic development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0009909	Regulation of flower development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0009910	Negative regulation of flower development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0010228	Vegetative to reproductive phase transition of meristem
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0022414	Reproductive process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0032501	Multicellular organismal process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0032502	Developmental process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0048519	Negative regulation of biological process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0048580	Regulation of post-embryonic development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0048581	Negative regulation of post-embryonic development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0048608	Reproductive structure development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0048731	System development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0048831	Regulation of shoot system development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0048856	Anatomical structure development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0050789	Regulation of biological process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0050793	Regulation of developmental process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0051093	Negative regulation of developmental process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0051239	Regulation of multicellular organismal process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0051241	Negative regulation of multicellular organismal process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0061458	Reproductive system development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:0065007	Biological regulation
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:2000026	Regulation of multicellular organismal development
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:2000241	Regulation of reproductive process
+SP-2	4081.A0A3Q7H2S9	GO Process	GO:2000242	Negative regulation of reproductive process
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0005622	Intracellular anatomical structure
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0005634	Nucleus
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0005737	Cytoplasm
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0043226	Organelle
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0043227	Membrane-bounded organelle
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0043229	Intracellular organelle
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+SP-2	4081.A0A3Q7H2S9	GO Component	GO:0110165	Cellular anatomical structure
+SP-2	4081.A0A3Q7H2S9	STRING clusters	CL:13779	Mixed, incl. Intrinsic Pathway for Apoptosis, and MAPK cascade
+SP-2	4081.A0A3Q7H2S9	STRING clusters	CL:13890	Mixed, incl. Intrinsic Pathway for Apoptosis, and Phosphatidylethanolamine-binding protein, eukaryotic
+SP-2	4081.A0A3Q7H2S9	STRING clusters	CL:13960	Phosphatidylethanolamine-binding protein, eukaryotic, and Phosphoprotein binding
+SP-2	4081.A0A3Q7H2S9	STRING clusters	CL:13962	Phosphatidylethanolamine-binding protein, eukaryotic, and Plant bZIP transcription factors
+SP-2	4081.A0A3Q7H2S9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+SP-2	4081.A0A3Q7H2S9	COMPARTMENTS	GOCC:0005737	Cytoplasm
+SP-2	4081.A0A3Q7H2S9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+SP-2	4081.A0A3Q7H2S9	UniProt Keywords	KW-0963	Cytoplasm
+SP-2	4081.A0A3Q7H2S9	Pfam	PF01161	Phosphatidylethanolamine-binding protein
+SP-2	4081.A0A3Q7H2S9	InterPro	IPR008914	Phosphatidylethanolamine-binding protein
+SP-2	4081.A0A3Q7H2S9	InterPro	IPR035810	Phosphatidylethanolamine-binding protein, eukaryotic
+SP-2	4081.A0A3Q7H2S9	InterPro	IPR036610	PEBP-like superfamily
+SPGB	4081.K4BAM0	GO Process	GO:0006355	Regulation of DNA-templated transcription
+SPGB	4081.K4BAM0	GO Process	GO:0009889	Regulation of biosynthetic process
+SPGB	4081.K4BAM0	GO Process	GO:0009891	Positive regulation of biosynthetic process
+SPGB	4081.K4BAM0	GO Process	GO:0009893	Positive regulation of metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0010468	Regulation of gene expression
+SPGB	4081.K4BAM0	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+SPGB	4081.K4BAM0	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+SPGB	4081.K4BAM0	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0019222	Regulation of metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+SPGB	4081.K4BAM0	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0048518	Positive regulation of biological process
+SPGB	4081.K4BAM0	GO Process	GO:0048522	Positive regulation of cellular process
+SPGB	4081.K4BAM0	GO Process	GO:0048583	Regulation of response to stimulus
+SPGB	4081.K4BAM0	GO Process	GO:0050789	Regulation of biological process
+SPGB	4081.K4BAM0	GO Process	GO:0050794	Regulation of cellular process
+SPGB	4081.K4BAM0	GO Process	GO:0051252	Regulation of RNA metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:0065007	Biological regulation
+SPGB	4081.K4BAM0	GO Process	GO:0080090	Regulation of primary metabolic process
+SPGB	4081.K4BAM0	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+SPGB	4081.K4BAM0	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+SPGB	4081.K4BAM0	GO Function	GO:0003676	Nucleic acid binding
+SPGB	4081.K4BAM0	GO Function	GO:0003677	DNA binding
+SPGB	4081.K4BAM0	GO Function	GO:0003700	DNA-binding transcription factor activity
+SPGB	4081.K4BAM0	GO Function	GO:0005488	Binding
+SPGB	4081.K4BAM0	GO Function	GO:0005515	Protein binding
+SPGB	4081.K4BAM0	GO Function	GO:0140110	Transcription regulator activity
+SPGB	4081.K4BAM0	GO Component	GO:0005622	Intracellular anatomical structure
+SPGB	4081.K4BAM0	GO Component	GO:0005634	Nucleus
+SPGB	4081.K4BAM0	GO Component	GO:0043226	Organelle
+SPGB	4081.K4BAM0	GO Component	GO:0043227	Membrane-bounded organelle
+SPGB	4081.K4BAM0	GO Component	GO:0043229	Intracellular organelle
+SPGB	4081.K4BAM0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+SPGB	4081.K4BAM0	GO Component	GO:0110165	Cellular anatomical structure
+SPGB	4081.K4BAM0	STRING clusters	CL:13779	Mixed, incl. Intrinsic Pathway for Apoptosis, and MAPK cascade
+SPGB	4081.K4BAM0	STRING clusters	CL:13890	Mixed, incl. Intrinsic Pathway for Apoptosis, and Phosphatidylethanolamine-binding protein, eukaryotic
+SPGB	4081.K4BAM0	STRING clusters	CL:13960	Phosphatidylethanolamine-binding protein, eukaryotic, and Phosphoprotein binding
+SPGB	4081.K4BAM0	STRING clusters	CL:13962	Phosphatidylethanolamine-binding protein, eukaryotic, and Plant bZIP transcription factors
+SPGB	4081.K4BAM0	KEGG	sly04075	Plant hormone signal transduction
+SPGB	4081.K4BAM0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+SPGB	4081.K4BAM0	COMPARTMENTS	GOCC:0005634	Nucleus
+SPGB	4081.K4BAM0	COMPARTMENTS	GOCC:0043226	Organelle
+SPGB	4081.K4BAM0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+SPGB	4081.K4BAM0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+SPGB	4081.K4BAM0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+SPGB	4081.K4BAM0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+SPGB	4081.K4BAM0	UniProt Keywords	KW-0175	Coiled coil
+SPGB	4081.K4BAM0	UniProt Keywords	KW-0238	DNA-binding
+SPGB	4081.K4BAM0	InterPro	IPR004827	Basic-leucine zipper domain
+SPGB	4081.K4BAM0	InterPro	IPR043452	Plant bZIP transcription factors
+SPGB	4081.K4BAM0	InterPro	IPR046347	Basic-leucine zipper domain superfamily
+SPGB	4081.K4BAM0	SMART	SM00338	Basic region leucin zipper

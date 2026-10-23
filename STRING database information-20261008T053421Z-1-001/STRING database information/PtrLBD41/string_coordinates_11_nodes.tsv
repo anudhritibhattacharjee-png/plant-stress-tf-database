@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+A0A2K1XII1	3694.A0A2K1XII1	0.6121538461538462	0.7963414634146342	rgb(14,178,0)	AMP-binding domain-containing protein.
+A0A2K1XP10	3694.A0A2K1XP10	0.53	0.8676829268292684	rgb(101,255,163)	Uncharacterized protein; Belongs to the peroxisomal membrane protein PXMP2/4 family.
+A0A2K1ZUS3	3694.A0A2K1ZUS3	0.3970769230769231	0.21463414634146344	rgb(0,28,178)	Uncharacterized protein.
+A0A2K2C088	3694.A0A2K2C088	0.47923076923076924	0.14146341463414636	rgb(150,101,255)	BHLH domain-containing protein.
+A9P7Z5_POPTR	3694.A9P7Z5	0.4976923076923077	0.5091463414634146	rgb(255,0,0)	LOB domain-containing protein.
+B9HDA0_POPTR	3694.B9HDA0	0.30846153846153845	0.4140243902439024	rgb(255,175,101)	Peroxidase; Removal of H(2)O(2), oxidation of toxic reductants, biosynthesis and degradation of lignin, suberization, auxin catabolism, response to environmental stresses such as wounding, pathogen attack and oxidative stress.
+B9I557_POPTR	3694.B9I557	0.686	0.5823170731707318	rgb(239,117,117)	NAC domain-containing protein.
+B9IGP8_POPTR	3694.B9IGP8	0.3223076923076923	0.651829268292683	rgb(178,171,0)	Peroxidase; Removal of H(2)O(2), oxidation of toxic reductants, biosynthesis and degradation of lignin, suberization, auxin catabolism, response to environmental stresses such as wounding, pathogen attack and oxidative stress.
+B9IH13_POPTR	3694.B9IH13	0.5678461538461539	0.174390243902439	rgb(101,199,255)	Myb-like domain-containing protein.
+POPTR_T099400	3694.A9PGZ3	0.39984615384615385	0.8329268292682928	rgb(0,178,157)	Chlorophyll a-b binding protein, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b-binding (LHC) protein family.
+PRX85	3694.B9IGP9	0.674	0.3445121951219512	rgb(187,255,101)	Peroxidase; Removal of H(2)O(2), oxidation of toxic reductants, biosynthesis and degradation of lignin, suberization, auxin catabolism, response to environmental stresses such as wounding, pathogen attack and oxidative stress.

@@ -1,0 +1,1040 @@
+#node	identifier	category	term ID	term description
+ANR1	3702.Q9SI38	GO Process	GO:0006355	Regulation of DNA-templated transcription
+ANR1	3702.Q9SI38	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+ANR1	3702.Q9SI38	GO Process	GO:0007275	Multicellular organism development
+ANR1	3702.Q9SI38	GO Process	GO:0007584	Response to nutrient
+ANR1	3702.Q9SI38	GO Process	GO:0009791	Post-embryonic development
+ANR1	3702.Q9SI38	GO Process	GO:0009889	Regulation of biosynthetic process
+ANR1	3702.Q9SI38	GO Process	GO:0009891	Positive regulation of biosynthetic process
+ANR1	3702.Q9SI38	GO Process	GO:0009893	Positive regulation of metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0009987	Cellular process
+ANR1	3702.Q9SI38	GO Process	GO:0010167	Response to nitrate
+ANR1	3702.Q9SI38	GO Process	GO:0010468	Regulation of gene expression
+ANR1	3702.Q9SI38	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ANR1	3702.Q9SI38	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+ANR1	3702.Q9SI38	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0019222	Regulation of metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0022622	Root system development
+ANR1	3702.Q9SI38	GO Process	GO:0031667	Response to nutrient levels
+ANR1	3702.Q9SI38	GO Process	GO:0032501	Multicellular organismal process
+ANR1	3702.Q9SI38	GO Process	GO:0032502	Developmental process
+ANR1	3702.Q9SI38	GO Process	GO:0042221	Response to chemical
+ANR1	3702.Q9SI38	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+ANR1	3702.Q9SI38	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+ANR1	3702.Q9SI38	GO Process	GO:0048364	Root development
+ANR1	3702.Q9SI38	GO Process	GO:0048518	Positive regulation of biological process
+ANR1	3702.Q9SI38	GO Process	GO:0048522	Positive regulation of cellular process
+ANR1	3702.Q9SI38	GO Process	GO:0048527	Lateral root development
+ANR1	3702.Q9SI38	GO Process	GO:0048528	Post-embryonic root development
+ANR1	3702.Q9SI38	GO Process	GO:0048731	System development
+ANR1	3702.Q9SI38	GO Process	GO:0048856	Anatomical structure development
+ANR1	3702.Q9SI38	GO Process	GO:0050789	Regulation of biological process
+ANR1	3702.Q9SI38	GO Process	GO:0050794	Regulation of cellular process
+ANR1	3702.Q9SI38	GO Process	GO:0050896	Response to stimulus
+ANR1	3702.Q9SI38	GO Process	GO:0051252	Regulation of RNA metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0051716	Cellular response to stimulus
+ANR1	3702.Q9SI38	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0065007	Biological regulation
+ANR1	3702.Q9SI38	GO Process	GO:0070887	Cellular response to chemical stimulus
+ANR1	3702.Q9SI38	GO Process	GO:0071249	Cellular response to nitrate
+ANR1	3702.Q9SI38	GO Process	GO:0080090	Regulation of primary metabolic process
+ANR1	3702.Q9SI38	GO Process	GO:0090696	Post-embryonic plant organ development
+ANR1	3702.Q9SI38	GO Process	GO:0099402	Plant organ development
+ANR1	3702.Q9SI38	GO Process	GO:1901698	Response to nitrogen compound
+ANR1	3702.Q9SI38	GO Process	GO:1901699	Cellular response to nitrogen compound
+ANR1	3702.Q9SI38	GO Process	GO:1901700	Response to oxygen-containing compound
+ANR1	3702.Q9SI38	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+ANR1	3702.Q9SI38	GO Process	GO:1902170	Cellular response to reactive nitrogen species
+ANR1	3702.Q9SI38	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+ANR1	3702.Q9SI38	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ANR1	3702.Q9SI38	GO Function	GO:0000976	Transcription cis-regulatory region binding
+ANR1	3702.Q9SI38	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+ANR1	3702.Q9SI38	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ANR1	3702.Q9SI38	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+ANR1	3702.Q9SI38	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+ANR1	3702.Q9SI38	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+ANR1	3702.Q9SI38	GO Function	GO:0003676	Nucleic acid binding
+ANR1	3702.Q9SI38	GO Function	GO:0003677	DNA binding
+ANR1	3702.Q9SI38	GO Function	GO:0003690	Double-stranded DNA binding
+ANR1	3702.Q9SI38	GO Function	GO:0003700	DNA-binding transcription factor activity
+ANR1	3702.Q9SI38	GO Function	GO:0005488	Binding
+ANR1	3702.Q9SI38	GO Function	GO:0005515	Protein binding
+ANR1	3702.Q9SI38	GO Function	GO:0043565	Sequence-specific DNA binding
+ANR1	3702.Q9SI38	GO Function	GO:0046983	Protein dimerization activity
+ANR1	3702.Q9SI38	GO Function	GO:0140110	Transcription regulator activity
+ANR1	3702.Q9SI38	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+ANR1	3702.Q9SI38	GO Component	GO:0005622	Intracellular anatomical structure
+ANR1	3702.Q9SI38	GO Component	GO:0005634	Nucleus
+ANR1	3702.Q9SI38	GO Component	GO:0043226	Organelle
+ANR1	3702.Q9SI38	GO Component	GO:0043227	Membrane-bounded organelle
+ANR1	3702.Q9SI38	GO Component	GO:0043229	Intracellular organelle
+ANR1	3702.Q9SI38	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ANR1	3702.Q9SI38	GO Component	GO:0110165	Cellular anatomical structure
+ANR1	3702.Q9SI38	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+ANR1	3702.Q9SI38	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+ANR1	3702.Q9SI38	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+ANR1	3702.Q9SI38	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+ANR1	3702.Q9SI38	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+ANR1	3702.Q9SI38	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+ANR1	3702.Q9SI38	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+ANR1	3702.Q9SI38	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+ANR1	3702.Q9SI38	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+ANR1	3702.Q9SI38	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+ANR1	3702.Q9SI38	STRING clusters	CL:36344	Cellular response to nitrate, and Simple leaf morphogenesis
+ANR1	3702.Q9SI38	Reactome	MAP-1266738	Developmental Biology
+ANR1	3702.Q9SI38	Reactome	MAP-525793	Myogenesis
+ANR1	3702.Q9SI38	WikiPathways	WP2279	Seed development
+ANR1	3702.Q9SI38	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ANR1	3702.Q9SI38	COMPARTMENTS	GOCC:0005634	Nucleus
+ANR1	3702.Q9SI38	COMPARTMENTS	GOCC:0043226	Organelle
+ANR1	3702.Q9SI38	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ANR1	3702.Q9SI38	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ANR1	3702.Q9SI38	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ANR1	3702.Q9SI38	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ANR1	3702.Q9SI38	UniProt Keywords	KW-0217	Developmental protein
+ANR1	3702.Q9SI38	UniProt Keywords	KW-0238	DNA-binding
+ANR1	3702.Q9SI38	UniProt Keywords	KW-0539	Nucleus
+ANR1	3702.Q9SI38	UniProt Keywords	KW-0804	Transcription
+ANR1	3702.Q9SI38	UniProt Keywords	KW-0805	Transcription regulation
+ANR1	3702.Q9SI38	Pfam	PF01486	K-box region
+ANR1	3702.Q9SI38	InterPro	IPR002100	Transcription factor, MADS-box
+ANR1	3702.Q9SI38	InterPro	IPR002487	Transcription factor, K-box
+ANR1	3702.Q9SI38	InterPro	IPR033896	MADS MEF2-like, N-terminal
+ANR1	3702.Q9SI38	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+ANR1	3702.Q9SI38	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+ANR1	3702.Q9SI38	SMART	SM00432	MADS
+CPK30	3702.Q9SSF8	GO Process	GO:0007154	Cell communication
+CPK30	3702.Q9SSF8	GO Process	GO:0007165	Signal transduction
+CPK30	3702.Q9SSF8	GO Process	GO:0009719	Response to endogenous stimulus
+CPK30	3702.Q9SSF8	GO Process	GO:0009725	Response to hormone
+CPK30	3702.Q9SSF8	GO Process	GO:0009737	Response to abscisic acid
+CPK30	3702.Q9SSF8	GO Process	GO:0009738	Abscisic acid-activated signaling pathway
+CPK30	3702.Q9SSF8	GO Process	GO:0009755	Hormone-mediated signaling pathway
+CPK30	3702.Q9SSF8	GO Process	GO:0009987	Cellular process
+CPK30	3702.Q9SSF8	GO Process	GO:0023052	Signaling
+CPK30	3702.Q9SSF8	GO Process	GO:0032870	Cellular response to hormone stimulus
+CPK30	3702.Q9SSF8	GO Process	GO:0033993	Response to lipid
+CPK30	3702.Q9SSF8	GO Process	GO:0035556	Intracellular signal transduction
+CPK30	3702.Q9SSF8	GO Process	GO:0042221	Response to chemical
+CPK30	3702.Q9SSF8	GO Process	GO:0050789	Regulation of biological process
+CPK30	3702.Q9SSF8	GO Process	GO:0050794	Regulation of cellular process
+CPK30	3702.Q9SSF8	GO Process	GO:0050896	Response to stimulus
+CPK30	3702.Q9SSF8	GO Process	GO:0051716	Cellular response to stimulus
+CPK30	3702.Q9SSF8	GO Process	GO:0065007	Biological regulation
+CPK30	3702.Q9SSF8	GO Process	GO:0070887	Cellular response to chemical stimulus
+CPK30	3702.Q9SSF8	GO Process	GO:0071215	Cellular response to abscisic acid stimulus
+CPK30	3702.Q9SSF8	GO Process	GO:0071396	Cellular response to lipid
+CPK30	3702.Q9SSF8	GO Process	GO:0071495	Cellular response to endogenous stimulus
+CPK30	3702.Q9SSF8	GO Process	GO:0097305	Response to alcohol
+CPK30	3702.Q9SSF8	GO Process	GO:0097306	Cellular response to alcohol
+CPK30	3702.Q9SSF8	GO Process	GO:1901700	Response to oxygen-containing compound
+CPK30	3702.Q9SSF8	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+CPK30	3702.Q9SSF8	GO Function	GO:0000166	Nucleotide binding
+CPK30	3702.Q9SSF8	GO Function	GO:0003824	Catalytic activity
+CPK30	3702.Q9SSF8	GO Function	GO:0004672	Protein kinase activity
+CPK30	3702.Q9SSF8	GO Function	GO:0004674	Protein serine/threonine kinase activity
+CPK30	3702.Q9SSF8	GO Function	GO:0004683	Calcium/calmodulin-dependent protein kinase activity
+CPK30	3702.Q9SSF8	GO Function	GO:0005488	Binding
+CPK30	3702.Q9SSF8	GO Function	GO:0005509	Calcium ion binding
+CPK30	3702.Q9SSF8	GO Function	GO:0005515	Protein binding
+CPK30	3702.Q9SSF8	GO Function	GO:0005516	Calmodulin binding
+CPK30	3702.Q9SSF8	GO Function	GO:0005524	ATP binding
+CPK30	3702.Q9SSF8	GO Function	GO:0009931	Calcium-dependent protein serine/threonine kinase activity
+CPK30	3702.Q9SSF8	GO Function	GO:0016301	Kinase activity
+CPK30	3702.Q9SSF8	GO Function	GO:0016740	Transferase activity
+CPK30	3702.Q9SSF8	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+CPK30	3702.Q9SSF8	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+CPK30	3702.Q9SSF8	GO Function	GO:0017076	Purine nucleotide binding
+CPK30	3702.Q9SSF8	GO Function	GO:0030554	Adenyl nucleotide binding
+CPK30	3702.Q9SSF8	GO Function	GO:0032553	Ribonucleotide binding
+CPK30	3702.Q9SSF8	GO Function	GO:0032555	Purine ribonucleotide binding
+CPK30	3702.Q9SSF8	GO Function	GO:0032559	Adenyl ribonucleotide binding
+CPK30	3702.Q9SSF8	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+CPK30	3702.Q9SSF8	GO Function	GO:0036094	Small molecule binding
+CPK30	3702.Q9SSF8	GO Function	GO:0043167	Ion binding
+CPK30	3702.Q9SSF8	GO Function	GO:0043168	Anion binding
+CPK30	3702.Q9SSF8	GO Function	GO:0043169	Cation binding
+CPK30	3702.Q9SSF8	GO Function	GO:0046872	Metal ion binding
+CPK30	3702.Q9SSF8	GO Function	GO:0097367	Carbohydrate derivative binding
+CPK30	3702.Q9SSF8	GO Function	GO:0106310	Protein serine kinase activity
+CPK30	3702.Q9SSF8	GO Function	GO:0140096	Catalytic activity, acting on a protein
+CPK30	3702.Q9SSF8	GO Function	GO:1901265	Nucleoside phosphate binding
+CPK30	3702.Q9SSF8	GO Function	GO:1901363	Heterocyclic compound binding
+CPK30	3702.Q9SSF8	GO Component	GO:0005622	Intracellular anatomical structure
+CPK30	3702.Q9SSF8	GO Component	GO:0005634	Nucleus
+CPK30	3702.Q9SSF8	GO Component	GO:0005737	Cytoplasm
+CPK30	3702.Q9SSF8	GO Component	GO:0005886	Plasma membrane
+CPK30	3702.Q9SSF8	GO Component	GO:0016020	Membrane
+CPK30	3702.Q9SSF8	GO Component	GO:0043226	Organelle
+CPK30	3702.Q9SSF8	GO Component	GO:0043227	Membrane-bounded organelle
+CPK30	3702.Q9SSF8	GO Component	GO:0043229	Intracellular organelle
+CPK30	3702.Q9SSF8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+CPK30	3702.Q9SSF8	GO Component	GO:0071944	Cell periphery
+CPK30	3702.Q9SSF8	GO Component	GO:0110165	Cellular anatomical structure
+CPK30	3702.Q9SSF8	STRING clusters	CL:17732	Mixed, incl. EF-hand, calcium binding motif, and NAF domain
+CPK30	3702.Q9SSF8	STRING clusters	CL:17733	Mixed, incl. EF-hand, calcium binding motif, and NAF domain
+CPK30	3702.Q9SSF8	STRING clusters	CL:17734	Mixed, incl. EF-hand, calcium binding motif, and NAF domain
+CPK30	3702.Q9SSF8	STRING clusters	CL:17736	Mixed, incl. EF-hand, calcium binding motif, and NAF domain
+CPK30	3702.Q9SSF8	STRING clusters	CL:17878	NADPH oxidase Respiratory burst, and Calcium-dependent Serine/Threonine Protein Kinases
+CPK30	3702.Q9SSF8	STRING clusters	CL:17880	NADPH oxidase Respiratory burst, and Calcium-dependent Serine/Threonine Protein Kinases
+CPK30	3702.Q9SSF8	STRING clusters	CL:17881	NADPH oxidase Respiratory burst, and Calcium-dependent Serine/Threonine Protein Kinases
+CPK30	3702.Q9SSF8	KEGG	ath04075	Plant hormone signal transduction
+CPK30	3702.Q9SSF8	KEGG	ath04626	Plant-pathogen interaction
+CPK30	3702.Q9SSF8	COMPARTMENTS	GOCC:0016020	Membrane
+CPK30	3702.Q9SSF8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0067	ATP-binding
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0106	Calcium
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0418	Kinase
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0449	Lipoprotein
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0472	Membrane
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0479	Metal-binding
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0519	Myristate
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0547	Nucleotide-binding
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0597	Phosphoprotein
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0677	Repeat
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+CPK30	3702.Q9SSF8	UniProt Keywords	KW-0808	Transferase
+CPK30	3702.Q9SSF8	InterPro	IPR000719	Protein kinase domain
+CPK30	3702.Q9SSF8	InterPro	IPR002048	EF-hand domain
+CPK30	3702.Q9SSF8	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+CPK30	3702.Q9SSF8	InterPro	IPR011009	Protein kinase-like domain superfamily
+CPK30	3702.Q9SSF8	InterPro	IPR011992	EF-hand domain pair
+CPK30	3702.Q9SSF8	InterPro	IPR017441	Protein kinase, ATP binding site
+CPK30	3702.Q9SSF8	InterPro	IPR018247	EF-Hand 1, calcium-binding site
+CPK30	3702.Q9SSF8	InterPro	IPR050205	Calcium-dependent Serine/Threonine Protein Kinases
+CPK30	3702.Q9SSF8	SMART	SM00054	EF-hand, calcium binding motif
+CPK30	3702.Q9SSF8	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+LBD37	3702.Q9FN11	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LBD37	3702.Q9FN11	GO Process	GO:0007275	Multicellular organism development
+LBD37	3702.Q9FN11	GO Process	GO:0009653	Anatomical structure morphogenesis
+LBD37	3702.Q9FN11	GO Process	GO:0009889	Regulation of biosynthetic process
+LBD37	3702.Q9FN11	GO Process	GO:0009890	Negative regulation of biosynthetic process
+LBD37	3702.Q9FN11	GO Process	GO:0009892	Negative regulation of metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0009965	Leaf morphogenesis
+LBD37	3702.Q9FN11	GO Process	GO:0010016	Shoot system morphogenesis
+LBD37	3702.Q9FN11	GO Process	GO:0010468	Regulation of gene expression
+LBD37	3702.Q9FN11	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LBD37	3702.Q9FN11	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+LBD37	3702.Q9FN11	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0019222	Regulation of metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0032501	Multicellular organismal process
+LBD37	3702.Q9FN11	GO Process	GO:0032502	Developmental process
+LBD37	3702.Q9FN11	GO Process	GO:0045892	Negative regulation of DNA-templated transcription
+LBD37	3702.Q9FN11	GO Process	GO:0045934	Negative regulation of nucleobase-containing compound metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0048366	Leaf development
+LBD37	3702.Q9FN11	GO Process	GO:0048367	Shoot system development
+LBD37	3702.Q9FN11	GO Process	GO:0048519	Negative regulation of biological process
+LBD37	3702.Q9FN11	GO Process	GO:0048523	Negative regulation of cellular process
+LBD37	3702.Q9FN11	GO Process	GO:0048731	System development
+LBD37	3702.Q9FN11	GO Process	GO:0048827	Phyllome development
+LBD37	3702.Q9FN11	GO Process	GO:0048856	Anatomical structure development
+LBD37	3702.Q9FN11	GO Process	GO:0050789	Regulation of biological process
+LBD37	3702.Q9FN11	GO Process	GO:0050794	Regulation of cellular process
+LBD37	3702.Q9FN11	GO Process	GO:0051252	Regulation of RNA metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0051253	Negative regulation of RNA metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0060776	Simple leaf morphogenesis
+LBD37	3702.Q9FN11	GO Process	GO:0065007	Biological regulation
+LBD37	3702.Q9FN11	GO Process	GO:0080090	Regulation of primary metabolic process
+LBD37	3702.Q9FN11	GO Process	GO:0099402	Plant organ development
+LBD37	3702.Q9FN11	GO Process	GO:1902679	Negative regulation of RNA biosynthetic process
+LBD37	3702.Q9FN11	GO Process	GO:1905392	Plant organ morphogenesis
+LBD37	3702.Q9FN11	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LBD37	3702.Q9FN11	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LBD37	3702.Q9FN11	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LBD37	3702.Q9FN11	GO Function	GO:0001217	DNA-binding transcription repressor activity
+LBD37	3702.Q9FN11	GO Function	GO:0003676	Nucleic acid binding
+LBD37	3702.Q9FN11	GO Function	GO:0003677	DNA binding
+LBD37	3702.Q9FN11	GO Function	GO:0003690	Double-stranded DNA binding
+LBD37	3702.Q9FN11	GO Function	GO:0003700	DNA-binding transcription factor activity
+LBD37	3702.Q9FN11	GO Function	GO:0005488	Binding
+LBD37	3702.Q9FN11	GO Function	GO:0043565	Sequence-specific DNA binding
+LBD37	3702.Q9FN11	GO Function	GO:0140110	Transcription regulator activity
+LBD37	3702.Q9FN11	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LBD37	3702.Q9FN11	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+LBD37	3702.Q9FN11	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+LBD37	3702.Q9FN11	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+LBD37	3702.Q9FN11	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+LBD37	3702.Q9FN11	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+LBD37	3702.Q9FN11	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+LBD37	3702.Q9FN11	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+LBD37	3702.Q9FN11	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+LBD37	3702.Q9FN11	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+LBD37	3702.Q9FN11	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+LBD37	3702.Q9FN11	STRING clusters	CL:36344	Cellular response to nitrate, and Simple leaf morphogenesis
+LBD37	3702.Q9FN11	Pfam	PF03195	Lateral organ boundaries (LOB) domain
+LBD37	3702.Q9FN11	InterPro	IPR004883	Lateral organ boundaries, LOB
+NIA1	3702.P11832	GO Process	GO:0006082	Organic acid metabolic process
+NIA1	3702.P11832	GO Process	GO:0006809	Nitric oxide biosynthetic process
+NIA1	3702.P11832	GO Process	GO:0006950	Response to stress
+NIA1	3702.P11832	GO Process	GO:0008152	Metabolic process
+NIA1	3702.P11832	GO Process	GO:0009058	Biosynthetic process
+NIA1	3702.P11832	GO Process	GO:0009314	Response to radiation
+NIA1	3702.P11832	GO Process	GO:0009416	Response to light stimulus
+NIA1	3702.P11832	GO Process	GO:0009628	Response to abiotic stimulus
+NIA1	3702.P11832	GO Process	GO:0009635	Response to herbicide
+NIA1	3702.P11832	GO Process	GO:0009636	Response to toxic substance
+NIA1	3702.P11832	GO Process	GO:0009987	Cellular process
+NIA1	3702.P11832	GO Process	GO:0042126	Nitrate metabolic process
+NIA1	3702.P11832	GO Process	GO:0042128	Nitrate assimilation
+NIA1	3702.P11832	GO Process	GO:0042221	Response to chemical
+NIA1	3702.P11832	GO Process	GO:0043436	Oxoacid metabolic process
+NIA1	3702.P11832	GO Process	GO:0044281	Small molecule metabolic process
+NIA1	3702.P11832	GO Process	GO:0046209	Nitric oxide metabolic process
+NIA1	3702.P11832	GO Process	GO:0050896	Response to stimulus
+NIA1	3702.P11832	GO Process	GO:0071941	Nitrogen cycle metabolic process
+NIA1	3702.P11832	GO Process	GO:0097164	Ammonium ion metabolic process
+NIA1	3702.P11832	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+NIA1	3702.P11832	GO Function	GO:0000166	Nucleotide binding
+NIA1	3702.P11832	GO Function	GO:0003824	Catalytic activity
+NIA1	3702.P11832	GO Function	GO:0004128	cytochrome-b5 reductase activity, acting on NAD(P)H
+NIA1	3702.P11832	GO Function	GO:0005488	Binding
+NIA1	3702.P11832	GO Function	GO:0005515	Protein binding
+NIA1	3702.P11832	GO Function	GO:0008940	Nitrate reductase activity
+NIA1	3702.P11832	GO Function	GO:0009703	Nitrate reductase (NADH) activity
+NIA1	3702.P11832	GO Function	GO:0016491	Oxidoreductase activity
+NIA1	3702.P11832	GO Function	GO:0016651	Oxidoreductase activity, acting on NAD(P)H
+NIA1	3702.P11832	GO Function	GO:0016653	Oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor
+NIA1	3702.P11832	GO Function	GO:0016661	Oxidoreductase activity, acting on other nitrogenous compounds as donors
+NIA1	3702.P11832	GO Function	GO:0020037	Heme binding
+NIA1	3702.P11832	GO Function	GO:0030151	Molybdenum ion binding
+NIA1	3702.P11832	GO Function	GO:0036094	Small molecule binding
+NIA1	3702.P11832	GO Function	GO:0043167	Ion binding
+NIA1	3702.P11832	GO Function	GO:0043168	Anion binding
+NIA1	3702.P11832	GO Function	GO:0043169	Cation binding
+NIA1	3702.P11832	GO Function	GO:0043546	Molybdopterin cofactor binding
+NIA1	3702.P11832	GO Function	GO:0046857	Oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor
+NIA1	3702.P11832	GO Function	GO:0046872	Metal ion binding
+NIA1	3702.P11832	GO Function	GO:0046906	Tetrapyrrole binding
+NIA1	3702.P11832	GO Function	GO:0046914	Transition metal ion binding
+NIA1	3702.P11832	GO Function	GO:0050463	Nitrate reductase [NAD(P)H] activity
+NIA1	3702.P11832	GO Function	GO:0050464	Nitrate reductase (NADPH) activity
+NIA1	3702.P11832	GO Function	GO:0050660	Flavin adenine dinucleotide binding
+NIA1	3702.P11832	GO Function	GO:0071949	FAD binding
+NIA1	3702.P11832	GO Function	GO:1901265	Nucleoside phosphate binding
+NIA1	3702.P11832	GO Function	GO:1901363	Heterocyclic compound binding
+NIA1	3702.P11832	GO Component	GO:0005622	Intracellular anatomical structure
+NIA1	3702.P11832	GO Component	GO:0005737	Cytoplasm
+NIA1	3702.P11832	GO Component	GO:0005829	Cytosol
+NIA1	3702.P11832	GO Component	GO:0110165	Cellular anatomical structure
+NIA1	3702.P11832	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+NIA1	3702.P11832	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA1	3702.P11832	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA1	3702.P11832	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA1	3702.P11832	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA1	3702.P11832	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NIA1	3702.P11832	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+NIA1	3702.P11832	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NIA1	3702.P11832	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+NIA1	3702.P11832	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+NIA1	3702.P11832	STRING clusters	CL:36332	Nitrogen cycle, and Herbicide resistance
+NIA1	3702.P11832	KEGG	ath00910	Nitrogen metabolism
+NIA1	3702.P11832	KEGG	ath01100	Metabolic pathways
+NIA1	3702.P11832	KEGG	ath01310	Nitrogen cycle
+NIA1	3702.P11832	Reactome	MAP-1430728	Metabolism
+NIA1	3702.P11832	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+NIA1	3702.P11832	COMPARTMENTS	GOCC:0005737	Cytoplasm
+NIA1	3702.P11832	COMPARTMENTS	GOCC:0005829	Cytosol
+NIA1	3702.P11832	COMPARTMENTS	GOCC:0009325	Nitrate reductase complex
+NIA1	3702.P11832	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+NIA1	3702.P11832	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NIA1	3702.P11832	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+NIA1	3702.P11832	UniProt Keywords	KW-0274	FAD
+NIA1	3702.P11832	UniProt Keywords	KW-0285	Flavoprotein
+NIA1	3702.P11832	UniProt Keywords	KW-0349	Heme
+NIA1	3702.P11832	UniProt Keywords	KW-0359	Herbicide resistance
+NIA1	3702.P11832	UniProt Keywords	KW-0408	Iron
+NIA1	3702.P11832	UniProt Keywords	KW-0479	Metal-binding
+NIA1	3702.P11832	UniProt Keywords	KW-0500	Molybdenum
+NIA1	3702.P11832	UniProt Keywords	KW-0520	NAD
+NIA1	3702.P11832	UniProt Keywords	KW-0534	Nitrate assimilation
+NIA1	3702.P11832	UniProt Keywords	KW-0560	Oxidoreductase
+NIA1	3702.P11832	UniProt Keywords	KW-1015	Disulfide bond
+NIA1	3702.P11832	Pfam	PF00174	Oxidoreductase molybdopterin binding domain
+NIA1	3702.P11832	Pfam	PF00175	Oxidoreductase NAD-binding domain 
+NIA1	3702.P11832	Pfam	PF00970	Oxidoreductase FAD-binding domain
+NIA1	3702.P11832	Pfam	PF03404	Mo-co oxidoreductase dimerisation domain
+NIA1	3702.P11832	InterPro	IPR000572	Oxidoreductase, molybdopterin-binding domain
+NIA1	3702.P11832	InterPro	IPR001199	Cytochrome b5-like heme/steroid binding domain
+NIA1	3702.P11832	InterPro	IPR001433	Oxidoreductase FAD/NAD(P)-binding
+NIA1	3702.P11832	InterPro	IPR001709	Flavoprotein pyridine nucleotide cytochrome reductase
+NIA1	3702.P11832	InterPro	IPR005066	Moybdenum cofactor oxidoreductase, dimerisation
+NIA1	3702.P11832	InterPro	IPR008333	Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
+NIA1	3702.P11832	InterPro	IPR008335	Eukaryotic molybdopterin oxidoreductase
+NIA1	3702.P11832	InterPro	IPR012137	Nitrate reductase NADH dependent
+NIA1	3702.P11832	InterPro	IPR014756	Immunoglobulin E-set
+NIA1	3702.P11832	InterPro	IPR017927	FAD-binding domain, ferredoxin reductase-type
+NIA1	3702.P11832	InterPro	IPR017938	Riboflavin synthase-like beta-barrel
+NIA1	3702.P11832	InterPro	IPR018506	Cytochrome b5, heme-binding site
+NIA1	3702.P11832	InterPro	IPR022407	Oxidoreductase, molybdopterin binding site
+NIA1	3702.P11832	InterPro	IPR036374	Oxidoreductase, molybdopterin-binding domain superfamily
+NIA1	3702.P11832	InterPro	IPR036400	Cytochrome b5-like heme/steroid binding domain superfamily
+NIA1	3702.P11832	InterPro	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain
+NIA1	3702.P11832	SMART	SM01117	Cytochrome b5-like Heme/Steroid binding domain
+NIA2	3702.P11035	GO Process	GO:0006082	Organic acid metabolic process
+NIA2	3702.P11035	GO Process	GO:0006809	Nitric oxide biosynthetic process
+NIA2	3702.P11035	GO Process	GO:0006950	Response to stress
+NIA2	3702.P11035	GO Process	GO:0008152	Metabolic process
+NIA2	3702.P11035	GO Process	GO:0009058	Biosynthetic process
+NIA2	3702.P11035	GO Process	GO:0009314	Response to radiation
+NIA2	3702.P11035	GO Process	GO:0009416	Response to light stimulus
+NIA2	3702.P11035	GO Process	GO:0009605	Response to external stimulus
+NIA2	3702.P11035	GO Process	GO:0009607	Response to biotic stimulus
+NIA2	3702.P11035	GO Process	GO:0009608	Response to symbiont
+NIA2	3702.P11035	GO Process	GO:0009610	Response to symbiotic fungus
+NIA2	3702.P11035	GO Process	GO:0009620	Response to fungus
+NIA2	3702.P11035	GO Process	GO:0009628	Response to abiotic stimulus
+NIA2	3702.P11035	GO Process	GO:0009635	Response to herbicide
+NIA2	3702.P11035	GO Process	GO:0009636	Response to toxic substance
+NIA2	3702.P11035	GO Process	GO:0009987	Cellular process
+NIA2	3702.P11035	GO Process	GO:0042126	Nitrate metabolic process
+NIA2	3702.P11035	GO Process	GO:0042128	Nitrate assimilation
+NIA2	3702.P11035	GO Process	GO:0042221	Response to chemical
+NIA2	3702.P11035	GO Process	GO:0043207	Response to external biotic stimulus
+NIA2	3702.P11035	GO Process	GO:0043436	Oxoacid metabolic process
+NIA2	3702.P11035	GO Process	GO:0044281	Small molecule metabolic process
+NIA2	3702.P11035	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+NIA2	3702.P11035	GO Process	GO:0046209	Nitric oxide metabolic process
+NIA2	3702.P11035	GO Process	GO:0050896	Response to stimulus
+NIA2	3702.P11035	GO Process	GO:0051707	Response to other organism
+NIA2	3702.P11035	GO Process	GO:0071941	Nitrogen cycle metabolic process
+NIA2	3702.P11035	GO Process	GO:0097164	Ammonium ion metabolic process
+NIA2	3702.P11035	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+NIA2	3702.P11035	GO Function	GO:0000166	Nucleotide binding
+NIA2	3702.P11035	GO Function	GO:0003676	Nucleic acid binding
+NIA2	3702.P11035	GO Function	GO:0003723	RNA binding
+NIA2	3702.P11035	GO Function	GO:0003729	mRNA binding
+NIA2	3702.P11035	GO Function	GO:0003824	Catalytic activity
+NIA2	3702.P11035	GO Function	GO:0004128	cytochrome-b5 reductase activity, acting on NAD(P)H
+NIA2	3702.P11035	GO Function	GO:0005488	Binding
+NIA2	3702.P11035	GO Function	GO:0005515	Protein binding
+NIA2	3702.P11035	GO Function	GO:0008940	Nitrate reductase activity
+NIA2	3702.P11035	GO Function	GO:0009703	Nitrate reductase (NADH) activity
+NIA2	3702.P11035	GO Function	GO:0016491	Oxidoreductase activity
+NIA2	3702.P11035	GO Function	GO:0016651	Oxidoreductase activity, acting on NAD(P)H
+NIA2	3702.P11035	GO Function	GO:0016653	Oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor
+NIA2	3702.P11035	GO Function	GO:0016661	Oxidoreductase activity, acting on other nitrogenous compounds as donors
+NIA2	3702.P11035	GO Function	GO:0020037	Heme binding
+NIA2	3702.P11035	GO Function	GO:0030151	Molybdenum ion binding
+NIA2	3702.P11035	GO Function	GO:0036094	Small molecule binding
+NIA2	3702.P11035	GO Function	GO:0042802	Identical protein binding
+NIA2	3702.P11035	GO Function	GO:0043167	Ion binding
+NIA2	3702.P11035	GO Function	GO:0043168	Anion binding
+NIA2	3702.P11035	GO Function	GO:0043169	Cation binding
+NIA2	3702.P11035	GO Function	GO:0043546	Molybdopterin cofactor binding
+NIA2	3702.P11035	GO Function	GO:0046857	Oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor
+NIA2	3702.P11035	GO Function	GO:0046872	Metal ion binding
+NIA2	3702.P11035	GO Function	GO:0046906	Tetrapyrrole binding
+NIA2	3702.P11035	GO Function	GO:0046914	Transition metal ion binding
+NIA2	3702.P11035	GO Function	GO:0050463	Nitrate reductase [NAD(P)H] activity
+NIA2	3702.P11035	GO Function	GO:0050464	Nitrate reductase (NADPH) activity
+NIA2	3702.P11035	GO Function	GO:0050660	Flavin adenine dinucleotide binding
+NIA2	3702.P11035	GO Function	GO:0071949	FAD binding
+NIA2	3702.P11035	GO Function	GO:1901265	Nucleoside phosphate binding
+NIA2	3702.P11035	GO Function	GO:1901363	Heterocyclic compound binding
+NIA2	3702.P11035	GO Component	GO:0000325	Plant-type vacuole
+NIA2	3702.P11035	GO Component	GO:0005622	Intracellular anatomical structure
+NIA2	3702.P11035	GO Component	GO:0005634	Nucleus
+NIA2	3702.P11035	GO Component	GO:0005737	Cytoplasm
+NIA2	3702.P11035	GO Component	GO:0005773	Vacuole
+NIA2	3702.P11035	GO Component	GO:0043226	Organelle
+NIA2	3702.P11035	GO Component	GO:0043227	Membrane-bounded organelle
+NIA2	3702.P11035	GO Component	GO:0043229	Intracellular organelle
+NIA2	3702.P11035	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+NIA2	3702.P11035	GO Component	GO:0110165	Cellular anatomical structure
+NIA2	3702.P11035	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+NIA2	3702.P11035	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA2	3702.P11035	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA2	3702.P11035	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA2	3702.P11035	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIA2	3702.P11035	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NIA2	3702.P11035	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+NIA2	3702.P11035	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NIA2	3702.P11035	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+NIA2	3702.P11035	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+NIA2	3702.P11035	STRING clusters	CL:36332	Nitrogen cycle, and Herbicide resistance
+NIA2	3702.P11035	KEGG	ath00910	Nitrogen metabolism
+NIA2	3702.P11035	KEGG	ath01100	Metabolic pathways
+NIA2	3702.P11035	KEGG	ath01310	Nitrogen cycle
+NIA2	3702.P11035	Reactome	MAP-1430728	Metabolism
+NIA2	3702.P11035	WikiPathways	WP3860	Glucose sensing and signaling
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0000325	Plant-type vacuole
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0005737	Cytoplasm
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0005773	Vacuole
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0009325	Nitrate reductase complex
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0043226	Organelle
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+NIA2	3702.P11035	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NIA2	3702.P11035	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+NIA2	3702.P11035	UniProt Keywords	KW-0274	FAD
+NIA2	3702.P11035	UniProt Keywords	KW-0285	Flavoprotein
+NIA2	3702.P11035	UniProt Keywords	KW-0349	Heme
+NIA2	3702.P11035	UniProt Keywords	KW-0359	Herbicide resistance
+NIA2	3702.P11035	UniProt Keywords	KW-0408	Iron
+NIA2	3702.P11035	UniProt Keywords	KW-0479	Metal-binding
+NIA2	3702.P11035	UniProt Keywords	KW-0500	Molybdenum
+NIA2	3702.P11035	UniProt Keywords	KW-0520	NAD
+NIA2	3702.P11035	UniProt Keywords	KW-0534	Nitrate assimilation
+NIA2	3702.P11035	UniProt Keywords	KW-0560	Oxidoreductase
+NIA2	3702.P11035	UniProt Keywords	KW-1015	Disulfide bond
+NIA2	3702.P11035	Pfam	PF00174	Oxidoreductase molybdopterin binding domain
+NIA2	3702.P11035	Pfam	PF00175	Oxidoreductase NAD-binding domain 
+NIA2	3702.P11035	Pfam	PF00970	Oxidoreductase FAD-binding domain
+NIA2	3702.P11035	Pfam	PF03404	Mo-co oxidoreductase dimerisation domain
+NIA2	3702.P11035	InterPro	IPR000572	Oxidoreductase, molybdopterin-binding domain
+NIA2	3702.P11035	InterPro	IPR001199	Cytochrome b5-like heme/steroid binding domain
+NIA2	3702.P11035	InterPro	IPR001433	Oxidoreductase FAD/NAD(P)-binding
+NIA2	3702.P11035	InterPro	IPR001709	Flavoprotein pyridine nucleotide cytochrome reductase
+NIA2	3702.P11035	InterPro	IPR005066	Moybdenum cofactor oxidoreductase, dimerisation
+NIA2	3702.P11035	InterPro	IPR008333	Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
+NIA2	3702.P11035	InterPro	IPR008335	Eukaryotic molybdopterin oxidoreductase
+NIA2	3702.P11035	InterPro	IPR012137	Nitrate reductase NADH dependent
+NIA2	3702.P11035	InterPro	IPR014756	Immunoglobulin E-set
+NIA2	3702.P11035	InterPro	IPR017927	FAD-binding domain, ferredoxin reductase-type
+NIA2	3702.P11035	InterPro	IPR017938	Riboflavin synthase-like beta-barrel
+NIA2	3702.P11035	InterPro	IPR018506	Cytochrome b5, heme-binding site
+NIA2	3702.P11035	InterPro	IPR022407	Oxidoreductase, molybdopterin binding site
+NIA2	3702.P11035	InterPro	IPR036374	Oxidoreductase, molybdopterin-binding domain superfamily
+NIA2	3702.P11035	InterPro	IPR036400	Cytochrome b5-like heme/steroid binding domain superfamily
+NIA2	3702.P11035	InterPro	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain
+NIA2	3702.P11035	SMART	SM01117	Cytochrome b5-like Heme/Steroid binding domain
+NIR1	3702.Q39161	GO Process	GO:0006082	Organic acid metabolic process
+NIR1	3702.Q39161	GO Process	GO:0008152	Metabolic process
+NIR1	3702.Q39161	GO Process	GO:0009987	Cellular process
+NIR1	3702.Q39161	GO Process	GO:0010167	Response to nitrate
+NIR1	3702.Q39161	GO Process	GO:0042126	Nitrate metabolic process
+NIR1	3702.Q39161	GO Process	GO:0042128	Nitrate assimilation
+NIR1	3702.Q39161	GO Process	GO:0042221	Response to chemical
+NIR1	3702.Q39161	GO Process	GO:0043436	Oxoacid metabolic process
+NIR1	3702.Q39161	GO Process	GO:0044281	Small molecule metabolic process
+NIR1	3702.Q39161	GO Process	GO:0050896	Response to stimulus
+NIR1	3702.Q39161	GO Process	GO:0071941	Nitrogen cycle metabolic process
+NIR1	3702.Q39161	GO Process	GO:0097164	Ammonium ion metabolic process
+NIR1	3702.Q39161	GO Process	GO:1901698	Response to nitrogen compound
+NIR1	3702.Q39161	GO Process	GO:1901700	Response to oxygen-containing compound
+NIR1	3702.Q39161	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+NIR1	3702.Q39161	GO Function	GO:0003824	Catalytic activity
+NIR1	3702.Q39161	GO Function	GO:0005488	Binding
+NIR1	3702.Q39161	GO Function	GO:0016491	Oxidoreductase activity
+NIR1	3702.Q39161	GO Function	GO:0016661	Oxidoreductase activity, acting on other nitrogenous compounds as donors
+NIR1	3702.Q39161	GO Function	GO:0016662	Oxidoreductase activity, acting on other nitrogenous compounds as donors, cytochrome as acceptor
+NIR1	3702.Q39161	GO Function	GO:0016664	Oxidoreductase activity, acting on other nitrogenous compounds as donors, iron-sulfur protein as acceptor
+NIR1	3702.Q39161	GO Function	GO:0020037	Heme binding
+NIR1	3702.Q39161	GO Function	GO:0036094	Small molecule binding
+NIR1	3702.Q39161	GO Function	GO:0043167	Ion binding
+NIR1	3702.Q39161	GO Function	GO:0043169	Cation binding
+NIR1	3702.Q39161	GO Function	GO:0046872	Metal ion binding
+NIR1	3702.Q39161	GO Function	GO:0046906	Tetrapyrrole binding
+NIR1	3702.Q39161	GO Function	GO:0048307	Ferredoxin-nitrite reductase activity
+NIR1	3702.Q39161	GO Function	GO:0050421	Nitrite reductase (NO-forming) activity
+NIR1	3702.Q39161	GO Function	GO:0051536	Iron-sulfur cluster binding
+NIR1	3702.Q39161	GO Function	GO:0051539	4 iron, 4 sulfur cluster binding
+NIR1	3702.Q39161	GO Function	GO:0051540	Metal cluster binding
+NIR1	3702.Q39161	GO Function	GO:0098809	Nitrite reductase activity
+NIR1	3702.Q39161	GO Component	GO:0005576	Extracellular region
+NIR1	3702.Q39161	GO Component	GO:0005622	Intracellular anatomical structure
+NIR1	3702.Q39161	GO Component	GO:0005737	Cytoplasm
+NIR1	3702.Q39161	GO Component	GO:0005739	Mitochondrion
+NIR1	3702.Q39161	GO Component	GO:0005829	Cytosol
+NIR1	3702.Q39161	GO Component	GO:0009507	Chloroplast
+NIR1	3702.Q39161	GO Component	GO:0009532	Plastid stroma
+NIR1	3702.Q39161	GO Component	GO:0009536	Plastid
+NIR1	3702.Q39161	GO Component	GO:0009570	Chloroplast stroma
+NIR1	3702.Q39161	GO Component	GO:0043226	Organelle
+NIR1	3702.Q39161	GO Component	GO:0043227	Membrane-bounded organelle
+NIR1	3702.Q39161	GO Component	GO:0043229	Intracellular organelle
+NIR1	3702.Q39161	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+NIR1	3702.Q39161	GO Component	GO:0048046	Apoplast
+NIR1	3702.Q39161	GO Component	GO:0110165	Cellular anatomical structure
+NIR1	3702.Q39161	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+NIR1	3702.Q39161	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIR1	3702.Q39161	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIR1	3702.Q39161	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIR1	3702.Q39161	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NIR1	3702.Q39161	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NIR1	3702.Q39161	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+NIR1	3702.Q39161	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NIR1	3702.Q39161	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+NIR1	3702.Q39161	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+NIR1	3702.Q39161	STRING clusters	CL:36332	Nitrogen cycle, and Herbicide resistance
+NIR1	3702.Q39161	KEGG	ath00910	Nitrogen metabolism
+NIR1	3702.Q39161	KEGG	ath01100	Metabolic pathways
+NIR1	3702.Q39161	KEGG	ath01310	Nitrogen cycle
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0005576	Extracellular region
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0005737	Cytoplasm
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0005739	Mitochondrion
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0009342	Glutamate synthase complex (NADPH)
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0009507	Chloroplast
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0009532	Plastid stroma
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0009536	Plastid
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0031026	Glutamate synthase complex
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0043226	Organelle
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0048046	Apoplast
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NIR1	3702.Q39161	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+NIR1	3702.Q39161	UniProt Keywords	KW-0004	4Fe-4S
+NIR1	3702.Q39161	UniProt Keywords	KW-0150	Chloroplast
+NIR1	3702.Q39161	UniProt Keywords	KW-0249	Electron transport
+NIR1	3702.Q39161	UniProt Keywords	KW-0349	Heme
+NIR1	3702.Q39161	UniProt Keywords	KW-0408	Iron
+NIR1	3702.Q39161	UniProt Keywords	KW-0411	Iron-sulfur
+NIR1	3702.Q39161	UniProt Keywords	KW-0479	Metal-binding
+NIR1	3702.Q39161	UniProt Keywords	KW-0534	Nitrate assimilation
+NIR1	3702.Q39161	UniProt Keywords	KW-0560	Oxidoreductase
+NIR1	3702.Q39161	UniProt Keywords	KW-0677	Repeat
+NIR1	3702.Q39161	UniProt Keywords	KW-0809	Transit peptide
+NIR1	3702.Q39161	UniProt Keywords	KW-0813	Transport
+NIR1	3702.Q39161	UniProt Keywords	KW-0832	Ubl conjugation
+NIR1	3702.Q39161	UniProt Keywords	KW-0934	Plastid
+NIR1	3702.Q39161	UniProt Keywords	KW-1017	Isopeptide bond
+NIR1	3702.Q39161	Pfam	PF01077	Nitrite and sulphite reductase 4Fe-4S domain
+NIR1	3702.Q39161	Pfam	PF03460	Nitrite/Sulfite reductase ferredoxin-like half domain
+NIR1	3702.Q39161	InterPro	IPR005117	Nitrite/Sulfite reductase ferredoxin-like domain
+NIR1	3702.Q39161	InterPro	IPR006066	Nitrite/sulphite reductase iron-sulphur/sirohaem-binding site
+NIR1	3702.Q39161	InterPro	IPR006067	Nitrite/sulphite reductase 4Fe-4S domain
+NIR1	3702.Q39161	InterPro	IPR036136	Nitrite/Sulfite reductase ferredoxin-like domain superfamily
+NIR1	3702.Q39161	InterPro	IPR045854	Nitrite and sulphite reductase 4Fe-4S domain-like superfamily
+NIR1	3702.Q39161	InterPro	IPR051329	Nitrite and Sulfite Reductase 4Fe-4S Domain-Containing Protein
+NLP7	3702.Q84TH9	GO Process	GO:0001101	Response to acid chemical
+NLP7	3702.Q84TH9	GO Process	GO:0006082	Organic acid metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0006355	Regulation of DNA-templated transcription
+NLP7	3702.Q84TH9	GO Process	GO:0006950	Response to stress
+NLP7	3702.Q84TH9	GO Process	GO:0008152	Metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0009414	Response to water deprivation
+NLP7	3702.Q84TH9	GO Process	GO:0009415	Response to water
+NLP7	3702.Q84TH9	GO Process	GO:0009628	Response to abiotic stimulus
+NLP7	3702.Q84TH9	GO Process	GO:0009889	Regulation of biosynthetic process
+NLP7	3702.Q84TH9	GO Process	GO:0009987	Cellular process
+NLP7	3702.Q84TH9	GO Process	GO:0010118	Stomatal movement
+NLP7	3702.Q84TH9	GO Process	GO:0010167	Response to nitrate
+NLP7	3702.Q84TH9	GO Process	GO:0010468	Regulation of gene expression
+NLP7	3702.Q84TH9	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+NLP7	3702.Q84TH9	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0019222	Regulation of metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0042126	Nitrate metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0042128	Nitrate assimilation
+NLP7	3702.Q84TH9	GO Process	GO:0042221	Response to chemical
+NLP7	3702.Q84TH9	GO Process	GO:0043436	Oxoacid metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0044281	Small molecule metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0050789	Regulation of biological process
+NLP7	3702.Q84TH9	GO Process	GO:0050794	Regulation of cellular process
+NLP7	3702.Q84TH9	GO Process	GO:0050896	Response to stimulus
+NLP7	3702.Q84TH9	GO Process	GO:0051252	Regulation of RNA metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0065007	Biological regulation
+NLP7	3702.Q84TH9	GO Process	GO:0071941	Nitrogen cycle metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0080090	Regulation of primary metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:0097164	Ammonium ion metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:1901698	Response to nitrogen compound
+NLP7	3702.Q84TH9	GO Process	GO:1901700	Response to oxygen-containing compound
+NLP7	3702.Q84TH9	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+NLP7	3702.Q84TH9	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+NLP7	3702.Q84TH9	GO Function	GO:0000976	Transcription cis-regulatory region binding
+NLP7	3702.Q84TH9	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+NLP7	3702.Q84TH9	GO Function	GO:0001046	Core promoter sequence-specific DNA binding
+NLP7	3702.Q84TH9	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+NLP7	3702.Q84TH9	GO Function	GO:0003676	Nucleic acid binding
+NLP7	3702.Q84TH9	GO Function	GO:0003677	DNA binding
+NLP7	3702.Q84TH9	GO Function	GO:0003690	Double-stranded DNA binding
+NLP7	3702.Q84TH9	GO Function	GO:0003700	DNA-binding transcription factor activity
+NLP7	3702.Q84TH9	GO Function	GO:0005488	Binding
+NLP7	3702.Q84TH9	GO Function	GO:0043565	Sequence-specific DNA binding
+NLP7	3702.Q84TH9	GO Function	GO:0140110	Transcription regulator activity
+NLP7	3702.Q84TH9	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+NLP7	3702.Q84TH9	GO Component	GO:0005622	Intracellular anatomical structure
+NLP7	3702.Q84TH9	GO Component	GO:0005634	Nucleus
+NLP7	3702.Q84TH9	GO Component	GO:0043226	Organelle
+NLP7	3702.Q84TH9	GO Component	GO:0043227	Membrane-bounded organelle
+NLP7	3702.Q84TH9	GO Component	GO:0043229	Intracellular organelle
+NLP7	3702.Q84TH9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+NLP7	3702.Q84TH9	GO Component	GO:0110165	Cellular anatomical structure
+NLP7	3702.Q84TH9	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+NLP7	3702.Q84TH9	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NLP7	3702.Q84TH9	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NLP7	3702.Q84TH9	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NLP7	3702.Q84TH9	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NLP7	3702.Q84TH9	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NLP7	3702.Q84TH9	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+NLP7	3702.Q84TH9	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NLP7	3702.Q84TH9	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+NLP7	3702.Q84TH9	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+NLP7	3702.Q84TH9	STRING clusters	CL:36332	Nitrogen cycle, and Herbicide resistance
+NLP7	3702.Q84TH9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+NLP7	3702.Q84TH9	COMPARTMENTS	GOCC:0005634	Nucleus
+NLP7	3702.Q84TH9	COMPARTMENTS	GOCC:0043226	Organelle
+NLP7	3702.Q84TH9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+NLP7	3702.Q84TH9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+NLP7	3702.Q84TH9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+NLP7	3702.Q84TH9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NLP7	3702.Q84TH9	UniProt Keywords	KW-0175	Coiled coil
+NLP7	3702.Q84TH9	UniProt Keywords	KW-0238	DNA-binding
+NLP7	3702.Q84TH9	UniProt Keywords	KW-0539	Nucleus
+NLP7	3702.Q84TH9	UniProt Keywords	KW-0804	Transcription
+NLP7	3702.Q84TH9	UniProt Keywords	KW-0805	Transcription regulation
+NLP7	3702.Q84TH9	Pfam	PF02042	RWP-RK domain
+NLP7	3702.Q84TH9	InterPro	IPR000270	PB1 domain
+NLP7	3702.Q84TH9	InterPro	IPR003035	RWP-RK domain
+NLP7	3702.Q84TH9	InterPro	IPR034891	Protein NLP, PB1 domain
+NLP7	3702.Q84TH9	InterPro	IPR045012	Protein NLP
+NLP7	3702.Q84TH9	InterPro	IPR053793	PB1-like domain
+NLP7	3702.Q84TH9	InterPro	IPR055081	NLP1-9, GAF domain
+NLP7	3702.Q84TH9	SMART	SM00666	PB1 domain
+NPF6.3	3702.Q05085	GO Process	GO:0001101	Response to acid chemical
+NPF6.3	3702.Q05085	GO Process	GO:0003006	Developmental process involved in reproduction
+NPF6.3	3702.Q05085	GO Process	GO:0006082	Organic acid metabolic process
+NPF6.3	3702.Q05085	GO Process	GO:0006810	Transport
+NPF6.3	3702.Q05085	GO Process	GO:0006857	Oligopeptide transport
+NPF6.3	3702.Q05085	GO Process	GO:0006950	Response to stress
+NPF6.3	3702.Q05085	GO Process	GO:0007154	Cell communication
+NPF6.3	3702.Q05085	GO Process	GO:0007165	Signal transduction
+NPF6.3	3702.Q05085	GO Process	GO:0007275	Multicellular organism development
+NPF6.3	3702.Q05085	GO Process	GO:0008152	Metabolic process
+NPF6.3	3702.Q05085	GO Process	GO:0009314	Response to radiation
+NPF6.3	3702.Q05085	GO Process	GO:0009414	Response to water deprivation
+NPF6.3	3702.Q05085	GO Process	GO:0009415	Response to water
+NPF6.3	3702.Q05085	GO Process	GO:0009416	Response to light stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0009628	Response to abiotic stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0009635	Response to herbicide
+NPF6.3	3702.Q05085	GO Process	GO:0009636	Response to toxic substance
+NPF6.3	3702.Q05085	GO Process	GO:0009648	Photoperiodism
+NPF6.3	3702.Q05085	GO Process	GO:0009719	Response to endogenous stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0009725	Response to hormone
+NPF6.3	3702.Q05085	GO Process	GO:0009733	Response to auxin
+NPF6.3	3702.Q05085	GO Process	GO:0009734	Auxin-activated signaling pathway
+NPF6.3	3702.Q05085	GO Process	GO:0009755	Hormone-mediated signaling pathway
+NPF6.3	3702.Q05085	GO Process	GO:0009791	Post-embryonic development
+NPF6.3	3702.Q05085	GO Process	GO:0009914	Hormone transport
+NPF6.3	3702.Q05085	GO Process	GO:0009926	Auxin polar transport
+NPF6.3	3702.Q05085	GO Process	GO:0009987	Cellular process
+NPF6.3	3702.Q05085	GO Process	GO:0010167	Response to nitrate
+NPF6.3	3702.Q05085	GO Process	GO:0010228	Vegetative to reproductive phase transition of meristem
+NPF6.3	3702.Q05085	GO Process	GO:0010540	Basipetal auxin transport
+NPF6.3	3702.Q05085	GO Process	GO:0010817	Regulation of hormone levels
+NPF6.3	3702.Q05085	GO Process	GO:0015698	Inorganic anion transport
+NPF6.3	3702.Q05085	GO Process	GO:0015706	Nitrate transmembrane transport
+NPF6.3	3702.Q05085	GO Process	GO:0015833	Peptide transport
+NPF6.3	3702.Q05085	GO Process	GO:0022414	Reproductive process
+NPF6.3	3702.Q05085	GO Process	GO:0022622	Root system development
+NPF6.3	3702.Q05085	GO Process	GO:0023052	Signaling
+NPF6.3	3702.Q05085	GO Process	GO:0032501	Multicellular organismal process
+NPF6.3	3702.Q05085	GO Process	GO:0032502	Developmental process
+NPF6.3	3702.Q05085	GO Process	GO:0032870	Cellular response to hormone stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0042126	Nitrate metabolic process
+NPF6.3	3702.Q05085	GO Process	GO:0042128	Nitrate assimilation
+NPF6.3	3702.Q05085	GO Process	GO:0042221	Response to chemical
+NPF6.3	3702.Q05085	GO Process	GO:0042886	Amide transport
+NPF6.3	3702.Q05085	GO Process	GO:0043436	Oxoacid metabolic process
+NPF6.3	3702.Q05085	GO Process	GO:0044281	Small molecule metabolic process
+NPF6.3	3702.Q05085	GO Process	GO:0048364	Root development
+NPF6.3	3702.Q05085	GO Process	GO:0048527	Lateral root development
+NPF6.3	3702.Q05085	GO Process	GO:0048528	Post-embryonic root development
+NPF6.3	3702.Q05085	GO Process	GO:0048573	Photoperiodism, flowering
+NPF6.3	3702.Q05085	GO Process	GO:0048608	Reproductive structure development
+NPF6.3	3702.Q05085	GO Process	GO:0048731	System development
+NPF6.3	3702.Q05085	GO Process	GO:0048856	Anatomical structure development
+NPF6.3	3702.Q05085	GO Process	GO:0050789	Regulation of biological process
+NPF6.3	3702.Q05085	GO Process	GO:0050794	Regulation of cellular process
+NPF6.3	3702.Q05085	GO Process	GO:0050896	Response to stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0051179	Localization
+NPF6.3	3702.Q05085	GO Process	GO:0051234	Establishment of localization
+NPF6.3	3702.Q05085	GO Process	GO:0051716	Cellular response to stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0055085	Transmembrane transport
+NPF6.3	3702.Q05085	GO Process	GO:0060918	Auxin transport
+NPF6.3	3702.Q05085	GO Process	GO:0061458	Reproductive system development
+NPF6.3	3702.Q05085	GO Process	GO:0065007	Biological regulation
+NPF6.3	3702.Q05085	GO Process	GO:0065008	Regulation of biological quality
+NPF6.3	3702.Q05085	GO Process	GO:0070887	Cellular response to chemical stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0071365	Cellular response to auxin stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0071495	Cellular response to endogenous stimulus
+NPF6.3	3702.Q05085	GO Process	GO:0071705	Nitrogen compound transport
+NPF6.3	3702.Q05085	GO Process	GO:0071941	Nitrogen cycle metabolic process
+NPF6.3	3702.Q05085	GO Process	GO:0090696	Post-embryonic plant organ development
+NPF6.3	3702.Q05085	GO Process	GO:0097164	Ammonium ion metabolic process
+NPF6.3	3702.Q05085	GO Process	GO:0098660	Inorganic ion transmembrane transport
+NPF6.3	3702.Q05085	GO Process	GO:0098661	Inorganic anion transmembrane transport
+NPF6.3	3702.Q05085	GO Process	GO:0099402	Plant organ development
+NPF6.3	3702.Q05085	GO Process	GO:1901698	Response to nitrogen compound
+NPF6.3	3702.Q05085	GO Process	GO:1901700	Response to oxygen-containing compound
+NPF6.3	3702.Q05085	GO Process	GO:1902025	Nitrate import
+NPF6.3	3702.Q05085	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+NPF6.3	3702.Q05085	GO Function	GO:0005215	Transporter activity
+NPF6.3	3702.Q05085	GO Function	GO:0005488	Binding
+NPF6.3	3702.Q05085	GO Function	GO:0005515	Protein binding
+NPF6.3	3702.Q05085	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+NPF6.3	3702.Q05085	GO Function	GO:0015112	Nitrate transmembrane transporter activity
+NPF6.3	3702.Q05085	GO Function	GO:0015291	Secondary active transmembrane transporter activity
+NPF6.3	3702.Q05085	GO Function	GO:0015293	Symporter activity
+NPF6.3	3702.Q05085	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+NPF6.3	3702.Q05085	GO Function	GO:0022804	Active transmembrane transporter activity
+NPF6.3	3702.Q05085	GO Function	GO:0022857	Transmembrane transporter activity
+NPF6.3	3702.Q05085	GO Component	GO:0005886	Plasma membrane
+NPF6.3	3702.Q05085	GO Component	GO:0016020	Membrane
+NPF6.3	3702.Q05085	GO Component	GO:0071944	Cell periphery
+NPF6.3	3702.Q05085	GO Component	GO:0110165	Cellular anatomical structure
+NPF6.3	3702.Q05085	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+NPF6.3	3702.Q05085	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NPF6.3	3702.Q05085	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NPF6.3	3702.Q05085	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NPF6.3	3702.Q05085	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NPF6.3	3702.Q05085	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NPF6.3	3702.Q05085	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+NPF6.3	3702.Q05085	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NPF6.3	3702.Q05085	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+NPF6.3	3702.Q05085	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+NPF6.3	3702.Q05085	STRING clusters	CL:36332	Nitrogen cycle, and Herbicide resistance
+NPF6.3	3702.Q05085	Reactome	MAP-382551	Transport of small molecules
+NPF6.3	3702.Q05085	Reactome	MAP-425407	SLC-mediated transmembrane transport
+NPF6.3	3702.Q05085	Reactome	MAP-427975	Proton/oligopeptide cotransporters
+NPF6.3	3702.Q05085	Reactome	MAP-9959399	SLC-mediated transport of oligopeptides
+NPF6.3	3702.Q05085	COMPARTMENTS	GOCC:0005886	Plasma membrane
+NPF6.3	3702.Q05085	COMPARTMENTS	GOCC:0016020	Membrane
+NPF6.3	3702.Q05085	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+NPF6.3	3702.Q05085	COMPARTMENTS	GOCC:0071944	Cell periphery
+NPF6.3	3702.Q05085	COMPARTMENTS	GOCC:0110067	Ammonium transmembrane transporter complex
+NPF6.3	3702.Q05085	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NPF6.3	3702.Q05085	COMPARTMENTS	GOCC:1902495	Transmembrane transporter complex
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0359	Herbicide resistance
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0472	Membrane
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0534	Nitrate assimilation
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0597	Phosphoprotein
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0769	Symport
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0812	Transmembrane
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0813	Transport
+NPF6.3	3702.Q05085	UniProt Keywords	KW-0927	Auxin signaling pathway
+NPF6.3	3702.Q05085	UniProt Keywords	KW-1133	Transmembrane helix
+NPF6.3	3702.Q05085	Pfam	PF00854	POT family
+NPF6.3	3702.Q05085	InterPro	IPR000109	Proton-dependent oligopeptide transporter family
+NPF6.3	3702.Q05085	InterPro	IPR018456	PTR2 family proton/oligopeptide symporter, conserved site
+NPF6.3	3702.Q05085	InterPro	IPR036259	MFS transporter superfamily
+NRG2	3702.Q93YU8	GO Process	GO:0006810	Transport
+NRG2	3702.Q93YU8	GO Process	GO:0009987	Cellular process
+NRG2	3702.Q93YU8	GO Process	GO:0010167	Response to nitrate
+NRG2	3702.Q93YU8	GO Process	GO:0015698	Inorganic anion transport
+NRG2	3702.Q93YU8	GO Process	GO:0015706	Nitrate transmembrane transport
+NRG2	3702.Q93YU8	GO Process	GO:0042221	Response to chemical
+NRG2	3702.Q93YU8	GO Process	GO:0050896	Response to stimulus
+NRG2	3702.Q93YU8	GO Process	GO:0051179	Localization
+NRG2	3702.Q93YU8	GO Process	GO:0051234	Establishment of localization
+NRG2	3702.Q93YU8	GO Process	GO:0051716	Cellular response to stimulus
+NRG2	3702.Q93YU8	GO Process	GO:0055085	Transmembrane transport
+NRG2	3702.Q93YU8	GO Process	GO:0070887	Cellular response to chemical stimulus
+NRG2	3702.Q93YU8	GO Process	GO:0071249	Cellular response to nitrate
+NRG2	3702.Q93YU8	GO Process	GO:0071705	Nitrogen compound transport
+NRG2	3702.Q93YU8	GO Process	GO:0098660	Inorganic ion transmembrane transport
+NRG2	3702.Q93YU8	GO Process	GO:0098661	Inorganic anion transmembrane transport
+NRG2	3702.Q93YU8	GO Process	GO:1901698	Response to nitrogen compound
+NRG2	3702.Q93YU8	GO Process	GO:1901699	Cellular response to nitrogen compound
+NRG2	3702.Q93YU8	GO Process	GO:1901700	Response to oxygen-containing compound
+NRG2	3702.Q93YU8	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+NRG2	3702.Q93YU8	GO Process	GO:1902025	Nitrate import
+NRG2	3702.Q93YU8	GO Process	GO:1902170	Cellular response to reactive nitrogen species
+NRG2	3702.Q93YU8	GO Function	GO:0005488	Binding
+NRG2	3702.Q93YU8	GO Function	GO:0005515	Protein binding
+NRG2	3702.Q93YU8	GO Component	GO:0005622	Intracellular anatomical structure
+NRG2	3702.Q93YU8	GO Component	GO:0005634	Nucleus
+NRG2	3702.Q93YU8	GO Component	GO:0043226	Organelle
+NRG2	3702.Q93YU8	GO Component	GO:0043227	Membrane-bounded organelle
+NRG2	3702.Q93YU8	GO Component	GO:0043229	Intracellular organelle
+NRG2	3702.Q93YU8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+NRG2	3702.Q93YU8	GO Component	GO:0110165	Cellular anatomical structure
+NRG2	3702.Q93YU8	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+NRG2	3702.Q93YU8	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRG2	3702.Q93YU8	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRG2	3702.Q93YU8	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRG2	3702.Q93YU8	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRG2	3702.Q93YU8	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NRG2	3702.Q93YU8	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+NRG2	3702.Q93YU8	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NRG2	3702.Q93YU8	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+NRG2	3702.Q93YU8	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+NRG2	3702.Q93YU8	STRING clusters	CL:36344	Cellular response to nitrate, and Simple leaf morphogenesis
+NRG2	3702.Q93YU8	WikiPathways	WP2279	Seed development
+NRG2	3702.Q93YU8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+NRG2	3702.Q93YU8	COMPARTMENTS	GOCC:0005634	Nucleus
+NRG2	3702.Q93YU8	COMPARTMENTS	GOCC:0043226	Organelle
+NRG2	3702.Q93YU8	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+NRG2	3702.Q93YU8	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+NRG2	3702.Q93YU8	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+NRG2	3702.Q93YU8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NRG2	3702.Q93YU8	UniProt Keywords	KW-0175	Coiled coil
+NRG2	3702.Q93YU8	UniProt Keywords	KW-0539	Nucleus
+NRG2	3702.Q93YU8	UniProt Keywords	KW-0804	Transcription
+NRG2	3702.Q93YU8	UniProt Keywords	KW-0805	Transcription regulation
+NRG2	3702.Q93YU8	Pfam	PF04782	Protein of unknown function (DUF632)
+NRG2	3702.Q93YU8	Pfam	PF04783	Protein of unknown function (DUF630)
+NRG2	3702.Q93YU8	InterPro	IPR006867	Domain of unknown function DUF632
+NRG2	3702.Q93YU8	InterPro	IPR006868	Domain of unknown function DUF630
+NRT2.1	3702.O82811	GO Process	GO:0006082	Organic acid metabolic process
+NRT2.1	3702.O82811	GO Process	GO:0006810	Transport
+NRT2.1	3702.O82811	GO Process	GO:0007275	Multicellular organism development
+NRT2.1	3702.O82811	GO Process	GO:0008152	Metabolic process
+NRT2.1	3702.O82811	GO Process	GO:0009791	Post-embryonic development
+NRT2.1	3702.O82811	GO Process	GO:0009987	Cellular process
+NRT2.1	3702.O82811	GO Process	GO:0010167	Response to nitrate
+NRT2.1	3702.O82811	GO Process	GO:0015698	Inorganic anion transport
+NRT2.1	3702.O82811	GO Process	GO:0015706	Nitrate transmembrane transport
+NRT2.1	3702.O82811	GO Process	GO:0022622	Root system development
+NRT2.1	3702.O82811	GO Process	GO:0032501	Multicellular organismal process
+NRT2.1	3702.O82811	GO Process	GO:0032502	Developmental process
+NRT2.1	3702.O82811	GO Process	GO:0042126	Nitrate metabolic process
+NRT2.1	3702.O82811	GO Process	GO:0042128	Nitrate assimilation
+NRT2.1	3702.O82811	GO Process	GO:0042221	Response to chemical
+NRT2.1	3702.O82811	GO Process	GO:0043436	Oxoacid metabolic process
+NRT2.1	3702.O82811	GO Process	GO:0044281	Small molecule metabolic process
+NRT2.1	3702.O82811	GO Process	GO:0048364	Root development
+NRT2.1	3702.O82811	GO Process	GO:0048527	Lateral root development
+NRT2.1	3702.O82811	GO Process	GO:0048528	Post-embryonic root development
+NRT2.1	3702.O82811	GO Process	GO:0048731	System development
+NRT2.1	3702.O82811	GO Process	GO:0048856	Anatomical structure development
+NRT2.1	3702.O82811	GO Process	GO:0050896	Response to stimulus
+NRT2.1	3702.O82811	GO Process	GO:0051179	Localization
+NRT2.1	3702.O82811	GO Process	GO:0051234	Establishment of localization
+NRT2.1	3702.O82811	GO Process	GO:0051716	Cellular response to stimulus
+NRT2.1	3702.O82811	GO Process	GO:0055085	Transmembrane transport
+NRT2.1	3702.O82811	GO Process	GO:0070887	Cellular response to chemical stimulus
+NRT2.1	3702.O82811	GO Process	GO:0071249	Cellular response to nitrate
+NRT2.1	3702.O82811	GO Process	GO:0071705	Nitrogen compound transport
+NRT2.1	3702.O82811	GO Process	GO:0071941	Nitrogen cycle metabolic process
+NRT2.1	3702.O82811	GO Process	GO:0090696	Post-embryonic plant organ development
+NRT2.1	3702.O82811	GO Process	GO:0097164	Ammonium ion metabolic process
+NRT2.1	3702.O82811	GO Process	GO:0098660	Inorganic ion transmembrane transport
+NRT2.1	3702.O82811	GO Process	GO:0098661	Inorganic anion transmembrane transport
+NRT2.1	3702.O82811	GO Process	GO:0099402	Plant organ development
+NRT2.1	3702.O82811	GO Process	GO:1901698	Response to nitrogen compound
+NRT2.1	3702.O82811	GO Process	GO:1901699	Cellular response to nitrogen compound
+NRT2.1	3702.O82811	GO Process	GO:1901700	Response to oxygen-containing compound
+NRT2.1	3702.O82811	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+NRT2.1	3702.O82811	GO Process	GO:1902025	Nitrate import
+NRT2.1	3702.O82811	GO Process	GO:1902170	Cellular response to reactive nitrogen species
+NRT2.1	3702.O82811	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+NRT2.1	3702.O82811	GO Function	GO:0005215	Transporter activity
+NRT2.1	3702.O82811	GO Function	GO:0015103	Inorganic anion transmembrane transporter activity
+NRT2.1	3702.O82811	GO Function	GO:0015112	Nitrate transmembrane transporter activity
+NRT2.1	3702.O82811	GO Function	GO:0015318	Inorganic molecular entity transmembrane transporter activity
+NRT2.1	3702.O82811	GO Function	GO:0022857	Transmembrane transporter activity
+NRT2.1	3702.O82811	GO Component	GO:0005886	Plasma membrane
+NRT2.1	3702.O82811	GO Component	GO:0016020	Membrane
+NRT2.1	3702.O82811	GO Component	GO:0071944	Cell periphery
+NRT2.1	3702.O82811	GO Component	GO:0110165	Cellular anatomical structure
+NRT2.1	3702.O82811	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+NRT2.1	3702.O82811	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRT2.1	3702.O82811	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRT2.1	3702.O82811	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRT2.1	3702.O82811	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+NRT2.1	3702.O82811	STRING clusters	CL:36324	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NRT2.1	3702.O82811	STRING clusters	CL:36325	Nitrate assimilation, and Ammonia transport
+NRT2.1	3702.O82811	STRING clusters	CL:36327	Mixed, incl. Nitrate assimilation, and Ammonia transport
+NRT2.1	3702.O82811	STRING clusters	CL:36328	Response to nitrate, and Nitrate reductase NADH dependent
+NRT2.1	3702.O82811	STRING clusters	CL:36330	Mixed, incl. Nitrogen cycle, and Cellular response to nitrate
+NRT2.1	3702.O82811	STRING clusters	CL:36332	Nitrogen cycle, and Herbicide resistance
+NRT2.1	3702.O82811	KEGG	ath00910	Nitrogen metabolism
+NRT2.1	3702.O82811	COMPARTMENTS	GOCC:0005886	Plasma membrane
+NRT2.1	3702.O82811	COMPARTMENTS	GOCC:0016020	Membrane
+NRT2.1	3702.O82811	COMPARTMENTS	GOCC:0071944	Cell periphery
+NRT2.1	3702.O82811	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NRT2.1	3702.O82811	UniProt Keywords	KW-0472	Membrane
+NRT2.1	3702.O82811	UniProt Keywords	KW-0534	Nitrate assimilation
+NRT2.1	3702.O82811	UniProt Keywords	KW-0597	Phosphoprotein
+NRT2.1	3702.O82811	UniProt Keywords	KW-0812	Transmembrane
+NRT2.1	3702.O82811	UniProt Keywords	KW-1003	Cell membrane
+NRT2.1	3702.O82811	UniProt Keywords	KW-1133	Transmembrane helix
+NRT2.1	3702.O82811	Pfam	PF07690	Major Facilitator Superfamily
+NRT2.1	3702.O82811	InterPro	IPR011701	Major facilitator superfamily
+NRT2.1	3702.O82811	InterPro	IPR036259	MFS transporter superfamily
+NRT2.1	3702.O82811	InterPro	IPR044772	Nitrate transporter
+TGA1	3702.Q39237	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+TGA1	3702.Q39237	GO Process	GO:0006351	DNA-templated transcription
+TGA1	3702.Q39237	GO Process	GO:0006355	Regulation of DNA-templated transcription
+TGA1	3702.Q39237	GO Process	GO:0006950	Response to stress
+TGA1	3702.Q39237	GO Process	GO:0006952	Defense response
+TGA1	3702.Q39237	GO Process	GO:0008152	Metabolic process
+TGA1	3702.Q39237	GO Process	GO:0009058	Biosynthetic process
+TGA1	3702.Q39237	GO Process	GO:0009059	Macromolecule biosynthetic process
+TGA1	3702.Q39237	GO Process	GO:0009605	Response to external stimulus
+TGA1	3702.Q39237	GO Process	GO:0009607	Response to biotic stimulus
+TGA1	3702.Q39237	GO Process	GO:0009617	Response to bacterium
+TGA1	3702.Q39237	GO Process	GO:0009889	Regulation of biosynthetic process
+TGA1	3702.Q39237	GO Process	GO:0009987	Cellular process
+TGA1	3702.Q39237	GO Process	GO:0010467	Gene expression
+TGA1	3702.Q39237	GO Process	GO:0010468	Regulation of gene expression
+TGA1	3702.Q39237	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+TGA1	3702.Q39237	GO Process	GO:0016070	RNA metabolic process
+TGA1	3702.Q39237	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+TGA1	3702.Q39237	GO Process	GO:0019222	Regulation of metabolic process
+TGA1	3702.Q39237	GO Process	GO:0032774	RNA biosynthetic process
+TGA1	3702.Q39237	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+TGA1	3702.Q39237	GO Process	GO:0042742	Defense response to bacterium
+TGA1	3702.Q39237	GO Process	GO:0043170	Macromolecule metabolic process
+TGA1	3702.Q39237	GO Process	GO:0043207	Response to external biotic stimulus
+TGA1	3702.Q39237	GO Process	GO:0044238	Primary metabolic process
+TGA1	3702.Q39237	GO Process	GO:0044419	Biological process involved in interspecies interaction between organisms
+TGA1	3702.Q39237	GO Process	GO:0050789	Regulation of biological process
+TGA1	3702.Q39237	GO Process	GO:0050794	Regulation of cellular process
+TGA1	3702.Q39237	GO Process	GO:0050896	Response to stimulus
+TGA1	3702.Q39237	GO Process	GO:0051252	Regulation of RNA metabolic process
+TGA1	3702.Q39237	GO Process	GO:0051707	Response to other organism
+TGA1	3702.Q39237	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+TGA1	3702.Q39237	GO Process	GO:0065007	Biological regulation
+TGA1	3702.Q39237	GO Process	GO:0080090	Regulation of primary metabolic process
+TGA1	3702.Q39237	GO Process	GO:0090304	Nucleic acid metabolic process
+TGA1	3702.Q39237	GO Process	GO:0141187	Nucleic acid biosynthetic process
+TGA1	3702.Q39237	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+TGA1	3702.Q39237	GO Function	GO:0000976	Transcription cis-regulatory region binding
+TGA1	3702.Q39237	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+TGA1	3702.Q39237	GO Function	GO:0003676	Nucleic acid binding
+TGA1	3702.Q39237	GO Function	GO:0003677	DNA binding
+TGA1	3702.Q39237	GO Function	GO:0003690	Double-stranded DNA binding
+TGA1	3702.Q39237	GO Function	GO:0003700	DNA-binding transcription factor activity
+TGA1	3702.Q39237	GO Function	GO:0005488	Binding
+TGA1	3702.Q39237	GO Function	GO:0005515	Protein binding
+TGA1	3702.Q39237	GO Function	GO:0043565	Sequence-specific DNA binding
+TGA1	3702.Q39237	GO Function	GO:0140110	Transcription regulator activity
+TGA1	3702.Q39237	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+TGA1	3702.Q39237	GO Component	GO:0005622	Intracellular anatomical structure
+TGA1	3702.Q39237	GO Component	GO:0005634	Nucleus
+TGA1	3702.Q39237	GO Component	GO:0043226	Organelle
+TGA1	3702.Q39237	GO Component	GO:0043227	Membrane-bounded organelle
+TGA1	3702.Q39237	GO Component	GO:0043229	Intracellular organelle
+TGA1	3702.Q39237	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+TGA1	3702.Q39237	GO Component	GO:0110165	Cellular anatomical structure
+TGA1	3702.Q39237	STRING clusters	CL:36318	Mixed, incl. Nitrate transmembrane transport, and Amino acid transmembrane transporter activity
+TGA1	3702.Q39237	STRING clusters	CL:36319	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+TGA1	3702.Q39237	STRING clusters	CL:36320	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+TGA1	3702.Q39237	STRING clusters	CL:36321	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+TGA1	3702.Q39237	STRING clusters	CL:36322	Mixed, incl. Nitrate transmembrane transport, and Ammonia transport
+TGA1	3702.Q39237	STRING clusters	CL:36406	Mixed, incl. Hydrogen peroxide mediated signaling pathway, and Glutaredoxin-like, plant II
+TGA1	3702.Q39237	STRING clusters	CL:36408	Glutaredoxin-like, plant II, and Seed dormancy control
+TGA1	3702.Q39237	KEGG	ath04075	Plant hormone signal transduction
+TGA1	3702.Q39237	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+TGA1	3702.Q39237	COMPARTMENTS	GOCC:0005634	Nucleus
+TGA1	3702.Q39237	COMPARTMENTS	GOCC:0043226	Organelle
+TGA1	3702.Q39237	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+TGA1	3702.Q39237	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+TGA1	3702.Q39237	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+TGA1	3702.Q39237	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+TGA1	3702.Q39237	UniProt Keywords	KW-0010	Activator
+TGA1	3702.Q39237	UniProt Keywords	KW-0025	Alternative splicing
+TGA1	3702.Q39237	UniProt Keywords	KW-0175	Coiled coil
+TGA1	3702.Q39237	UniProt Keywords	KW-0238	DNA-binding
+TGA1	3702.Q39237	UniProt Keywords	KW-0539	Nucleus
+TGA1	3702.Q39237	UniProt Keywords	KW-0804	Transcription
+TGA1	3702.Q39237	UniProt Keywords	KW-0805	Transcription regulation
+TGA1	3702.Q39237	UniProt Keywords	KW-1015	Disulfide bond
+TGA1	3702.Q39237	Pfam	PF14144	Seed dormancy control
+TGA1	3702.Q39237	InterPro	IPR004827	Basic-leucine zipper domain
+TGA1	3702.Q39237	InterPro	IPR025422	Transcription factor TGA like domain
+TGA1	3702.Q39237	InterPro	IPR046347	Basic-leucine zipper domain superfamily
+TGA1	3702.Q39237	SMART	SM00338	Basic region leucin zipper

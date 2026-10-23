@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+ARF31	3702.Q8GYJ2	0.558094262295082	0.6268339768339769	rgb(101,255,163)	B3 domain-containing protein At2g36080.
+ATHB-21	3702.Q9ZU70	0.5322745901639344	0.13687258687258688	rgb(239,117,117)	Homeobox-leucine zipper protein ATHB-21; Probable transcription factor; Belongs to the HD-ZIP homeobox family. Class I subfamily.
+COL10	3702.Q9LUA9	0.36536885245901635	0.2776061776061776	rgb(101,199,255)	Zinc finger protein CONSTANS-LIKE 10; Belongs to the CONSTANS family.
+COL15	3702.Q9C7E8	0.3146516393442623	0.46872586872586874	rgb(0,178,157)	Zinc finger protein CONSTANS-LIKE 15; Belongs to the CONSTANS family.
+DOF1.3	3702.Q9LQX4	0.6798155737704918	0.2637065637065637	rgb(14,178,0)	Dof zinc finger protein DOF1.3; Transcription factor that binds specifically to a 5'-AA[AG]G- 3' consensus core sequence.
+F14G6.19	3702.Q2HIW3	0.5092213114754098	0.466988416988417	rgb(255,0,0)	PLATZ transcription factor family protein.
+F18O9.70	3702.F4KFT6	0.620799180327869	0.8040540540540541	rgb(255,175,101)	B3 domain-containing protein REM-like 3.
+MGO3.2	3702.Q9FHB0	0.45665983606557375	0.7606177606177607	rgb(178,171,0)	B3 domain-containing protein At5g60140.
+NAC041	3702.O22798	0.5387295081967214	0.7484555984555985	rgb(0,28,178)	NAC domain-containing protein 41; Transcription activator of the mannan synthase CSLA9. Recognizes and binds to DNA-specific sequence of CSLA9 promoter.
+NAC074	3702.Q8GUJ6	0.5451844262295082	0.8718146718146719	rgb(150,101,255)	NAC domain containing protein 74.
+REM22	3702.Q9STF1	0.6392418032786885	0.6737451737451737	rgb(187,255,101)	B3 domain-containing protein REM22.

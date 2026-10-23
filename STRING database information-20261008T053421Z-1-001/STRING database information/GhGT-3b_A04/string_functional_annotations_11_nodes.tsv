@@ -1,0 +1,951 @@
+#node	identifier	category	term ID	term description
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0000160	Phosphorelay signal transduction system
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0006468	Protein phosphorylation
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0006793	Phosphorus metabolic process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0007154	Cell communication
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0007165	Signal transduction
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0008152	Metabolic process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0009719	Response to endogenous stimulus
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0009723	Response to ethylene
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0009725	Response to hormone
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0009755	Hormone-mediated signaling pathway
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0009873	Ethylene-activated signaling pathway
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0009987	Cellular process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0016310	Phosphorylation
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0018193	Peptidyl-amino acid modification
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0018202	Peptidyl-histidine modification
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0019538	Protein metabolic process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0023052	Signaling
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0032870	Cellular response to hormone stimulus
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0035556	Intracellular signal transduction
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0036211	Protein modification process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0042221	Response to chemical
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0043170	Macromolecule metabolic process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0043412	Macromolecule modification
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0044238	Primary metabolic process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0050789	Regulation of biological process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0050794	Regulation of cellular process
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0050896	Response to stimulus
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0051716	Cellular response to stimulus
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0065007	Biological regulation
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0070887	Cellular response to chemical stimulus
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0071369	Cellular response to ethylene stimulus
+LOC107889254	3635.A0A1U8HYT0	GO Process	GO:0071495	Cellular response to endogenous stimulus
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0000166	Nucleotide binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0003824	Catalytic activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0004672	Protein kinase activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0004673	Protein histidine kinase activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0004674	Protein serine/threonine kinase activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0005488	Binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0005524	ATP binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0016301	Kinase activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0016740	Transferase activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0017076	Purine nucleotide binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0030554	Adenyl nucleotide binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0032553	Ribonucleotide binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0032555	Purine ribonucleotide binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0032559	Adenyl ribonucleotide binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0036094	Small molecule binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0038023	Signaling receptor activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0038199	Ethylene receptor activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0043167	Ion binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0043168	Anion binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0043169	Cation binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0046872	Metal ion binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0051740	Ethylene binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0060089	Molecular transducer activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0072328	Alkene binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0097367	Carbohydrate derivative binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0098772	Molecular function regulator activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0140096	Catalytic activity, acting on a protein
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:0140299	Molecular sensor activity
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:1901265	Nucleoside phosphate binding
+LOC107889254	3635.A0A1U8HYT0	GO Function	GO:1901363	Heterocyclic compound binding
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0005737	Cytoplasm
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0005783	Endoplasmic reticulum
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0005789	Endoplasmic reticulum membrane
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0012505	Endomembrane system
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0016020	Membrane
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0031090	Organelle membrane
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0031984	Organelle subcompartment
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0043226	Organelle
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0043229	Intracellular organelle
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+LOC107889254	3635.A0A1U8HYT0	GO Component	GO:0110165	Cellular anatomical structure
+LOC107889254	3635.A0A1U8HYT0	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107889254	3635.A0A1U8HYT0	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107889254	3635.A0A1U8HYT0	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107889254	3635.A0A1U8HYT0	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107889254	3635.A0A1U8HYT0	STRING clusters	CL:47900	Mixed, incl. Plant GATA Transcription Factor, and Ethylene receptor
+LOC107889254	3635.A0A1U8HYT0	STRING clusters	CL:47903	Mixed, incl. Ethylene receptor, and Transcription factor, GATA, plant
+LOC107889254	3635.A0A1U8HYT0	KEGG	ghi04016	MAPK signaling pathway - plant
+LOC107889254	3635.A0A1U8HYT0	KEGG	ghi04075	Plant hormone signal transduction
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-2262752	Cellular responses to stress
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-3371453	Regulation of HSF1-mediated heat shock response
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-3371511	HSF1 activation
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-3371556	Cellular response to heat stress
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-3371568	Attenuation phase
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-3371571	HSF1-dependent transactivation
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-8953897	Cellular responses to stimuli
+LOC107889254	3635.A0A1U8HYT0	Reactome	MAP-9841251	Mitochondrial unfolded protein response (UPRmt)
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0005737	Cytoplasm
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0012505	Endomembrane system
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0043226	Organelle
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LOC107889254	3635.A0A1U8HYT0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0067	ATP-binding
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0175	Coiled coil
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0186	Copper
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0256	Endoplasmic reticulum
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0418	Kinase
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0472	Membrane
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0479	Metal-binding
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0547	Nucleotide-binding
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0597	Phosphoprotein
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0675	Receptor
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0732	Signal
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0808	Transferase
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0812	Transmembrane
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0832	Ubl conjugation
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0902	Two-component regulatory system
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-0936	Ethylene signaling pathway
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-1015	Disulfide bond
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-1017	Isopeptide bond
+LOC107889254	3635.A0A1U8HYT0	UniProt Keywords	KW-1133	Transmembrane helix
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR003018	GAF domain
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR005467	Histidine kinase domain
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR011006	CheY-like superfamily
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR014525	Ethylene receptor
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR029016	GAF-like domain superfamily
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+LOC107889254	3635.A0A1U8HYT0	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+LOC107889254	3635.A0A1U8HYT0	SMART	SM00065	Domain present in phytochromes and cGMP-specific phosphodiesterases.
+LOC107889254	3635.A0A1U8HYT0	SMART	SM00387	Histidine kinase-like ATPases
+LOC107889254	3635.A0A1U8HYT0	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+LOC107889254	3635.A0A1U8HYT0	SMART	SM00448	cheY-homologous receiver domain
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0007623	Circadian rhythm
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0009314	Response to radiation
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0009416	Response to light stimulus
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0009628	Response to abiotic stimulus
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0009891	Positive regulation of biosynthetic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0009893	Positive regulation of metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0009987	Cellular process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0010468	Regulation of gene expression
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0016043	Cellular component organization
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0019222	Regulation of metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0030154	Cell differentiation
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0032502	Developmental process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0045229	External encapsulating structure organization
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0048511	Rhythmic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0048518	Positive regulation of biological process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0048522	Positive regulation of cellular process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0048869	Cellular developmental process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0050789	Regulation of biological process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0050794	Regulation of cellular process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0050896	Response to stimulus
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0065007	Biological regulation
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0071554	Cell wall organization or biogenesis
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0071555	Cell wall organization
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0071840	Cellular component organization or biogenesis
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+LOC107901526	3635.A0A1U8IYA3	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0003676	Nucleic acid binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0003677	DNA binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0003690	Double-stranded DNA binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0005488	Binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0008270	Zinc ion binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0036094	Small molecule binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0043167	Ion binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0043169	Cation binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0043565	Sequence-specific DNA binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0046872	Metal ion binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0046914	Transition metal ion binding
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:0140110	Transcription regulator activity
+LOC107901526	3635.A0A1U8IYA3	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LOC107901526	3635.A0A1U8IYA3	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107901526	3635.A0A1U8IYA3	GO Component	GO:0005634	Nucleus
+LOC107901526	3635.A0A1U8IYA3	GO Component	GO:0043226	Organelle
+LOC107901526	3635.A0A1U8IYA3	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107901526	3635.A0A1U8IYA3	GO Component	GO:0043229	Intracellular organelle
+LOC107901526	3635.A0A1U8IYA3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107901526	3635.A0A1U8IYA3	GO Component	GO:0110165	Cellular anatomical structure
+LOC107901526	3635.A0A1U8IYA3	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107901526	3635.A0A1U8IYA3	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107901526	3635.A0A1U8IYA3	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107901526	3635.A0A1U8IYA3	Reactome	MAP-109582	Hemostasis
+LOC107901526	3635.A0A1U8IYA3	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+LOC107901526	3635.A0A1U8IYA3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LOC107901526	3635.A0A1U8IYA3	COMPARTMENTS	GOCC:0005634	Nucleus
+LOC107901526	3635.A0A1U8IYA3	COMPARTMENTS	GOCC:0043226	Organelle
+LOC107901526	3635.A0A1U8IYA3	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LOC107901526	3635.A0A1U8IYA3	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LOC107901526	3635.A0A1U8IYA3	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LOC107901526	3635.A0A1U8IYA3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0010	Activator
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0238	DNA-binding
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0479	Metal-binding
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0539	Nucleus
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0804	Transcription
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0805	Transcription regulation
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0862	Zinc
+LOC107901526	3635.A0A1U8IYA3	UniProt Keywords	KW-0863	Zinc-finger
+LOC107901526	3635.A0A1U8IYA3	InterPro	IPR000679	Zinc finger, GATA-type
+LOC107901526	3635.A0A1U8IYA3	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+LOC107901526	3635.A0A1U8IYA3	InterPro	IPR016679	Transcription factor, GATA, plant
+LOC107901526	3635.A0A1U8IYA3	InterPro	IPR051140	Plant GATA Transcription Factor
+LOC107901526	3635.A0A1U8IYA3	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0007275	Multicellular organism development
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0007623	Circadian rhythm
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0009791	Post-embryonic development
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0009845	Seed germination
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0009891	Positive regulation of biosynthetic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0009893	Positive regulation of metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0009987	Cellular process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0010468	Regulation of gene expression
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0019222	Regulation of metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0030154	Cell differentiation
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0032501	Multicellular organismal process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0032502	Developmental process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0048511	Rhythmic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0048518	Positive regulation of biological process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0048522	Positive regulation of cellular process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0048856	Anatomical structure development
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0048869	Cellular developmental process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0050789	Regulation of biological process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0050794	Regulation of cellular process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0065007	Biological regulation
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:0090351	Seedling development
+LOC107904080	3635.A0A1U8J659	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+LOC107904080	3635.A0A1U8J659	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0003676	Nucleic acid binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0003677	DNA binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0003690	Double-stranded DNA binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0005488	Binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0005515	Protein binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0008270	Zinc ion binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0036094	Small molecule binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0043167	Ion binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0043169	Cation binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0043565	Sequence-specific DNA binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0046872	Metal ion binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0046914	Transition metal ion binding
+LOC107904080	3635.A0A1U8J659	GO Function	GO:0140110	Transcription regulator activity
+LOC107904080	3635.A0A1U8J659	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LOC107904080	3635.A0A1U8J659	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107904080	3635.A0A1U8J659	GO Component	GO:0005634	Nucleus
+LOC107904080	3635.A0A1U8J659	GO Component	GO:0043226	Organelle
+LOC107904080	3635.A0A1U8J659	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107904080	3635.A0A1U8J659	GO Component	GO:0043229	Intracellular organelle
+LOC107904080	3635.A0A1U8J659	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107904080	3635.A0A1U8J659	GO Component	GO:0110165	Cellular anatomical structure
+LOC107904080	3635.A0A1U8J659	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107904080	3635.A0A1U8J659	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107904080	3635.A0A1U8J659	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107904080	3635.A0A1U8J659	Reactome	MAP-109582	Hemostasis
+LOC107904080	3635.A0A1U8J659	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+LOC107904080	3635.A0A1U8J659	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LOC107904080	3635.A0A1U8J659	COMPARTMENTS	GOCC:0005634	Nucleus
+LOC107904080	3635.A0A1U8J659	COMPARTMENTS	GOCC:0043226	Organelle
+LOC107904080	3635.A0A1U8J659	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LOC107904080	3635.A0A1U8J659	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LOC107904080	3635.A0A1U8J659	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LOC107904080	3635.A0A1U8J659	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0010	Activator
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0238	DNA-binding
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0479	Metal-binding
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0539	Nucleus
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0804	Transcription
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0805	Transcription regulation
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0862	Zinc
+LOC107904080	3635.A0A1U8J659	UniProt Keywords	KW-0863	Zinc-finger
+LOC107904080	3635.A0A1U8J659	InterPro	IPR000679	Zinc finger, GATA-type
+LOC107904080	3635.A0A1U8J659	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+LOC107904080	3635.A0A1U8J659	InterPro	IPR016679	Transcription factor, GATA, plant
+LOC107904080	3635.A0A1U8J659	InterPro	IPR051140	Plant GATA Transcription Factor
+LOC107904080	3635.A0A1U8J659	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0007623	Circadian rhythm
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0009314	Response to radiation
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0009416	Response to light stimulus
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0009628	Response to abiotic stimulus
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0009891	Positive regulation of biosynthetic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0009893	Positive regulation of metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0009987	Cellular process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0010468	Regulation of gene expression
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0016043	Cellular component organization
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0019222	Regulation of metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0030154	Cell differentiation
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0032502	Developmental process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0045229	External encapsulating structure organization
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0048511	Rhythmic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0048518	Positive regulation of biological process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0048522	Positive regulation of cellular process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0048869	Cellular developmental process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0050789	Regulation of biological process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0050794	Regulation of cellular process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0050896	Response to stimulus
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0065007	Biological regulation
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0071554	Cell wall organization or biogenesis
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0071555	Cell wall organization
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0071840	Cellular component organization or biogenesis
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+LOC107906963	3635.A0A1U8JMT0	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0003676	Nucleic acid binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0003677	DNA binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0003690	Double-stranded DNA binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0005488	Binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0008270	Zinc ion binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0036094	Small molecule binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0043167	Ion binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0043169	Cation binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0043565	Sequence-specific DNA binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0046872	Metal ion binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0046914	Transition metal ion binding
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:0140110	Transcription regulator activity
+LOC107906963	3635.A0A1U8JMT0	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LOC107906963	3635.A0A1U8JMT0	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107906963	3635.A0A1U8JMT0	GO Component	GO:0005634	Nucleus
+LOC107906963	3635.A0A1U8JMT0	GO Component	GO:0043226	Organelle
+LOC107906963	3635.A0A1U8JMT0	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107906963	3635.A0A1U8JMT0	GO Component	GO:0043229	Intracellular organelle
+LOC107906963	3635.A0A1U8JMT0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107906963	3635.A0A1U8JMT0	GO Component	GO:0110165	Cellular anatomical structure
+LOC107906963	3635.A0A1U8JMT0	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107906963	3635.A0A1U8JMT0	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107906963	3635.A0A1U8JMT0	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107906963	3635.A0A1U8JMT0	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107906963	3635.A0A1U8JMT0	Reactome	MAP-109582	Hemostasis
+LOC107906963	3635.A0A1U8JMT0	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+LOC107906963	3635.A0A1U8JMT0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LOC107906963	3635.A0A1U8JMT0	COMPARTMENTS	GOCC:0005634	Nucleus
+LOC107906963	3635.A0A1U8JMT0	COMPARTMENTS	GOCC:0043226	Organelle
+LOC107906963	3635.A0A1U8JMT0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LOC107906963	3635.A0A1U8JMT0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LOC107906963	3635.A0A1U8JMT0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LOC107906963	3635.A0A1U8JMT0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0010	Activator
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0238	DNA-binding
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0479	Metal-binding
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0539	Nucleus
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0804	Transcription
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0805	Transcription regulation
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0862	Zinc
+LOC107906963	3635.A0A1U8JMT0	UniProt Keywords	KW-0863	Zinc-finger
+LOC107906963	3635.A0A1U8JMT0	InterPro	IPR000679	Zinc finger, GATA-type
+LOC107906963	3635.A0A1U8JMT0	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+LOC107906963	3635.A0A1U8JMT0	InterPro	IPR016679	Transcription factor, GATA, plant
+LOC107906963	3635.A0A1U8JMT0	InterPro	IPR051140	Plant GATA Transcription Factor
+LOC107906963	3635.A0A1U8JMT0	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0007623	Circadian rhythm
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0009891	Positive regulation of biosynthetic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0009893	Positive regulation of metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0009987	Cellular process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0010468	Regulation of gene expression
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0019222	Regulation of metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0030154	Cell differentiation
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0032502	Developmental process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0048511	Rhythmic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0048518	Positive regulation of biological process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0048522	Positive regulation of cellular process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0048869	Cellular developmental process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0050789	Regulation of biological process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0050794	Regulation of cellular process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0065007	Biological regulation
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+LOC107908822	3635.A0A1U8JMS8	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0003676	Nucleic acid binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0003677	DNA binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0003690	Double-stranded DNA binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0005488	Binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0008270	Zinc ion binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0036094	Small molecule binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0043167	Ion binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0043169	Cation binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0043565	Sequence-specific DNA binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0046872	Metal ion binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0046914	Transition metal ion binding
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:0140110	Transcription regulator activity
+LOC107908822	3635.A0A1U8JMS8	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0005634	Nucleus
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0005730	Nucleolus
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0031974	Membrane-enclosed lumen
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0031981	Nuclear lumen
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0043226	Organelle
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0043228	Membraneless organelle
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0043229	Intracellular organelle
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0043232	Intracellular membraneless organelle
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0043233	Organelle lumen
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0070013	Intracellular organelle lumen
+LOC107908822	3635.A0A1U8JMS8	GO Component	GO:0110165	Cellular anatomical structure
+LOC107908822	3635.A0A1U8JMS8	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107908822	3635.A0A1U8JMS8	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107908822	3635.A0A1U8JMS8	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107908822	3635.A0A1U8JMS8	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107908822	3635.A0A1U8JMS8	Reactome	MAP-109582	Hemostasis
+LOC107908822	3635.A0A1U8JMS8	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0005886	Plasma membrane
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0008305	Integrin complex
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0016020	Membrane
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0034665	Integrin alpha1-beta1 complex
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0071944	Cell periphery
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0098797	Plasma membrane protein complex
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0098802	Plasma membrane signaling receptor complex
+LOC107908822	3635.A0A1U8JMS8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0010	Activator
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0238	DNA-binding
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0479	Metal-binding
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0539	Nucleus
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0804	Transcription
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0805	Transcription regulation
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0862	Zinc
+LOC107908822	3635.A0A1U8JMS8	UniProt Keywords	KW-0863	Zinc-finger
+LOC107908822	3635.A0A1U8JMS8	InterPro	IPR000679	Zinc finger, GATA-type
+LOC107908822	3635.A0A1U8JMS8	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+LOC107908822	3635.A0A1U8JMS8	InterPro	IPR016679	Transcription factor, GATA, plant
+LOC107908822	3635.A0A1U8JMS8	InterPro	IPR051140	Plant GATA Transcription Factor
+LOC107908822	3635.A0A1U8JMS8	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0009987	Cellular process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0010468	Regulation of gene expression
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0019222	Regulation of metabolic process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0030154	Cell differentiation
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0032502	Developmental process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0048869	Cellular developmental process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0050789	Regulation of biological process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0050794	Regulation of cellular process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0065007	Biological regulation
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107912017	3635.A0A1U8K3H2	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0003676	Nucleic acid binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0003677	DNA binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0003690	Double-stranded DNA binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0005488	Binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0008270	Zinc ion binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0036094	Small molecule binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0043167	Ion binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0043169	Cation binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0043565	Sequence-specific DNA binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0046872	Metal ion binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0046914	Transition metal ion binding
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:0140110	Transcription regulator activity
+LOC107912017	3635.A0A1U8K3H2	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LOC107912017	3635.A0A1U8K3H2	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107912017	3635.A0A1U8K3H2	GO Component	GO:0005634	Nucleus
+LOC107912017	3635.A0A1U8K3H2	GO Component	GO:0043226	Organelle
+LOC107912017	3635.A0A1U8K3H2	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107912017	3635.A0A1U8K3H2	GO Component	GO:0043229	Intracellular organelle
+LOC107912017	3635.A0A1U8K3H2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107912017	3635.A0A1U8K3H2	GO Component	GO:0110165	Cellular anatomical structure
+LOC107912017	3635.A0A1U8K3H2	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107912017	3635.A0A1U8K3H2	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107912017	3635.A0A1U8K3H2	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107912017	3635.A0A1U8K3H2	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107912017	3635.A0A1U8K3H2	STRING clusters	CL:47900	Mixed, incl. Plant GATA Transcription Factor, and Ethylene receptor
+LOC107912017	3635.A0A1U8K3H2	Reactome	MAP-109582	Hemostasis
+LOC107912017	3635.A0A1U8K3H2	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+LOC107912017	3635.A0A1U8K3H2	COMPARTMENTS	GOCC:0005576	Extracellular region
+LOC107912017	3635.A0A1U8K3H2	COMPARTMENTS	GOCC:0005615	Extracellular space
+LOC107912017	3635.A0A1U8K3H2	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+LOC107912017	3635.A0A1U8K3H2	COMPARTMENTS	GOCC:0048180	Activin complex
+LOC107912017	3635.A0A1U8K3H2	COMPARTMENTS	GOCC:0048183	Activin AB complex
+LOC107912017	3635.A0A1U8K3H2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107912017	3635.A0A1U8K3H2	UniProt Keywords	KW-0010	Activator
+LOC107912017	3635.A0A1U8K3H2	UniProt Keywords	KW-0479	Metal-binding
+LOC107912017	3635.A0A1U8K3H2	UniProt Keywords	KW-0804	Transcription
+LOC107912017	3635.A0A1U8K3H2	UniProt Keywords	KW-0805	Transcription regulation
+LOC107912017	3635.A0A1U8K3H2	UniProt Keywords	KW-0862	Zinc
+LOC107912017	3635.A0A1U8K3H2	UniProt Keywords	KW-0863	Zinc-finger
+LOC107912017	3635.A0A1U8K3H2	InterPro	IPR000679	Zinc finger, GATA-type
+LOC107912017	3635.A0A1U8K3H2	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+LOC107912017	3635.A0A1U8K3H2	InterPro	IPR051140	Plant GATA Transcription Factor
+LOC107912017	3635.A0A1U8K3H2	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0009987	Cellular process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0010468	Regulation of gene expression
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0019222	Regulation of metabolic process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0030154	Cell differentiation
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0032502	Developmental process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0048869	Cellular developmental process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0050789	Regulation of biological process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0050794	Regulation of cellular process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0065007	Biological regulation
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107913026	3635.A0A1U8K3A5	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0003676	Nucleic acid binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0003677	DNA binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0003690	Double-stranded DNA binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0005488	Binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0008270	Zinc ion binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0036094	Small molecule binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0043167	Ion binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0043169	Cation binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0043565	Sequence-specific DNA binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0046872	Metal ion binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0046914	Transition metal ion binding
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:0140110	Transcription regulator activity
+LOC107913026	3635.A0A1U8K3A5	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LOC107913026	3635.A0A1U8K3A5	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107913026	3635.A0A1U8K3A5	GO Component	GO:0005634	Nucleus
+LOC107913026	3635.A0A1U8K3A5	GO Component	GO:0043226	Organelle
+LOC107913026	3635.A0A1U8K3A5	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107913026	3635.A0A1U8K3A5	GO Component	GO:0043229	Intracellular organelle
+LOC107913026	3635.A0A1U8K3A5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107913026	3635.A0A1U8K3A5	GO Component	GO:0110165	Cellular anatomical structure
+LOC107913026	3635.A0A1U8K3A5	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107913026	3635.A0A1U8K3A5	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107913026	3635.A0A1U8K3A5	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107913026	3635.A0A1U8K3A5	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107913026	3635.A0A1U8K3A5	STRING clusters	CL:47900	Mixed, incl. Plant GATA Transcription Factor, and Ethylene receptor
+LOC107913026	3635.A0A1U8K3A5	STRING clusters	CL:47903	Mixed, incl. Ethylene receptor, and Transcription factor, GATA, plant
+LOC107913026	3635.A0A1U8K3A5	Reactome	MAP-109582	Hemostasis
+LOC107913026	3635.A0A1U8K3A5	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+LOC107913026	3635.A0A1U8K3A5	COMPARTMENTS	GOCC:0005576	Extracellular region
+LOC107913026	3635.A0A1U8K3A5	COMPARTMENTS	GOCC:0005615	Extracellular space
+LOC107913026	3635.A0A1U8K3A5	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+LOC107913026	3635.A0A1U8K3A5	COMPARTMENTS	GOCC:0048180	Activin complex
+LOC107913026	3635.A0A1U8K3A5	COMPARTMENTS	GOCC:0048183	Activin AB complex
+LOC107913026	3635.A0A1U8K3A5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0010	Activator
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0238	DNA-binding
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0479	Metal-binding
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0539	Nucleus
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0804	Transcription
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0805	Transcription regulation
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0862	Zinc
+LOC107913026	3635.A0A1U8K3A5	UniProt Keywords	KW-0863	Zinc-finger
+LOC107913026	3635.A0A1U8K3A5	InterPro	IPR000679	Zinc finger, GATA-type
+LOC107913026	3635.A0A1U8K3A5	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+LOC107913026	3635.A0A1U8K3A5	InterPro	IPR016679	Transcription factor, GATA, plant
+LOC107913026	3635.A0A1U8K3A5	InterPro	IPR051140	Plant GATA Transcription Factor
+LOC107913026	3635.A0A1U8K3A5	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0007623	Circadian rhythm
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0009891	Positive regulation of biosynthetic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0009893	Positive regulation of metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0009987	Cellular process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0010468	Regulation of gene expression
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0019222	Regulation of metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0030154	Cell differentiation
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0032502	Developmental process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0048511	Rhythmic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0048518	Positive regulation of biological process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0048522	Positive regulation of cellular process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0048869	Cellular developmental process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0050789	Regulation of biological process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0050794	Regulation of cellular process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0065007	Biological regulation
+LOC107913534	3635.A0A1U8K540	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+LOC107913534	3635.A0A1U8K540	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0000976	Transcription cis-regulatory region binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0003676	Nucleic acid binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0003677	DNA binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0003690	Double-stranded DNA binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0005488	Binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0008270	Zinc ion binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0036094	Small molecule binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0043167	Ion binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0043169	Cation binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0043565	Sequence-specific DNA binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0046872	Metal ion binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0046914	Transition metal ion binding
+LOC107913534	3635.A0A1U8K540	GO Function	GO:0140110	Transcription regulator activity
+LOC107913534	3635.A0A1U8K540	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0005634	Nucleus
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0005730	Nucleolus
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0031974	Membrane-enclosed lumen
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0031981	Nuclear lumen
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0043226	Organelle
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0043228	Membraneless organelle
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0043229	Intracellular organelle
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0043232	Intracellular membraneless organelle
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0043233	Organelle lumen
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0070013	Intracellular organelle lumen
+LOC107913534	3635.A0A1U8K540	GO Component	GO:0110165	Cellular anatomical structure
+LOC107913534	3635.A0A1U8K540	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107913534	3635.A0A1U8K540	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107913534	3635.A0A1U8K540	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107913534	3635.A0A1U8K540	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107913534	3635.A0A1U8K540	Reactome	MAP-109582	Hemostasis
+LOC107913534	3635.A0A1U8K540	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0005886	Plasma membrane
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0008305	Integrin complex
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0016020	Membrane
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0034665	Integrin alpha1-beta1 complex
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0071944	Cell periphery
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0098797	Plasma membrane protein complex
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0098802	Plasma membrane signaling receptor complex
+LOC107913534	3635.A0A1U8K540	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0010	Activator
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0238	DNA-binding
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0479	Metal-binding
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0539	Nucleus
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0804	Transcription
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0805	Transcription regulation
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0862	Zinc
+LOC107913534	3635.A0A1U8K540	UniProt Keywords	KW-0863	Zinc-finger
+LOC107913534	3635.A0A1U8K540	InterPro	IPR000679	Zinc finger, GATA-type
+LOC107913534	3635.A0A1U8K540	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+LOC107913534	3635.A0A1U8K540	InterPro	IPR016679	Transcription factor, GATA, plant
+LOC107913534	3635.A0A1U8K540	InterPro	IPR051140	Plant GATA Transcription Factor
+LOC107913534	3635.A0A1U8K540	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0009987	Cellular process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0010468	Regulation of gene expression
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0019222	Regulation of metabolic process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0030154	Cell differentiation
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0032502	Developmental process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0048869	Cellular developmental process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0050789	Regulation of biological process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0050794	Regulation of cellular process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0065007	Biological regulation
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107917909	3635.A0A1U8KQ16	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107917909	3635.A0A1U8KQ16	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+LOC107917909	3635.A0A1U8KQ16	GO Function	GO:0003676	Nucleic acid binding
+LOC107917909	3635.A0A1U8KQ16	GO Function	GO:0003677	DNA binding
+LOC107917909	3635.A0A1U8KQ16	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107917909	3635.A0A1U8KQ16	GO Function	GO:0005488	Binding
+LOC107917909	3635.A0A1U8KQ16	GO Function	GO:0008289	Lipid binding
+LOC107917909	3635.A0A1U8KQ16	GO Function	GO:0140110	Transcription regulator activity
+LOC107917909	3635.A0A1U8KQ16	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107917909	3635.A0A1U8KQ16	GO Component	GO:0005634	Nucleus
+LOC107917909	3635.A0A1U8KQ16	GO Component	GO:0043226	Organelle
+LOC107917909	3635.A0A1U8KQ16	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107917909	3635.A0A1U8KQ16	GO Component	GO:0043229	Intracellular organelle
+LOC107917909	3635.A0A1U8KQ16	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107917909	3635.A0A1U8KQ16	GO Component	GO:0110165	Cellular anatomical structure
+LOC107917909	3635.A0A1U8KQ16	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107917909	3635.A0A1U8KQ16	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107917909	3635.A0A1U8KQ16	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107917909	3635.A0A1U8KQ16	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107917909	3635.A0A1U8KQ16	STRING clusters	CL:47900	Mixed, incl. Plant GATA Transcription Factor, and Ethylene receptor
+LOC107917909	3635.A0A1U8KQ16	STRING clusters	CL:47903	Mixed, incl. Ethylene receptor, and Transcription factor, GATA, plant
+LOC107917909	3635.A0A1U8KQ16	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LOC107917909	3635.A0A1U8KQ16	COMPARTMENTS	GOCC:0005634	Nucleus
+LOC107917909	3635.A0A1U8KQ16	COMPARTMENTS	GOCC:0043226	Organelle
+LOC107917909	3635.A0A1U8KQ16	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LOC107917909	3635.A0A1U8KQ16	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LOC107917909	3635.A0A1U8KQ16	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LOC107917909	3635.A0A1U8KQ16	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107917909	3635.A0A1U8KQ16	UniProt Keywords	KW-0175	Coiled coil
+LOC107917909	3635.A0A1U8KQ16	UniProt Keywords	KW-0238	DNA-binding
+LOC107917909	3635.A0A1U8KQ16	UniProt Keywords	KW-0371	Homeobox
+LOC107917909	3635.A0A1U8KQ16	UniProt Keywords	KW-0539	Nucleus
+LOC107917909	3635.A0A1U8KQ16	UniProt Keywords	KW-0804	Transcription
+LOC107917909	3635.A0A1U8KQ16	UniProt Keywords	KW-0805	Transcription regulation
+LOC107917909	3635.A0A1U8KQ16	InterPro	IPR001356	Homeodomain
+LOC107917909	3635.A0A1U8KQ16	InterPro	IPR002913	START domain
+LOC107917909	3635.A0A1U8KQ16	InterPro	IPR009057	Homedomain-like superfamily
+LOC107917909	3635.A0A1U8KQ16	InterPro	IPR017970	Homeobox, conserved site
+LOC107917909	3635.A0A1U8KQ16	InterPro	IPR023393	START-like domain superfamily
+LOC107917909	3635.A0A1U8KQ16	InterPro	IPR042160	Class IV homeodomain-leucine zipper
+LOC107917909	3635.A0A1U8KQ16	InterPro	IPR057993	HD-Zip IV, C-terminal domain
+LOC107917909	3635.A0A1U8KQ16	SMART	SM00234	In StAR and phosphatidylcholine transfer protein
+LOC107917909	3635.A0A1U8KQ16	SMART	SM00389	Homeodomain
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0000160	Phosphorelay signal transduction system
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0006468	Protein phosphorylation
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0006793	Phosphorus metabolic process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0007154	Cell communication
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0007165	Signal transduction
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0008152	Metabolic process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0009719	Response to endogenous stimulus
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0009723	Response to ethylene
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0009725	Response to hormone
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0009755	Hormone-mediated signaling pathway
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0009873	Ethylene-activated signaling pathway
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0009987	Cellular process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0016310	Phosphorylation
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0018193	Peptidyl-amino acid modification
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0018202	Peptidyl-histidine modification
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0019538	Protein metabolic process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0023052	Signaling
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0032870	Cellular response to hormone stimulus
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0035556	Intracellular signal transduction
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0036211	Protein modification process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0042221	Response to chemical
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0043170	Macromolecule metabolic process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0043412	Macromolecule modification
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0044238	Primary metabolic process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0050789	Regulation of biological process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0050794	Regulation of cellular process
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0050896	Response to stimulus
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0051716	Cellular response to stimulus
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0065007	Biological regulation
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0070887	Cellular response to chemical stimulus
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0071369	Cellular response to ethylene stimulus
+LOC107926811	3635.A0A1U8LIH0	GO Process	GO:0071495	Cellular response to endogenous stimulus
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0000166	Nucleotide binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0003824	Catalytic activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0004672	Protein kinase activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0004673	Protein histidine kinase activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0004674	Protein serine/threonine kinase activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0005488	Binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0005524	ATP binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0016301	Kinase activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0016740	Transferase activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0017076	Purine nucleotide binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0030554	Adenyl nucleotide binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0032553	Ribonucleotide binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0032555	Purine ribonucleotide binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0032559	Adenyl ribonucleotide binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0036094	Small molecule binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0038023	Signaling receptor activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0038199	Ethylene receptor activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0043167	Ion binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0043168	Anion binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0043169	Cation binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0046872	Metal ion binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0051740	Ethylene binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0060089	Molecular transducer activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0072328	Alkene binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0097367	Carbohydrate derivative binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0098772	Molecular function regulator activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0140096	Catalytic activity, acting on a protein
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:0140299	Molecular sensor activity
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:1901265	Nucleoside phosphate binding
+LOC107926811	3635.A0A1U8LIH0	GO Function	GO:1901363	Heterocyclic compound binding
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0005737	Cytoplasm
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0005783	Endoplasmic reticulum
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0005789	Endoplasmic reticulum membrane
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0012505	Endomembrane system
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0016020	Membrane
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0031090	Organelle membrane
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0031984	Organelle subcompartment
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0042175	Nuclear outer membrane-endoplasmic reticulum membrane network
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0043226	Organelle
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0043229	Intracellular organelle
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0098827	Endoplasmic reticulum subcompartment
+LOC107926811	3635.A0A1U8LIH0	GO Component	GO:0110165	Cellular anatomical structure
+LOC107926811	3635.A0A1U8LIH0	STRING clusters	CL:73833	Mixed, incl. Negative regulation of phosphorelay signal transduction system, and Ethylene insensitive 3-like, DNA-binding domain
+LOC107926811	3635.A0A1U8LIH0	STRING clusters	CL:73834	Negative regulation of phosphorelay signal transduction system, and Ethylene insensitive 3-like, DNA-binding domain
+LOC107926811	3635.A0A1U8LIH0	STRING clusters	CL:73901	Alkene binding, and TMEM222/RTE1
+LOC107926811	3635.A0A1U8LIH0	STRING clusters	CL:73903	Ethylene receptor, and TMEM222/RTE1
+LOC107926811	3635.A0A1U8LIH0	KEGG	ghi04016	MAPK signaling pathway - plant
+LOC107926811	3635.A0A1U8LIH0	KEGG	ghi04075	Plant hormone signal transduction
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-2262752	Cellular responses to stress
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-3371453	Regulation of HSF1-mediated heat shock response
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-3371511	HSF1 activation
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-3371556	Cellular response to heat stress
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-3371568	Attenuation phase
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-3371571	HSF1-dependent transactivation
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-8953897	Cellular responses to stimuli
+LOC107926811	3635.A0A1U8LIH0	Reactome	MAP-9841251	Mitochondrial unfolded protein response (UPRmt)
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0005737	Cytoplasm
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0012505	Endomembrane system
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0043226	Organelle
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LOC107926811	3635.A0A1U8LIH0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0067	ATP-binding
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0175	Coiled coil
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0186	Copper
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0256	Endoplasmic reticulum
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0418	Kinase
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0472	Membrane
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0479	Metal-binding
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0547	Nucleotide-binding
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0597	Phosphoprotein
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0675	Receptor
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0732	Signal
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0808	Transferase
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0812	Transmembrane
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0832	Ubl conjugation
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0902	Two-component regulatory system
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-0936	Ethylene signaling pathway
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-1015	Disulfide bond
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-1017	Isopeptide bond
+LOC107926811	3635.A0A1U8LIH0	UniProt Keywords	KW-1133	Transmembrane helix
+LOC107926811	3635.A0A1U8LIH0	Pfam	PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR003018	GAF domain
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR011006	CheY-like superfamily
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR014525	Ethylene receptor
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR029016	GAF-like domain superfamily
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+LOC107926811	3635.A0A1U8LIH0	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+LOC107926811	3635.A0A1U8LIH0	SMART	SM00065	Domain present in phytochromes and cGMP-specific phosphodiesterases.
+LOC107926811	3635.A0A1U8LIH0	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+LOC107926811	3635.A0A1U8LIH0	SMART	SM00448	cheY-homologous receiver domain
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0006355	Regulation of DNA-templated transcription
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0009889	Regulation of biosynthetic process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0010468	Regulation of gene expression
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0019222	Regulation of metabolic process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0050789	Regulation of biological process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0050794	Regulation of cellular process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0051252	Regulation of RNA metabolic process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0065007	Biological regulation
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:0080090	Regulation of primary metabolic process
+LOC107948595	3635.A0A1U8NHV5	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+LOC107948595	3635.A0A1U8NHV5	GO Function	GO:0003676	Nucleic acid binding
+LOC107948595	3635.A0A1U8NHV5	GO Function	GO:0003677	DNA binding
+LOC107948595	3635.A0A1U8NHV5	GO Function	GO:0003700	DNA-binding transcription factor activity
+LOC107948595	3635.A0A1U8NHV5	GO Function	GO:0005488	Binding
+LOC107948595	3635.A0A1U8NHV5	GO Function	GO:0005515	Protein binding
+LOC107948595	3635.A0A1U8NHV5	GO Function	GO:0140110	Transcription regulator activity
+LOC107948595	3635.A0A1U8NHV5	GO Component	GO:0005622	Intracellular anatomical structure
+LOC107948595	3635.A0A1U8NHV5	GO Component	GO:0005634	Nucleus
+LOC107948595	3635.A0A1U8NHV5	GO Component	GO:0043226	Organelle
+LOC107948595	3635.A0A1U8NHV5	GO Component	GO:0043227	Membrane-bounded organelle
+LOC107948595	3635.A0A1U8NHV5	GO Component	GO:0043229	Intracellular organelle
+LOC107948595	3635.A0A1U8NHV5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+LOC107948595	3635.A0A1U8NHV5	GO Component	GO:0110165	Cellular anatomical structure
+LOC107948595	3635.A0A1U8NHV5	STRING clusters	CL:47694	Mixed, incl. Glycosyl transferase 48 domain, and Plant GATA Transcription Factor
+LOC107948595	3635.A0A1U8NHV5	STRING clusters	CL:47852	Mixed, incl. Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107948595	3635.A0A1U8NHV5	STRING clusters	CL:47853	Transcription factor, GATA, plant, and K Homology domain, type 1
+LOC107948595	3635.A0A1U8NHV5	STRING clusters	CL:47897	Plant GATA Transcription Factor, and Myb/SANT-like DNA-binding domain 4
+LOC107948595	3635.A0A1U8NHV5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+LOC107948595	3635.A0A1U8NHV5	COMPARTMENTS	GOCC:0005634	Nucleus
+LOC107948595	3635.A0A1U8NHV5	COMPARTMENTS	GOCC:0043226	Organelle
+LOC107948595	3635.A0A1U8NHV5	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+LOC107948595	3635.A0A1U8NHV5	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+LOC107948595	3635.A0A1U8NHV5	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+LOC107948595	3635.A0A1U8NHV5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+LOC107948595	3635.A0A1U8NHV5	UniProt Keywords	KW-0175	Coiled coil
+LOC107948595	3635.A0A1U8NHV5	UniProt Keywords	KW-0804	Transcription
+LOC107948595	3635.A0A1U8NHV5	UniProt Keywords	KW-0805	Transcription regulation
+LOC107948595	3635.A0A1U8NHV5	InterPro	IPR001005	SANT/Myb domain
+LOC107948595	3635.A0A1U8NHV5	InterPro	IPR044822	Myb/SANT-like DNA-binding domain 4
+LOC107948595	3635.A0A1U8NHV5	SMART	SM00717	SANT  SWI3, ADA2, N-CoR and TFIIIB DNA-binding domains

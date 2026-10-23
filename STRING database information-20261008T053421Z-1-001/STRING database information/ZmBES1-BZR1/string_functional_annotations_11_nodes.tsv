@@ -1,0 +1,657 @@
+#node	identifier	category	term ID	term description
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0009891	Positive regulation of biosynthetic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0009893	Positive regulation of metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0010468	Regulation of gene expression
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0019222	Regulation of metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0048518	Positive regulation of biological process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0048522	Positive regulation of cellular process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0050789	Regulation of biological process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0050794	Regulation of cellular process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0065007	Biological regulation
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Function	GO:0001216	DNA-binding transcription activator activity
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Function	GO:0140110	Transcription regulator activity
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Component	GO:0005622	Intracellular anatomical structure
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Component	GO:0005634	Nucleus
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Component	GO:0043226	Organelle
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Component	GO:0043227	Membrane-bounded organelle
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Component	GO:0043229	Intracellular organelle
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A1D6F9Z0	4577.A0A1D6F9Z0	GO Component	GO:0110165	Cellular anatomical structure
+A0A1D6F9Z0	4577.A0A1D6F9Z0	STRING clusters	CL:43868	Mixed, incl. Heavy metal-associated domain superfamily, and Transition metal ion transmembrane transporter activity
+A0A1D6F9Z0	4577.A0A1D6F9Z0	STRING clusters	CL:43869	Heavy metal-associated domain superfamily, and Transition metal ion transmembrane transporter activity
+A0A1D6F9Z0	4577.A0A1D6F9Z0	STRING clusters	CL:43870	Mixed, incl. Heavy metal-associated domain superfamily, and Copper ion transmembrane transport
+A0A1D6F9Z0	4577.A0A1D6F9Z0	STRING clusters	CL:44018	Mixed, incl. P-type divalent copper transporter activity, and Glucoside transport
+A0A1D6F9Z0	4577.A0A1D6F9Z0	STRING clusters	CL:44058	Zinc finger protein ZAT1/4/9, and Pirin, C-terminal domain
+A0A1D6F9Z0	4577.A0A1D6F9Z0	UniProt Keywords	KW-0175	Coiled coil
+A0A1D6F9Z0	4577.A0A1D6F9Z0	Pfam	PF03195	Lateral organ boundaries (LOB) domain
+A0A1D6F9Z0	4577.A0A1D6F9Z0	InterPro	IPR004883	Lateral organ boundaries, LOB
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0009891	Positive regulation of biosynthetic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0009893	Positive regulation of metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0010468	Regulation of gene expression
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0019222	Regulation of metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0048518	Positive regulation of biological process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0048522	Positive regulation of cellular process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0050789	Regulation of biological process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0050794	Regulation of cellular process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0065007	Biological regulation
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Function	GO:0001216	DNA-binding transcription activator activity
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Function	GO:0140110	Transcription regulator activity
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Component	GO:0005622	Intracellular anatomical structure
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Component	GO:0005634	Nucleus
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Component	GO:0043226	Organelle
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Component	GO:0043227	Membrane-bounded organelle
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Component	GO:0043229	Intracellular organelle
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A1D6HSN9	4577.A0A1D6HSN9	GO Component	GO:0110165	Cellular anatomical structure
+A0A1D6HSN9	4577.A0A1D6HSN9	STRING clusters	CL:43868	Mixed, incl. Heavy metal-associated domain superfamily, and Transition metal ion transmembrane transporter activity
+A0A1D6HSN9	4577.A0A1D6HSN9	STRING clusters	CL:43869	Heavy metal-associated domain superfamily, and Transition metal ion transmembrane transporter activity
+A0A1D6HSN9	4577.A0A1D6HSN9	STRING clusters	CL:43870	Mixed, incl. Heavy metal-associated domain superfamily, and Copper ion transmembrane transport
+A0A1D6HSN9	4577.A0A1D6HSN9	STRING clusters	CL:44018	Mixed, incl. P-type divalent copper transporter activity, and Glucoside transport
+A0A1D6HSN9	4577.A0A1D6HSN9	STRING clusters	CL:44058	Zinc finger protein ZAT1/4/9, and Pirin, C-terminal domain
+A0A1D6HSN9	4577.A0A1D6HSN9	Pfam	PF03195	Lateral organ boundaries (LOB) domain
+A0A1D6HSN9	4577.A0A1D6HSN9	InterPro	IPR004883	Lateral organ boundaries, LOB
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0000160	Phosphorelay signal transduction system
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0006468	Protein phosphorylation
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0006793	Phosphorus metabolic process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0007154	Cell communication
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0007165	Signal transduction
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0008152	Metabolic process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0009719	Response to endogenous stimulus
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0009725	Response to hormone
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0009735	Response to cytokinin
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0009736	Cytokinin-activated signaling pathway
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0009755	Hormone-mediated signaling pathway
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0009987	Cellular process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0016310	Phosphorylation
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0018193	Peptidyl-amino acid modification
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0018202	Peptidyl-histidine modification
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0019538	Protein metabolic process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0023052	Signaling
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0032870	Cellular response to hormone stimulus
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0035556	Intracellular signal transduction
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0036211	Protein modification process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0042221	Response to chemical
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0043170	Macromolecule metabolic process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0043412	Macromolecule modification
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0044238	Primary metabolic process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0050789	Regulation of biological process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0050794	Regulation of cellular process
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0050896	Response to stimulus
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0051716	Cellular response to stimulus
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0065007	Biological regulation
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0071368	Cellular response to cytokinin stimulus
+A0A1D6IW43	4577.A0A1D6IW43	GO Process	GO:0071495	Cellular response to endogenous stimulus
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0003824	Catalytic activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0004672	Protein kinase activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0004673	Protein histidine kinase activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0005488	Binding
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0005515	Protein binding
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0016301	Kinase activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0016740	Transferase activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0098772	Molecular function regulator activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A1D6IW43	4577.A0A1D6IW43	GO Function	GO:0140299	Molecular sensor activity
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0005622	Intracellular anatomical structure
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0005634	Nucleus
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0005886	Plasma membrane
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0016020	Membrane
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0043226	Organelle
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0043227	Membrane-bounded organelle
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0043229	Intracellular organelle
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0071944	Cell periphery
+A0A1D6IW43	4577.A0A1D6IW43	GO Component	GO:0110165	Cellular anatomical structure
+A0A1D6IW43	4577.A0A1D6IW43	STRING clusters	CL:30444	Mostly uncharacterized, incl. CLU domain containing protein, and BD-FAE-like domain
+A0A1D6IW43	4577.A0A1D6IW43	STRING clusters	CL:30545	Mixed, incl. Ninja/AFP-like, putative nuclear localisation signal, and F-box protein EID1-like
+A0A1D6IW43	4577.A0A1D6IW43	STRING clusters	CL:30577	Mixed, incl. F-box protein EID1-like, and Argonaut, glycine-rich domain
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-2262752	Cellular responses to stress
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-3371453	Regulation of HSF1-mediated heat shock response
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-3371511	HSF1 activation
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-3371556	Cellular response to heat stress
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-3371568	Attenuation phase
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-3371571	HSF1-dependent transactivation
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-8953897	Cellular responses to stimuli
+A0A1D6IW43	4577.A0A1D6IW43	Reactome	MAP-9841251	Mitochondrial unfolded protein response (UPRmt)
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0005886	Plasma membrane
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0012505	Endomembrane system
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0016020	Membrane
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0043226	Organelle
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0071944	Cell periphery
+A0A1D6IW43	4577.A0A1D6IW43	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A1D6IW43	4577.A0A1D6IW43	UniProt Keywords	KW-0418	Kinase
+A0A1D6IW43	4577.A0A1D6IW43	UniProt Keywords	KW-0597	Phosphoprotein
+A0A1D6IW43	4577.A0A1D6IW43	UniProt Keywords	KW-0808	Transferase
+A0A1D6IW43	4577.A0A1D6IW43	UniProt Keywords	KW-0902	Two-component regulatory system
+A0A1D6IW43	4577.A0A1D6IW43	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+A0A1D6IW43	4577.A0A1D6IW43	InterPro	IPR003594	Histidine kinase/HSP90-like ATPase domain
+A0A1D6IW43	4577.A0A1D6IW43	InterPro	IPR004358	Signal transduction histidine kinase-related protein, C-terminal
+A0A1D6IW43	4577.A0A1D6IW43	InterPro	IPR005467	Histidine kinase domain
+A0A1D6IW43	4577.A0A1D6IW43	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+A0A1D6IW43	4577.A0A1D6IW43	InterPro	IPR050956	Two-component system histidine kinase
+A0A1D6IW43	4577.A0A1D6IW43	InterPro	IPR056839	AHK4/CRE1/WOL, first receiver domain
+A0A1D6IW43	4577.A0A1D6IW43	SMART	SM00387	Histidine kinase-like ATPases
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0006950	Response to stress
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0009611	Response to wounding
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0009966	Regulation of signal transduction
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0010646	Regulation of cell communication
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0023051	Regulation of signaling
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0031347	Regulation of defense response
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0048583	Regulation of response to stimulus
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0050789	Regulation of biological process
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0050794	Regulation of cellular process
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0050896	Response to stimulus
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0065007	Biological regulation
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:0080134	Regulation of response to stress
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Process	GO:2000022	Regulation of jasmonic acid mediated signaling pathway
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Function	GO:0005488	Binding
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Function	GO:0005515	Protein binding
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Component	GO:0005622	Intracellular anatomical structure
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Component	GO:0005634	Nucleus
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Component	GO:0043226	Organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Component	GO:0043227	Membrane-bounded organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Component	GO:0043229	Intracellular organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	GO Component	GO:0110165	Cellular anatomical structure
+A0A1D6IZC4	4577.A0A1D6IZC4	STRING clusters	CL:39268	Mostly uncharacterized, incl. Transcription factor TGA like domain, and Zinc finger C2HC, NPR-type
+A0A1D6IZC4	4577.A0A1D6IZC4	STRING clusters	CL:39269	Mixed, incl. Zinc finger C2HC, NPR-type, and Transcription factor TGA like domain
+A0A1D6IZC4	4577.A0A1D6IZC4	STRING clusters	CL:39270	Mixed, incl. Zinc finger C2HC, NPR-type, and Transcription factor TGA like domain
+A0A1D6IZC4	4577.A0A1D6IZC4	STRING clusters	CL:39272	Mixed, incl. Zinc finger C2HC, NPR-type, and Plant ABC transporter G
+A0A1D6IZC4	4577.A0A1D6IZC4	STRING clusters	CL:39275	Mixed, incl. Zinc finger C2HC, NPR-type, and Transcription factor TGA like domain
+A0A1D6IZC4	4577.A0A1D6IZC4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A1D6IZC4	4577.A0A1D6IZC4	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A1D6IZC4	4577.A0A1D6IZC4	COMPARTMENTS	GOCC:0043226	Organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A1D6IZC4	4577.A0A1D6IZC4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A1D6IZC4	4577.A0A1D6IZC4	InterPro	IPR018467	CO/COL/TOC1, conserved site
+A0A1D6IZC4	4577.A0A1D6IZC4	InterPro	IPR040390	TIFY/JAZ family
+A0A1D6KQ78	4577.A0A1D6KQ78	GO Component	GO:0110165	Cellular anatomical structure
+A0A1D6KQ78	4577.A0A1D6KQ78	STRING clusters	CL:26047	Mixed, incl. Starch and sucrose metabolism, and Plant Aspartic Proteinase A1
+A0A1D6KQ78	4577.A0A1D6KQ78	STRING clusters	CL:26221	Mixed, incl. Plant Aspartic Proteinase A1, and Xenobiotic export from cell
+A0A1D6KQ78	4577.A0A1D6KQ78	STRING clusters	CL:26222	Mixed, incl. Plant Aspartic Proteinase A1, and Zinc finger CCCH domain-containing protein 13/40
+A0A1D6KQ78	4577.A0A1D6KQ78	STRING clusters	CL:26223	Mixed, incl. Plant Aspartic Proteinase A1, and Transcription factors Myb-like
+A0A1D6KQ78	4577.A0A1D6KQ78	STRING clusters	CL:26224	Mixed, incl. Plant Aspartic Proteinase A1, and Transcription factors Myb-like
+A0A1D6KQ78	4577.A0A1D6KQ78	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A1D6KQ78	4577.A0A1D6KQ78	Pfam	PF04526	Protein of unknown function (DUF568)
+A0A1D6KQ78	4577.A0A1D6KQ78	InterPro	IPR005018	DOMON domain
+A0A1D6KQ78	4577.A0A1D6KQ78	InterPro	IPR045265	AIR12, DOMON domain
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0007154	Cell communication
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0007165	Signal transduction
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0007275	Multicellular organism development
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0009653	Anatomical structure morphogenesis
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0009719	Response to endogenous stimulus
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0009725	Response to hormone
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0009755	Hormone-mediated signaling pathway
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0009791	Post-embryonic development
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0009987	Cellular process
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0016043	Cellular component organization
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0023052	Signaling
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0030198	Extracellular matrix organization
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0032501	Multicellular organismal process
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0032502	Developmental process
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0032870	Cellular response to hormone stimulus
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0042221	Response to chemical
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0043062	Extracellular structure organization
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0045229	External encapsulating structure organization
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0048731	System development
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0048856	Anatomical structure development
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0050789	Regulation of biological process
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0050794	Regulation of cellular process
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0050896	Response to stimulus
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0051716	Cellular response to stimulus
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0065007	Biological regulation
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0071495	Cellular response to endogenous stimulus
+A0A1D6PY63	4577.A0A1D6PY63	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A1D6PY63	4577.A0A1D6PY63	GO Function	GO:0005198	Structural molecule activity
+A0A1D6PY63	4577.A0A1D6PY63	GO Function	GO:0005201	Extracellular matrix structural constituent
+A0A1D6PY63	4577.A0A1D6PY63	GO Function	GO:0005488	Binding
+A0A1D6PY63	4577.A0A1D6PY63	GO Function	GO:0036094	Small molecule binding
+A0A1D6PY63	4577.A0A1D6PY63	GO Function	GO:0043167	Ion binding
+A0A1D6PY63	4577.A0A1D6PY63	GO Function	GO:0043169	Cation binding
+A0A1D6PY63	4577.A0A1D6PY63	GO Function	GO:0046872	Metal ion binding
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0005576	Extracellular region
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0005622	Intracellular anatomical structure
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0005737	Cytoplasm
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0005829	Cytosol
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0005886	Plasma membrane
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0016020	Membrane
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0071944	Cell periphery
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0098552	Side of membrane
+A0A1D6PY63	4577.A0A1D6PY63	GO Component	GO:0110165	Cellular anatomical structure
+A0A1D6PY63	4577.A0A1D6PY63	STRING clusters	CL:26047	Mixed, incl. Starch and sucrose metabolism, and Plant Aspartic Proteinase A1
+A0A1D6PY63	4577.A0A1D6PY63	STRING clusters	CL:26221	Mixed, incl. Plant Aspartic Proteinase A1, and Xenobiotic export from cell
+A0A1D6PY63	4577.A0A1D6PY63	STRING clusters	CL:26222	Mixed, incl. Plant Aspartic Proteinase A1, and Zinc finger CCCH domain-containing protein 13/40
+A0A1D6PY63	4577.A0A1D6PY63	STRING clusters	CL:26223	Mixed, incl. Plant Aspartic Proteinase A1, and Transcription factors Myb-like
+A0A1D6PY63	4577.A0A1D6PY63	STRING clusters	CL:26224	Mixed, incl. Plant Aspartic Proteinase A1, and Transcription factors Myb-like
+A0A1D6PY63	4577.A0A1D6PY63	COMPARTMENTS	GOCC:0005886	Plasma membrane
+A0A1D6PY63	4577.A0A1D6PY63	COMPARTMENTS	GOCC:0016020	Membrane
+A0A1D6PY63	4577.A0A1D6PY63	COMPARTMENTS	GOCC:0071944	Cell periphery
+A0A1D6PY63	4577.A0A1D6PY63	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A1D6PY63	4577.A0A1D6PY63	UniProt Keywords	KW-0472	Membrane
+A0A1D6PY63	4577.A0A1D6PY63	UniProt Keywords	KW-0812	Transmembrane
+A0A1D6PY63	4577.A0A1D6PY63	UniProt Keywords	KW-1133	Transmembrane helix
+A0A1D6PY63	4577.A0A1D6PY63	Pfam	PF04526	Protein of unknown function (DUF568)
+A0A1D6PY63	4577.A0A1D6PY63	InterPro	IPR005018	DOMON domain
+A0A1D6PY63	4577.A0A1D6PY63	InterPro	IPR045265	AIR12, DOMON domain
+AUX22	4577.A0A1D6FF66	GO Process	GO:0006355	Regulation of DNA-templated transcription
+AUX22	4577.A0A1D6FF66	GO Process	GO:0007154	Cell communication
+AUX22	4577.A0A1D6FF66	GO Process	GO:0007165	Signal transduction
+AUX22	4577.A0A1D6FF66	GO Process	GO:0009719	Response to endogenous stimulus
+AUX22	4577.A0A1D6FF66	GO Process	GO:0009725	Response to hormone
+AUX22	4577.A0A1D6FF66	GO Process	GO:0009755	Hormone-mediated signaling pathway
+AUX22	4577.A0A1D6FF66	GO Process	GO:0009889	Regulation of biosynthetic process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0009987	Cellular process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0010468	Regulation of gene expression
+AUX22	4577.A0A1D6FF66	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0019222	Regulation of metabolic process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0023052	Signaling
+AUX22	4577.A0A1D6FF66	GO Process	GO:0032870	Cellular response to hormone stimulus
+AUX22	4577.A0A1D6FF66	GO Process	GO:0042221	Response to chemical
+AUX22	4577.A0A1D6FF66	GO Process	GO:0050789	Regulation of biological process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0050794	Regulation of cellular process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0050896	Response to stimulus
+AUX22	4577.A0A1D6FF66	GO Process	GO:0051252	Regulation of RNA metabolic process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0051716	Cellular response to stimulus
+AUX22	4577.A0A1D6FF66	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+AUX22	4577.A0A1D6FF66	GO Process	GO:0065007	Biological regulation
+AUX22	4577.A0A1D6FF66	GO Process	GO:0070887	Cellular response to chemical stimulus
+AUX22	4577.A0A1D6FF66	GO Process	GO:0071495	Cellular response to endogenous stimulus
+AUX22	4577.A0A1D6FF66	GO Process	GO:0080090	Regulation of primary metabolic process
+AUX22	4577.A0A1D6FF66	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+AUX22	4577.A0A1D6FF66	GO Function	GO:0003700	DNA-binding transcription factor activity
+AUX22	4577.A0A1D6FF66	GO Function	GO:0140110	Transcription regulator activity
+AUX22	4577.A0A1D6FF66	GO Component	GO:0005622	Intracellular anatomical structure
+AUX22	4577.A0A1D6FF66	GO Component	GO:0005634	Nucleus
+AUX22	4577.A0A1D6FF66	GO Component	GO:0043226	Organelle
+AUX22	4577.A0A1D6FF66	GO Component	GO:0043227	Membrane-bounded organelle
+AUX22	4577.A0A1D6FF66	GO Component	GO:0043229	Intracellular organelle
+AUX22	4577.A0A1D6FF66	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+AUX22	4577.A0A1D6FF66	GO Component	GO:0110165	Cellular anatomical structure
+AUX22	4577.A0A1D6FF66	STRING clusters	CL:14980	Mixed, incl. Maestro heat-like repeat-containing protein, and Trypsin-like peptidase domain
+AUX22	4577.A0A1D6FF66	STRING clusters	CL:14981	Mixed, incl. Maestro heat-like repeat-containing protein, and Protease Do-like, PDZ domain
+AUX22	4577.A0A1D6FF66	STRING clusters	CL:14983	Maestro heat-like repeat-containing protein, and Negative regulation of gibberellic acid mediated signaling pathway
+AUX22	4577.A0A1D6FF66	KEGG	zma04075	Plant hormone signal transduction
+AUX22	4577.A0A1D6FF66	UniProt Keywords	KW-0539	Nucleus
+AUX22	4577.A0A1D6FF66	UniProt Keywords	KW-0678	Repressor
+AUX22	4577.A0A1D6FF66	UniProt Keywords	KW-0804	Transcription
+AUX22	4577.A0A1D6FF66	UniProt Keywords	KW-0805	Transcription regulation
+AUX22	4577.A0A1D6FF66	UniProt Keywords	KW-0927	Auxin signaling pathway
+AUX22	4577.A0A1D6FF66	Pfam	PF02309	AUX/IAA family
+AUX22	4577.A0A1D6FF66	InterPro	IPR003311	AUX/IAA protein
+AUX22	4577.A0A1D6FF66	InterPro	IPR033389	AUX/IAA domain
+AUX22	4577.A0A1D6FF66	InterPro	IPR053793	PB1-like domain
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0006351	DNA-templated transcription
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0006355	Regulation of DNA-templated transcription
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0007154	Cell communication
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0007165	Signal transduction
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0007166	Cell surface receptor signaling pathway
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0008152	Metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009058	Biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009059	Macromolecule biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009719	Response to endogenous stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009725	Response to hormone
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009741	Response to brassinosteroid
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009742	Brassinosteroid mediated signaling pathway
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009755	Hormone-mediated signaling pathway
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009889	Regulation of biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0009987	Cellular process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0010467	Gene expression
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0010468	Regulation of gene expression
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0016070	RNA metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0019222	Regulation of metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0023052	Signaling
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0032774	RNA biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0032870	Cellular response to hormone stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0033993	Response to lipid
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0042221	Response to chemical
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0043170	Macromolecule metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0043401	Steroid hormone receptor signaling pathway
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0044238	Primary metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0048545	Response to steroid hormone
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0050789	Regulation of biological process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0050794	Regulation of cellular process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0050896	Response to stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0051252	Regulation of RNA metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0051716	Cellular response to stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0065007	Biological regulation
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0070887	Cellular response to chemical stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0071367	Cellular response to brassinosteroid stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0071383	Cellular response to steroid hormone stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0071396	Cellular response to lipid
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0071495	Cellular response to endogenous stimulus
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0080090	Regulation of primary metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0090304	Nucleic acid metabolic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:0141187	Nucleic acid biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:1901700	Response to oxygen-containing compound
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+B4FKI7_MAIZE	4577.B4FKI7	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+B4FKI7_MAIZE	4577.B4FKI7	GO Function	GO:0003676	Nucleic acid binding
+B4FKI7_MAIZE	4577.B4FKI7	GO Function	GO:0003677	DNA binding
+B4FKI7_MAIZE	4577.B4FKI7	GO Function	GO:0003700	DNA-binding transcription factor activity
+B4FKI7_MAIZE	4577.B4FKI7	GO Function	GO:0005488	Binding
+B4FKI7_MAIZE	4577.B4FKI7	GO Function	GO:0140110	Transcription regulator activity
+B4FKI7_MAIZE	4577.B4FKI7	STRING clusters	CL:26047	Mixed, incl. Starch and sucrose metabolism, and Plant Aspartic Proteinase A1
+B4FKI7_MAIZE	4577.B4FKI7	STRING clusters	CL:26221	Mixed, incl. Plant Aspartic Proteinase A1, and Xenobiotic export from cell
+B4FKI7_MAIZE	4577.B4FKI7	STRING clusters	CL:26222	Mixed, incl. Plant Aspartic Proteinase A1, and Zinc finger CCCH domain-containing protein 13/40
+B4FKI7_MAIZE	4577.B4FKI7	STRING clusters	CL:26223	Mixed, incl. Plant Aspartic Proteinase A1, and Transcription factors Myb-like
+B4FKI7_MAIZE	4577.B4FKI7	STRING clusters	CL:26224	Mixed, incl. Plant Aspartic Proteinase A1, and Transcription factors Myb-like
+B4FKI7_MAIZE	4577.B4FKI7	UniProt Keywords	KW-0238	DNA-binding
+B4FKI7_MAIZE	4577.B4FKI7	UniProt Keywords	KW-0341	Growth regulation
+B4FKI7_MAIZE	4577.B4FKI7	UniProt Keywords	KW-0804	Transcription
+B4FKI7_MAIZE	4577.B4FKI7	UniProt Keywords	KW-0805	Transcription regulation
+B4FKI7_MAIZE	4577.B4FKI7	UniProt Keywords	KW-1070	Brassinosteroid signaling pathway
+B4FKI7_MAIZE	4577.B4FKI7	Pfam	PF05687	BES1/BZR1 plant transcription factor, N-terminal
+B4FKI7_MAIZE	4577.B4FKI7	InterPro	IPR008540	BES1/BZR1 plant transcription factor, N-terminal
+B4FKI7_MAIZE	4577.B4FKI7	InterPro	IPR033264	BZR family
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0006950	Response to stress
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0009611	Response to wounding
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0009966	Regulation of signal transduction
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0010646	Regulation of cell communication
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0023051	Regulation of signaling
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0031347	Regulation of defense response
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0048583	Regulation of response to stimulus
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0050789	Regulation of biological process
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0050794	Regulation of cellular process
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0050896	Response to stimulus
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0065007	Biological regulation
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:0080134	Regulation of response to stress
+B6SNX5_MAIZE	4577.B6SNX5	GO Process	GO:2000022	Regulation of jasmonic acid mediated signaling pathway
+B6SNX5_MAIZE	4577.B6SNX5	GO Function	GO:0005488	Binding
+B6SNX5_MAIZE	4577.B6SNX5	GO Function	GO:0005515	Protein binding
+B6SNX5_MAIZE	4577.B6SNX5	GO Component	GO:0005622	Intracellular anatomical structure
+B6SNX5_MAIZE	4577.B6SNX5	GO Component	GO:0005634	Nucleus
+B6SNX5_MAIZE	4577.B6SNX5	GO Component	GO:0043226	Organelle
+B6SNX5_MAIZE	4577.B6SNX5	GO Component	GO:0043227	Membrane-bounded organelle
+B6SNX5_MAIZE	4577.B6SNX5	GO Component	GO:0043229	Intracellular organelle
+B6SNX5_MAIZE	4577.B6SNX5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B6SNX5_MAIZE	4577.B6SNX5	GO Component	GO:0110165	Cellular anatomical structure
+B6SNX5_MAIZE	4577.B6SNX5	STRING clusters	CL:39268	Mostly uncharacterized, incl. Transcription factor TGA like domain, and Zinc finger C2HC, NPR-type
+B6SNX5_MAIZE	4577.B6SNX5	STRING clusters	CL:39269	Mixed, incl. Zinc finger C2HC, NPR-type, and Transcription factor TGA like domain
+B6SNX5_MAIZE	4577.B6SNX5	STRING clusters	CL:39270	Mixed, incl. Zinc finger C2HC, NPR-type, and Transcription factor TGA like domain
+B6SNX5_MAIZE	4577.B6SNX5	STRING clusters	CL:39272	Mixed, incl. Zinc finger C2HC, NPR-type, and Plant ABC transporter G
+B6SNX5_MAIZE	4577.B6SNX5	STRING clusters	CL:39275	Mixed, incl. Zinc finger C2HC, NPR-type, and Transcription factor TGA like domain
+B6SNX5_MAIZE	4577.B6SNX5	STRING clusters	CL:39277	Mixed, incl. Regulatory protein NPR5/6, and SPX domain-containing protein
+B6SNX5_MAIZE	4577.B6SNX5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B6SNX5_MAIZE	4577.B6SNX5	COMPARTMENTS	GOCC:0005634	Nucleus
+B6SNX5_MAIZE	4577.B6SNX5	COMPARTMENTS	GOCC:0043226	Organelle
+B6SNX5_MAIZE	4577.B6SNX5	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B6SNX5_MAIZE	4577.B6SNX5	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B6SNX5_MAIZE	4577.B6SNX5	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B6SNX5_MAIZE	4577.B6SNX5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B6SNX5_MAIZE	4577.B6SNX5	UniProt Keywords	KW-0539	Nucleus
+B6SNX5_MAIZE	4577.B6SNX5	UniProt Keywords	KW-1184	Jasmonic acid signaling pathway
+B6SNX5_MAIZE	4577.B6SNX5	InterPro	IPR010399	Tify domain
+B6SNX5_MAIZE	4577.B6SNX5	InterPro	IPR040390	TIFY/JAZ family
+B6SNX5_MAIZE	4577.B6SNX5	SMART	SM00979	This short possible domain is found in a variety of plant transcription factors that contain GATA domains as well as other motifs. Although previously known as the Zim domain this is now called the tify domain after its most conserved amino acids. ...
+Gpm791	4577.A0A1D6L285	GO Process	GO:0000160	Phosphorelay signal transduction system
+Gpm791	4577.A0A1D6L285	GO Process	GO:0006468	Protein phosphorylation
+Gpm791	4577.A0A1D6L285	GO Process	GO:0006793	Phosphorus metabolic process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0007154	Cell communication
+Gpm791	4577.A0A1D6L285	GO Process	GO:0007165	Signal transduction
+Gpm791	4577.A0A1D6L285	GO Process	GO:0008152	Metabolic process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0009719	Response to endogenous stimulus
+Gpm791	4577.A0A1D6L285	GO Process	GO:0009725	Response to hormone
+Gpm791	4577.A0A1D6L285	GO Process	GO:0009735	Response to cytokinin
+Gpm791	4577.A0A1D6L285	GO Process	GO:0009736	Cytokinin-activated signaling pathway
+Gpm791	4577.A0A1D6L285	GO Process	GO:0009755	Hormone-mediated signaling pathway
+Gpm791	4577.A0A1D6L285	GO Process	GO:0009987	Cellular process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0016310	Phosphorylation
+Gpm791	4577.A0A1D6L285	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+Gpm791	4577.A0A1D6L285	GO Process	GO:0018193	Peptidyl-amino acid modification
+Gpm791	4577.A0A1D6L285	GO Process	GO:0018202	Peptidyl-histidine modification
+Gpm791	4577.A0A1D6L285	GO Process	GO:0019538	Protein metabolic process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0023052	Signaling
+Gpm791	4577.A0A1D6L285	GO Process	GO:0032870	Cellular response to hormone stimulus
+Gpm791	4577.A0A1D6L285	GO Process	GO:0035556	Intracellular signal transduction
+Gpm791	4577.A0A1D6L285	GO Process	GO:0036211	Protein modification process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0042221	Response to chemical
+Gpm791	4577.A0A1D6L285	GO Process	GO:0043170	Macromolecule metabolic process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0043412	Macromolecule modification
+Gpm791	4577.A0A1D6L285	GO Process	GO:0044238	Primary metabolic process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0050789	Regulation of biological process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0050794	Regulation of cellular process
+Gpm791	4577.A0A1D6L285	GO Process	GO:0050896	Response to stimulus
+Gpm791	4577.A0A1D6L285	GO Process	GO:0051716	Cellular response to stimulus
+Gpm791	4577.A0A1D6L285	GO Process	GO:0065007	Biological regulation
+Gpm791	4577.A0A1D6L285	GO Process	GO:0070887	Cellular response to chemical stimulus
+Gpm791	4577.A0A1D6L285	GO Process	GO:0071368	Cellular response to cytokinin stimulus
+Gpm791	4577.A0A1D6L285	GO Process	GO:0071495	Cellular response to endogenous stimulus
+Gpm791	4577.A0A1D6L285	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+Gpm791	4577.A0A1D6L285	GO Function	GO:0003824	Catalytic activity
+Gpm791	4577.A0A1D6L285	GO Function	GO:0004672	Protein kinase activity
+Gpm791	4577.A0A1D6L285	GO Function	GO:0004673	Protein histidine kinase activity
+Gpm791	4577.A0A1D6L285	GO Function	GO:0005488	Binding
+Gpm791	4577.A0A1D6L285	GO Function	GO:0005515	Protein binding
+Gpm791	4577.A0A1D6L285	GO Function	GO:0016301	Kinase activity
+Gpm791	4577.A0A1D6L285	GO Function	GO:0016740	Transferase activity
+Gpm791	4577.A0A1D6L285	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+Gpm791	4577.A0A1D6L285	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+Gpm791	4577.A0A1D6L285	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+Gpm791	4577.A0A1D6L285	GO Function	GO:0019955	Cytokine binding
+Gpm791	4577.A0A1D6L285	GO Function	GO:0098772	Molecular function regulator activity
+Gpm791	4577.A0A1D6L285	GO Function	GO:0140096	Catalytic activity, acting on a protein
+Gpm791	4577.A0A1D6L285	GO Function	GO:0140299	Molecular sensor activity
+Gpm791	4577.A0A1D6L285	GO Component	GO:0005622	Intracellular anatomical structure
+Gpm791	4577.A0A1D6L285	GO Component	GO:0005634	Nucleus
+Gpm791	4577.A0A1D6L285	GO Component	GO:0005886	Plasma membrane
+Gpm791	4577.A0A1D6L285	GO Component	GO:0016020	Membrane
+Gpm791	4577.A0A1D6L285	GO Component	GO:0043226	Organelle
+Gpm791	4577.A0A1D6L285	GO Component	GO:0043227	Membrane-bounded organelle
+Gpm791	4577.A0A1D6L285	GO Component	GO:0043229	Intracellular organelle
+Gpm791	4577.A0A1D6L285	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Gpm791	4577.A0A1D6L285	GO Component	GO:0071944	Cell periphery
+Gpm791	4577.A0A1D6L285	GO Component	GO:0110165	Cellular anatomical structure
+Gpm791	4577.A0A1D6L285	STRING clusters	CL:36983	Plant hormone signal transduction, and Negative regulation of ethylene-activated signaling pathway
+Gpm791	4577.A0A1D6L285	STRING clusters	CL:36984	Mixed, incl. Abscisic acid signaling pathway, and Two-component regulatory system
+Gpm791	4577.A0A1D6L285	STRING clusters	CL:36985	Mixed, incl. Abscisic acid signaling pathway, and Cytokinin signaling pathway
+Gpm791	4577.A0A1D6L285	STRING clusters	CL:37114	Cytokinin signaling pathway, and Phosphatidylethanolamine-binding protein, eukaryotic
+Gpm791	4577.A0A1D6L285	STRING clusters	CL:37115	Cytokinin signaling pathway, and Signal Transduction Response Regulator
+Gpm791	4577.A0A1D6L285	STRING clusters	CL:37117	Cytokinin signaling pathway, and Phosphorelay response regulator activity
+Gpm791	4577.A0A1D6L285	KEGG	zma04075	Plant hormone signal transduction
+Gpm791	4577.A0A1D6L285	Reactome	MAP-2262752	Cellular responses to stress
+Gpm791	4577.A0A1D6L285	Reactome	MAP-3371453	Regulation of HSF1-mediated heat shock response
+Gpm791	4577.A0A1D6L285	Reactome	MAP-3371511	HSF1 activation
+Gpm791	4577.A0A1D6L285	Reactome	MAP-3371556	Cellular response to heat stress
+Gpm791	4577.A0A1D6L285	Reactome	MAP-3371568	Attenuation phase
+Gpm791	4577.A0A1D6L285	Reactome	MAP-3371571	HSF1-dependent transactivation
+Gpm791	4577.A0A1D6L285	Reactome	MAP-8953897	Cellular responses to stimuli
+Gpm791	4577.A0A1D6L285	Reactome	MAP-9841251	Mitochondrial unfolded protein response (UPRmt)
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0005886	Plasma membrane
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0012505	Endomembrane system
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0016020	Membrane
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0043226	Organelle
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0071944	Cell periphery
+Gpm791	4577.A0A1D6L285	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-0418	Kinase
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-0472	Membrane
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-0597	Phosphoprotein
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-0808	Transferase
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-0812	Transmembrane
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-0902	Two-component regulatory system
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-0932	Cytokinin signaling pathway
+Gpm791	4577.A0A1D6L285	UniProt Keywords	KW-1133	Transmembrane helix
+Gpm791	4577.A0A1D6L285	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+Gpm791	4577.A0A1D6L285	InterPro	IPR003594	Histidine kinase/HSP90-like ATPase domain
+Gpm791	4577.A0A1D6L285	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+Gpm791	4577.A0A1D6L285	InterPro	IPR004358	Signal transduction histidine kinase-related protein, C-terminal
+Gpm791	4577.A0A1D6L285	InterPro	IPR005467	Histidine kinase domain
+Gpm791	4577.A0A1D6L285	InterPro	IPR006189	CHASE domain
+Gpm791	4577.A0A1D6L285	InterPro	IPR011006	CheY-like superfamily
+Gpm791	4577.A0A1D6L285	InterPro	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+Gpm791	4577.A0A1D6L285	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+Gpm791	4577.A0A1D6L285	InterPro	IPR042240	CHASE domain superfamily
+Gpm791	4577.A0A1D6L285	InterPro	IPR050956	Two-component system histidine kinase
+Gpm791	4577.A0A1D6L285	InterPro	IPR056839	AHK4/CRE1/WOL, first receiver domain
+Gpm791	4577.A0A1D6L285	SMART	SM00387	Histidine kinase-like ATPases
+Gpm791	4577.A0A1D6L285	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+Gpm791	4577.A0A1D6L285	SMART	SM00448	cheY-homologous receiver domain
+Gpm791	4577.A0A1D6L285	SMART	SM01079	This domain is found in the extracellular portion of receptor-like proteins - such as serine/threonine kinases and adenylyl cyclases PUBMED:11590000, PUBMED:11590001. Predicted to be a ligand binding domain PUBMED:11590000.
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0000160	Phosphorelay signal transduction system
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0006468	Protein phosphorylation
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0006793	Phosphorus metabolic process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0006796	Phosphate-containing compound metabolic process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0007154	Cell communication
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0007165	Signal transduction
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0008152	Metabolic process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0009719	Response to endogenous stimulus
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0009725	Response to hormone
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0009735	Response to cytokinin
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0009736	Cytokinin-activated signaling pathway
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0009755	Hormone-mediated signaling pathway
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0009987	Cellular process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0016310	Phosphorylation
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0018106	Peptidyl-histidine phosphorylation
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0018193	Peptidyl-amino acid modification
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0018202	Peptidyl-histidine modification
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0019538	Protein metabolic process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0023052	Signaling
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0032870	Cellular response to hormone stimulus
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0035556	Intracellular signal transduction
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0036211	Protein modification process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0042221	Response to chemical
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0043170	Macromolecule metabolic process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0043412	Macromolecule modification
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0044238	Primary metabolic process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0050789	Regulation of biological process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0050794	Regulation of cellular process
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0050896	Response to stimulus
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0051716	Cellular response to stimulus
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0065007	Biological regulation
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0070887	Cellular response to chemical stimulus
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0071368	Cellular response to cytokinin stimulus
+HK1b2	4577.A0A1D6GJ22	GO Process	GO:0071495	Cellular response to endogenous stimulus
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0000155	Phosphorelay sensor kinase activity
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0003824	Catalytic activity
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0004672	Protein kinase activity
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0004673	Protein histidine kinase activity
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0005488	Binding
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0005515	Protein binding
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0016301	Kinase activity
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0016740	Transferase activity
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0016775	Phosphotransferase activity, nitrogenous group as acceptor
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0019955	Cytokine binding
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0098772	Molecular function regulator activity
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0140096	Catalytic activity, acting on a protein
+HK1b2	4577.A0A1D6GJ22	GO Function	GO:0140299	Molecular sensor activity
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0005622	Intracellular anatomical structure
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0005634	Nucleus
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0005886	Plasma membrane
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0016020	Membrane
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0043226	Organelle
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0043227	Membrane-bounded organelle
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0043229	Intracellular organelle
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0071944	Cell periphery
+HK1b2	4577.A0A1D6GJ22	GO Component	GO:0110165	Cellular anatomical structure
+HK1b2	4577.A0A1D6GJ22	STRING clusters	CL:36983	Plant hormone signal transduction, and Negative regulation of ethylene-activated signaling pathway
+HK1b2	4577.A0A1D6GJ22	STRING clusters	CL:36984	Mixed, incl. Abscisic acid signaling pathway, and Two-component regulatory system
+HK1b2	4577.A0A1D6GJ22	STRING clusters	CL:36985	Mixed, incl. Abscisic acid signaling pathway, and Cytokinin signaling pathway
+HK1b2	4577.A0A1D6GJ22	STRING clusters	CL:37114	Cytokinin signaling pathway, and Phosphatidylethanolamine-binding protein, eukaryotic
+HK1b2	4577.A0A1D6GJ22	STRING clusters	CL:37115	Cytokinin signaling pathway, and Signal Transduction Response Regulator
+HK1b2	4577.A0A1D6GJ22	STRING clusters	CL:37117	Cytokinin signaling pathway, and Phosphorelay response regulator activity
+HK1b2	4577.A0A1D6GJ22	STRING clusters	CL:37119	Cytokinin signaling pathway, and Phosphorelay response regulator activity
+HK1b2	4577.A0A1D6GJ22	KEGG	zma04075	Plant hormone signal transduction
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-2262752	Cellular responses to stress
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-3371453	Regulation of HSF1-mediated heat shock response
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-3371511	HSF1 activation
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-3371556	Cellular response to heat stress
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-3371568	Attenuation phase
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-3371571	HSF1-dependent transactivation
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-8953897	Cellular responses to stimuli
+HK1b2	4577.A0A1D6GJ22	Reactome	MAP-9841251	Mitochondrial unfolded protein response (UPRmt)
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0005737	Cytoplasm
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0005783	Endoplasmic reticulum
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0005886	Plasma membrane
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0012505	Endomembrane system
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0016020	Membrane
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0043226	Organelle
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0071944	Cell periphery
+HK1b2	4577.A0A1D6GJ22	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-0418	Kinase
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-0472	Membrane
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-0597	Phosphoprotein
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-0808	Transferase
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-0812	Transmembrane
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-0902	Two-component regulatory system
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-0932	Cytokinin signaling pathway
+HK1b2	4577.A0A1D6GJ22	UniProt Keywords	KW-1133	Transmembrane helix
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR001789	Signal transduction response regulator, receiver domain
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR003594	Histidine kinase/HSP90-like ATPase domain
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR004358	Signal transduction histidine kinase-related protein, C-terminal
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR005467	Histidine kinase domain
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR006189	CHASE domain
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR011006	CheY-like superfamily
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR036890	Histidine kinase/HSP90-like ATPase superfamily
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR042240	CHASE domain superfamily
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR050956	Two-component system histidine kinase
+HK1b2	4577.A0A1D6GJ22	InterPro	IPR056839	AHK4/CRE1/WOL, first receiver domain
+HK1b2	4577.A0A1D6GJ22	SMART	SM00387	Histidine kinase-like ATPases
+HK1b2	4577.A0A1D6GJ22	SMART	SM00388	His Kinase A (phosphoacceptor) domain
+HK1b2	4577.A0A1D6GJ22	SMART	SM00448	cheY-homologous receiver domain
+HK1b2	4577.A0A1D6GJ22	SMART	SM01079	This domain is found in the extracellular portion of receptor-like proteins - such as serine/threonine kinases and adenylyl cyclases PUBMED:11590000, PUBMED:11590001. Predicted to be a ligand binding domain PUBMED:11590000.

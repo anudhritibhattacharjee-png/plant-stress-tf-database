@@ -1,0 +1,987 @@
+#node	identifier	category	term ID	term description
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0000165	MAPK cascade
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0007154	Cell communication
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0007165	Signal transduction
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0009987	Cellular process
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0023052	Signaling
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0035556	Intracellular signal transduction
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0050789	Regulation of biological process
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0050794	Regulation of cellular process
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0050896	Response to stimulus
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0051716	Cellular response to stimulus
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0065007	Biological regulation
+A0A077RTL3	4565.A0A077RTL3	GO Process	GO:0141124	Intracellular signaling cassette
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0000166	Nucleotide binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0003824	Catalytic activity
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0004672	Protein kinase activity
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0004707	MAP kinase activity
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0005488	Binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0005524	ATP binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0016301	Kinase activity
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0016740	Transferase activity
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0017076	Purine nucleotide binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0032553	Ribonucleotide binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0036094	Small molecule binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0043167	Ion binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0043168	Anion binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0106310	Protein serine kinase activity
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A077RTL3	4565.A0A077RTL3	GO Function	GO:1901363	Heterocyclic compound binding
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0005622	Intracellular anatomical structure
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0005634	Nucleus
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0005737	Cytoplasm
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0043226	Organelle
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0043227	Membrane-bounded organelle
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0043229	Intracellular organelle
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A077RTL3	4565.A0A077RTL3	GO Component	GO:0110165	Cellular anatomical structure
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34610	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34612	MAPK cascade, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34614	Mixed, incl. MAP kinase activity, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34616	MAP kinase activity, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34618	MAP kinase activity, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	STRING clusters	CL:34620	MAP kinase activity, and MAP kinase phosphatase activity
+A0A077RTL3	4565.A0A077RTL3	Reactome	MAP-162582	Signal Transduction
+A0A077RTL3	4565.A0A077RTL3	Reactome	MAP-168249	Innate Immune System
+A0A077RTL3	4565.A0A077RTL3	Reactome	MAP-168256	Immune System
+A0A077RTL3	4565.A0A077RTL3	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A077RTL3	4565.A0A077RTL3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A077RTL3	4565.A0A077RTL3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A077RTL3	4565.A0A077RTL3	UniProt Keywords	KW-0067	ATP-binding
+A0A077RTL3	4565.A0A077RTL3	UniProt Keywords	KW-0418	Kinase
+A0A077RTL3	4565.A0A077RTL3	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A077RTL3	4565.A0A077RTL3	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A077RTL3	4565.A0A077RTL3	UniProt Keywords	KW-0808	Transferase
+A0A077RTL3	4565.A0A077RTL3	InterPro	IPR000719	Protein kinase domain
+A0A077RTL3	4565.A0A077RTL3	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A077RTL3	4565.A0A077RTL3	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A077RTL3	4565.A0A077RTL3	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A077RTL3	4565.A0A077RTL3	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A077RTL3	4565.A0A077RTL3	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0000165	MAPK cascade
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0007154	Cell communication
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0007165	Signal transduction
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0009987	Cellular process
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0023052	Signaling
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0035556	Intracellular signal transduction
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0050789	Regulation of biological process
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0050794	Regulation of cellular process
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0050896	Response to stimulus
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0065007	Biological regulation
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Process	GO:0141124	Intracellular signaling cassette
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0000166	Nucleotide binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0003824	Catalytic activity
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0004672	Protein kinase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0004707	MAP kinase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0005488	Binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0005524	ATP binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0016301	Kinase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0016740	Transferase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0036094	Small molecule binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0043167	Ion binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0043168	Anion binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0106310	Protein serine kinase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0005634	Nucleus
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0005737	Cytoplasm
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0043226	Organelle
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0043229	Intracellular organelle
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B5XVG6	4565.A0A3B5XVG6	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5XVG6	4565.A0A3B5XVG6	KEGG	map04148	Efferocytosis
+A0A3B5XVG6	4565.A0A3B5XVG6	KEGG	map04620	Toll-like receptor signaling pathway
+A0A3B5XVG6	4565.A0A3B5XVG6	Reactome	MAP-162582	Signal Transduction
+A0A3B5XVG6	4565.A0A3B5XVG6	Reactome	MAP-168249	Innate Immune System
+A0A3B5XVG6	4565.A0A3B5XVG6	Reactome	MAP-168256	Immune System
+A0A3B5XVG6	4565.A0A3B5XVG6	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B5XVG6	4565.A0A3B5XVG6	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B5XVG6	4565.A0A3B5XVG6	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B5XVG6	4565.A0A3B5XVG6	UniProt Keywords	KW-0067	ATP-binding
+A0A3B5XVG6	4565.A0A3B5XVG6	UniProt Keywords	KW-0418	Kinase
+A0A3B5XVG6	4565.A0A3B5XVG6	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B5XVG6	4565.A0A3B5XVG6	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B5XVG6	4565.A0A3B5XVG6	UniProt Keywords	KW-0808	Transferase
+A0A3B5XVG6	4565.A0A3B5XVG6	InterPro	IPR000719	Protein kinase domain
+A0A3B5XVG6	4565.A0A3B5XVG6	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5XVG6	4565.A0A3B5XVG6	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B5XVG6	4565.A0A3B5XVG6	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A3B5XVG6	4565.A0A3B5XVG6	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A3B5XVG6	4565.A0A3B5XVG6	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0000165	MAPK cascade
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0007154	Cell communication
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0007165	Signal transduction
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0009987	Cellular process
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0023052	Signaling
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0035556	Intracellular signal transduction
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0050789	Regulation of biological process
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0050794	Regulation of cellular process
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0050896	Response to stimulus
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0065007	Biological regulation
+A0A3B5Y080	4565.A0A3B5Y080	GO Process	GO:0141124	Intracellular signaling cassette
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0000166	Nucleotide binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0003824	Catalytic activity
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0004672	Protein kinase activity
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0004707	MAP kinase activity
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0005488	Binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0005524	ATP binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0016301	Kinase activity
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0016740	Transferase activity
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0036094	Small molecule binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0043167	Ion binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0043168	Anion binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0106310	Protein serine kinase activity
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0005634	Nucleus
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0005737	Cytoplasm
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0043226	Organelle
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0043229	Intracellular organelle
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B5Y080	4565.A0A3B5Y080	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34610	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34612	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34614	Mixed, incl. MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34616	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34618	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34620	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34622	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34623	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34624	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34686	MAP kinase phosphatase activity, and MAP kinase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34687	MAP kinase phosphatase activity, and MAP kinase activity
+A0A3B5Y080	4565.A0A3B5Y080	STRING clusters	CL:34721	MAP kinase tyrosine phosphatase activity, and Ser/Thr Protein Kinase
+A0A3B5Y080	4565.A0A3B5Y080	KEGG	map04016	MAPK signaling pathway - plant
+A0A3B5Y080	4565.A0A3B5Y080	KEGG	map04626	Plant-pathogen interaction
+A0A3B5Y080	4565.A0A3B5Y080	Reactome	MAP-162582	Signal Transduction
+A0A3B5Y080	4565.A0A3B5Y080	Reactome	MAP-168249	Innate Immune System
+A0A3B5Y080	4565.A0A3B5Y080	Reactome	MAP-168256	Immune System
+A0A3B5Y080	4565.A0A3B5Y080	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B5Y080	4565.A0A3B5Y080	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B5Y080	4565.A0A3B5Y080	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3B5Y080	4565.A0A3B5Y080	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3B5Y080	4565.A0A3B5Y080	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3B5Y080	4565.A0A3B5Y080	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3B5Y080	4565.A0A3B5Y080	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3B5Y080	4565.A0A3B5Y080	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B5Y080	4565.A0A3B5Y080	UniProt Keywords	KW-0067	ATP-binding
+A0A3B5Y080	4565.A0A3B5Y080	UniProt Keywords	KW-0418	Kinase
+A0A3B5Y080	4565.A0A3B5Y080	UniProt Keywords	KW-0460	Magnesium
+A0A3B5Y080	4565.A0A3B5Y080	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B5Y080	4565.A0A3B5Y080	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B5Y080	4565.A0A3B5Y080	UniProt Keywords	KW-0808	Transferase
+A0A3B5Y080	4565.A0A3B5Y080	InterPro	IPR000719	Protein kinase domain
+A0A3B5Y080	4565.A0A3B5Y080	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5Y080	4565.A0A3B5Y080	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+A0A3B5Y080	4565.A0A3B5Y080	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B5Y080	4565.A0A3B5Y080	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A3B5Y080	4565.A0A3B5Y080	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A3B5Y080	4565.A0A3B5Y080	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0000165	MAPK cascade
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0007154	Cell communication
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0007165	Signal transduction
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0009987	Cellular process
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0023052	Signaling
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0035556	Intracellular signal transduction
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0050789	Regulation of biological process
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0050794	Regulation of cellular process
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0050896	Response to stimulus
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0065007	Biological regulation
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Process	GO:0141124	Intracellular signaling cassette
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0000166	Nucleotide binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0003824	Catalytic activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0004672	Protein kinase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0004707	MAP kinase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0005488	Binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0005524	ATP binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0016301	Kinase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0016740	Transferase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0036094	Small molecule binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0043167	Ion binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0043168	Anion binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0106310	Protein serine kinase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0005634	Nucleus
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0005737	Cytoplasm
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0043226	Organelle
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0043229	Intracellular organelle
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B5Y6A3	4565.A0A3B5Y6A3	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6A3	4565.A0A3B5Y6A3	Reactome	MAP-162582	Signal Transduction
+A0A3B5Y6A3	4565.A0A3B5Y6A3	Reactome	MAP-168249	Innate Immune System
+A0A3B5Y6A3	4565.A0A3B5Y6A3	Reactome	MAP-168256	Immune System
+A0A3B5Y6A3	4565.A0A3B5Y6A3	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B5Y6A3	4565.A0A3B5Y6A3	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B5Y6A3	4565.A0A3B5Y6A3	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B5Y6A3	4565.A0A3B5Y6A3	UniProt Keywords	KW-0067	ATP-binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	UniProt Keywords	KW-0418	Kinase
+A0A3B5Y6A3	4565.A0A3B5Y6A3	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B5Y6A3	4565.A0A3B5Y6A3	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B5Y6A3	4565.A0A3B5Y6A3	UniProt Keywords	KW-0808	Transferase
+A0A3B5Y6A3	4565.A0A3B5Y6A3	InterPro	IPR000719	Protein kinase domain
+A0A3B5Y6A3	4565.A0A3B5Y6A3	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5Y6A3	4565.A0A3B5Y6A3	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B5Y6A3	4565.A0A3B5Y6A3	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A3B5Y6A3	4565.A0A3B5Y6A3	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A3B5Y6A3	4565.A0A3B5Y6A3	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0000165	MAPK cascade
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0007154	Cell communication
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0007165	Signal transduction
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0009987	Cellular process
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0023052	Signaling
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0035556	Intracellular signal transduction
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0050789	Regulation of biological process
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0050794	Regulation of cellular process
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0050896	Response to stimulus
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0065007	Biological regulation
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Process	GO:0141124	Intracellular signaling cassette
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0000166	Nucleotide binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0003824	Catalytic activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0004672	Protein kinase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0004707	MAP kinase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0005488	Binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0005524	ATP binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0016301	Kinase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0016740	Transferase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0036094	Small molecule binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0043167	Ion binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0043168	Anion binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0106310	Protein serine kinase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0005634	Nucleus
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0005737	Cytoplasm
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0043226	Organelle
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0043229	Intracellular organelle
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B5Y6P8	4565.A0A3B5Y6P8	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34610	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34612	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34614	Mixed, incl. MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34616	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34618	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34620	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34622	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34623	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34624	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34625	Small GTPase Rho, and MAP kinase activity
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34628	Mixed, incl. Small GTPase Rho, and G alpha (12/13) signalling events
+A0A3B5Y6P8	4565.A0A3B5Y6P8	STRING clusters	CL:34630	Mixed, incl. Small GTPase Rho, and G alpha (12/13) signalling events
+A0A3B5Y6P8	4565.A0A3B5Y6P8	Reactome	MAP-162582	Signal Transduction
+A0A3B5Y6P8	4565.A0A3B5Y6P8	Reactome	MAP-168249	Innate Immune System
+A0A3B5Y6P8	4565.A0A3B5Y6P8	Reactome	MAP-168256	Immune System
+A0A3B5Y6P8	4565.A0A3B5Y6P8	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B5Y6P8	4565.A0A3B5Y6P8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B5Y6P8	4565.A0A3B5Y6P8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B5Y6P8	4565.A0A3B5Y6P8	UniProt Keywords	KW-0067	ATP-binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	UniProt Keywords	KW-0418	Kinase
+A0A3B5Y6P8	4565.A0A3B5Y6P8	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B5Y6P8	4565.A0A3B5Y6P8	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B5Y6P8	4565.A0A3B5Y6P8	UniProt Keywords	KW-0808	Transferase
+A0A3B5Y6P8	4565.A0A3B5Y6P8	InterPro	IPR000719	Protein kinase domain
+A0A3B5Y6P8	4565.A0A3B5Y6P8	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5Y6P8	4565.A0A3B5Y6P8	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B5Y6P8	4565.A0A3B5Y6P8	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A3B5Y6P8	4565.A0A3B5Y6P8	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A3B5Y6P8	4565.A0A3B5Y6P8	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0000165	MAPK cascade
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0007154	Cell communication
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0007165	Signal transduction
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0009987	Cellular process
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0023052	Signaling
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0035556	Intracellular signal transduction
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0050789	Regulation of biological process
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0050794	Regulation of cellular process
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0050896	Response to stimulus
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0065007	Biological regulation
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Process	GO:0141124	Intracellular signaling cassette
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0000166	Nucleotide binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0003824	Catalytic activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0004672	Protein kinase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0004707	MAP kinase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0005488	Binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0005524	ATP binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0016301	Kinase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0016740	Transferase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0036094	Small molecule binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0043167	Ion binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0043168	Anion binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0106310	Protein serine kinase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0005634	Nucleus
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0005737	Cytoplasm
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0043226	Organelle
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0043229	Intracellular organelle
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B5Y7D4	4565.A0A3B5Y7D4	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34610	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34612	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34614	Mixed, incl. MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34616	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34618	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34620	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34622	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34623	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34624	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34625	Small GTPase Rho, and MAP kinase activity
+A0A3B5Y7D4	4565.A0A3B5Y7D4	STRING clusters	CL:34628	Mixed, incl. Small GTPase Rho, and G alpha (12/13) signalling events
+A0A3B5Y7D4	4565.A0A3B5Y7D4	Reactome	MAP-162582	Signal Transduction
+A0A3B5Y7D4	4565.A0A3B5Y7D4	Reactome	MAP-168249	Innate Immune System
+A0A3B5Y7D4	4565.A0A3B5Y7D4	Reactome	MAP-168256	Immune System
+A0A3B5Y7D4	4565.A0A3B5Y7D4	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B5Y7D4	4565.A0A3B5Y7D4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B5Y7D4	4565.A0A3B5Y7D4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B5Y7D4	4565.A0A3B5Y7D4	UniProt Keywords	KW-0067	ATP-binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	UniProt Keywords	KW-0418	Kinase
+A0A3B5Y7D4	4565.A0A3B5Y7D4	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B5Y7D4	4565.A0A3B5Y7D4	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B5Y7D4	4565.A0A3B5Y7D4	UniProt Keywords	KW-0808	Transferase
+A0A3B5Y7D4	4565.A0A3B5Y7D4	InterPro	IPR000719	Protein kinase domain
+A0A3B5Y7D4	4565.A0A3B5Y7D4	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5Y7D4	4565.A0A3B5Y7D4	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B5Y7D4	4565.A0A3B5Y7D4	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A3B5Y7D4	4565.A0A3B5Y7D4	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A3B5Y7D4	4565.A0A3B5Y7D4	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0000165	MAPK cascade
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0007154	Cell communication
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0007165	Signal transduction
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0009987	Cellular process
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0023052	Signaling
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0035556	Intracellular signal transduction
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0050789	Regulation of biological process
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0050794	Regulation of cellular process
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0050896	Response to stimulus
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0065007	Biological regulation
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Process	GO:0141124	Intracellular signaling cassette
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0000166	Nucleotide binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0003824	Catalytic activity
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0004672	Protein kinase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0004707	MAP kinase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0005488	Binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0005524	ATP binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0016301	Kinase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0016740	Transferase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0036094	Small molecule binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0043167	Ion binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0043168	Anion binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0106310	Protein serine kinase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0005634	Nucleus
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0005737	Cytoplasm
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0043226	Organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0043229	Intracellular organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34610	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34612	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34614	Mixed, incl. MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34616	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34618	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34620	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34622	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34623	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34624	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34686	MAP kinase phosphatase activity, and MAP kinase activity
+A0A3B5YXF4	4565.A0A3B5YXF4	STRING clusters	CL:34730	MAP kinase tyrosine phosphatase activity, and Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5YXF4	4565.A0A3B5YXF4	KEGG	map04016	MAPK signaling pathway - plant
+A0A3B5YXF4	4565.A0A3B5YXF4	KEGG	map04626	Plant-pathogen interaction
+A0A3B5YXF4	4565.A0A3B5YXF4	Reactome	MAP-162582	Signal Transduction
+A0A3B5YXF4	4565.A0A3B5YXF4	Reactome	MAP-168249	Innate Immune System
+A0A3B5YXF4	4565.A0A3B5YXF4	Reactome	MAP-168256	Immune System
+A0A3B5YXF4	4565.A0A3B5YXF4	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B5YXF4	4565.A0A3B5YXF4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B5YXF4	4565.A0A3B5YXF4	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3B5YXF4	4565.A0A3B5YXF4	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3B5YXF4	4565.A0A3B5YXF4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B5YXF4	4565.A0A3B5YXF4	UniProt Keywords	KW-0067	ATP-binding
+A0A3B5YXF4	4565.A0A3B5YXF4	UniProt Keywords	KW-0418	Kinase
+A0A3B5YXF4	4565.A0A3B5YXF4	UniProt Keywords	KW-0460	Magnesium
+A0A3B5YXF4	4565.A0A3B5YXF4	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B5YXF4	4565.A0A3B5YXF4	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B5YXF4	4565.A0A3B5YXF4	UniProt Keywords	KW-0808	Transferase
+A0A3B5YXF4	4565.A0A3B5YXF4	InterPro	IPR000719	Protein kinase domain
+A0A3B5YXF4	4565.A0A3B5YXF4	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5YXF4	4565.A0A3B5YXF4	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+A0A3B5YXF4	4565.A0A3B5YXF4	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B5YXF4	4565.A0A3B5YXF4	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A3B5YXF4	4565.A0A3B5YXF4	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A3B5YXF4	4565.A0A3B5YXF4	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0000165	MAPK cascade
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0007154	Cell communication
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0007165	Signal transduction
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0009987	Cellular process
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0023052	Signaling
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0035556	Intracellular signal transduction
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0050789	Regulation of biological process
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0050794	Regulation of cellular process
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0050896	Response to stimulus
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0065007	Biological regulation
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Process	GO:0141124	Intracellular signaling cassette
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0000166	Nucleotide binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0003824	Catalytic activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0004672	Protein kinase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0004707	MAP kinase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0005488	Binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0005524	ATP binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0016301	Kinase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0016740	Transferase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0036094	Small molecule binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0043167	Ion binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0043168	Anion binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0106310	Protein serine kinase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0005634	Nucleus
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0005737	Cytoplasm
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0043226	Organelle
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0043229	Intracellular organelle
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B5Z4C1	4565.A0A3B5Z4C1	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34610	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34612	MAPK cascade, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34614	Mixed, incl. MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34616	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34618	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34620	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34622	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34623	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34624	MAP kinase activity, and MAP kinase phosphatase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	STRING clusters	CL:34625	Small GTPase Rho, and MAP kinase activity
+A0A3B5Z4C1	4565.A0A3B5Z4C1	Reactome	MAP-162582	Signal Transduction
+A0A3B5Z4C1	4565.A0A3B5Z4C1	Reactome	MAP-168249	Innate Immune System
+A0A3B5Z4C1	4565.A0A3B5Z4C1	Reactome	MAP-168256	Immune System
+A0A3B5Z4C1	4565.A0A3B5Z4C1	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B5Z4C1	4565.A0A3B5Z4C1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B5Z4C1	4565.A0A3B5Z4C1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B5Z4C1	4565.A0A3B5Z4C1	UniProt Keywords	KW-0067	ATP-binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	UniProt Keywords	KW-0418	Kinase
+A0A3B5Z4C1	4565.A0A3B5Z4C1	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B5Z4C1	4565.A0A3B5Z4C1	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B5Z4C1	4565.A0A3B5Z4C1	UniProt Keywords	KW-0808	Transferase
+A0A3B5Z4C1	4565.A0A3B5Z4C1	InterPro	IPR000719	Protein kinase domain
+A0A3B5Z4C1	4565.A0A3B5Z4C1	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+A0A3B5Z4C1	4565.A0A3B5Z4C1	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B5Z4C1	4565.A0A3B5Z4C1	InterPro	IPR017441	Protein kinase, ATP binding site
+A0A3B5Z4C1	4565.A0A3B5Z4C1	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+A0A3B5Z4C1	4565.A0A3B5Z4C1	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0007154	Cell communication
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0007165	Signal transduction
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0009719	Response to endogenous stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0009725	Response to hormone
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0009753	Response to jasmonic acid
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0009755	Hormone-mediated signaling pathway
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0009867	Jasmonic acid mediated signaling pathway
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0009987	Cellular process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0010468	Regulation of gene expression
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0019222	Regulation of metabolic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0023052	Signaling
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0032107	Regulation of response to nutrient levels
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0032109	Positive regulation of response to nutrient levels
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0032870	Cellular response to hormone stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0033993	Response to lipid
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0042221	Response to chemical
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0042592	Homeostatic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0048518	Positive regulation of biological process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0048522	Positive regulation of cellular process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0048583	Regulation of response to stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0048584	Positive regulation of response to stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0048831	Regulation of shoot system development
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0048878	Chemical homeostasis
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0050789	Regulation of biological process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0050793	Regulation of developmental process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0050896	Response to stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0055062	Phosphate ion homeostasis
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0065007	Biological regulation
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0070542	Response to fatty acid
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0071395	Cellular response to jasmonic acid stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0071396	Cellular response to lipid
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0071398	Cellular response to fatty acid
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0071495	Cellular response to endogenous stimulus
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0080040	Positive regulation of cellular response to phosphate starvation
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0080134	Regulation of response to stress
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0080135	Regulation of cellular response to stress
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0098771	Inorganic ion homeostasis
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:0140255	Regulation of cellular response to phosphate starvation
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:1901700	Response to oxygen-containing compound
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+A0A3B6C699	4565.A0A3B6C699	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0000976	Transcription cis-regulatory region binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0003676	Nucleic acid binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0003677	DNA binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0003690	Double-stranded DNA binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0005488	Binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0005515	Protein binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0042802	Identical protein binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0042803	Protein homodimerization activity
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0043565	Sequence-specific DNA binding
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0046983	Protein dimerization activity
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:0140110	Transcription regulator activity
+A0A3B6C699	4565.A0A3B6C699	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0005634	Nucleus
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0005737	Cytoplasm
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0043226	Organelle
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0043229	Intracellular organelle
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6C699	4565.A0A3B6C699	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6C699	4565.A0A3B6C699	STRING clusters	CL:148519	Mixed, incl. Signaling by ALK, and ATF6B (ATF6-beta) activates chaperones
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-1280218	Adaptive Immune System
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-1500931	Cell-Cell communication
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-162582	Signal Transduction
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-168256	Immune System
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-201556	Signaling by ALK
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-388841	Regulation of T cell activation by CD28 family
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-389948	Co-inhibition by PD-1
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-446728	Cell junction organization
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-9006936	Signaling by TGFB family members
+A0A3B6C699	4565.A0A3B6C699	Reactome	MAP-9909648	Regulation of PD-L1(CD274) expression
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3B6C699	4565.A0A3B6C699	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6C699	4565.A0A3B6C699	UniProt Keywords	KW-0804	Transcription
+A0A3B6C699	4565.A0A3B6C699	UniProt Keywords	KW-0805	Transcription regulation
+A0A3B6C699	4565.A0A3B6C699	InterPro	IPR011598	Myc-type, basic helix-loop-helix (bHLH) domain
+A0A3B6C699	4565.A0A3B6C699	InterPro	IPR036638	Helix-loop-helix DNA-binding domain superfamily
+A0A3B6C699	4565.A0A3B6C699	InterPro	IPR051358	Transcription factor AMS/ICE1/BHLH6-like
+A0A3B6C699	4565.A0A3B6C699	InterPro	IPR054502	Plant bHLH transcription factor, ACT-like domain
+A0A3B6C699	4565.A0A3B6C699	SMART	SM00353	Helix loop helix domain
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0000165	MAPK cascade
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0007154	Cell communication
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0007165	Signal transduction
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0009987	Cellular process
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0023052	Signaling
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0035556	Intracellular signal transduction
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0050789	Regulation of biological process
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0050794	Regulation of cellular process
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0050896	Response to stimulus
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0051716	Cellular response to stimulus
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0065007	Biological regulation
+MPK20-1	4565.A0A0K0YGT2	GO Process	GO:0141124	Intracellular signaling cassette
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0000166	Nucleotide binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0003824	Catalytic activity
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0004672	Protein kinase activity
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0004674	Protein serine/threonine kinase activity
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0004707	MAP kinase activity
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0005488	Binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0005524	ATP binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0016301	Kinase activity
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0016740	Transferase activity
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0017076	Purine nucleotide binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0030554	Adenyl nucleotide binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0032553	Ribonucleotide binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0032555	Purine ribonucleotide binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0032559	Adenyl ribonucleotide binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0036094	Small molecule binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0043167	Ion binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0043168	Anion binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0097367	Carbohydrate derivative binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0106310	Protein serine kinase activity
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:0140096	Catalytic activity, acting on a protein
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:1901265	Nucleoside phosphate binding
+MPK20-1	4565.A0A0K0YGT2	GO Function	GO:1901363	Heterocyclic compound binding
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0005622	Intracellular anatomical structure
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0005634	Nucleus
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0005737	Cytoplasm
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0043226	Organelle
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0043227	Membrane-bounded organelle
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0043229	Intracellular organelle
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+MPK20-1	4565.A0A0K0YGT2	GO Component	GO:0110165	Cellular anatomical structure
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34570	Mixed, incl. MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34574	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34577	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34581	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34585	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34588	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34591	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34594	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34597	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34599	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34600	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34602	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34604	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34606	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34608	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34610	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34612	MAPK cascade, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34614	Mixed, incl. MAP kinase activity, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	STRING clusters	CL:34616	MAP kinase activity, and MAP kinase phosphatase activity
+MPK20-1	4565.A0A0K0YGT2	Reactome	MAP-162582	Signal Transduction
+MPK20-1	4565.A0A0K0YGT2	Reactome	MAP-168249	Innate Immune System
+MPK20-1	4565.A0A0K0YGT2	Reactome	MAP-168256	Immune System
+MPK20-1	4565.A0A0K0YGT2	Reactome	MAP-9006934	Signaling by Receptor Tyrosine Kinases
+MPK20-1	4565.A0A0K0YGT2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+MPK20-1	4565.A0A0K0YGT2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+MPK20-1	4565.A0A0K0YGT2	UniProt Keywords	KW-0067	ATP-binding
+MPK20-1	4565.A0A0K0YGT2	UniProt Keywords	KW-0418	Kinase
+MPK20-1	4565.A0A0K0YGT2	UniProt Keywords	KW-0547	Nucleotide-binding
+MPK20-1	4565.A0A0K0YGT2	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+MPK20-1	4565.A0A0K0YGT2	UniProt Keywords	KW-0808	Transferase
+MPK20-1	4565.A0A0K0YGT2	InterPro	IPR000719	Protein kinase domain
+MPK20-1	4565.A0A0K0YGT2	InterPro	IPR003527	Mitogen-activated protein (MAP) kinase, conserved site
+MPK20-1	4565.A0A0K0YGT2	InterPro	IPR011009	Protein kinase-like domain superfamily
+MPK20-1	4565.A0A0K0YGT2	InterPro	IPR017441	Protein kinase, ATP binding site
+MPK20-1	4565.A0A0K0YGT2	InterPro	IPR050117	Mitogen-activated protein (MAP) kinase
+MPK20-1	4565.A0A0K0YGT2	SMART	SM00220	Serine/Threonine protein kinases, catalytic domain
+WM13	4565.A9J1Y6	GO Process	GO:0003002	Regionalization
+WM13	4565.A9J1Y6	GO Process	GO:0003006	Developmental process involved in reproduction
+WM13	4565.A9J1Y6	GO Process	GO:0006355	Regulation of DNA-templated transcription
+WM13	4565.A9J1Y6	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+WM13	4565.A9J1Y6	GO Process	GO:0007275	Multicellular organism development
+WM13	4565.A9J1Y6	GO Process	GO:0007389	Pattern specification process
+WM13	4565.A9J1Y6	GO Process	GO:0009653	Anatomical structure morphogenesis
+WM13	4565.A9J1Y6	GO Process	GO:0009791	Post-embryonic development
+WM13	4565.A9J1Y6	GO Process	GO:0009889	Regulation of biosynthetic process
+WM13	4565.A9J1Y6	GO Process	GO:0009891	Positive regulation of biosynthetic process
+WM13	4565.A9J1Y6	GO Process	GO:0009893	Positive regulation of metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0009908	Flower development
+WM13	4565.A9J1Y6	GO Process	GO:0009987	Cellular process
+WM13	4565.A9J1Y6	GO Process	GO:0010093	Specification of floral organ identity
+WM13	4565.A9J1Y6	GO Process	GO:0010097	Specification of stamen identity
+WM13	4565.A9J1Y6	GO Process	GO:0010468	Regulation of gene expression
+WM13	4565.A9J1Y6	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+WM13	4565.A9J1Y6	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+WM13	4565.A9J1Y6	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0019222	Regulation of metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0022414	Reproductive process
+WM13	4565.A9J1Y6	GO Process	GO:0030154	Cell differentiation
+WM13	4565.A9J1Y6	GO Process	GO:0032501	Multicellular organismal process
+WM13	4565.A9J1Y6	GO Process	GO:0032502	Developmental process
+WM13	4565.A9J1Y6	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+WM13	4565.A9J1Y6	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+WM13	4565.A9J1Y6	GO Process	GO:0048367	Shoot system development
+WM13	4565.A9J1Y6	GO Process	GO:0048437	Floral organ development
+WM13	4565.A9J1Y6	GO Process	GO:0048438	Floral whorl development
+WM13	4565.A9J1Y6	GO Process	GO:0048443	Stamen development
+WM13	4565.A9J1Y6	GO Process	GO:0048444	Floral organ morphogenesis
+WM13	4565.A9J1Y6	GO Process	GO:0048448	Stamen morphogenesis
+WM13	4565.A9J1Y6	GO Process	GO:0048449	Floral organ formation
+WM13	4565.A9J1Y6	GO Process	GO:0048455	Stamen formation
+WM13	4565.A9J1Y6	GO Process	GO:0048466	Androecium development
+WM13	4565.A9J1Y6	GO Process	GO:0048518	Positive regulation of biological process
+WM13	4565.A9J1Y6	GO Process	GO:0048522	Positive regulation of cellular process
+WM13	4565.A9J1Y6	GO Process	GO:0048608	Reproductive structure development
+WM13	4565.A9J1Y6	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+WM13	4565.A9J1Y6	GO Process	GO:0048731	System development
+WM13	4565.A9J1Y6	GO Process	GO:0048827	Phyllome development
+WM13	4565.A9J1Y6	GO Process	GO:0048856	Anatomical structure development
+WM13	4565.A9J1Y6	GO Process	GO:0048869	Cellular developmental process
+WM13	4565.A9J1Y6	GO Process	GO:0050789	Regulation of biological process
+WM13	4565.A9J1Y6	GO Process	GO:0050794	Regulation of cellular process
+WM13	4565.A9J1Y6	GO Process	GO:0051252	Regulation of RNA metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0061458	Reproductive system development
+WM13	4565.A9J1Y6	GO Process	GO:0065007	Biological regulation
+WM13	4565.A9J1Y6	GO Process	GO:0080090	Regulation of primary metabolic process
+WM13	4565.A9J1Y6	GO Process	GO:0090567	Reproductive shoot system development
+WM13	4565.A9J1Y6	GO Process	GO:0090696	Post-embryonic plant organ development
+WM13	4565.A9J1Y6	GO Process	GO:0090697	Post-embryonic plant organ morphogenesis
+WM13	4565.A9J1Y6	GO Process	GO:0090698	Post-embryonic plant morphogenesis
+WM13	4565.A9J1Y6	GO Process	GO:0090701	Specification of plant organ identity
+WM13	4565.A9J1Y6	GO Process	GO:0099402	Plant organ development
+WM13	4565.A9J1Y6	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+WM13	4565.A9J1Y6	GO Process	GO:1905392	Plant organ morphogenesis
+WM13	4565.A9J1Y6	GO Process	GO:1905393	Plant organ formation
+WM13	4565.A9J1Y6	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+WM13	4565.A9J1Y6	GO Function	GO:0000976	Transcription cis-regulatory region binding
+WM13	4565.A9J1Y6	GO Function	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+WM13	4565.A9J1Y6	GO Function	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+WM13	4565.A9J1Y6	GO Function	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+WM13	4565.A9J1Y6	GO Function	GO:0000987	Cis-regulatory region sequence-specific DNA binding
+WM13	4565.A9J1Y6	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+WM13	4565.A9J1Y6	GO Function	GO:0003676	Nucleic acid binding
+WM13	4565.A9J1Y6	GO Function	GO:0003677	DNA binding
+WM13	4565.A9J1Y6	GO Function	GO:0003690	Double-stranded DNA binding
+WM13	4565.A9J1Y6	GO Function	GO:0003700	DNA-binding transcription factor activity
+WM13	4565.A9J1Y6	GO Function	GO:0005488	Binding
+WM13	4565.A9J1Y6	GO Function	GO:0005515	Protein binding
+WM13	4565.A9J1Y6	GO Function	GO:0043565	Sequence-specific DNA binding
+WM13	4565.A9J1Y6	GO Function	GO:0046983	Protein dimerization activity
+WM13	4565.A9J1Y6	GO Function	GO:0140110	Transcription regulator activity
+WM13	4565.A9J1Y6	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+WM13	4565.A9J1Y6	GO Component	GO:0005622	Intracellular anatomical structure
+WM13	4565.A9J1Y6	GO Component	GO:0005634	Nucleus
+WM13	4565.A9J1Y6	GO Component	GO:0043226	Organelle
+WM13	4565.A9J1Y6	GO Component	GO:0043227	Membrane-bounded organelle
+WM13	4565.A9J1Y6	GO Component	GO:0043229	Intracellular organelle
+WM13	4565.A9J1Y6	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+WM13	4565.A9J1Y6	GO Component	GO:0110165	Cellular anatomical structure
+WM13	4565.A9J1Y6	STRING clusters	CL:148519	Mixed, incl. Signaling by ALK, and ATF6B (ATF6-beta) activates chaperones
+WM13	4565.A9J1Y6	Reactome	MAP-1266738	Developmental Biology
+WM13	4565.A9J1Y6	Reactome	MAP-525793	Myogenesis
+WM13	4565.A9J1Y6	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+WM13	4565.A9J1Y6	COMPARTMENTS	GOCC:0005634	Nucleus
+WM13	4565.A9J1Y6	COMPARTMENTS	GOCC:0043226	Organelle
+WM13	4565.A9J1Y6	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+WM13	4565.A9J1Y6	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+WM13	4565.A9J1Y6	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+WM13	4565.A9J1Y6	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+WM13	4565.A9J1Y6	UniProt Keywords	KW-0175	Coiled coil
+WM13	4565.A9J1Y6	UniProt Keywords	KW-0238	DNA-binding
+WM13	4565.A9J1Y6	UniProt Keywords	KW-0539	Nucleus
+WM13	4565.A9J1Y6	UniProt Keywords	KW-0804	Transcription
+WM13	4565.A9J1Y6	UniProt Keywords	KW-0805	Transcription regulation
+WM13	4565.A9J1Y6	Pfam	PF01486	K-box region
+WM13	4565.A9J1Y6	InterPro	IPR002100	Transcription factor, MADS-box
+WM13	4565.A9J1Y6	InterPro	IPR002487	Transcription factor, K-box
+WM13	4565.A9J1Y6	InterPro	IPR033896	MADS MEF2-like, N-terminal
+WM13	4565.A9J1Y6	InterPro	IPR036879	Transcription factor, MADS-box superfamily
+WM13	4565.A9J1Y6	InterPro	IPR050142	MADS-box/MEF2 Transcription Factor
+WM13	4565.A9J1Y6	SMART	SM00432	MADS

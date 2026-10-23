@@ -1,0 +1,992 @@
+#node	identifier	category	term ID	term description
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0006810	Transport
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0006950	Response to stress
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0006952	Defense response
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0007034	Vacuolar transport
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0007154	Cell communication
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0007165	Signal transduction
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0008152	Metabolic process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009719	Response to endogenous stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009725	Response to hormone
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009737	Response to abscisic acid
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009738	Abscisic acid-activated signaling pathway
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009755	Hormone-mediated signaling pathway
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009787	Regulation of abscisic acid-activated signaling pathway
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009788	Negative regulation of abscisic acid-activated signaling pathway
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009966	Regulation of signal transduction
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009968	Negative regulation of signal transduction
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0009987	Cellular process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0010646	Regulation of cell communication
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0010648	Negative regulation of cell communication
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0016192	Vesicle-mediated transport
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0016197	Endosomal transport
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0016567	Protein ubiquitination
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0019538	Protein metabolic process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0023051	Regulation of signaling
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0023052	Signaling
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0023057	Negative regulation of signaling
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0032446	Protein modification by small protein conjugation
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0032502	Developmental process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0032870	Cellular response to hormone stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0032940	Secretion by cell
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0033993	Response to lipid
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0036211	Protein modification process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0040007	Growth
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0042221	Response to chemical
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0043170	Macromolecule metabolic process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0043412	Macromolecule modification
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0043687	Post-translational protein modification
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0044238	Primary metabolic process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0045324	Late endosome to vacuole transport
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0046903	Secretion
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0046907	Intracellular transport
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0048519	Negative regulation of biological process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0048523	Negative regulation of cellular process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0048583	Regulation of response to stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0048585	Negative regulation of response to stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0048589	Developmental growth
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0050789	Regulation of biological process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0050794	Regulation of cellular process
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0050896	Response to stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0051179	Localization
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0051234	Establishment of localization
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0051641	Cellular localization
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0051649	Establishment of localization in cell
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0051716	Cellular response to stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0065007	Biological regulation
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0070647	Protein modification by small protein conjugation or removal
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0071215	Cellular response to abscisic acid stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0071396	Cellular response to lipid
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0071495	Cellular response to endogenous stimulus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0097305	Response to alcohol
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0097306	Cellular response to alcohol
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:0140352	Export from cell
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:1901419	Regulation of response to alcohol
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:1901420	Negative regulation of response to alcohol
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:1901700	Response to oxygen-containing compound
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:1901701	Cellular response to oxygen-containing compound
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:1905957	Regulation of cellular response to alcohol
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Process	GO:1905958	Negative regulation of cellular response to alcohol
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0000166	Nucleotide binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0003824	Catalytic activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0004672	Protein kinase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0004842	Ubiquitin-protein transferase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0005488	Binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0005515	Protein binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0005524	ATP binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0008270	Zinc ion binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0016301	Kinase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0016740	Transferase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0016746	Acyltransferase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0016755	Aminoacyltransferase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0017076	Purine nucleotide binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0019787	Ubiquitin-like protein transferase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0032553	Ribonucleotide binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0036094	Small molecule binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0043167	Ion binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0043168	Anion binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0043169	Cation binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0046872	Metal ion binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0046914	Transition metal ion binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0061630	Ubiquitin protein ligase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0061659	Ubiquitin-like protein ligase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0106310	Protein serine kinase activity
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Function	GO:1901363	Heterocyclic compound binding
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0005737	Cytoplasm
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0005768	Endosome
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0005769	Early endosome
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0005794	Golgi apparatus
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0005802	trans-Golgi network
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0012505	Endomembrane system
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0031410	Cytoplasmic vesicle
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0031982	Vesicle
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0031984	Organelle subcompartment
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0043226	Organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0043227	Membrane-bounded organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0043229	Intracellular organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0097708	Intracellular vesicle
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0098791	Golgi apparatus subcompartment
+A0A0P0WLY1	39947.A0A0P0WLY1	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6614	Mixed, incl. Ubiquitin-conjugating enzyme/RWD-like, and Ubiquitin conjugating enzyme binding
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6619	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6622	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6624	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6627	Mixed, incl. Ubiquitin conjugating enzyme activity, and E3 ubiquitin ligase RBR family
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6630	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin associated domain
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6633	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin associated domain
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6635	Mixed, incl. Ubiquitin conjugating enzyme activity, and Ubiquitin homologues
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6636	Ubiquitin conjugating enzyme activity, and Regulation of protein polyubiquitination
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6639	Mixed, incl. Ubiquitin conjugating enzyme activity, and Regulation of protein polyubiquitination
+A0A0P0WLY1	39947.A0A0P0WLY1	STRING clusters	CL:6732	Mixed, incl. E3 ubiquitin-protein ligase KEG, and Sacsin chaperone regulator
+A0A0P0WLY1	39947.A0A0P0WLY1	KEGG	map04144	Endocytosis
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0005768	Endosome
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0005769	Early endosome
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0012505	Endomembrane system
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0031410	Cytoplasmic vesicle
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0031982	Vesicle
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0043226	Organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0097708	Intracellular vesicle
+A0A0P0WLY1	39947.A0A0P0WLY1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0WLY1	39947.A0A0P0WLY1	UniProt Keywords	KW-0677	Repeat
+A0A0P0WLY1	39947.A0A0P0WLY1	UniProt Keywords	KW-0833	Ubl conjugation pathway
+A0A0P0WLY1	39947.A0A0P0WLY1	InterPro	IPR040847	Mind bomb, SH3 repeat domain
+A0A0P0WLY1	39947.A0A0P0WLY1	InterPro	IPR044584	E3 ubiquitin-protein ligase KEG
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0000741	Karyogamy
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0006996	Organelle organization
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0006997	Nucleus organization
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0007275	Multicellular organism development
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0009553	Embryo sac development
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0009559	Embryo sac central cell differentiation
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0009561	Megagametogenesis
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0009987	Cellular process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0010197	Polar nucleus fusion
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0010468	Regulation of gene expression
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0016043	Cellular component organization
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0019222	Regulation of metabolic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0030154	Cell differentiation
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0032501	Multicellular organismal process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0032502	Developmental process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0048229	Gametophyte development
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0048284	Organelle fusion
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0048856	Anatomical structure development
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0048869	Cellular developmental process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0050789	Regulation of biological process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0050794	Regulation of cellular process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0065007	Biological regulation
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Function	GO:0003676	Nucleic acid binding
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Function	GO:0003677	DNA binding
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Function	GO:0005488	Binding
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Function	GO:0005515	Protein binding
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Function	GO:0140110	Transcription regulator activity
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Component	GO:0005622	Intracellular anatomical structure
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Component	GO:0005634	Nucleus
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Component	GO:0043226	Organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Component	GO:0043227	Membrane-bounded organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Component	GO:0043229	Intracellular organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	GO Component	GO:0110165	Cellular anatomical structure
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:8941	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:8942	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:8944	Mixed, incl. Nucleosome, and PcG protein complex
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:8946	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:8948	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:8951	Mixed, incl. Nucleosome, and PcG protein complex
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:8954	Mixed, incl. PcG protein complex, and Nucleosome core
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:9024	Mixed, incl. Protein TONSOKU, and HMGB9-like, ARID/BRIGHT DNA binding domain
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:9027	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and Histone deacetylase HDAC
+A0A0P0XPV0	39947.A0A0P0XPV0	STRING clusters	CL:9030	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and Positive regulation of gibberellic acid mediated signaling pathway
+A0A0P0XPV0	39947.A0A0P0XPV0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A0P0XPV0	39947.A0A0P0XPV0	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A0P0XPV0	39947.A0A0P0XPV0	COMPARTMENTS	GOCC:0043226	Organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A0P0XPV0	39947.A0A0P0XPV0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A0P0XPV0	39947.A0A0P0XPV0	UniProt Keywords	KW-0238	DNA-binding
+A0A0P0XPV0	39947.A0A0P0XPV0	UniProt Keywords	KW-0539	Nucleus
+A0A0P0XPV0	39947.A0A0P0XPV0	InterPro	IPR001606	ARID DNA-binding domain
+A0A0P0XPV0	39947.A0A0P0XPV0	InterPro	IPR009071	High mobility group box domain
+A0A0P0XPV0	39947.A0A0P0XPV0	InterPro	IPR036431	ARID DNA-binding domain superfamily
+A0A0P0XPV0	39947.A0A0P0XPV0	InterPro	IPR036910	High mobility group box domain superfamily
+A0A0P0XPV0	39947.A0A0P0XPV0	InterPro	IPR045303	HMGB9-like, ARID/BRIGHT DNA binding domain
+A0A0P0XPV0	39947.A0A0P0XPV0	SMART	SM00398	High mobility group
+A0A0P0XPV0	39947.A0A0P0XPV0	SMART	SM00501	BRIGHT, ARID (A/T-rich interaction domain) domain
+B1153E06.24	39947.Q0DA50	GO Process	GO:0000375	RNA splicing, via transesterification reactions
+B1153E06.24	39947.Q0DA50	GO Process	GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+B1153E06.24	39947.Q0DA50	GO Process	GO:0000398	mRNA splicing, via spliceosome
+B1153E06.24	39947.Q0DA50	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0006396	RNA processing
+B1153E06.24	39947.Q0DA50	GO Process	GO:0006397	mRNA processing
+B1153E06.24	39947.Q0DA50	GO Process	GO:0008152	Metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0008380	RNA splicing
+B1153E06.24	39947.Q0DA50	GO Process	GO:0009058	Biosynthetic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0009059	Macromolecule biosynthetic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0009889	Regulation of biosynthetic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0009987	Cellular process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0010467	Gene expression
+B1153E06.24	39947.Q0DA50	GO Process	GO:0010468	Regulation of gene expression
+B1153E06.24	39947.Q0DA50	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0016070	RNA metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0016071	mRNA metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0019222	Regulation of metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0032774	RNA biosynthetic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0043170	Macromolecule metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0043484	Regulation of RNA splicing
+B1153E06.24	39947.Q0DA50	GO Process	GO:0044238	Primary metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0048024	Regulation of mRNA splicing, via spliceosome
+B1153E06.24	39947.Q0DA50	GO Process	GO:0050684	Regulation of mRNA processing
+B1153E06.24	39947.Q0DA50	GO Process	GO:0050789	Regulation of biological process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0050794	Regulation of cellular process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0051252	Regulation of RNA metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0065007	Biological regulation
+B1153E06.24	39947.Q0DA50	GO Process	GO:0080090	Regulation of primary metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0090304	Nucleic acid metabolic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:0141187	Nucleic acid biosynthetic process
+B1153E06.24	39947.Q0DA50	GO Process	GO:1903311	Regulation of mRNA metabolic process
+B1153E06.24	39947.Q0DA50	GO Function	GO:0003676	Nucleic acid binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0003677	DNA binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0003723	RNA binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0003729	mRNA binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0005488	Binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0008270	Zinc ion binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0030674	Protein-macromolecule adaptor activity
+B1153E06.24	39947.Q0DA50	GO Function	GO:0036094	Small molecule binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0043167	Ion binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0043169	Cation binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0046872	Metal ion binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0046914	Transition metal ion binding
+B1153E06.24	39947.Q0DA50	GO Function	GO:0060090	Molecular adaptor activity
+B1153E06.24	39947.Q0DA50	GO Function	GO:0140517	protein-RNA adaptor activity
+B1153E06.24	39947.Q0DA50	GO Function	GO:1990247	N6-methyladenosine-containing RNA reader activity
+B1153E06.24	39947.Q0DA50	GO Component	GO:0005622	Intracellular anatomical structure
+B1153E06.24	39947.Q0DA50	GO Component	GO:0005634	Nucleus
+B1153E06.24	39947.Q0DA50	GO Component	GO:0005654	Nucleoplasm
+B1153E06.24	39947.Q0DA50	GO Component	GO:0031974	Membrane-enclosed lumen
+B1153E06.24	39947.Q0DA50	GO Component	GO:0031981	Nuclear lumen
+B1153E06.24	39947.Q0DA50	GO Component	GO:0043226	Organelle
+B1153E06.24	39947.Q0DA50	GO Component	GO:0043227	Membrane-bounded organelle
+B1153E06.24	39947.Q0DA50	GO Component	GO:0043229	Intracellular organelle
+B1153E06.24	39947.Q0DA50	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+B1153E06.24	39947.Q0DA50	GO Component	GO:0043233	Organelle lumen
+B1153E06.24	39947.Q0DA50	GO Component	GO:0070013	Intracellular organelle lumen
+B1153E06.24	39947.Q0DA50	GO Component	GO:0110165	Cellular anatomical structure
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25554	mRNA surveillance pathway, and Protein phosphatase regulator activity
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25699	Mixed, incl. Processing of Intronless Pre-mRNAs, and poly(A) RNA polymerase activity
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25701	Mixed, incl. Processing of Intronless Pre-mRNAs, and poly(A) RNA polymerase activity
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25705	Mixed, incl. Processing of Intronless Pre-mRNAs, and poly(A) RNA polymerase activity
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25709	Processing of Intronless Pre-mRNAs, and poly(A) RNA polymerase activity
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25713	Processing of Intronless Pre-mRNAs, and Poly(A) polymerase, nucleotidyltransferase domain
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25718	Processing of Intronless Pre-mRNAs, and Poly(A) polymerase, nucleotidyltransferase domain
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25723	Processing of Intronless Pre-mRNAs, and Serine-threonine protein phosphatase, N-terminal
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25725	Processing of Intronless Pre-mRNAs
+B1153E06.24	39947.Q0DA50	STRING clusters	CL:25727	Mixed, incl. Pcf11, CID domain, and Nucleotide hydrolase
+B1153E06.24	39947.Q0DA50	KEGG	map03015	mRNA surveillance pathway
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0005634	Nucleus
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0005737	Cytoplasm
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0005847	mRNA cleavage and polyadenylation specificity factor complex
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0043226	Organelle
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+B1153E06.24	39947.Q0DA50	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+B1153E06.24	39947.Q0DA50	UniProt Keywords	KW-0175	Coiled coil
+B1153E06.24	39947.Q0DA50	UniProt Keywords	KW-0238	DNA-binding
+B1153E06.24	39947.Q0DA50	UniProt Keywords	KW-0479	Metal-binding
+B1153E06.24	39947.Q0DA50	UniProt Keywords	KW-0677	Repeat
+B1153E06.24	39947.Q0DA50	UniProt Keywords	KW-0862	Zinc
+B1153E06.24	39947.Q0DA50	UniProt Keywords	KW-0863	Zinc-finger
+B1153E06.24	39947.Q0DA50	Pfam	PF04146	YT521-B-like domain
+B1153E06.24	39947.Q0DA50	InterPro	IPR000571	Zinc finger, CCCH-type
+B1153E06.24	39947.Q0DA50	InterPro	IPR007275	YTH domain
+B1153E06.24	39947.Q0DA50	InterPro	IPR036855	Zinc finger, CCCH-type superfamily
+B1153E06.24	39947.Q0DA50	InterPro	IPR045168	YTH domain containing protein
+B1153E06.24	39947.Q0DA50	SMART	SM00356	Zinc finger
+C7J1U6_ORYSJ	39947.C7J1U6	GO Function	GO:0005488	Binding
+C7J1U6_ORYSJ	39947.C7J1U6	GO Component	GO:0016020	Membrane
+C7J1U6_ORYSJ	39947.C7J1U6	GO Component	GO:0110165	Cellular anatomical structure
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1202	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1204	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1207	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1209	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1212	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1215	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1217	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1219	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1223	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1226	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1228	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1231	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1236	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1239	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1242	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1243	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1248	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1250	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1251	Cul2-RING E3 ligase substrate-recognition, and Motor proteins
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1386	Mixed, incl. Protein of unknown function DUF1517, and Adenylate cyclase-activating G protein-coupled receptor signaling pathway
+C7J1U6_ORYSJ	39947.C7J1U6	STRING clusters	CL:1390	Mixed, incl. Adenylate cyclase-activating G protein-coupled receptor signaling pathway, and Calcium channel
+C7J1U6_ORYSJ	39947.C7J1U6	Reactome	MAP-168256	Immune System
+C7J1U6_ORYSJ	39947.C7J1U6	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+C7J1U6_ORYSJ	39947.C7J1U6	UniProt Keywords	KW-0732	Signal
+NIA1	39947.P16081	GO Process	GO:0006082	Organic acid metabolic process
+NIA1	39947.P16081	GO Process	GO:0006809	Nitric oxide biosynthetic process
+NIA1	39947.P16081	GO Process	GO:0008152	Metabolic process
+NIA1	39947.P16081	GO Process	GO:0009058	Biosynthetic process
+NIA1	39947.P16081	GO Process	GO:0009314	Response to radiation
+NIA1	39947.P16081	GO Process	GO:0009416	Response to light stimulus
+NIA1	39947.P16081	GO Process	GO:0009628	Response to abiotic stimulus
+NIA1	39947.P16081	GO Process	GO:0009987	Cellular process
+NIA1	39947.P16081	GO Process	GO:0042126	Nitrate metabolic process
+NIA1	39947.P16081	GO Process	GO:0042128	Nitrate assimilation
+NIA1	39947.P16081	GO Process	GO:0043436	Oxoacid metabolic process
+NIA1	39947.P16081	GO Process	GO:0044281	Small molecule metabolic process
+NIA1	39947.P16081	GO Process	GO:0046209	Nitric oxide metabolic process
+NIA1	39947.P16081	GO Process	GO:0050896	Response to stimulus
+NIA1	39947.P16081	GO Process	GO:0071941	Nitrogen cycle metabolic process
+NIA1	39947.P16081	GO Process	GO:0097164	Ammonium ion metabolic process
+NIA1	39947.P16081	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+NIA1	39947.P16081	GO Function	GO:0000166	Nucleotide binding
+NIA1	39947.P16081	GO Function	GO:0003824	Catalytic activity
+NIA1	39947.P16081	GO Function	GO:0004128	cytochrome-b5 reductase activity, acting on NAD(P)H
+NIA1	39947.P16081	GO Function	GO:0005488	Binding
+NIA1	39947.P16081	GO Function	GO:0008940	Nitrate reductase activity
+NIA1	39947.P16081	GO Function	GO:0009703	Nitrate reductase (NADH) activity
+NIA1	39947.P16081	GO Function	GO:0016491	Oxidoreductase activity
+NIA1	39947.P16081	GO Function	GO:0016651	Oxidoreductase activity, acting on NAD(P)H
+NIA1	39947.P16081	GO Function	GO:0016653	Oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor
+NIA1	39947.P16081	GO Function	GO:0016661	Oxidoreductase activity, acting on other nitrogenous compounds as donors
+NIA1	39947.P16081	GO Function	GO:0020037	Heme binding
+NIA1	39947.P16081	GO Function	GO:0030151	Molybdenum ion binding
+NIA1	39947.P16081	GO Function	GO:0036094	Small molecule binding
+NIA1	39947.P16081	GO Function	GO:0043167	Ion binding
+NIA1	39947.P16081	GO Function	GO:0043168	Anion binding
+NIA1	39947.P16081	GO Function	GO:0043169	Cation binding
+NIA1	39947.P16081	GO Function	GO:0043546	Molybdopterin cofactor binding
+NIA1	39947.P16081	GO Function	GO:0046857	Oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor
+NIA1	39947.P16081	GO Function	GO:0046872	Metal ion binding
+NIA1	39947.P16081	GO Function	GO:0046906	Tetrapyrrole binding
+NIA1	39947.P16081	GO Function	GO:0046914	Transition metal ion binding
+NIA1	39947.P16081	GO Function	GO:0050463	Nitrate reductase [NAD(P)H] activity
+NIA1	39947.P16081	GO Function	GO:0050464	Nitrate reductase (NADPH) activity
+NIA1	39947.P16081	GO Function	GO:0050660	Flavin adenine dinucleotide binding
+NIA1	39947.P16081	GO Function	GO:0071949	FAD binding
+NIA1	39947.P16081	GO Function	GO:1901265	Nucleoside phosphate binding
+NIA1	39947.P16081	GO Function	GO:1901363	Heterocyclic compound binding
+NIA1	39947.P16081	GO Component	GO:0016020	Membrane
+NIA1	39947.P16081	GO Component	GO:0031090	Organelle membrane
+NIA1	39947.P16081	GO Component	GO:0043226	Organelle
+NIA1	39947.P16081	GO Component	GO:0043227	Membrane-bounded organelle
+NIA1	39947.P16081	GO Component	GO:0110165	Cellular anatomical structure
+NIA1	39947.P16081	STRING clusters	CL:35333	Mixed, incl. Sulfur metabolism, and Oxidoreductase NAD-binding domain
+NIA1	39947.P16081	STRING clusters	CL:35336	Mixed, incl. Oxidoreductase NAD-binding domain , and Ferredoxin [2Fe-2S], plant
+NIA1	39947.P16081	STRING clusters	CL:35337	Mixed, incl. Cytochrome b5, heme-binding site, and Sulfide oxidation to sulfate
+NIA1	39947.P16081	STRING clusters	CL:35342	Mixed, incl. Cytochrome b5, heme-binding site, and Sulfide oxidation to sulfate
+NIA1	39947.P16081	STRING clusters	CL:35345	Mixed, incl. cytochrome-b5 reductase activity, acting on NAD(P)H, and Sulfide oxidation to sulfate
+NIA1	39947.P16081	STRING clusters	CL:35349	Mixed, incl. Nitrate assimilation, and cytochrome-b5 reductase activity, acting on NADH
+NIA1	39947.P16081	STRING clusters	CL:35351	Nitrate assimilation, and Ferredoxin-nitrite reductase activity
+NIA1	39947.P16081	STRING clusters	CL:35355	Nitrate reductase NADH dependent, and Nitrite/sulphite reductase 4Fe-4S domain
+NIA1	39947.P16081	KEGG	map00910	Nitrogen metabolism
+NIA1	39947.P16081	KEGG	map01100	Metabolic pathways
+NIA1	39947.P16081	KEGG	map01310	Nitrogen cycle
+NIA1	39947.P16081	Reactome	MAP-1430728	Metabolism
+NIA1	39947.P16081	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+NIA1	39947.P16081	COMPARTMENTS	GOCC:0005737	Cytoplasm
+NIA1	39947.P16081	COMPARTMENTS	GOCC:0009325	Nitrate reductase complex
+NIA1	39947.P16081	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+NIA1	39947.P16081	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+NIA1	39947.P16081	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+NIA1	39947.P16081	UniProt Keywords	KW-0274	FAD
+NIA1	39947.P16081	UniProt Keywords	KW-0285	Flavoprotein
+NIA1	39947.P16081	UniProt Keywords	KW-0349	Heme
+NIA1	39947.P16081	UniProt Keywords	KW-0408	Iron
+NIA1	39947.P16081	UniProt Keywords	KW-0479	Metal-binding
+NIA1	39947.P16081	UniProt Keywords	KW-0500	Molybdenum
+NIA1	39947.P16081	UniProt Keywords	KW-0520	NAD
+NIA1	39947.P16081	UniProt Keywords	KW-0534	Nitrate assimilation
+NIA1	39947.P16081	UniProt Keywords	KW-0560	Oxidoreductase
+NIA1	39947.P16081	UniProt Keywords	KW-1015	Disulfide bond
+NIA1	39947.P16081	Pfam	PF00174	Oxidoreductase molybdopterin binding domain
+NIA1	39947.P16081	Pfam	PF00175	Oxidoreductase NAD-binding domain 
+NIA1	39947.P16081	Pfam	PF00970	Oxidoreductase FAD-binding domain
+NIA1	39947.P16081	Pfam	PF03404	Mo-co oxidoreductase dimerisation domain
+NIA1	39947.P16081	InterPro	IPR000572	Oxidoreductase, molybdopterin-binding domain
+NIA1	39947.P16081	InterPro	IPR001199	Cytochrome b5-like heme/steroid binding domain
+NIA1	39947.P16081	InterPro	IPR001433	Oxidoreductase FAD/NAD(P)-binding
+NIA1	39947.P16081	InterPro	IPR001709	Flavoprotein pyridine nucleotide cytochrome reductase
+NIA1	39947.P16081	InterPro	IPR005066	Moybdenum cofactor oxidoreductase, dimerisation
+NIA1	39947.P16081	InterPro	IPR008333	Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
+NIA1	39947.P16081	InterPro	IPR008335	Eukaryotic molybdopterin oxidoreductase
+NIA1	39947.P16081	InterPro	IPR012137	Nitrate reductase NADH dependent
+NIA1	39947.P16081	InterPro	IPR014756	Immunoglobulin E-set
+NIA1	39947.P16081	InterPro	IPR017927	FAD-binding domain, ferredoxin reductase-type
+NIA1	39947.P16081	InterPro	IPR017938	Riboflavin synthase-like beta-barrel
+NIA1	39947.P16081	InterPro	IPR018506	Cytochrome b5, heme-binding site
+NIA1	39947.P16081	InterPro	IPR022407	Oxidoreductase, molybdopterin binding site
+NIA1	39947.P16081	InterPro	IPR036374	Oxidoreductase, molybdopterin-binding domain superfamily
+NIA1	39947.P16081	InterPro	IPR036400	Cytochrome b5-like heme/steroid binding domain superfamily
+NIA1	39947.P16081	InterPro	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain
+NIA1	39947.P16081	SMART	SM01117	Cytochrome b5-like Heme/Steroid binding domain
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0000160	Phosphorelay signal transduction system
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0002831	Regulation of response to biotic stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0003006	Developmental process involved in reproduction
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0006325	Chromatin organization
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0006338	Chromatin remodeling
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0006355	Regulation of DNA-templated transcription
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0006950	Response to stress
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0006952	Defense response
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0007154	Cell communication
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0007165	Signal transduction
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0007275	Multicellular organism development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009611	Response to wounding
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009653	Anatomical structure morphogenesis
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009719	Response to endogenous stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009723	Response to ethylene
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009725	Response to hormone
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009755	Hormone-mediated signaling pathway
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009791	Post-embryonic development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009873	Ethylene-activated signaling pathway
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009889	Regulation of biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009890	Negative regulation of biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009891	Positive regulation of biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009892	Negative regulation of metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009893	Positive regulation of metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009908	Flower development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009966	Regulation of signal transduction
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0009987	Cellular process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010104	Regulation of ethylene-activated signaling pathway
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010468	Regulation of gene expression
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010558	Negative regulation of macromolecule biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010605	Negative regulation of macromolecule metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010629	Negative regulation of gene expression
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0010646	Regulation of cell communication
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0016043	Cellular component organization
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0019222	Regulation of metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0022414	Reproductive process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0023051	Regulation of signaling
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0023052	Signaling
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0031347	Regulation of defense response
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0031507	Heterochromatin formation
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0032101	Regulation of response to external stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0032501	Multicellular organismal process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0032502	Developmental process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0032870	Cellular response to hormone stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0035556	Intracellular signal transduction
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0040029	Epigenetic regulation of gene expression
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0042221	Response to chemical
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0045814	Negative regulation of gene expression, epigenetic
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0045944	Positive regulation of transcription by RNA polymerase II
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048367	Shoot system development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048518	Positive regulation of biological process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048519	Negative regulation of biological process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048522	Positive regulation of cellular process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048523	Negative regulation of cellular process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048583	Regulation of response to stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048608	Reproductive structure development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048646	Anatomical structure formation involved in morphogenesis
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048731	System development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048856	Anatomical structure development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0048859	Formation of anatomical boundary
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0050789	Regulation of biological process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0050794	Regulation of cellular process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0050896	Response to stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0051716	Cellular response to stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0061458	Reproductive system development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0065007	Biological regulation
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0070297	Regulation of phosphorelay signal transduction system
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0070887	Cellular response to chemical stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0071369	Cellular response to ethylene stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0071495	Cellular response to endogenous stimulus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0071840	Cellular component organization or biogenesis
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0080090	Regulation of primary metabolic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0080134	Regulation of response to stress
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:0090567	Reproductive shoot system development
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:1900150	Regulation of defense response to fungus
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:1902531	Regulation of intracellular signal transduction
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:2000022	Regulation of jasmonic acid mediated signaling pathway
+Q656M9_ORYSJ	39947.Q656M9	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0000166	Nucleotide binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0003676	Nucleic acid binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0003677	DNA binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0003682	Chromatin binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0003824	Catalytic activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0004386	Helicase activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0005488	Binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0005515	Protein binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0005524	ATP binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0008094	ATP-dependent activity, acting on DNA
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0016462	Pyrophosphatase activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0016787	Hydrolase activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0016817	Hydrolase activity, acting on acid anhydrides
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0016818	Hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0016853	Isomerase activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0016887	ATP hydrolysis activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0017076	Purine nucleotide binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0017111	Ribonucleoside triphosphate phosphatase activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0030554	Adenyl nucleotide binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0032553	Ribonucleotide binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0032555	Purine ribonucleotide binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0032559	Adenyl ribonucleotide binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0036094	Small molecule binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0042393	Histone binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0043167	Ion binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0043168	Anion binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0097367	Carbohydrate derivative binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0120543	Macromolecular conformation isomerase activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0120545	Nucleic acid conformation isomerase activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0140097	Catalytic activity, acting on DNA
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0140657	ATP-dependent activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0140658	ATP-dependent chromatin remodeler activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0140750	Nucleosome array spacer activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:0140751	Histone octamer slider activity
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:1901265	Nucleoside phosphate binding
+Q656M9_ORYSJ	39947.Q656M9	GO Function	GO:1901363	Heterocyclic compound binding
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0000785	Chromatin
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0005622	Intracellular anatomical structure
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0005634	Nucleus
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0005694	Chromosome
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0005737	Cytoplasm
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0005829	Cytosol
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0043226	Organelle
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0043227	Membrane-bounded organelle
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0043228	Membraneless organelle
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0043229	Intracellular organelle
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0043232	Intracellular membraneless organelle
+Q656M9_ORYSJ	39947.Q656M9	GO Component	GO:0110165	Cellular anatomical structure
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:8941	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:8942	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:8944	Mixed, incl. Nucleosome, and PcG protein complex
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:8946	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:8948	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:8951	Mixed, incl. Nucleosome, and PcG protein complex
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:8954	Mixed, incl. PcG protein complex, and Nucleosome core
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:9024	Mixed, incl. Protein TONSOKU, and HMGB9-like, ARID/BRIGHT DNA binding domain
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:9027	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and Histone deacetylase HDAC
+Q656M9_ORYSJ	39947.Q656M9	STRING clusters	CL:9030	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and Positive regulation of gibberellic acid mediated signaling pathway
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0005634	Nucleus
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0043226	Organelle
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+Q656M9_ORYSJ	39947.Q656M9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0007154	Cell communication
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0007165	Signal transduction
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0007186	G protein-coupled receptor signaling pathway
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0007188	Adenylate cyclase-modulating G protein-coupled receptor signaling pathway
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0007189	Adenylate cyclase-activating G protein-coupled receptor signaling pathway
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0009987	Cellular process
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0023052	Signaling
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0050789	Regulation of biological process
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0050794	Regulation of cellular process
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0050896	Response to stimulus
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0051716	Cellular response to stimulus
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Process	GO:0065007	Biological regulation
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0000166	Nucleotide binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0003824	Catalytic activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0004672	Protein kinase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0004674	Protein serine/threonine kinase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0004690	Cyclic nucleotide-dependent protein kinase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0004691	cAMP-dependent protein kinase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0004721	Phosphoprotein phosphatase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0004722	Protein serine/threonine phosphatase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0005488	Binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0005524	ATP binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0016301	Kinase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0016740	Transferase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0016787	Hydrolase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0016791	Phosphatase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0017076	Purine nucleotide binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0030554	Adenyl nucleotide binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0032553	Ribonucleotide binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0032555	Purine ribonucleotide binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0032559	Adenyl ribonucleotide binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0036094	Small molecule binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0043167	Ion binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0043168	Anion binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0043169	Cation binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0046872	Metal ion binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0097367	Carbohydrate derivative binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:0140096	Catalytic activity, acting on a protein
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:1901265	Nucleoside phosphate binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Function	GO:1901363	Heterocyclic compound binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0005622	Intracellular anatomical structure
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0005737	Cytoplasm
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0005739	Mitochondrion
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0005952	cAMP-dependent protein kinase complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0032991	Protein-containing complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0043226	Organelle
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0043227	Membrane-bounded organelle
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0043229	Intracellular organelle
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0061695	Transferase complex, transferring phosphorus-containing groups
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0110165	Cellular anatomical structure
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:0140535	Intracellular protein-containing complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:1902494	Catalytic complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:1902554	Serine/threonine protein kinase complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:1902911	Protein kinase complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	GO Component	GO:1990234	Transferase complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1202	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1204	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1207	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1209	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1212	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1215	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1217	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1219	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1223	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1226	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1228	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1231	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1236	Mixed, incl. HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1239	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1242	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1243	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1248	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1250	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1251	Cul2-RING E3 ligase substrate-recognition, and Motor proteins
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1386	Mixed, incl. Protein of unknown function DUF1517, and Adenylate cyclase-activating G protein-coupled receptor signaling pathway
+Q6K3D4_ORYSJ	39947.Q6K3D4	STRING clusters	CL:1390	Mixed, incl. Adenylate cyclase-activating G protein-coupled receptor signaling pathway, and Calcium channel
+Q6K3D4_ORYSJ	39947.Q6K3D4	COMPARTMENTS	GOCC:0005952	cAMP-dependent protein kinase complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0067	ATP-binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0378	Hydrolase
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0418	Kinase
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0460	Magnesium
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0464	Manganese
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0479	Metal-binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0547	Nucleotide-binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0808	Transferase
+Q6K3D4_ORYSJ	39947.Q6K3D4	UniProt Keywords	KW-0904	Protein phosphatase
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR000222	PPM-type phosphatase, divalent cation binding
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR000595	Cyclic nucleotide-binding domain
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR000719	Protein kinase domain
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR001932	PPM-type phosphatase-like domain
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR011009	Protein kinase-like domain superfamily
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR014710	RmlC-like jelly roll fold
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR018490	Cyclic nucleotide-binding domain superfamily
+Q6K3D4_ORYSJ	39947.Q6K3D4	InterPro	IPR036457	PPM-type phosphatase-like domain superfamily
+Q6K3D4_ORYSJ	39947.Q6K3D4	SMART	SM00100	Cyclic nucleotide-monophosphate binding domain
+Q6K3D4_ORYSJ	39947.Q6K3D4	SMART	SM00332	Serine/threonine phosphatases, family 2C, catalytic domain
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0006355	Regulation of DNA-templated transcription
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0009889	Regulation of biosynthetic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0010468	Regulation of gene expression
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0019222	Regulation of metabolic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0050789	Regulation of biological process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0050794	Regulation of cellular process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0065007	Biological regulation
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:0080090	Regulation of primary metabolic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Function	GO:0003676	Nucleic acid binding
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Function	GO:0003677	DNA binding
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Function	GO:0003700	DNA-binding transcription factor activity
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Function	GO:0005488	Binding
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Function	GO:0140110	Transcription regulator activity
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Component	GO:0005622	Intracellular anatomical structure
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Component	GO:0005634	Nucleus
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Component	GO:0043226	Organelle
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Component	GO:0043227	Membrane-bounded organelle
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Component	GO:0043229	Intracellular organelle
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q6K7A1_ORYSJ	39947.Q6K7A1	GO Component	GO:0110165	Cellular anatomical structure
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:8941	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:8942	Mixed, incl. HDACs deacetylate histones, and Nucleosome
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:8944	Mixed, incl. Nucleosome, and PcG protein complex
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:8946	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:8948	Mixed, incl. Structural constituent of chromatin, and PcG protein complex
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:8951	Mixed, incl. Nucleosome, and PcG protein complex
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:8954	Mixed, incl. PcG protein complex, and Nucleosome core
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:9024	Mixed, incl. Protein TONSOKU, and HMGB9-like, ARID/BRIGHT DNA binding domain
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:9027	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and Histone deacetylase HDAC
+Q6K7A1_ORYSJ	39947.Q6K7A1	STRING clusters	CL:9030	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and Positive regulation of gibberellic acid mediated signaling pathway
+Q6K7A1_ORYSJ	39947.Q6K7A1	COMPARTMENTS	GOCC:0042995	Cell projection
+Q6K7A1_ORYSJ	39947.Q6K7A1	COMPARTMENTS	GOCC:0090406	Pollen tube
+Q6K7A1_ORYSJ	39947.Q6K7A1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6K7A1_ORYSJ	39947.Q6K7A1	COMPARTMENTS	GOCC:0120025	Plasma membrane bounded cell projection
+Q6K7A1_ORYSJ	39947.Q6K7A1	UniProt Keywords	KW-0238	DNA-binding
+Q6K7A1_ORYSJ	39947.Q6K7A1	UniProt Keywords	KW-0539	Nucleus
+Q6K7A1_ORYSJ	39947.Q6K7A1	UniProt Keywords	KW-0804	Transcription
+Q6K7A1_ORYSJ	39947.Q6K7A1	UniProt Keywords	KW-0805	Transcription regulation
+Q6K7A1_ORYSJ	39947.Q6K7A1	InterPro	IPR001606	ARID DNA-binding domain
+Q6K7A1_ORYSJ	39947.Q6K7A1	InterPro	IPR009071	High mobility group box domain
+Q6K7A1_ORYSJ	39947.Q6K7A1	InterPro	IPR036431	ARID DNA-binding domain superfamily
+Q6K7A1_ORYSJ	39947.Q6K7A1	InterPro	IPR036910	High mobility group box domain superfamily
+Q6K7A1_ORYSJ	39947.Q6K7A1	InterPro	IPR045303	HMGB9-like, ARID/BRIGHT DNA binding domain
+Q6K7A1_ORYSJ	39947.Q6K7A1	SMART	SM00398	High mobility group
+Q6K7A1_ORYSJ	39947.Q6K7A1	SMART	SM00501	BRIGHT, ARID (A/T-rich interaction domain) domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0006082	Organic acid metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0006809	Nitric oxide biosynthetic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0008152	Metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0009058	Biosynthetic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0009314	Response to radiation
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0009416	Response to light stimulus
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0009628	Response to abiotic stimulus
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0009987	Cellular process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0042126	Nitrate metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0042128	Nitrate assimilation
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0043436	Oxoacid metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0044281	Small molecule metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0046209	Nitric oxide metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0050896	Response to stimulus
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0071941	Nitrogen cycle metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:0097164	Ammonium ion metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0000166	Nucleotide binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0003824	Catalytic activity
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0004128	cytochrome-b5 reductase activity, acting on NAD(P)H
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0005488	Binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0008940	Nitrate reductase activity
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0009703	Nitrate reductase (NADH) activity
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0016491	Oxidoreductase activity
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0016651	Oxidoreductase activity, acting on NAD(P)H
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0016653	Oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0016661	Oxidoreductase activity, acting on other nitrogenous compounds as donors
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0020037	Heme binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0030151	Molybdenum ion binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0036094	Small molecule binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0043167	Ion binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0043168	Anion binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0043169	Cation binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0043546	Molybdopterin cofactor binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0046857	Oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0046872	Metal ion binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0046906	Tetrapyrrole binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0046914	Transition metal ion binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0050463	Nitrate reductase [NAD(P)H] activity
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0050464	Nitrate reductase (NADPH) activity
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0050660	Flavin adenine dinucleotide binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:0071949	FAD binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:1901265	Nucleoside phosphate binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Function	GO:1901363	Heterocyclic compound binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Component	GO:0016020	Membrane
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Component	GO:0031090	Organelle membrane
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Component	GO:0043226	Organelle
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Component	GO:0043227	Membrane-bounded organelle
+Q6ZC33_ORYSJ	39947.Q6ZC33	GO Component	GO:0110165	Cellular anatomical structure
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35333	Mixed, incl. Sulfur metabolism, and Oxidoreductase NAD-binding domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35336	Mixed, incl. Oxidoreductase NAD-binding domain , and Ferredoxin [2Fe-2S], plant
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35337	Mixed, incl. Cytochrome b5, heme-binding site, and Sulfide oxidation to sulfate
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35342	Mixed, incl. Cytochrome b5, heme-binding site, and Sulfide oxidation to sulfate
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35345	Mixed, incl. cytochrome-b5 reductase activity, acting on NAD(P)H, and Sulfide oxidation to sulfate
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35349	Mixed, incl. Nitrate assimilation, and cytochrome-b5 reductase activity, acting on NADH
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35351	Nitrate assimilation, and Ferredoxin-nitrite reductase activity
+Q6ZC33_ORYSJ	39947.Q6ZC33	STRING clusters	CL:35355	Nitrate reductase NADH dependent, and Nitrite/sulphite reductase 4Fe-4S domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	KEGG	map00910	Nitrogen metabolism
+Q6ZC33_ORYSJ	39947.Q6ZC33	KEGG	map01100	Metabolic pathways
+Q6ZC33_ORYSJ	39947.Q6ZC33	KEGG	map01310	Nitrogen cycle
+Q6ZC33_ORYSJ	39947.Q6ZC33	Reactome	MAP-1430728	Metabolism
+Q6ZC33_ORYSJ	39947.Q6ZC33	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q6ZC33_ORYSJ	39947.Q6ZC33	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q6ZC33_ORYSJ	39947.Q6ZC33	COMPARTMENTS	GOCC:0009325	Nitrate reductase complex
+Q6ZC33_ORYSJ	39947.Q6ZC33	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Q6ZC33_ORYSJ	39947.Q6ZC33	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6ZC33_ORYSJ	39947.Q6ZC33	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0274	FAD
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0285	Flavoprotein
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0349	Heme
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0408	Iron
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0479	Metal-binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0500	Molybdenum
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0520	NAD
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0534	Nitrate assimilation
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-0560	Oxidoreductase
+Q6ZC33_ORYSJ	39947.Q6ZC33	UniProt Keywords	KW-1015	Disulfide bond
+Q6ZC33_ORYSJ	39947.Q6ZC33	Pfam	PF00174	Oxidoreductase molybdopterin binding domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	Pfam	PF00175	Oxidoreductase NAD-binding domain 
+Q6ZC33_ORYSJ	39947.Q6ZC33	Pfam	PF00970	Oxidoreductase FAD-binding domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	Pfam	PF03404	Mo-co oxidoreductase dimerisation domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR000572	Oxidoreductase, molybdopterin-binding domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR001199	Cytochrome b5-like heme/steroid binding domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR001433	Oxidoreductase FAD/NAD(P)-binding
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR001709	Flavoprotein pyridine nucleotide cytochrome reductase
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR005066	Moybdenum cofactor oxidoreductase, dimerisation
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR008333	Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR008335	Eukaryotic molybdopterin oxidoreductase
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR012137	Nitrate reductase NADH dependent
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR014756	Immunoglobulin E-set
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR017927	FAD-binding domain, ferredoxin reductase-type
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR017938	Riboflavin synthase-like beta-barrel
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR018506	Cytochrome b5, heme-binding site
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR022407	Oxidoreductase, molybdopterin binding site
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR036374	Oxidoreductase, molybdopterin-binding domain superfamily
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR036400	Cytochrome b5-like heme/steroid binding domain superfamily
+Q6ZC33_ORYSJ	39947.Q6ZC33	InterPro	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain
+Q6ZC33_ORYSJ	39947.Q6ZC33	SMART	SM01117	Cytochrome b5-like Heme/Steroid binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0006082	Organic acid metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0006809	Nitric oxide biosynthetic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0008152	Metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0009058	Biosynthetic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0009987	Cellular process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0042126	Nitrate metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0042128	Nitrate assimilation
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0043436	Oxoacid metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0044281	Small molecule metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0046209	Nitric oxide metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0071941	Nitrogen cycle metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:0097164	Ammonium ion metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Process	GO:2001057	Reactive nitrogen species metabolic process
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0000166	Nucleotide binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0003824	Catalytic activity
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0004128	cytochrome-b5 reductase activity, acting on NAD(P)H
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0005488	Binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0008940	Nitrate reductase activity
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0009703	Nitrate reductase (NADH) activity
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0016491	Oxidoreductase activity
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0016651	Oxidoreductase activity, acting on NAD(P)H
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0016653	Oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0016661	Oxidoreductase activity, acting on other nitrogenous compounds as donors
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0036094	Small molecule binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0043167	Ion binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0043168	Anion binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0043169	Cation binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0046857	Oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0046872	Metal ion binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0050463	Nitrate reductase [NAD(P)H] activity
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0050464	Nitrate reductase (NADPH) activity
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0050660	Flavin adenine dinucleotide binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:0071949	FAD binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:1901265	Nucleoside phosphate binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Function	GO:1901363	Heterocyclic compound binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Component	GO:0016020	Membrane
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Component	GO:0031090	Organelle membrane
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Component	GO:0043226	Organelle
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Component	GO:0043227	Membrane-bounded organelle
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	GO Component	GO:0110165	Cellular anatomical structure
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35333	Mixed, incl. Sulfur metabolism, and Oxidoreductase NAD-binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35336	Mixed, incl. Oxidoreductase NAD-binding domain , and Ferredoxin [2Fe-2S], plant
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35337	Mixed, incl. Cytochrome b5, heme-binding site, and Sulfide oxidation to sulfate
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35342	Mixed, incl. Cytochrome b5, heme-binding site, and Sulfide oxidation to sulfate
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35345	Mixed, incl. cytochrome-b5 reductase activity, acting on NAD(P)H, and Sulfide oxidation to sulfate
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35349	Mixed, incl. Nitrate assimilation, and cytochrome-b5 reductase activity, acting on NADH
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35351	Nitrate assimilation, and Ferredoxin-nitrite reductase activity
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	STRING clusters	CL:35355	Nitrate reductase NADH dependent, and Nitrite/sulphite reductase 4Fe-4S domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	KEGG	map00910	Nitrogen metabolism
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	KEGG	map01100	Metabolic pathways
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	KEGG	map01310	Nitrogen cycle
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	Reactome	MAP-1430728	Metabolism
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	COMPARTMENTS	GOCC:0005737	Cytoplasm
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	COMPARTMENTS	GOCC:0009325	Nitrate reductase complex
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	COMPARTMENTS	GOCC:1990204	Oxidoreductase complex
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0274	FAD
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0285	Flavoprotein
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0349	Heme
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0408	Iron
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0479	Metal-binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0500	Molybdenum
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0520	NAD
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0534	Nitrate assimilation
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-0560	Oxidoreductase
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	UniProt Keywords	KW-1015	Disulfide bond
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	Pfam	PF00174	Oxidoreductase molybdopterin binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	Pfam	PF00175	Oxidoreductase NAD-binding domain 
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	Pfam	PF00970	Oxidoreductase FAD-binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	Pfam	PF03404	Mo-co oxidoreductase dimerisation domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR000572	Oxidoreductase, molybdopterin-binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR001199	Cytochrome b5-like heme/steroid binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR001433	Oxidoreductase FAD/NAD(P)-binding
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR001709	Flavoprotein pyridine nucleotide cytochrome reductase
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR005066	Moybdenum cofactor oxidoreductase, dimerisation
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR008333	Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR008335	Eukaryotic molybdopterin oxidoreductase
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR012137	Nitrate reductase NADH dependent
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR014756	Immunoglobulin E-set
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR017927	FAD-binding domain, ferredoxin reductase-type
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR017938	Riboflavin synthase-like beta-barrel
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR018506	Cytochrome b5, heme-binding site
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR022407	Oxidoreductase, molybdopterin binding site
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR036374	Oxidoreductase, molybdopterin-binding domain superfamily
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR036400	Cytochrome b5-like heme/steroid binding domain superfamily
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	InterPro	IPR039261	Ferredoxin-NADP reductase (FNR), nucleotide-binding domain
+Q6ZHH7_ORYSJ	39947.Q6ZHH7	SMART	SM01117	Cytochrome b5-like Heme/Steroid binding domain
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0006355	Regulation of DNA-templated transcription
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0009889	Regulation of biosynthetic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0010468	Regulation of gene expression
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0019222	Regulation of metabolic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0050789	Regulation of biological process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0050794	Regulation of cellular process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0051252	Regulation of RNA metabolic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0065007	Biological regulation
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:0080090	Regulation of primary metabolic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0000976	Transcription cis-regulatory region binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0003676	Nucleic acid binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0003677	DNA binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0003690	Double-stranded DNA binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0003700	DNA-binding transcription factor activity
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0005488	Binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0008270	Zinc ion binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0036094	Small molecule binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0043167	Ion binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0043169	Cation binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0043565	Sequence-specific DNA binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0046872	Metal ion binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0046914	Transition metal ion binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:0140110	Transcription regulator activity
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Component	GO:0005622	Intracellular anatomical structure
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Component	GO:0005634	Nucleus
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Component	GO:0043226	Organelle
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Component	GO:0043227	Membrane-bounded organelle
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Component	GO:0043229	Intracellular organelle
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+Q7G7I8_ORYSJ	39947.Q7G7I8	GO Component	GO:0110165	Cellular anatomical structure
+Q7G7I8_ORYSJ	39947.Q7G7I8	STRING clusters	CL:13561	Mostly uncharacterized, incl. GTP-binding protein Obg/CgtA, and LETM1-like, ribosome-binding domain
+Q7G7I8_ORYSJ	39947.Q7G7I8	STRING clusters	CL:13575	Mixed, incl. C2H2-type zinc-finger protein AZF1/2/3-like, and Major pollen allergen Lol pI
+Q7G7I8_ORYSJ	39947.Q7G7I8	Reactome	MAP-212436	Generic Transcription Pathway
+Q7G7I8_ORYSJ	39947.Q7G7I8	Reactome	MAP-73857	RNA Polymerase II Transcription
+Q7G7I8_ORYSJ	39947.Q7G7I8	Reactome	MAP-74160	Gene expression (Transcription)
+Q7G7I8_ORYSJ	39947.Q7G7I8	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+Q7G7I8_ORYSJ	39947.Q7G7I8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+Q7G7I8_ORYSJ	39947.Q7G7I8	UniProt Keywords	KW-0479	Metal-binding
+Q7G7I8_ORYSJ	39947.Q7G7I8	UniProt Keywords	KW-0804	Transcription
+Q7G7I8_ORYSJ	39947.Q7G7I8	UniProt Keywords	KW-0805	Transcription regulation
+Q7G7I8_ORYSJ	39947.Q7G7I8	UniProt Keywords	KW-0862	Zinc
+Q7G7I8_ORYSJ	39947.Q7G7I8	UniProt Keywords	KW-0863	Zinc-finger
+Q7G7I8_ORYSJ	39947.Q7G7I8	InterPro	IPR013087	Zinc finger C2H2-type
+Q7G7I8_ORYSJ	39947.Q7G7I8	InterPro	IPR036236	Zinc finger C2H2 superfamily
+Q7G7I8_ORYSJ	39947.Q7G7I8	InterPro	IPR044653	C2H2-type zinc-finger protein AZF1/2/3-like
+Q7G7I8_ORYSJ	39947.Q7G7I8	SMART	SM00355	Zinc finger

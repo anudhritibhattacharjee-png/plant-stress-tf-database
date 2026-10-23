@@ -1,0 +1,12 @@
+#node	identifier	x_position	y_position	color	annotation
+A0A3Q7EYU0	4081.A0A3Q7EYU0	0.38230769230769235	0.4682819383259912	rgb(14,178,0)	BES1_N domain-containing protein.
+A0A3Q7F2V9	4081.A0A3Q7F2V9	0.32046153846153846	0.42863436123348014	rgb(255,175,101)	Protein kinase domain-containing protein; Belongs to the protein kinase superfamily.
+A0A3Q7FF96	4081.A0A3Q7FF96	0.5752307692307693	0.8528634361233481	rgb(0,28,178)	Uncharacterized protein.
+A0A3Q7GAQ0	4081.A0A3Q7GAQ0	0.5207692307692309	0.4365638766519824	rgb(255,0,0)	BES1_N domain-containing protein.
+A0A3Q7H196	4081.A0A3Q7H196	0.4330769230769231	0.8607929515418503	rgb(150,101,255)	Protein kinase domain-containing protein.
+A0A3Q7HFF9	4081.A0A3Q7HFF9	0.3444615384615385	0.2621145374449339	rgb(178,171,0)	Protein kinase domain-containing protein; Belongs to the protein kinase superfamily.
+A0A3Q7IN05	4081.A0A3Q7IN05	0.6647692307692308	0.2997797356828194	rgb(0,178,157)	Uncharacterized protein; Belongs to the GRAS family.
+A0A3Q7J956	4081.A0A3Q7J956	0.41184615384615386	0.25616740088105727	rgb(187,255,101)	Protein kinase domain-containing protein.
+GAI	4081.Q7Y1B6	0.6038461538461539	0.14911894273127752	rgb(101,199,255)	DELLA protein GAI; Probable transcriptional regulator that acts as a repressor of the gibberellin (GA) signaling pathway. Probably acts by participating in large multiprotein complexes that repress transcription of GA-inducible genes. Upon GA application, it is degraded by the proteasome, allowing the GA signaling pathway (By similarity). Its degradation is not essential for germination. Belongs to the GRAS family. DELLA subfamily.
+LAT61	4081.A0A3Q7JCZ6	0.5041538461538462	0.5495594713656388	rgb(101,255,163)	BES1_N domain-containing protein.
+Tft10	4081.A0A3Q7H0L3	0.674	0.6387665198237886	rgb(239,117,117)	14_3_3 domain-containing protein; Belongs to the 14-3-3 family.

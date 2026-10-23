@@ -1,0 +1,780 @@
+#node	identifier	category	term ID	term description
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0003006	Developmental process involved in reproduction
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0007275	Multicellular organism development
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0009791	Post-embryonic development
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0010468	Regulation of gene expression
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0019222	Regulation of metabolic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0022414	Reproductive process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0032501	Multicellular organismal process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0032502	Developmental process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0048608	Reproductive structure development
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0048731	System development
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0048856	Anatomical structure development
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0050789	Regulation of biological process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0050793	Regulation of developmental process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0050794	Regulation of cellular process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0061458	Reproductive system development
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0065007	Biological regulation
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0003676	Nucleic acid binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0003677	DNA binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0005488	Binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0008270	Zinc ion binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0036094	Small molecule binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0043167	Ion binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0043169	Cation binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0046872	Metal ion binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0046914	Transition metal ion binding
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Function	GO:0140110	Transcription regulator activity
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Component	GO:0005622	Intracellular anatomical structure
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Component	GO:0005634	Nucleus
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Component	GO:0043226	Organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Component	GO:0043227	Membrane-bounded organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Component	GO:0043229	Intracellular organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	GO Component	GO:0110165	Cellular anatomical structure
+A0A1D5V0E4	4565.A0A1D5V0E4	STRING clusters	CL:118571	Mixed, incl. Plant Stress Response Kinase, and Lysine/N-terminal Methyltransferase Superfamily
+A0A1D5V0E4	4565.A0A1D5V0E4	STRING clusters	CL:118713	Mixed, incl. WPP domain-associated protein, and Plant Stress Response Kinase
+A0A1D5V0E4	4565.A0A1D5V0E4	STRING clusters	CL:118799	Mixed, incl. Positive regulation of apoptotic process, and Plant Stress Response Kinase
+A0A1D5V0E4	4565.A0A1D5V0E4	STRING clusters	CL:118802	Positive regulation of apoptotic process, and Plant Stress Response Kinase
+A0A1D5V0E4	4565.A0A1D5V0E4	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A1D5V0E4	4565.A0A1D5V0E4	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A1D5V0E4	4565.A0A1D5V0E4	COMPARTMENTS	GOCC:0043226	Organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A1D5V0E4	4565.A0A1D5V0E4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A1D5V0E4	4565.A0A1D5V0E4	UniProt Keywords	KW-0238	DNA-binding
+A0A1D5V0E4	4565.A0A1D5V0E4	UniProt Keywords	KW-0479	Metal-binding
+A0A1D5V0E4	4565.A0A1D5V0E4	UniProt Keywords	KW-0539	Nucleus
+A0A1D5V0E4	4565.A0A1D5V0E4	UniProt Keywords	KW-0804	Transcription
+A0A1D5V0E4	4565.A0A1D5V0E4	UniProt Keywords	KW-0805	Transcription regulation
+A0A1D5V0E4	4565.A0A1D5V0E4	UniProt Keywords	KW-0862	Zinc
+A0A1D5V0E4	4565.A0A1D5V0E4	UniProt Keywords	KW-0863	Zinc-finger
+A0A1D5V0E4	4565.A0A1D5V0E4	InterPro	IPR003851	Zinc finger, Dof-type
+A0A1D5V0E4	4565.A0A1D5V0E4	InterPro	IPR045174	Dof zinc finger protein
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0006325	Chromatin organization
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0009987	Cellular process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0010468	Regulation of gene expression
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0016043	Cellular component organization
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0019222	Regulation of metabolic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0048583	Regulation of response to stimulus
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0048586	Regulation of long-day photoperiodism, flowering
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0050789	Regulation of biological process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0065007	Biological regulation
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:2000028	Regulation of photoperiodism, flowering
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Function	GO:0003682	Chromatin binding
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Function	GO:0005488	Binding
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Function	GO:1990841	Promoter-specific chromatin binding
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0000123	Histone acetyltransferase complex
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0000785	Chromatin
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0005634	Nucleus
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0005694	Chromosome
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0031248	Protein acetyltransferase complex
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0032991	Protein-containing complex
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0043226	Organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0043228	Membraneless organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0043229	Intracellular organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:0140535	Intracellular protein-containing complex
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:1902493	Acetyltransferase complex
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:1902494	Catalytic complex
+A0A3B6AQD5	4565.A0A3B6AQD5	GO Component	GO:1990234	Transferase complex
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15206	Mixed, incl. HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15211	Mixed, incl. HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15212	Mixed, incl. HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15213	Mixed, incl. HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15215	HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15216	HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15218	Mixed, incl. HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15219	Mixed, incl. HDACs deacetylate histones, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15221	Mixed, incl. Histone H3, and Histone H4
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15222	Mixed, incl. CENP-T/Histone H4, histone fold, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15224	Mixed, incl. BRIGHT, ARID (A/T-rich interaction domain) domain, and Histone H3
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15226	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and CENP-T/Histone H4, histone fold
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15228	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and Kinetochore assembly
+A0A3B6AQD5	4565.A0A3B6AQD5	STRING clusters	CL:15231	Mixed, incl. HMGB9-like, ARID/BRIGHT DNA binding domain, and MRG domain
+A0A3B6AQD5	4565.A0A3B6AQD5	KEGG	map03082	ATP-dependent chromatin remodeling
+A0A3B6AQD5	4565.A0A3B6AQD5	Reactome	MAP-3247509	Chromatin modifying enzymes
+A0A3B6AQD5	4565.A0A3B6AQD5	Reactome	MAP-4839726	Chromatin organization
+A0A3B6AQD5	4565.A0A3B6AQD5	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B6AQD5	4565.A0A3B6AQD5	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3B6AQD5	4565.A0A3B6AQD5	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3B6AQD5	4565.A0A3B6AQD5	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6AQD5	4565.A0A3B6AQD5	UniProt Keywords	KW-0156	Chromatin regulator
+A0A3B6AQD5	4565.A0A3B6AQD5	UniProt Keywords	KW-0539	Nucleus
+A0A3B6AQD5	4565.A0A3B6AQD5	UniProt Keywords	KW-0804	Transcription
+A0A3B6AQD5	4565.A0A3B6AQD5	UniProt Keywords	KW-0805	Transcription regulation
+A0A3B6AQD5	4565.A0A3B6AQD5	Pfam	PF05712	MRG
+A0A3B6AQD5	4565.A0A3B6AQD5	InterPro	IPR008676	MRG
+A0A3B6AQD5	4565.A0A3B6AQD5	InterPro	IPR016197	Chromo-like domain superfamily
+A0A3B6AQD5	4565.A0A3B6AQD5	InterPro	IPR026541	MRG domain
+A0A3B6AQD5	4565.A0A3B6AQD5	InterPro	IPR038217	MRG, C-terminal domain superfamily
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0006325	Chromatin organization
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0009987	Cellular process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0010468	Regulation of gene expression
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0016043	Cellular component organization
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0019222	Regulation of metabolic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0048583	Regulation of response to stimulus
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0048586	Regulation of long-day photoperiodism, flowering
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0050789	Regulation of biological process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0065007	Biological regulation
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:2000028	Regulation of photoperiodism, flowering
+A0A3B6BY02	4565.A0A3B6BY02	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3B6BY02	4565.A0A3B6BY02	GO Function	GO:0003682	Chromatin binding
+A0A3B6BY02	4565.A0A3B6BY02	GO Function	GO:0005488	Binding
+A0A3B6BY02	4565.A0A3B6BY02	GO Function	GO:1990841	Promoter-specific chromatin binding
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0000123	Histone acetyltransferase complex
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0000785	Chromatin
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0005634	Nucleus
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0005694	Chromosome
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0031248	Protein acetyltransferase complex
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0032991	Protein-containing complex
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0043226	Organelle
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0043228	Membraneless organelle
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0043229	Intracellular organelle
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:0140535	Intracellular protein-containing complex
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:1902493	Acetyltransferase complex
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:1902494	Catalytic complex
+A0A3B6BY02	4565.A0A3B6BY02	GO Component	GO:1990234	Transferase complex
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16746	Mixed, incl. NuA4 histone acetyltransferase complex, and Regulation of TP53 Activity through Acetylation
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16750	Mixed, incl. NuA4 histone acetyltransferase complex, and Regulation of TP53 Activity through Acetylation
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16752	Mixed, incl. NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16755	Mixed, incl. NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16758	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16761	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16764	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY02	4565.A0A3B6BY02	STRING clusters	CL:16769	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY02	4565.A0A3B6BY02	KEGG	map03082	ATP-dependent chromatin remodeling
+A0A3B6BY02	4565.A0A3B6BY02	Reactome	MAP-3247509	Chromatin modifying enzymes
+A0A3B6BY02	4565.A0A3B6BY02	Reactome	MAP-4839726	Chromatin organization
+A0A3B6BY02	4565.A0A3B6BY02	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B6BY02	4565.A0A3B6BY02	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3B6BY02	4565.A0A3B6BY02	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3B6BY02	4565.A0A3B6BY02	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3B6BY02	4565.A0A3B6BY02	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3B6BY02	4565.A0A3B6BY02	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3B6BY02	4565.A0A3B6BY02	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6BY02	4565.A0A3B6BY02	UniProt Keywords	KW-0156	Chromatin regulator
+A0A3B6BY02	4565.A0A3B6BY02	UniProt Keywords	KW-0539	Nucleus
+A0A3B6BY02	4565.A0A3B6BY02	UniProt Keywords	KW-0804	Transcription
+A0A3B6BY02	4565.A0A3B6BY02	UniProt Keywords	KW-0805	Transcription regulation
+A0A3B6BY02	4565.A0A3B6BY02	Pfam	PF05712	MRG
+A0A3B6BY02	4565.A0A3B6BY02	InterPro	IPR000953	Chromo/chromo shadow domain
+A0A3B6BY02	4565.A0A3B6BY02	InterPro	IPR008676	MRG
+A0A3B6BY02	4565.A0A3B6BY02	InterPro	IPR016197	Chromo-like domain superfamily
+A0A3B6BY02	4565.A0A3B6BY02	InterPro	IPR026541	MRG domain
+A0A3B6BY02	4565.A0A3B6BY02	InterPro	IPR038217	MRG, C-terminal domain superfamily
+A0A3B6BY02	4565.A0A3B6BY02	InterPro	IPR053820	MSL3 chromodomain-like
+A0A3B6BY02	4565.A0A3B6BY02	SMART	SM00298	Chromatin organization modifier domain
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0006325	Chromatin organization
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0009987	Cellular process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0010468	Regulation of gene expression
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0016043	Cellular component organization
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0019222	Regulation of metabolic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0048583	Regulation of response to stimulus
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0048586	Regulation of long-day photoperiodism, flowering
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0050789	Regulation of biological process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0065007	Biological regulation
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:2000028	Regulation of photoperiodism, flowering
+A0A3B6BY59	4565.A0A3B6BY59	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3B6BY59	4565.A0A3B6BY59	GO Function	GO:0003682	Chromatin binding
+A0A3B6BY59	4565.A0A3B6BY59	GO Function	GO:0005488	Binding
+A0A3B6BY59	4565.A0A3B6BY59	GO Function	GO:1990841	Promoter-specific chromatin binding
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0000123	Histone acetyltransferase complex
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0000785	Chromatin
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0005634	Nucleus
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0005694	Chromosome
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0031248	Protein acetyltransferase complex
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0032991	Protein-containing complex
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0043226	Organelle
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0043228	Membraneless organelle
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0043229	Intracellular organelle
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:0140535	Intracellular protein-containing complex
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:1902493	Acetyltransferase complex
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:1902494	Catalytic complex
+A0A3B6BY59	4565.A0A3B6BY59	GO Component	GO:1990234	Transferase complex
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16746	Mixed, incl. NuA4 histone acetyltransferase complex, and Regulation of TP53 Activity through Acetylation
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16750	Mixed, incl. NuA4 histone acetyltransferase complex, and Regulation of TP53 Activity through Acetylation
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16752	Mixed, incl. NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16755	Mixed, incl. NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16758	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16761	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16764	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16769	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16770	NuA4 histone acetyltransferase complex, and YL1 nuclear protein
+A0A3B6BY59	4565.A0A3B6BY59	STRING clusters	CL:16848	Mixed, incl. YL1 nuclear protein, and MSL3 chromodomain-like
+A0A3B6BY59	4565.A0A3B6BY59	KEGG	map03082	ATP-dependent chromatin remodeling
+A0A3B6BY59	4565.A0A3B6BY59	Reactome	MAP-3247509	Chromatin modifying enzymes
+A0A3B6BY59	4565.A0A3B6BY59	Reactome	MAP-4839726	Chromatin organization
+A0A3B6BY59	4565.A0A3B6BY59	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B6BY59	4565.A0A3B6BY59	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3B6BY59	4565.A0A3B6BY59	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3B6BY59	4565.A0A3B6BY59	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3B6BY59	4565.A0A3B6BY59	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3B6BY59	4565.A0A3B6BY59	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3B6BY59	4565.A0A3B6BY59	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6BY59	4565.A0A3B6BY59	InterPro	IPR000953	Chromo/chromo shadow domain
+A0A3B6BY59	4565.A0A3B6BY59	InterPro	IPR008676	MRG
+A0A3B6BY59	4565.A0A3B6BY59	InterPro	IPR016197	Chromo-like domain superfamily
+A0A3B6BY59	4565.A0A3B6BY59	InterPro	IPR053820	MSL3 chromodomain-like
+A0A3B6BY59	4565.A0A3B6BY59	SMART	SM00298	Chromatin organization modifier domain
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0006325	Chromatin organization
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0009987	Cellular process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0010468	Regulation of gene expression
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0016043	Cellular component organization
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0019222	Regulation of metabolic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0048583	Regulation of response to stimulus
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0048586	Regulation of long-day photoperiodism, flowering
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0050789	Regulation of biological process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0065007	Biological regulation
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:2000028	Regulation of photoperiodism, flowering
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Function	GO:0003682	Chromatin binding
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Function	GO:0005488	Binding
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Function	GO:1990841	Promoter-specific chromatin binding
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0000123	Histone acetyltransferase complex
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0000785	Chromatin
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0005634	Nucleus
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0005694	Chromosome
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0031248	Protein acetyltransferase complex
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0032991	Protein-containing complex
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0043226	Organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0043228	Membraneless organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0043229	Intracellular organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:0140535	Intracellular protein-containing complex
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:1902493	Acetyltransferase complex
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:1902494	Catalytic complex
+A0A3B6D5L9	4565.A0A3B6D5L9	GO Component	GO:1990234	Transferase complex
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16746	Mixed, incl. NuA4 histone acetyltransferase complex, and Regulation of TP53 Activity through Acetylation
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16750	Mixed, incl. NuA4 histone acetyltransferase complex, and Regulation of TP53 Activity through Acetylation
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16752	Mixed, incl. NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16755	Mixed, incl. NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16758	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16761	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16764	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16769	NuA4 histone acetyltransferase complex, and Swr1 complex
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16770	NuA4 histone acetyltransferase complex, and YL1 nuclear protein
+A0A3B6D5L9	4565.A0A3B6D5L9	STRING clusters	CL:16771	NuA4 histone acetyltransferase complex
+A0A3B6D5L9	4565.A0A3B6D5L9	KEGG	map03082	ATP-dependent chromatin remodeling
+A0A3B6D5L9	4565.A0A3B6D5L9	Reactome	MAP-3247509	Chromatin modifying enzymes
+A0A3B6D5L9	4565.A0A3B6D5L9	Reactome	MAP-4839726	Chromatin organization
+A0A3B6D5L9	4565.A0A3B6D5L9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3B6D5L9	4565.A0A3B6D5L9	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3B6D5L9	4565.A0A3B6D5L9	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3B6D5L9	4565.A0A3B6D5L9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6D5L9	4565.A0A3B6D5L9	UniProt Keywords	KW-0156	Chromatin regulator
+A0A3B6D5L9	4565.A0A3B6D5L9	UniProt Keywords	KW-0539	Nucleus
+A0A3B6D5L9	4565.A0A3B6D5L9	UniProt Keywords	KW-0804	Transcription
+A0A3B6D5L9	4565.A0A3B6D5L9	UniProt Keywords	KW-0805	Transcription regulation
+A0A3B6D5L9	4565.A0A3B6D5L9	Pfam	PF05712	MRG
+A0A3B6D5L9	4565.A0A3B6D5L9	InterPro	IPR000953	Chromo/chromo shadow domain
+A0A3B6D5L9	4565.A0A3B6D5L9	InterPro	IPR008676	MRG
+A0A3B6D5L9	4565.A0A3B6D5L9	InterPro	IPR016197	Chromo-like domain superfamily
+A0A3B6D5L9	4565.A0A3B6D5L9	InterPro	IPR026541	MRG domain
+A0A3B6D5L9	4565.A0A3B6D5L9	InterPro	IPR038217	MRG, C-terminal domain superfamily
+A0A3B6D5L9	4565.A0A3B6D5L9	InterPro	IPR053820	MSL3 chromodomain-like
+A0A3B6D5L9	4565.A0A3B6D5L9	SMART	SM00298	Chromatin organization modifier domain
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0007154	Cell communication
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0007165	Signal transduction
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0009987	Cellular process
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0023052	Signaling
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0050789	Regulation of biological process
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0050896	Response to stimulus
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B6NN79	4565.A0A3B6NN79	GO Process	GO:0065007	Biological regulation
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0003824	Catalytic activity
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0004721	Phosphoprotein phosphatase activity
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0004722	Protein serine/threonine phosphatase activity
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0005488	Binding
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0016787	Hydrolase activity
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0016791	Phosphatase activity
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0036094	Small molecule binding
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0043167	Ion binding
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0043169	Cation binding
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0046872	Metal ion binding
+A0A3B6NN79	4565.A0A3B6NN79	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3149	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3152	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3155	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3157	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3159	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3161	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3163	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3165	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3167	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3168	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3169	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3170	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3171	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3173	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3175	Dynein light chain type 1, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3177	Dynein light chain type 1, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3267	Mixed, incl. Cul2-RING E3 ligase substrate-recognition, and Voltage-gated calcium channel activity
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3268	Cul2-RING E3 ligase substrate-recognition, and Voltage-gated calcium channel activity
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3271	Mixed, incl. Voltage-gated calcium channel activity, and Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6NN79	4565.A0A3B6NN79	STRING clusters	CL:3276	Voltage-gated calcium channel activity, and Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6NN79	4565.A0A3B6NN79	KEGG	map04082	Neuroactive ligand signaling
+A0A3B6NN79	4565.A0A3B6NN79	COMPARTMENTS	GOCC:0005952	cAMP-dependent protein kinase complex
+A0A3B6NN79	4565.A0A3B6NN79	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0067	ATP-binding
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0378	Hydrolase
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0418	Kinase
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0460	Magnesium
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0464	Manganese
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0479	Metal-binding
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0808	Transferase
+A0A3B6NN79	4565.A0A3B6NN79	UniProt Keywords	KW-0904	Protein phosphatase
+A0A3B6NN79	4565.A0A3B6NN79	Pfam	PF00069	Protein kinase domain
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR000222	PPM-type phosphatase, divalent cation binding
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR000595	Cyclic nucleotide-binding domain
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR000719	Protein kinase domain
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR001932	PPM-type phosphatase-like domain
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR014710	RmlC-like jelly roll fold
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR018490	Cyclic nucleotide-binding domain superfamily
+A0A3B6NN79	4565.A0A3B6NN79	InterPro	IPR036457	PPM-type phosphatase-like domain superfamily
+A0A3B6NN79	4565.A0A3B6NN79	SMART	SM00100	Cyclic nucleotide-monophosphate binding domain
+A0A3B6NN79	4565.A0A3B6NN79	SMART	SM00332	Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0000302	Response to reactive oxygen species
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0001666	Response to hypoxia
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0006950	Response to stress
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0006952	Defense response
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0006979	Response to oxidative stress
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0009611	Response to wounding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0009628	Response to abiotic stimulus
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0009987	Cellular process
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0033554	Cellular response to stress
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0036293	Response to decreased oxygen levels
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0036294	Cellular response to decreased oxygen levels
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0042221	Response to chemical
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0042542	Response to hydrogen peroxide
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0042981	Regulation of apoptotic process
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0043065	Positive regulation of apoptotic process
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0043067	Regulation of programmed cell death
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0043068	Positive regulation of programmed cell death
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0048518	Positive regulation of biological process
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0048522	Positive regulation of cellular process
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0050789	Regulation of biological process
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0050896	Response to stimulus
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0065007	Biological regulation
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0070482	Response to oxygen levels
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0071453	Cellular response to oxygen levels
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:0071456	Cellular response to hypoxia
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Process	GO:1901700	Response to oxygen-containing compound
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0000166	Nucleotide binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0003824	Catalytic activity
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0004672	Protein kinase activity
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0005488	Binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0005524	ATP binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0016301	Kinase activity
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0016740	Transferase activity
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0036094	Small molecule binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0043167	Ion binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0043168	Anion binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0005634	Nucleus
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0005737	Cytoplasm
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0005886	Plasma membrane
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0016020	Membrane
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0043226	Organelle
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0043229	Intracellular organelle
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0071944	Cell periphery
+A0A3B6NQS0	4565.A0A3B6NQS0	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6NQS0	4565.A0A3B6NQS0	STRING clusters	CL:118571	Mixed, incl. Plant Stress Response Kinase, and Lysine/N-terminal Methyltransferase Superfamily
+A0A3B6NQS0	4565.A0A3B6NQS0	STRING clusters	CL:118713	Mixed, incl. WPP domain-associated protein, and Plant Stress Response Kinase
+A0A3B6NQS0	4565.A0A3B6NQS0	STRING clusters	CL:118799	Mixed, incl. Positive regulation of apoptotic process, and Plant Stress Response Kinase
+A0A3B6NQS0	4565.A0A3B6NQS0	KEGG	map04016	MAPK signaling pathway - plant
+A0A3B6NQS0	4565.A0A3B6NQS0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6NQS0	4565.A0A3B6NQS0	UniProt Keywords	KW-0067	ATP-binding
+A0A3B6NQS0	4565.A0A3B6NQS0	UniProt Keywords	KW-0418	Kinase
+A0A3B6NQS0	4565.A0A3B6NQS0	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B6NQS0	4565.A0A3B6NQS0	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B6NQS0	4565.A0A3B6NQS0	UniProt Keywords	KW-0808	Transferase
+A0A3B6NQS0	4565.A0A3B6NQS0	Pfam	PF00069	Protein kinase domain
+A0A3B6NQS0	4565.A0A3B6NQS0	InterPro	IPR000719	Protein kinase domain
+A0A3B6NQS0	4565.A0A3B6NQS0	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+A0A3B6NQS0	4565.A0A3B6NQS0	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0007154	Cell communication
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0007165	Signal transduction
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0009987	Cellular process
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0023052	Signaling
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0050789	Regulation of biological process
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0050896	Response to stimulus
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B6PN93	4565.A0A3B6PN93	GO Process	GO:0065007	Biological regulation
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0003824	Catalytic activity
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0004721	Phosphoprotein phosphatase activity
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0004722	Protein serine/threonine phosphatase activity
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0005488	Binding
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0016787	Hydrolase activity
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0016791	Phosphatase activity
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0036094	Small molecule binding
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0043167	Ion binding
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0043169	Cation binding
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0046872	Metal ion binding
+A0A3B6PN93	4565.A0A3B6PN93	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3149	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3152	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3155	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3157	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3159	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3161	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3163	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3165	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3167	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3168	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3169	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3170	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3171	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3173	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3175	Dynein light chain type 1, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3177	Dynein light chain type 1, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3267	Mixed, incl. Cul2-RING E3 ligase substrate-recognition, and Voltage-gated calcium channel activity
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3268	Cul2-RING E3 ligase substrate-recognition, and Voltage-gated calcium channel activity
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3271	Mixed, incl. Voltage-gated calcium channel activity, and Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6PN93	4565.A0A3B6PN93	STRING clusters	CL:3276	Voltage-gated calcium channel activity, and Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6PN93	4565.A0A3B6PN93	KEGG	map04082	Neuroactive ligand signaling
+A0A3B6PN93	4565.A0A3B6PN93	COMPARTMENTS	GOCC:0005952	cAMP-dependent protein kinase complex
+A0A3B6PN93	4565.A0A3B6PN93	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0067	ATP-binding
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0378	Hydrolase
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0418	Kinase
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0460	Magnesium
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0464	Manganese
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0479	Metal-binding
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0808	Transferase
+A0A3B6PN93	4565.A0A3B6PN93	UniProt Keywords	KW-0904	Protein phosphatase
+A0A3B6PN93	4565.A0A3B6PN93	Pfam	PF00069	Protein kinase domain
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR000222	PPM-type phosphatase, divalent cation binding
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR000595	Cyclic nucleotide-binding domain
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR000719	Protein kinase domain
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR001932	PPM-type phosphatase-like domain
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR014710	RmlC-like jelly roll fold
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR018490	Cyclic nucleotide-binding domain superfamily
+A0A3B6PN93	4565.A0A3B6PN93	InterPro	IPR036457	PPM-type phosphatase-like domain superfamily
+A0A3B6PN93	4565.A0A3B6PN93	SMART	SM00100	Cyclic nucleotide-monophosphate binding domain
+A0A3B6PN93	4565.A0A3B6PN93	SMART	SM00332	Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0000302	Response to reactive oxygen species
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0001666	Response to hypoxia
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0006950	Response to stress
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0006952	Defense response
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0006979	Response to oxidative stress
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0009611	Response to wounding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0009628	Response to abiotic stimulus
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0009987	Cellular process
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0033554	Cellular response to stress
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0036293	Response to decreased oxygen levels
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0036294	Cellular response to decreased oxygen levels
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0042221	Response to chemical
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0042542	Response to hydrogen peroxide
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0042981	Regulation of apoptotic process
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0043065	Positive regulation of apoptotic process
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0043067	Regulation of programmed cell death
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0043068	Positive regulation of programmed cell death
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0048518	Positive regulation of biological process
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0048522	Positive regulation of cellular process
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0050789	Regulation of biological process
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0050896	Response to stimulus
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0065007	Biological regulation
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0070482	Response to oxygen levels
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0071453	Cellular response to oxygen levels
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:0071456	Cellular response to hypoxia
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Process	GO:1901700	Response to oxygen-containing compound
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0000166	Nucleotide binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0003824	Catalytic activity
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0004672	Protein kinase activity
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0005488	Binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0005524	ATP binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0016301	Kinase activity
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0016740	Transferase activity
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0036094	Small molecule binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0043167	Ion binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0043168	Anion binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0005634	Nucleus
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0005737	Cytoplasm
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0005886	Plasma membrane
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0016020	Membrane
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0043226	Organelle
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0043229	Intracellular organelle
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0071944	Cell periphery
+A0A3B6PNS8	4565.A0A3B6PNS8	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6PNS8	4565.A0A3B6PNS8	STRING clusters	CL:118571	Mixed, incl. Plant Stress Response Kinase, and Lysine/N-terminal Methyltransferase Superfamily
+A0A3B6PNS8	4565.A0A3B6PNS8	STRING clusters	CL:118713	Mixed, incl. WPP domain-associated protein, and Plant Stress Response Kinase
+A0A3B6PNS8	4565.A0A3B6PNS8	STRING clusters	CL:118799	Mixed, incl. Positive regulation of apoptotic process, and Plant Stress Response Kinase
+A0A3B6PNS8	4565.A0A3B6PNS8	STRING clusters	CL:118802	Positive regulation of apoptotic process, and Plant Stress Response Kinase
+A0A3B6PNS8	4565.A0A3B6PNS8	KEGG	map04016	MAPK signaling pathway - plant
+A0A3B6PNS8	4565.A0A3B6PNS8	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6PNS8	4565.A0A3B6PNS8	UniProt Keywords	KW-0067	ATP-binding
+A0A3B6PNS8	4565.A0A3B6PNS8	UniProt Keywords	KW-0418	Kinase
+A0A3B6PNS8	4565.A0A3B6PNS8	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B6PNS8	4565.A0A3B6PNS8	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B6PNS8	4565.A0A3B6PNS8	UniProt Keywords	KW-0808	Transferase
+A0A3B6PNS8	4565.A0A3B6PNS8	Pfam	PF00069	Protein kinase domain
+A0A3B6PNS8	4565.A0A3B6PNS8	InterPro	IPR000719	Protein kinase domain
+A0A3B6PNS8	4565.A0A3B6PNS8	InterPro	IPR000961	AGC-kinase, C-terminal
+A0A3B6PNS8	4565.A0A3B6PNS8	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+A0A3B6PNS8	4565.A0A3B6PNS8	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0007154	Cell communication
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0007165	Signal transduction
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0009987	Cellular process
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0023052	Signaling
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0050789	Regulation of biological process
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0050896	Response to stimulus
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Process	GO:0065007	Biological regulation
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0003824	Catalytic activity
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0004721	Phosphoprotein phosphatase activity
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0004722	Protein serine/threonine phosphatase activity
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0005488	Binding
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0016787	Hydrolase activity
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0016788	Hydrolase activity, acting on ester bonds
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0016791	Phosphatase activity
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0036094	Small molecule binding
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0042578	Phosphoric ester hydrolase activity
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0043167	Ion binding
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0043169	Cation binding
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0046872	Metal ion binding
+A0A3B6QDS0	4565.A0A3B6QDS0	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3149	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3152	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3155	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3157	Motor proteins, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3159	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3161	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3163	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3165	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3167	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3168	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3169	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3170	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3171	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3173	Mixed, incl. Dynein complex, and Tubulin
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3175	Dynein light chain type 1, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3177	Dynein light chain type 1, and Cul2-RING E3 ligase substrate-recognition
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3267	Mixed, incl. Cul2-RING E3 ligase substrate-recognition, and Voltage-gated calcium channel activity
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3268	Cul2-RING E3 ligase substrate-recognition, and Voltage-gated calcium channel activity
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3271	Mixed, incl. Voltage-gated calcium channel activity, and Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6QDS0	4565.A0A3B6QDS0	STRING clusters	CL:3276	Voltage-gated calcium channel activity, and Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6QDS0	4565.A0A3B6QDS0	KEGG	map04082	Neuroactive ligand signaling
+A0A3B6QDS0	4565.A0A3B6QDS0	COMPARTMENTS	GOCC:0005952	cAMP-dependent protein kinase complex
+A0A3B6QDS0	4565.A0A3B6QDS0	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0067	ATP-binding
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0378	Hydrolase
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0418	Kinase
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0460	Magnesium
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0464	Manganese
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0479	Metal-binding
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0808	Transferase
+A0A3B6QDS0	4565.A0A3B6QDS0	UniProt Keywords	KW-0904	Protein phosphatase
+A0A3B6QDS0	4565.A0A3B6QDS0	Pfam	PF00069	Protein kinase domain
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR000222	PPM-type phosphatase, divalent cation binding
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR000595	Cyclic nucleotide-binding domain
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR000719	Protein kinase domain
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR001932	PPM-type phosphatase-like domain
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR011009	Protein kinase-like domain superfamily
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR014710	RmlC-like jelly roll fold
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR018490	Cyclic nucleotide-binding domain superfamily
+A0A3B6QDS0	4565.A0A3B6QDS0	InterPro	IPR036457	PPM-type phosphatase-like domain superfamily
+A0A3B6QDS0	4565.A0A3B6QDS0	SMART	SM00100	Cyclic nucleotide-monophosphate binding domain
+A0A3B6QDS0	4565.A0A3B6QDS0	SMART	SM00332	Serine/threonine phosphatases, family 2C, catalytic domain
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0000302	Response to reactive oxygen species
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0001666	Response to hypoxia
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0006950	Response to stress
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0006952	Defense response
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0006979	Response to oxidative stress
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0009611	Response to wounding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0009628	Response to abiotic stimulus
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0009987	Cellular process
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0033554	Cellular response to stress
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0036293	Response to decreased oxygen levels
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0036294	Cellular response to decreased oxygen levels
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0042221	Response to chemical
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0042542	Response to hydrogen peroxide
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0042981	Regulation of apoptotic process
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0043065	Positive regulation of apoptotic process
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0043067	Regulation of programmed cell death
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0043068	Positive regulation of programmed cell death
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0048518	Positive regulation of biological process
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0048522	Positive regulation of cellular process
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0050789	Regulation of biological process
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0050794	Regulation of cellular process
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0050896	Response to stimulus
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0051716	Cellular response to stimulus
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0065007	Biological regulation
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0070482	Response to oxygen levels
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0070887	Cellular response to chemical stimulus
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0071453	Cellular response to oxygen levels
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:0071456	Cellular response to hypoxia
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Process	GO:1901700	Response to oxygen-containing compound
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0000166	Nucleotide binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0003824	Catalytic activity
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0004672	Protein kinase activity
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0004674	Protein serine/threonine kinase activity
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0005488	Binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0005524	ATP binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0016301	Kinase activity
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0016740	Transferase activity
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0016772	Transferase activity, transferring phosphorus-containing groups
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0016773	Phosphotransferase activity, alcohol group as acceptor
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0017076	Purine nucleotide binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0032553	Ribonucleotide binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0036094	Small molecule binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0043167	Ion binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0043168	Anion binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:0140096	Catalytic activity, acting on a protein
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0005634	Nucleus
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0005737	Cytoplasm
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0005886	Plasma membrane
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0016020	Membrane
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0043226	Organelle
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0043229	Intracellular organelle
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0071944	Cell periphery
+A0A3B6QHM4	4565.A0A3B6QHM4	GO Component	GO:0110165	Cellular anatomical structure
+A0A3B6QHM4	4565.A0A3B6QHM4	STRING clusters	CL:118571	Mixed, incl. Plant Stress Response Kinase, and Lysine/N-terminal Methyltransferase Superfamily
+A0A3B6QHM4	4565.A0A3B6QHM4	STRING clusters	CL:118713	Mixed, incl. WPP domain-associated protein, and Plant Stress Response Kinase
+A0A3B6QHM4	4565.A0A3B6QHM4	STRING clusters	CL:118799	Mixed, incl. Positive regulation of apoptotic process, and Plant Stress Response Kinase
+A0A3B6QHM4	4565.A0A3B6QHM4	STRING clusters	CL:118802	Positive regulation of apoptotic process, and Plant Stress Response Kinase
+A0A3B6QHM4	4565.A0A3B6QHM4	KEGG	map04016	MAPK signaling pathway - plant
+A0A3B6QHM4	4565.A0A3B6QHM4	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3B6QHM4	4565.A0A3B6QHM4	UniProt Keywords	KW-0067	ATP-binding
+A0A3B6QHM4	4565.A0A3B6QHM4	UniProt Keywords	KW-0418	Kinase
+A0A3B6QHM4	4565.A0A3B6QHM4	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3B6QHM4	4565.A0A3B6QHM4	UniProt Keywords	KW-0723	Serine/threonine-protein kinase
+A0A3B6QHM4	4565.A0A3B6QHM4	UniProt Keywords	KW-0808	Transferase
+A0A3B6QHM4	4565.A0A3B6QHM4	Pfam	PF00069	Protein kinase domain
+A0A3B6QHM4	4565.A0A3B6QHM4	InterPro	IPR000719	Protein kinase domain
+A0A3B6QHM4	4565.A0A3B6QHM4	InterPro	IPR000961	AGC-kinase, C-terminal
+A0A3B6QHM4	4565.A0A3B6QHM4	InterPro	IPR008271	Serine/threonine-protein kinase, active site
+A0A3B6QHM4	4565.A0A3B6QHM4	InterPro	IPR011009	Protein kinase-like domain superfamily

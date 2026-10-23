@@ -1,0 +1,946 @@
+#node	identifier	category	term ID	term description
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0000271	Polysaccharide biosynthetic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0003006	Developmental process involved in reproduction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0005975	Carbohydrate metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0005976	Polysaccharide metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0006074	(1->3)-beta-D-glucan metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0006075	(1->3)-beta-D-glucan biosynthetic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0007049	Cell cycle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0007275	Multicellular organism development
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0008152	Metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0008360	Regulation of cell shape
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0009250	Glucan biosynthetic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0009555	Pollen development
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0009556	Microsporogenesis
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0009987	Cellular process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0010038	Response to metal ion
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0016043	Cellular component organization
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0016051	Carbohydrate biosynthetic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0019953	Sexual reproduction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0022402	Cell cycle process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0022414	Reproductive process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0022604	Regulation of cell morphogenesis
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0032501	Multicellular organismal process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0032502	Developmental process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0033036	Macromolecule localization
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0033037	Polysaccharide localization
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0034293	Sexual sporulation
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0040007	Growth
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0042221	Response to chemical
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0042545	Cell wall modification
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0043934	Sporulation
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0044042	Glucan metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0045229	External encapsulating structure organization
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0048229	Gametophyte development
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0048236	Plant-type sporogenesis
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0048589	Developmental growth
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0048856	Anatomical structure development
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0048869	Cellular developmental process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0050793	Regulation of developmental process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0050896	Response to stimulus
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0051179	Localization
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0051273	Beta-glucan metabolic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0051274	Beta-glucan biosynthetic process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0051321	Meiotic cell cycle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0051592	Response to calcium ion
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0052386	Cell wall thickening
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0052543	Callose deposition in cell wall
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0052545	Callose localization
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0065007	Biological regulation
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0065008	Regulation of biological quality
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0071554	Cell wall organization or biogenesis
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0071555	Cell wall organization
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Process	GO:1903046	Meiotic cell cycle process
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0003824	Catalytic activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0003843	1,3-beta-D-glucan synthase activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0008194	UDP-glycosyltransferase activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0016740	Transferase activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0016757	Glycosyltransferase activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0016758	Hexosyltransferase activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0035251	UDP-glucosyltransferase activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Function	GO:0046527	Glucosyltransferase activity
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0000148	1,3-beta-D-glucan synthase complex
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0005737	Cytoplasm
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0005794	Golgi apparatus
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0005886	Plasma membrane
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0005911	Cell-cell junction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0009506	Plasmodesma
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0012505	Endomembrane system
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0016020	Membrane
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0030054	Cell junction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0043226	Organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0055044	Symplast
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0070161	Anchoring junction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0071944	Cell periphery
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:1902494	Catalytic complex
+A0A3Q7FNW9	4081.A0A3Q7FNW9	GO Component	GO:1990234	Transferase complex
+A0A3Q7FNW9	4081.A0A3Q7FNW9	STRING clusters	CL:13446	Mixed, incl. (1->3)-beta-D-glucan biosynthetic process, and Annexin
+A0A3Q7FNW9	4081.A0A3Q7FNW9	STRING clusters	CL:13448	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7FNW9	4081.A0A3Q7FNW9	STRING clusters	CL:13449	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7FNW9	4081.A0A3Q7FNW9	STRING clusters	CL:13451	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7FNW9	4081.A0A3Q7FNW9	STRING clusters	CL:13481	Callose deposition in cell wall, and Annexin D, plant
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0005794	Golgi apparatus
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0005886	Plasma membrane
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0005911	Cell-cell junction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0009506	Plasmodesma
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0012505	Endomembrane system
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0016020	Membrane
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0030054	Cell junction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0055044	Symplast
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0070161	Anchoring junction
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0071944	Cell periphery
+A0A3Q7FNW9	4081.A0A3Q7FNW9	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7FNW9	4081.A0A3Q7FNW9	UniProt Keywords	KW-0472	Membrane
+A0A3Q7FNW9	4081.A0A3Q7FNW9	UniProt Keywords	KW-0812	Transmembrane
+A0A3Q7FNW9	4081.A0A3Q7FNW9	UniProt Keywords	KW-1133	Transmembrane helix
+A0A3Q7FNW9	4081.A0A3Q7FNW9	InterPro	IPR023175	Vta1/Callose synthase, N-terminal domain superfamily
+A0A3Q7FNW9	4081.A0A3Q7FNW9	InterPro	IPR026899	1,3-beta-glucan synthase component FKS1-like, domain-1
+A0A3Q7FNW9	4081.A0A3Q7FNW9	SMART	SM01205	1,3-beta-glucan synthase subunit FKS1
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0000375	RNA splicing, via transesterification reactions
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0000398	mRNA splicing, via spliceosome
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0003006	Developmental process involved in reproduction
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0006396	RNA processing
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0006397	mRNA processing
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0007275	Multicellular organism development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0008152	Metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0008380	RNA splicing
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009790	Embryo development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009791	Post-embryonic development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009793	Embryo development ending in seed dormancy
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009888	Tissue development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0009987	Cellular process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0010073	Meristem maintenance
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0010075	Regulation of meristem growth
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0010154	Fruit development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0010467	Gene expression
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0010468	Regulation of gene expression
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0016070	RNA metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0016071	mRNA metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0019222	Regulation of metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0022414	Reproductive process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0032501	Multicellular organismal process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0032502	Developmental process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0032774	RNA biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0040008	Regulation of growth
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0048316	Seed development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0048507	Meristem development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0048608	Reproductive structure development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0048638	Regulation of developmental growth
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0048731	System development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0048856	Anatomical structure development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0050793	Regulation of developmental process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0050794	Regulation of cellular process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0061458	Reproductive system development
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0065007	Biological regulation
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0090304	Nucleic acid metabolic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:0141187	Nucleic acid biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Function	GO:0003723	RNA binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Function	GO:0003729	mRNA binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Function	GO:0005488	Binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Function	GO:0005515	Protein binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Function	GO:0019899	Enzyme binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Function	GO:0070063	RNA polymerase binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0005634	Nucleus
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0005681	Spliceosomal complex
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0005730	Nucleolus
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0031974	Membrane-enclosed lumen
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0031981	Nuclear lumen
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0043226	Organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0043233	Organelle lumen
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0070013	Intracellular organelle lumen
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0071011	Precatalytic spliceosome
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:0140513	Nuclear protein-containing complex
+A0A3Q7GJ22	4081.A0A3Q7GJ22	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7GJ22	4081.A0A3Q7GJ22	STRING clusters	CL:5720	Spliceosomal snRNP complex, and mRNA Splicing
+A0A3Q7GJ22	4081.A0A3Q7GJ22	STRING clusters	CL:5721	Spliceosomal snRNP complex, and Spliceosome
+A0A3Q7GJ22	4081.A0A3Q7GJ22	STRING clusters	CL:5723	Spliceosomal snRNP complex, and Spliceosome
+A0A3Q7GJ22	4081.A0A3Q7GJ22	STRING clusters	CL:5724	Mixed, incl. U2 snRNP, and U1 snRNP
+A0A3Q7GJ22	4081.A0A3Q7GJ22	STRING clusters	CL:5726	Mixed, incl. U2 snRNP, and Domain of unknown function DUF382
+A0A3Q7GJ22	4081.A0A3Q7GJ22	STRING clusters	CL:5728	U2 snRNP, and Domain of unknown function DUF382
+A0A3Q7GJ22	4081.A0A3Q7GJ22	KEGG	sly03040	Spliceosome
+A0A3Q7GJ22	4081.A0A3Q7GJ22	Reactome	MAP-72172	mRNA Splicing
+A0A3Q7GJ22	4081.A0A3Q7GJ22	Reactome	MAP-72203	Processing of Capped Intron-Containing Pre-mRNA
+A0A3Q7GJ22	4081.A0A3Q7GJ22	Reactome	MAP-8953854	Metabolism of RNA
+A0A3Q7GJ22	4081.A0A3Q7GJ22	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7GJ22	4081.A0A3Q7GJ22	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3Q7GJ22	4081.A0A3Q7GJ22	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GJ22	4081.A0A3Q7GJ22	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7GJ22	4081.A0A3Q7GJ22	UniProt Keywords	KW-0507	mRNA processing
+A0A3Q7GJ22	4081.A0A3Q7GJ22	UniProt Keywords	KW-0508	mRNA splicing
+A0A3Q7GJ22	4081.A0A3Q7GJ22	UniProt Keywords	KW-0539	Nucleus
+A0A3Q7GJ22	4081.A0A3Q7GJ22	UniProt Keywords	KW-0677	Repeat
+A0A3Q7GJ22	4081.A0A3Q7GJ22	UniProt Keywords	KW-0694	RNA-binding
+A0A3Q7GJ22	4081.A0A3Q7GJ22	UniProt Keywords	KW-0747	Spliceosome
+A0A3Q7GJ22	4081.A0A3Q7GJ22	InterPro	IPR000504	RNA recognition motif domain
+A0A3Q7GJ22	4081.A0A3Q7GJ22	InterPro	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+A0A3Q7GJ22	4081.A0A3Q7GJ22	InterPro	IPR034158	SF3B4, RNA recognition motif 1
+A0A3Q7GJ22	4081.A0A3Q7GJ22	InterPro	IPR034159	SF3B4, RNA recognition motif 2
+A0A3Q7GJ22	4081.A0A3Q7GJ22	InterPro	IPR035979	RNA-binding domain superfamily
+A0A3Q7GJ22	4081.A0A3Q7GJ22	InterPro	IPR052084	Spliceosome-associated SF3B4 subunit
+A0A3Q7GJ22	4081.A0A3Q7GJ22	SMART	SM00360	RNA recognition motif
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0006355	Regulation of DNA-templated transcription
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0006357	Regulation of transcription by RNA polymerase II
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0007275	Multicellular organism development
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0007623	Circadian rhythm
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0009791	Post-embryonic development
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0009845	Seed germination
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0009889	Regulation of biosynthetic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0009891	Positive regulation of biosynthetic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0009893	Positive regulation of metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0009987	Cellular process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0010468	Regulation of gene expression
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0019222	Regulation of metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0030154	Cell differentiation
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0032501	Multicellular organismal process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0032502	Developmental process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0048511	Rhythmic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0048518	Positive regulation of biological process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0048522	Positive regulation of cellular process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0048856	Anatomical structure development
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0048869	Cellular developmental process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0050794	Regulation of cellular process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0051252	Regulation of RNA metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0065007	Biological regulation
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0080090	Regulation of primary metabolic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:0090351	Seedling development
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0000976	Transcription cis-regulatory region binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0001067	Transcription regulatory region nucleic acid binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0003677	DNA binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0003690	Double-stranded DNA binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0003700	DNA-binding transcription factor activity
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0005488	Binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0005515	Protein binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0008270	Zinc ion binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0036094	Small molecule binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0043167	Ion binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0043169	Cation binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0043565	Sequence-specific DNA binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0046872	Metal ion binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0046914	Transition metal ion binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:0140110	Transcription regulator activity
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Function	GO:1990837	Sequence-specific double-stranded DNA binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Component	GO:0005634	Nucleus
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Component	GO:0043226	Organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40756	Mixed, incl. Potassium ion transport, and Zinc finger, GATA-type
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40757	Mixed, incl. Zinc finger, GATA-type, and Voltage-gated channel
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40758	Mixed, incl. Zinc finger binding to DNA consensus sequence [AT]GATA[AG], and Calcium/proton exchanger CAX-like
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40759	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40760	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40761	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40762	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40764	Mixed, incl. BIRD-IDD transcription factor, fourth C2HC zinc finger, and Calcium/proton exchanger CAX-like
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40766	Mixed, incl. Calcium/proton exchanger CAX-like, and L-lysine transport
+A0A3Q7GQX2	4081.A0A3Q7GQX2	STRING clusters	CL:40767	Mixed, incl. Calcium/proton exchanger CAX-like, and L-lysine transport
+A0A3Q7GQX2	4081.A0A3Q7GQX2	Reactome	MAP-109582	Hemostasis
+A0A3Q7GQX2	4081.A0A3Q7GQX2	Reactome	MAP-983231	Factors involved in megakaryocyte development and platelet production
+A0A3Q7GQX2	4081.A0A3Q7GQX2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7GQX2	4081.A0A3Q7GQX2	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3Q7GQX2	4081.A0A3Q7GQX2	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7GQX2	4081.A0A3Q7GQX2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0010	Activator
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0238	DNA-binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0479	Metal-binding
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0539	Nucleus
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0804	Transcription
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0805	Transcription regulation
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0862	Zinc
+A0A3Q7GQX2	4081.A0A3Q7GQX2	UniProt Keywords	KW-0863	Zinc-finger
+A0A3Q7GQX2	4081.A0A3Q7GQX2	InterPro	IPR000679	Zinc finger, GATA-type
+A0A3Q7GQX2	4081.A0A3Q7GQX2	InterPro	IPR013088	Zinc finger, NHR/GATA-type
+A0A3Q7GQX2	4081.A0A3Q7GQX2	InterPro	IPR016679	Transcription factor, GATA, plant
+A0A3Q7GQX2	4081.A0A3Q7GQX2	InterPro	IPR051140	Plant GATA Transcription Factor
+A0A3Q7GQX2	4081.A0A3Q7GQX2	SMART	SM00401	Zinc finger binding to DNA consensus sequence [AT]GATA[AG]
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0000271	Polysaccharide biosynthetic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0005975	Carbohydrate metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0005976	Polysaccharide metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0006074	(1->3)-beta-D-glucan metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0006075	(1->3)-beta-D-glucan biosynthetic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0008152	Metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0008360	Regulation of cell shape
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0009250	Glucan biosynthetic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0009987	Cellular process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0016043	Cellular component organization
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0016051	Carbohydrate biosynthetic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0022604	Regulation of cell morphogenesis
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0044042	Glucan metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0045229	External encapsulating structure organization
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0050793	Regulation of developmental process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0051273	Beta-glucan metabolic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0051274	Beta-glucan biosynthetic process
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0065007	Biological regulation
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0065008	Regulation of biological quality
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0071554	Cell wall organization or biogenesis
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0071555	Cell wall organization
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Function	GO:0003824	Catalytic activity
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Function	GO:0016740	Transferase activity
+A0A3Q7HGC1	4081.A0A3Q7HGC1	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7HGC1	4081.A0A3Q7HGC1	STRING clusters	CL:13446	Mixed, incl. (1->3)-beta-D-glucan biosynthetic process, and Annexin
+A0A3Q7HGC1	4081.A0A3Q7HGC1	STRING clusters	CL:13448	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7HGC1	4081.A0A3Q7HGC1	STRING clusters	CL:13449	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7HGC1	4081.A0A3Q7HGC1	STRING clusters	CL:13451	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7HGC1	4081.A0A3Q7HGC1	STRING clusters	CL:13453	Glycosyl transferase 48 domain, and Annexin repeat, conserved site
+A0A3Q7HGC1	4081.A0A3Q7HGC1	COMPARTMENTS	GOCC:0000148	1,3-beta-D-glucan synthase complex
+A0A3Q7HGC1	4081.A0A3Q7HGC1	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-0133	Cell shape
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-0328	Glycosyltransferase
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-0472	Membrane
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-0808	Transferase
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-0812	Transmembrane
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-0961	Cell wall biogenesis/degradation
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-1003	Cell membrane
+A0A3Q7HGC1	4081.A0A3Q7HGC1	UniProt Keywords	KW-1133	Transmembrane helix
+A0A3Q7HGC1	4081.A0A3Q7HGC1	Pfam	PF02364	1,3-beta-glucan synthase component 
+A0A3Q7HGC1	4081.A0A3Q7HGC1	Pfam	PF04652	Vta1 like
+A0A3Q7HGC1	4081.A0A3Q7HGC1	InterPro	IPR003440	Glycosyl transferase 48 domain
+A0A3Q7HGC1	4081.A0A3Q7HGC1	InterPro	IPR023175	Vta1/Callose synthase, N-terminal domain superfamily
+A0A3Q7HGC1	4081.A0A3Q7HGC1	InterPro	IPR026899	1,3-beta-glucan synthase component FKS1-like, domain-1
+A0A3Q7HGC1	4081.A0A3Q7HGC1	InterPro	IPR039431	Vta1/callose synthase, N-terminal
+A0A3Q7HGC1	4081.A0A3Q7HGC1	SMART	SM01205	1,3-beta-glucan synthase subunit FKS1
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0000271	Polysaccharide biosynthetic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0005975	Carbohydrate metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0005976	Polysaccharide metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0006074	(1->3)-beta-D-glucan metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0006075	(1->3)-beta-D-glucan biosynthetic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0008152	Metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0008360	Regulation of cell shape
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0009250	Glucan biosynthetic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0009987	Cellular process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0016043	Cellular component organization
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0016051	Carbohydrate biosynthetic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0022604	Regulation of cell morphogenesis
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0044042	Glucan metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0045229	External encapsulating structure organization
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0050793	Regulation of developmental process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0051273	Beta-glucan metabolic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0051274	Beta-glucan biosynthetic process
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0065007	Biological regulation
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0065008	Regulation of biological quality
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0071554	Cell wall organization or biogenesis
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0071555	Cell wall organization
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0003824	Catalytic activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0003843	1,3-beta-D-glucan synthase activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0008194	UDP-glycosyltransferase activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0016740	Transferase activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0016757	Glycosyltransferase activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0016758	Hexosyltransferase activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0035251	UDP-glucosyltransferase activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Function	GO:0046527	Glucosyltransferase activity
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:0000148	1,3-beta-D-glucan synthase complex
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:0005886	Plasma membrane
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:0016020	Membrane
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:0071944	Cell periphery
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:1902494	Catalytic complex
+A0A3Q7HGL2	4081.A0A3Q7HGL2	GO Component	GO:1990234	Transferase complex
+A0A3Q7HGL2	4081.A0A3Q7HGL2	STRING clusters	CL:13446	Mixed, incl. (1->3)-beta-D-glucan biosynthetic process, and Annexin
+A0A3Q7HGL2	4081.A0A3Q7HGL2	STRING clusters	CL:13448	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7HGL2	4081.A0A3Q7HGL2	STRING clusters	CL:13449	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7HGL2	4081.A0A3Q7HGL2	STRING clusters	CL:13451	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7HGL2	4081.A0A3Q7HGL2	STRING clusters	CL:13453	Glycosyl transferase 48 domain, and Annexin repeat, conserved site
+A0A3Q7HGL2	4081.A0A3Q7HGL2	STRING clusters	CL:13455	Glycosyl transferase 48 domain, and Annexin D, plant
+A0A3Q7HGL2	4081.A0A3Q7HGL2	COMPARTMENTS	GOCC:0071944	Cell periphery
+A0A3Q7HGL2	4081.A0A3Q7HGL2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-0133	Cell shape
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-0328	Glycosyltransferase
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-0472	Membrane
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-0808	Transferase
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-0812	Transmembrane
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-0961	Cell wall biogenesis/degradation
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-1003	Cell membrane
+A0A3Q7HGL2	4081.A0A3Q7HGL2	UniProt Keywords	KW-1133	Transmembrane helix
+A0A3Q7HGL2	4081.A0A3Q7HGL2	Pfam	PF02364	1,3-beta-glucan synthase component 
+A0A3Q7HGL2	4081.A0A3Q7HGL2	Pfam	PF04652	Vta1 like
+A0A3Q7HGL2	4081.A0A3Q7HGL2	InterPro	IPR003440	Glycosyl transferase 48 domain
+A0A3Q7HGL2	4081.A0A3Q7HGL2	InterPro	IPR023175	Vta1/Callose synthase, N-terminal domain superfamily
+A0A3Q7HGL2	4081.A0A3Q7HGL2	InterPro	IPR026899	1,3-beta-glucan synthase component FKS1-like, domain-1
+A0A3Q7HGL2	4081.A0A3Q7HGL2	InterPro	IPR039431	Vta1/callose synthase, N-terminal
+A0A3Q7HGL2	4081.A0A3Q7HGL2	SMART	SM01205	1,3-beta-glucan synthase subunit FKS1
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0006082	Organic acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0006520	Amino acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0006525	Arginine metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0006526	L-arginine biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0006591	Ornithine metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0006592	Ornithine biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0008152	Metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0008652	Amino acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0009064	Glutamine family amino acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0009084	Glutamine family amino acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0009987	Cellular process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0016053	Organic acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0019752	Carboxylic acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0043436	Oxoacid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0044281	Small molecule metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0044283	Small molecule biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0046394	Carboxylic acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0170033	L-amino acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0170034	L-amino acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0170038	Proteinogenic amino acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0170039	Proteinogenic amino acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0170041	Non-proteinogenic amino acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:0170043	Non-proteinogenic amino acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:1901605	Alpha-amino acid metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Process	GO:1901607	Alpha-amino acid biosynthetic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0003824	Catalytic activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0004042	L-glutamate N-acetyltransferase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0004358	L-glutamate N-acetyltransferase activity, acting on acetyl-L-ornithine as donor
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0008080	N-acetyltransferase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0016407	Acetyltransferase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0016410	N-acyltransferase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0016740	Transferase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0016746	Acyltransferase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0016747	Acyltransferase activity, transferring groups other than amino-acyl groups
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Function	GO:0140085	L-amino-acid N-acetyltransferase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0005737	Cytoplasm
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0009507	Chloroplast
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0009536	Plastid
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0043226	Organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7HXI0	4081.A0A3Q7HXI0	STRING clusters	CL:17310	Glutamine family amino acid metabolic process, and Biotin metabolic process
+A0A3Q7HXI0	4081.A0A3Q7HXI0	STRING clusters	CL:17392	Arginine biosynthesis, and Alanine, aspartate and glutamate metabolism
+A0A3Q7HXI0	4081.A0A3Q7HXI0	STRING clusters	CL:17394	Arginine biosynthesis, and Aminoacylase activity
+A0A3Q7HXI0	4081.A0A3Q7HXI0	STRING clusters	CL:17396	Arginine biosynthesis
+A0A3Q7HXI0	4081.A0A3Q7HXI0	STRING clusters	CL:17399	Urea cycle, and Class-III Pyridoxal-phosphate-dependent Aminotransferase
+A0A3Q7HXI0	4081.A0A3Q7HXI0	KEGG	sly00220	Arginine biosynthesis
+A0A3Q7HXI0	4081.A0A3Q7HXI0	KEGG	sly01100	Metabolic pathways
+A0A3Q7HXI0	4081.A0A3Q7HXI0	KEGG	sly01110	Biosynthesis of secondary metabolites
+A0A3Q7HXI0	4081.A0A3Q7HXI0	KEGG	sly01210	2-Oxocarboxylic acid metabolism
+A0A3Q7HXI0	4081.A0A3Q7HXI0	KEGG	sly01230	Biosynthesis of amino acids
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0005739	Mitochondrion
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0005759	Mitochondrial matrix
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0043233	Organelle lumen
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+A0A3Q7HXI0	4081.A0A3Q7HXI0	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0012	Acyltransferase
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0028	Amino-acid biosynthesis
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0055	Arginine biosynthesis
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0068	Autocatalytic cleavage
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0150	Chloroplast
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0511	Multifunctional enzyme
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0808	Transferase
+A0A3Q7HXI0	4081.A0A3Q7HXI0	UniProt Keywords	KW-0934	Plastid
+A0A3Q7HXI0	4081.A0A3Q7HXI0	Pfam	PF01960	ArgJ family
+A0A3Q7HXI0	4081.A0A3Q7HXI0	InterPro	IPR002813	Arginine biosynthesis protein ArgJ
+A0A3Q7HXI0	4081.A0A3Q7HXI0	InterPro	IPR016117	ArgJ-like domain superfamily
+A0A3Q7HXI0	4081.A0A3Q7HXI0	InterPro	IPR042195	ArgJ beta chain, C-terminal domain
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0006091	Generation of precursor metabolites and energy
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0008152	Metabolic process
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0009987	Cellular process
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0015979	Photosynthesis
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0016043	Cellular component organization
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0019684	Photosynthesis, light reaction
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0022607	Cellular component assembly
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0043933	Protein-containing complex organization
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0044085	Cellular component biogenesis
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0048564	Photosystem I assembly
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0065003	Protein-containing complex assembly
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Function	GO:0005488	Binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Function	GO:0005509	Calcium ion binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Function	GO:0036094	Small molecule binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Function	GO:0043167	Ion binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Function	GO:0043169	Cation binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Function	GO:0046872	Metal ion binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0005737	Cytoplasm
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009507	Chloroplast
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009521	Photosystem
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009523	Photosystem II
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009526	Plastid envelope
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009534	Chloroplast thylakoid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009535	Chloroplast thylakoid membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009536	Plastid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009543	Chloroplast thylakoid lumen
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009579	Thylakoid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0009654	Photosystem II oxygen evolving complex
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0016020	Membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0019867	Outer membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0019898	Extrinsic component of membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0031090	Organelle membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0031967	Organelle envelope
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0031968	Organelle outer membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0031976	Plastid thylakoid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0031977	Thylakoid lumen
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0031978	Plastid thylakoid lumen
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0034357	Photosynthetic membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0042170	Plastid membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0042651	Thylakoid membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0043226	Organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0043228	Membraneless organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0043232	Intracellular membraneless organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0055035	Plastid thylakoid membrane
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0098588	Bounding membrane of organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0098796	Membrane protein complex
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:1902494	Catalytic complex
+A0A3Q7I6R1	4081.A0A3Q7I6R1	GO Component	GO:1990204	Oxidoreductase complex
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40756	Mixed, incl. Potassium ion transport, and Zinc finger, GATA-type
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40757	Mixed, incl. Zinc finger, GATA-type, and Voltage-gated channel
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40758	Mixed, incl. Zinc finger binding to DNA consensus sequence [AT]GATA[AG], and Calcium/proton exchanger CAX-like
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40759	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40760	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40761	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40762	Mixed, incl. Transcription factor, GATA, plant, and Calcium/proton exchanger CAX-like
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40798	Mixed, incl. Calcium/proton exchanger CAX-like, and Protein PHOX1-4
+A0A3Q7I6R1	4081.A0A3Q7I6R1	STRING clusters	CL:40801	Mixed, incl. Mitochondrial ATP synthase epsilon chain, and Protein PHOX1-4
+A0A3Q7I6R1	4081.A0A3Q7I6R1	Reactome	MAP-212436	Generic Transcription Pathway
+A0A3Q7I6R1	4081.A0A3Q7I6R1	Reactome	MAP-73857	RNA Polymerase II Transcription
+A0A3Q7I6R1	4081.A0A3Q7I6R1	Reactome	MAP-74160	Gene expression (Transcription)
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0009507	Chloroplast
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0009534	Chloroplast thylakoid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0009536	Plastid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0009543	Chloroplast thylakoid lumen
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0009579	Thylakoid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0031976	Plastid thylakoid
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0031977	Thylakoid lumen
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0031978	Plastid thylakoid lumen
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0031984	Organelle subcompartment
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+A0A3Q7I6R1	4081.A0A3Q7I6R1	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7I6R1	4081.A0A3Q7I6R1	UniProt Keywords	KW-0238	DNA-binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	UniProt Keywords	KW-0479	Metal-binding
+A0A3Q7I6R1	4081.A0A3Q7I6R1	UniProt Keywords	KW-0804	Transcription
+A0A3Q7I6R1	4081.A0A3Q7I6R1	UniProt Keywords	KW-0805	Transcription regulation
+A0A3Q7I6R1	4081.A0A3Q7I6R1	UniProt Keywords	KW-0862	Zinc
+A0A3Q7I6R1	4081.A0A3Q7I6R1	UniProt Keywords	KW-0863	Zinc-finger
+A0A3Q7I6R1	4081.A0A3Q7I6R1	InterPro	IPR013087	Zinc finger C2H2-type
+A0A3Q7I6R1	4081.A0A3Q7I6R1	InterPro	IPR031140	Protein indeterminate-domain 1-16
+A0A3Q7I6R1	4081.A0A3Q7I6R1	InterPro	IPR036236	Zinc finger C2H2 superfamily
+A0A3Q7I6R1	4081.A0A3Q7I6R1	InterPro	IPR055185	BIRD-IDD transcription factor, fourth C2HC zinc finger
+A0A3Q7I6R1	4081.A0A3Q7I6R1	InterPro	IPR055186	BIRD-IDD transcription factor, second C2H2 zinc finger
+A0A3Q7I6R1	4081.A0A3Q7I6R1	InterPro	IPR055187	BIRD-IDD transcription factor, third C2HC zinc finger
+A0A3Q7I6R1	4081.A0A3Q7I6R1	SMART	SM00355	Zinc finger
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0000271	Polysaccharide biosynthetic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0005975	Carbohydrate metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0005976	Polysaccharide metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0006074	(1->3)-beta-D-glucan metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0006075	(1->3)-beta-D-glucan biosynthetic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0007275	Multicellular organism development
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0008152	Metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0008360	Regulation of cell shape
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0009250	Glucan biosynthetic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0009555	Pollen development
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0009987	Cellular process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0016043	Cellular component organization
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0016051	Carbohydrate biosynthetic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0022603	Regulation of anatomical structure morphogenesis
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0022604	Regulation of cell morphogenesis
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0032501	Multicellular organismal process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0032502	Developmental process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0044042	Glucan metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0045229	External encapsulating structure organization
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0048229	Gametophyte development
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0048856	Anatomical structure development
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0050789	Regulation of biological process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0050793	Regulation of developmental process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0051273	Beta-glucan metabolic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0051274	Beta-glucan biosynthetic process
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0065007	Biological regulation
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0065008	Regulation of biological quality
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0071554	Cell wall organization or biogenesis
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0071555	Cell wall organization
+A0A3Q7I943	4081.A0A3Q7I943	GO Process	GO:0071840	Cellular component organization or biogenesis
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0003824	Catalytic activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0003843	1,3-beta-D-glucan synthase activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0008194	UDP-glycosyltransferase activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0016740	Transferase activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0016757	Glycosyltransferase activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0016758	Hexosyltransferase activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0035251	UDP-glucosyltransferase activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Function	GO:0046527	Glucosyltransferase activity
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:0000148	1,3-beta-D-glucan synthase complex
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:0005886	Plasma membrane
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:0016020	Membrane
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:0071944	Cell periphery
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:1902494	Catalytic complex
+A0A3Q7I943	4081.A0A3Q7I943	GO Component	GO:1990234	Transferase complex
+A0A3Q7I943	4081.A0A3Q7I943	STRING clusters	CL:13446	Mixed, incl. (1->3)-beta-D-glucan biosynthetic process, and Annexin
+A0A3Q7I943	4081.A0A3Q7I943	STRING clusters	CL:13448	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7I943	4081.A0A3Q7I943	STRING clusters	CL:13449	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7I943	4081.A0A3Q7I943	STRING clusters	CL:13451	(1->3)-beta-D-glucan biosynthetic process, and Annexin repeat, conserved site
+A0A3Q7I943	4081.A0A3Q7I943	STRING clusters	CL:13453	Glycosyl transferase 48 domain, and Annexin repeat, conserved site
+A0A3Q7I943	4081.A0A3Q7I943	STRING clusters	CL:13455	Glycosyl transferase 48 domain, and Annexin D, plant
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-0133	Cell shape
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-0328	Glycosyltransferase
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-0472	Membrane
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-0808	Transferase
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-0812	Transmembrane
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-0961	Cell wall biogenesis/degradation
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-1003	Cell membrane
+A0A3Q7I943	4081.A0A3Q7I943	UniProt Keywords	KW-1133	Transmembrane helix
+A0A3Q7I943	4081.A0A3Q7I943	Pfam	PF02364	1,3-beta-glucan synthase component 
+A0A3Q7I943	4081.A0A3Q7I943	InterPro	IPR003440	Glycosyl transferase 48 domain
+A0A3Q7I943	4081.A0A3Q7I943	InterPro	IPR026899	1,3-beta-glucan synthase component FKS1-like, domain-1
+A0A3Q7I943	4081.A0A3Q7I943	SMART	SM01205	1,3-beta-glucan synthase subunit FKS1
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0006399	tRNA metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0006412	Translation
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0006520	Amino acid metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0008152	Metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0009987	Cellular process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0010467	Gene expression
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0016070	RNA metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0019538	Protein metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0032543	Mitochondrial translation
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0043038	Amino acid activation
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0043039	tRNA aminoacylation
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0070681	glutaminyl-tRNAGln biosynthesis via transamidation
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0090304	Nucleic acid metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Process	GO:0140053	Mitochondrial gene expression
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0000166	Nucleotide binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0003824	Catalytic activity
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0005488	Binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0005524	ATP binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0016787	Hydrolase activity
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0016810	Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0016811	Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0016874	Ligase activity
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0016879	Ligase activity, forming carbon-nitrogen bonds
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0016884	Carbon-nitrogen ligase activity, with glutamine as amido-N-donor
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0017076	Purine nucleotide binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0030554	Adenyl nucleotide binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0032553	Ribonucleotide binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0032555	Purine ribonucleotide binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0032559	Adenyl ribonucleotide binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0035639	Purine ribonucleoside triphosphate binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0036094	Small molecule binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0043167	Ion binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0043168	Anion binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0050567	glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0097367	Carbohydrate derivative binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0140098	Catalytic activity, acting on RNA
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0140101	Catalytic activity, acting on a tRNA
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:0140640	Catalytic activity, acting on a nucleic acid
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:1901265	Nucleoside phosphate binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Function	GO:1901363	Heterocyclic compound binding
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0005737	Cytoplasm
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0005739	Mitochondrion
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0009507	Chloroplast
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0009532	Plastid stroma
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0009536	Plastid
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0009570	Chloroplast stroma
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0030956	glutamyl-tRNA(Gln) amidotransferase complex
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0043226	Organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:0140535	Intracellular protein-containing complex
+A0A3Q7IB10	4081.A0A3Q7IB10	GO Component	GO:1902494	Catalytic complex
+A0A3Q7IB10	4081.A0A3Q7IB10	STRING clusters	CL:2496	tRNA aminoacylation, and Sigma factor activity
+A0A3Q7IB10	4081.A0A3Q7IB10	STRING clusters	CL:2497	tRNA aminoacylation, and Ribose-phosphate pyrophosphokinase
+A0A3Q7IB10	4081.A0A3Q7IB10	STRING clusters	CL:2498	tRNA aminoacylation, and GMP metabolic process
+A0A3Q7IB10	4081.A0A3Q7IB10	STRING clusters	CL:2500	tRNA aminoacylation
+A0A3Q7IB10	4081.A0A3Q7IB10	STRING clusters	CL:2623	Aspartyl/Asparaginyl-tRNA synthetase, class IIb, and glutamyl-tRNA(Gln) amidotransferase complex
+A0A3Q7IB10	4081.A0A3Q7IB10	KEGG	sly00970	Aminoacyl-tRNA biosynthesis
+A0A3Q7IB10	4081.A0A3Q7IB10	KEGG	sly01100	Metabolic pathways
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0005737	Cytoplasm
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0009507	Chloroplast
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0009532	Plastid stroma
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0009536	Plastid
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0009570	Chloroplast stroma
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IB10	4081.A0A3Q7IB10	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7IB10	4081.A0A3Q7IB10	UniProt Keywords	KW-0067	ATP-binding
+A0A3Q7IB10	4081.A0A3Q7IB10	UniProt Keywords	KW-0150	Chloroplast
+A0A3Q7IB10	4081.A0A3Q7IB10	UniProt Keywords	KW-0436	Ligase
+A0A3Q7IB10	4081.A0A3Q7IB10	UniProt Keywords	KW-0496	Mitochondrion
+A0A3Q7IB10	4081.A0A3Q7IB10	UniProt Keywords	KW-0547	Nucleotide-binding
+A0A3Q7IB10	4081.A0A3Q7IB10	UniProt Keywords	KW-0648	Protein biosynthesis
+A0A3Q7IB10	4081.A0A3Q7IB10	UniProt Keywords	KW-0934	Plastid
+A0A3Q7IB10	4081.A0A3Q7IB10	Pfam	PF01425	Amidase
+A0A3Q7IB10	4081.A0A3Q7IB10	InterPro	IPR000120	Amidase
+A0A3Q7IB10	4081.A0A3Q7IB10	InterPro	IPR004412	Glutamyl-tRNA(Gln) amidotransferase A subunit
+A0A3Q7IB10	4081.A0A3Q7IB10	InterPro	IPR020556	Amidase, conserved site
+A0A3Q7IB10	4081.A0A3Q7IB10	InterPro	IPR023631	Amidase signature domain
+A0A3Q7IB10	4081.A0A3Q7IB10	InterPro	IPR036928	Amidase signature (AS) superfamily
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0000375	RNA splicing, via transesterification reactions
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0000398	mRNA splicing, via spliceosome
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0006139	Nucleobase-containing compound metabolic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0006396	RNA processing
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0006397	mRNA processing
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0008152	Metabolic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0008380	RNA splicing
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0009058	Biosynthetic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0009059	Macromolecule biosynthetic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0009987	Cellular process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0010467	Gene expression
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0016070	RNA metabolic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0016071	mRNA metabolic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0032774	RNA biosynthetic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0034654	Nucleobase-containing compound biosynthetic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0043170	Macromolecule metabolic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0044238	Primary metabolic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0090304	Nucleic acid metabolic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Process	GO:0141187	Nucleic acid biosynthetic process
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Function	GO:0003676	Nucleic acid binding
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Function	GO:0003723	RNA binding
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Function	GO:0005488	Binding
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0005622	Intracellular anatomical structure
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0005634	Nucleus
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0005681	Spliceosomal complex
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0032991	Protein-containing complex
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0043226	Organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0043227	Membrane-bounded organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0043229	Intracellular organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0110165	Cellular anatomical structure
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:0140513	Nuclear protein-containing complex
+A0A3Q7IVN2	4081.A0A3Q7IVN2	GO Component	GO:1990904	Ribonucleoprotein complex
+A0A3Q7IVN2	4081.A0A3Q7IVN2	STRING clusters	CL:5720	Spliceosomal snRNP complex, and mRNA Splicing
+A0A3Q7IVN2	4081.A0A3Q7IVN2	STRING clusters	CL:5721	Spliceosomal snRNP complex, and Spliceosome
+A0A3Q7IVN2	4081.A0A3Q7IVN2	STRING clusters	CL:5723	Spliceosomal snRNP complex, and Spliceosome
+A0A3Q7IVN2	4081.A0A3Q7IVN2	STRING clusters	CL:5724	Mixed, incl. U2 snRNP, and U1 snRNP
+A0A3Q7IVN2	4081.A0A3Q7IVN2	STRING clusters	CL:5726	Mixed, incl. U2 snRNP, and Domain of unknown function DUF382
+A0A3Q7IVN2	4081.A0A3Q7IVN2	STRING clusters	CL:5728	U2 snRNP, and Domain of unknown function DUF382
+A0A3Q7IVN2	4081.A0A3Q7IVN2	KEGG	sly03040	Spliceosome
+A0A3Q7IVN2	4081.A0A3Q7IVN2	Reactome	MAP-72172	mRNA Splicing
+A0A3Q7IVN2	4081.A0A3Q7IVN2	Reactome	MAP-72203	Processing of Capped Intron-Containing Pre-mRNA
+A0A3Q7IVN2	4081.A0A3Q7IVN2	Reactome	MAP-8953854	Metabolism of RNA
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0005634	Nucleus
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0005681	Spliceosomal complex
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0032991	Protein-containing complex
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0043226	Organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+A0A3Q7IVN2	4081.A0A3Q7IVN2	COMPARTMENTS	GOCC:1990904	Ribonucleoprotein complex
+A0A3Q7IVN2	4081.A0A3Q7IVN2	UniProt Keywords	KW-0539	Nucleus
+A0A3Q7IVN2	4081.A0A3Q7IVN2	UniProt Keywords	KW-0694	RNA-binding
+A0A3Q7IVN2	4081.A0A3Q7IVN2	InterPro	IPR000504	RNA recognition motif domain
+A0A3Q7IVN2	4081.A0A3Q7IVN2	InterPro	IPR012677	Nucleotide-binding alpha-beta plait domain superfamily
+A0A3Q7IVN2	4081.A0A3Q7IVN2	InterPro	IPR035979	RNA-binding domain superfamily
+A0A3Q7IVN2	4081.A0A3Q7IVN2	InterPro	IPR052285	Nuclear exosome targeting complex subunit
+A0A3Q7IVN2	4081.A0A3Q7IVN2	SMART	SM00360	RNA recognition motif
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0000160	Phosphorelay signal transduction system
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0001101	Response to acid chemical
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0001666	Response to hypoxia
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0006355	Regulation of DNA-templated transcription
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0006950	Response to stress
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0007154	Cell communication
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0007165	Signal transduction
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009266	Response to temperature stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009408	Response to heat
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009414	Response to water deprivation
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009415	Response to water
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009628	Response to abiotic stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009719	Response to endogenous stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009723	Response to ethylene
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009725	Response to hormone
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009737	Response to abscisic acid
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009755	Hormone-mediated signaling pathway
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009873	Ethylene-activated signaling pathway
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009889	Regulation of biosynthetic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009891	Positive regulation of biosynthetic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009893	Positive regulation of metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0009987	Cellular process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0010468	Regulation of gene expression
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0010556	Regulation of macromolecule biosynthetic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0010557	Positive regulation of macromolecule biosynthetic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0010604	Positive regulation of macromolecule metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0019222	Regulation of metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0023052	Signaling
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0032870	Cellular response to hormone stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0033554	Cellular response to stress
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0033993	Response to lipid
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0035556	Intracellular signal transduction
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0036293	Response to decreased oxygen levels
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0036294	Cellular response to decreased oxygen levels
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0042221	Response to chemical
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0045893	Positive regulation of DNA-templated transcription
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0045935	Positive regulation of nucleobase-containing compound metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0048518	Positive regulation of biological process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0048522	Positive regulation of cellular process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0050789	Regulation of biological process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0050794	Regulation of cellular process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0050896	Response to stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0051252	Regulation of RNA metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0051254	Positive regulation of RNA metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0051716	Cellular response to stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0060255	Regulation of macromolecule metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0065007	Biological regulation
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0070482	Response to oxygen levels
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0070887	Cellular response to chemical stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0071369	Cellular response to ethylene stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0071453	Cellular response to oxygen levels
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0071456	Cellular response to hypoxia
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0071495	Cellular response to endogenous stimulus
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0080090	Regulation of primary metabolic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:0097305	Response to alcohol
+ER24	4081.A0A3Q7FAU7	GO Process	GO:1901700	Response to oxygen-containing compound
+ER24	4081.A0A3Q7FAU7	GO Process	GO:1902680	Positive regulation of RNA biosynthetic process
+ER24	4081.A0A3Q7FAU7	GO Process	GO:2001141	Regulation of RNA biosynthetic process
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0003676	Nucleic acid binding
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0003677	DNA binding
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0003700	DNA-binding transcription factor activity
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0003712	Transcription coregulator activity
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0003713	Transcription coactivator activity
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0005488	Binding
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0030674	Protein-macromolecule adaptor activity
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0060090	Molecular adaptor activity
+ER24	4081.A0A3Q7FAU7	GO Function	GO:0140110	Transcription regulator activity
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0005622	Intracellular anatomical structure
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0005634	Nucleus
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0005730	Nucleolus
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0005737	Cytoplasm
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0031974	Membrane-enclosed lumen
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0031981	Nuclear lumen
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0043226	Organelle
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0043227	Membrane-bounded organelle
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0043228	Membraneless organelle
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0043229	Intracellular organelle
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0043231	Intracellular membrane-bounded organelle
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0043232	Intracellular membraneless organelle
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0043233	Organelle lumen
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0070013	Intracellular organelle lumen
+ER24	4081.A0A3Q7FAU7	GO Component	GO:0110165	Cellular anatomical structure
+ER24	4081.A0A3Q7FAU7	STRING clusters	CL:35666	Mixed, incl. Topless family, and Multiprotein bridging factor 1
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0005622	Intracellular anatomical structure
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0005634	Nucleus
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0005730	Nucleolus
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0005737	Cytoplasm
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0031974	Membrane-enclosed lumen
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0031981	Nuclear lumen
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0043226	Organelle
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0043227	Membrane-bounded organelle
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0043228	Membraneless organelle
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0043229	Intracellular organelle
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0043231	Intracellular membrane-bounded organelle
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0043232	Intracellular membraneless organelle
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0043233	Organelle lumen
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0070013	Intracellular organelle lumen
+ER24	4081.A0A3Q7FAU7	COMPARTMENTS	GOCC:0110165	Cellular anatomical structure
+ER24	4081.A0A3Q7FAU7	UniProt Keywords	KW-0238	DNA-binding
+ER24	4081.A0A3Q7FAU7	UniProt Keywords	KW-0804	Transcription
+ER24	4081.A0A3Q7FAU7	UniProt Keywords	KW-0805	Transcription regulation
+ER24	4081.A0A3Q7FAU7	Pfam	PF08523	Multiprotein bridging factor 1
+ER24	4081.A0A3Q7FAU7	InterPro	IPR001387	Cro/C1-type, helix-turn-helix domain
+ER24	4081.A0A3Q7FAU7	InterPro	IPR010982	Lambda repressor-like, DNA-binding domain superfamily
+ER24	4081.A0A3Q7FAU7	InterPro	IPR013729	Multiprotein bridging factor 1, N-terminal
+ER24	4081.A0A3Q7FAU7	SMART	SM00530	Helix-turn-helix XRE-family like proteins
